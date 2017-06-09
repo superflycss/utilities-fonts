@@ -1,0 +1,38 @@
+{
+  "name": "@superflycss/utilities-fonts",
+  "version": "1.0.0",
+  "description": "Font utilities",
+  "main": "src/main/css/index.css",
+  "scripts": {
+    "update": "ncu -a && npm i",
+    "clean": "gulp clean",
+    "build": "npm run clean && gulp build:css",
+    "test": "npm run build && gulp test:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superflycss/utilities-fonts.git"
+  },
+  "keywords": [
+    "css",
+    "fonts",
+    "utilities",
+    "superflycss"
+  ],
+  "author": "Ole Ersoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superflycss/utilities-fonts/issues"
+  },
+  "homepage": "https://github.com/superflycss/utilities-fonts#readme",
+  "dependencies": {
+    "@superflycss/variables-fonts": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "@superflycss/task-build": "^1.0.0",
+    "@superflycss/task-clean": "^1.0.0",
+    "@superflycss/task-deploy": "^1.0.0",
+    "@superflycss/task-test": "^1.0.0"
+  }
+}

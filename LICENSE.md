@@ -1,5 +1,9 @@
 MIT License
 
+Copyright (c) 2017 Firefly Semantics Corporation
+
+Copyright (c) 2017 Ole Ersoy
+
 Copyright (c) 2017 superflycss
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
