@@ -1,6 +1,6 @@
 {
   "name": "@superflycss/utilities-fonts",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Font utilities",
   "main": "src/main/css/index.css",
   "scripts": {
@@ -26,13 +26,14 @@
   },
   "homepage": "https://github.com/superflycss/utilities-fonts#readme",
   "dependencies": {
-    "@superflycss/variables-fonts": "^1.0.0"
+    "@superflycss/variables-fonts": "^2.0.0"
   },
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "@superflycss/task-build": "^1.0.0",
+    "@superflycss/task-build": "^1.0.5",
     "@superflycss/task-clean": "^1.0.0",
-    "@superflycss/task-deploy": "^1.0.0",
-    "@superflycss/task-test": "^1.0.0"
+    "@superflycss/task-deploy": "^1.0.2",
+    "@superflycss/task-test": "^1.0.1",
+    "gulp": "^3.9.1",
+    "npm-check-updates": "^2.12.1"
   }
 }
