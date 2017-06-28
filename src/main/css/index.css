@@ -70,9 +70,22 @@
 }
 
 .u-uppercase {
-  text-transform: uppercase;
+  text-transform: uppercase !important;
 }
 
+/**
+ * Enables font kerning in all browsers.
+ * http://blog.typekit.com/2014/02/05/kerning-on-the-web/
+ * Reference: SUIT CSS
+ * https://github.com/suitcss/utils-text
+ *
+ * 1. Chrome (not Windows), Firefox, IE 10+
+ * 2. Safari 7 and future browsers
+ * 3. Chrome (not Windows), Firefox, Safari 6+, iOS, Android
+ */
+
 .u-font-kern {
-  @apply(--u-font-kern);
+    font-feature-settings: "kern" 1 !important; /* 1 */
+    font-kerning: normal !important; /* 2 */
+    text-rendering: optimizeLegibility !important; /* 3 */
 }
