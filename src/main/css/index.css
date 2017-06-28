@@ -69,10 +69,6 @@
     }
 }
 
-.u-uppercase {
-  text-transform: uppercase !important;
-}
-
 /**
  * Enables font kerning in all browsers.
  * http://blog.typekit.com/2014/02/05/kerning-on-the-web/
