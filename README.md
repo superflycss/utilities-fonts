@@ -12,4 +12,4 @@ See [Usage](https://github.com/superflycss/superflycss/#usage)
 
 ## Tests
 
-[Superfly CSS Utilities Fonts Tests](https://superflycss.github.io/utilities-fonts/deploy/test/html/)
+[Superfly CSS Utilities Fonts Tests](https://superflycss.github.io/utilities-fonts/target/test/html/)
