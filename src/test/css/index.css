@@ -5,7 +5,9 @@
 @import "../../main/css/index.css";
 @import "@superflycss/utilities-layout";
 @import "@superflycss/utilities-colors";
+@import "@superflycss/utilities-format";
 @import "@superflycss/component-header";
+@import "@superflycss/component-link";
 @import "@superflycss/component-test";
 @import "@superflycss/component-display";
 @import "@superflycss/component-body";
@@ -63,4 +65,9 @@ body {
   --Test_then-text-color: #9E9E9C;
 
   --Test_code-text-color: #0CA293;
+
+  --Link-padding-bottom: 0px;
+  --Link-text-color: var(--color-md-grey-800);
+  --Link_onHover-text-color: var(--color-md-grey-900);
+  --Link_onVisited-text-color: var(--color-md-grey-500);
 }

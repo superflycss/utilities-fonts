@@ -1,13 +1,16 @@
 {
   "name": "@superflycss/utilities-fonts",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "Font utilities",
   "main": "src/main/css/index.css",
   "scripts": {
     "update": "ncu -a && npm i",
+    "build": "gulp clean && gulp build:css",
+    "test": "gulp clean && gulp build:css && gulp njk",
     "clean": "gulp clean",
-    "build": "npm run clean && gulp build:css",
-    "test": "npm run build && gulp test:css"
+    "watch:test": "onchange 'src/test/html/*.html' 'src/test/css/*.css' 'src/main/css/*.css' -- npm test",
+    "serve": "lite-server",
+    "deploy": "npm run test && gulp deploy:test:css && gulp deploy:test:html"
   },
   "repository": {
     "type": "git",
@@ -26,14 +29,29 @@
   },
   "homepage": "https://github.com/superflycss/utilities-fonts#readme",
   "dependencies": {
-    "@superflycss/variables-fonts": "^2.0.0"
+    "@superflycss/variables-fonts": "^2.0.1"
   },
   "devDependencies": {
+    "@superflycss/component-body": "^1.0.1",
+    "@superflycss/component-display": "^1.0.2",
+    "@superflycss/component-header": "^1.2.26",
+    "@superflycss/component-link": "^1.0.2",
+    "@superflycss/component-test": "^2.0.32",
+    "@superflycss/foundation": "^1.0.0",
     "@superflycss/task-build": "^1.0.5",
-    "@superflycss/task-clean": "^1.0.0",
-    "@superflycss/task-deploy": "^1.0.2",
-    "@superflycss/task-test": "^1.0.1",
+    "@superflycss/task-clean": "^1.0.2",
+    "@superflycss/task-deploy": "^2.0.4",
+    "@superflycss/task-lint": "^1.0.0",
+    "@superflycss/task-nunjucks": "^1.0.1",
+    "@superflycss/task-test": "^1.0.7",
+    "@superflycss/utilities-colors": "^2.1.1",
+    "@superflycss/utilities-format": "^1.0.0",
+    "@superflycss/utilities-layout": "^2.1.29",
+    "@superflycss/variables-colors": "^2.1.0",
     "gulp": "^3.9.1",
-    "npm-check-updates": "^2.12.1"
+    "http-server": "^0.10.0",
+    "lite-server": "^2.3.0",
+    "npm-check-updates": "^2.12.1",
+    "onchange": "^3.2.1"
   }
 }
