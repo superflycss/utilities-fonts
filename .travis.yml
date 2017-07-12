@@ -9,7 +9,5 @@ deploy:
   on:
     branch: master
 before_deploy:
-  - gulp deploy:test:css
-  - gulp deploy:test:html
   - sed -i '/target/d' .gitignore
   - sed -i '/deploy/d' .gitignore
