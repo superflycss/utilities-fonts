@@ -9,5 +9,6 @@ deploy:
   on:
     branch: master
 before_deploy:
+  - travis_wait npm run deploy
   - sed -i '/target/d' .gitignore
   - sed -i '/deploy/d' .gitignore
