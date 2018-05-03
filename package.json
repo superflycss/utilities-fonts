@@ -4,7 +4,8 @@
   "description": "Font utilities",
   "main": "index.css",
   "scripts": {
-    "update": "ncu -a && npm i"
+    "update": "ncu -a && npm i",
+    "dist": "node src/main/js/index.js && sfc dist"
   },
   "repository": {
     "type": "git",
