@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/superflycss/utilities-fonts#readme",
   "dependencies": {
-    "@superflycss/variables-fonts": "^2.0.2"
+    "@superflycss/variables-fonts": "^3.0.0"
   },
   "devDependencies": {
     "@superflycss/component-body": "^1.0.1",
