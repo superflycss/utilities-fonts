@@ -1,6 +1,6 @@
 {
   "name": "@superflycss/utilities-fonts",
-  "version": "3.2.0",
+  "version": "3.3.0",
   "description": "Font utilities",
   "main": "index.css",
   "scripts": {
@@ -14,7 +14,8 @@
     "css",
     "fonts",
     "utilities",
-    "superflycss"
+    "superflycss",
+    "google-fonts"
   ],
   "author": "Ole Ersoy",
   "license": "MIT",

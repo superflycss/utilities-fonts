@@ -1,3 +1,5 @@
+/** Google Font key to Full Font Name */
+
 const process = `abeezee: "ABeeZee",
 abel: "Abel",
 abhaya-libre: "Abhaya Libre",

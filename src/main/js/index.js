@@ -90,8 +90,8 @@ fonts.forEach(font => {
 \n`;
         });
     });
-    const subdir = `/u-font-${font}`;
-    const destdir = path.join(PLI.DIST, subdir);
+    const subdir = `/${font}`;
+    const destdir = path.join(PLI.src.main.css, subdir);
     const file = path.join(destdir, '/index.css');
     mkdirp.sync(destdir);
     fs.writeFileSync(file, css);
