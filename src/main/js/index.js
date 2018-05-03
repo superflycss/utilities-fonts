@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const fontmap = require('./fontmap');
 const mkdirp = require('mkdirp');
+const PLI = require('@superflycss/pli');
 
 const cssdir = path.join(__dirname, '../..', 'main/css' );
 
@@ -75,8 +76,6 @@ const fonts = ['abeezee', 'abel', 'abhaya-libre', 'abril-fatface', 'aclonica', '
 
 
 fonts.forEach(font => {
-    const fontdir = path.join(cssdir, font);
-
     weights.forEach(w=> {
         sizes.forEach(s=>{
             let css = 
@@ -85,8 +84,8 @@ fonts.forEach(font => {
      font-size: ${sizeMap[s]} !important;
      font-weight: ${w} !important;
 }`;
-            const subdir = `/u-font-${font}-fs${s}-fw${w}`;
-            const destdir = path.join(cssdir, subdir);
+const subdir = `/u-font-${font}-fs${s}-fw${w}`;
+            const destdir = path.join(PLI.DIST, subdir);
             const file = path.join(destdir, '/index.css');
             mkdirp.sync(destdir);
             fs.writeFileSync(file, css);
