@@ -76,19 +76,23 @@ const fonts = ['abeezee', 'abel', 'abhaya-libre', 'abril-fatface', 'aclonica', '
 
 
 fonts.forEach(font => {
+    
+    let css = '';
+
     weights.forEach(w=> {
         sizes.forEach(s=>{
-            let css = 
+            css += 
 `.u-font-${font}-fs${s}-fw${w} {
      font-family: ${fontmap[font]} !important;
      font-size: ${sizeMap[s]} !important;
      font-weight: ${w} !important;
-}`;
-const subdir = `/u-font-${font}-fs${s}-fw${w}`;
-            const destdir = path.join(PLI.DIST, subdir);
-            const file = path.join(destdir, '/index.css');
-            mkdirp.sync(destdir);
-            fs.writeFileSync(file, css);
+}
+\n`;
         });
     });
+    const subdir = `/u-font-${font}`;
+    const destdir = path.join(PLI.DIST, subdir);
+    const file = path.join(destdir, '/index.css');
+    mkdirp.sync(destdir);
+    fs.writeFileSync(file, css);
 });
