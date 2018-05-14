@@ -10,36 +10,40 @@ See [Installation](https://github.com/superflycss/superflycss/#installation).
 
 ## Usage
 
-In general see [Usage](https://github.com/superflycss/superflycss/#usage).  
+General [usage instructions](https://github.com/superflycss/superflycss/#usage).  
 
-The google font utilities must be imported one by one.  The reason for this is that
-that browser performance is sensitive to the number of custom fonts loaded.  For example
-if all Google fonts were loaded for all possible font weight values the page usually crashes or becomes completely unresposive.
+The Google fonts are located in individual sub packages.  For example '@superflycss/utilities-fonts/lato'.  The reason for this is
+that browser performance is sensitive to the number of custom fonts loaded.  For example when all Google fonts are loaded for all possible font weight values the page usually crashes or becomes completely unresposive.
 
 To load the top level module and the `lato`  font first install `npm i -S @superflycss/utilities-fonts` and then:
 
 ``` css
 @import '@superflycss/utilities-fonts';
-@import '@superflycss/utilities-fonts/u-font-lato';
+@import '@superflycss/utilities-fonts/lato';
 
 ...
 
+```
+
+``` html
+<h1 class="u-font-lato">A Font Lato Heading!</h1>
+<h1 class="u-font-lato-fw800">A Bold Font Lato Heading!</h1>
+<h1 class="u-font-lato-fs800-fw800">A Big and Bold Font Lato Heading!</h1>
 ```
 
 Now run the build with `sfc build` and `postcss font-magician` will have created font face rules for the `lato` font across the range of [SuperflyCSS Font Variable](https://github.com/superflycss/variables-fonts)  sizes and weights.
 
 ## Distribution
 
-There is a script that generates the Google Font imports in `src/main/js/index.js`.  
-Make sure the [SuperflyCSS CLI]() is installed.
+A custom script `src/main/js/index.js` is used to generate the Google Font utility subpackages.  Running the script creates a subpackage (Directory) for each google font within `src/main/css`.
 
 ```
 git clone git@github.com:superflycss/utilities-fonts.git
-sfc dist
 node src/main/js/index.js
+sfc dist
+cd dist
 npm publish
 ```
-
 
 
 ## Tests
