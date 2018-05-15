@@ -1,11 +1,11 @@
 {
   "name": "@superflycss/utilities-fonts",
-  "version": "3.3.5",
+  "version": "3.3.6",
   "description": "Font utilities",
   "main": "index.css",
   "scripts": {
     "update": "ncu -a && npm i",
-    "publish": "npm version patch && sfc dist && node ./src/main/js/index.js && cd dist && npm publish"
+    "dist": "sfc dist && node src/main/js/index.js"
   },
   "repository": {
     "type": "git",
