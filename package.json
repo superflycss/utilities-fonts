@@ -5,7 +5,7 @@
   "main": "index.css",
   "scripts": {
     "update": "ncu -a && npm i",
-    "publish": "npm version patch && sfc dist && node ../src/main/js/index.js && cd dist && npm publish"
+    "publish": "npm version patch && sfc dist && node ./src/main/js/index.js && cd dist && npm publish"
   },
   "repository": {
     "type": "git",
