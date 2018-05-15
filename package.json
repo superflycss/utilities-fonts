@@ -1,6 +1,6 @@
 {
   "name": "@superflycss/utilities-fonts",
-  "version": "3.3.3",
+  "version": "3.3.4",
   "description": "Font utilities",
   "main": "index.css",
   "scripts": {
