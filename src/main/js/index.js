@@ -4,8 +4,6 @@ const fontmap = require('./fontmap');
 const mkdirp = require('mkdirp');
 const PLI = require('@superflycss/pli');
 
-const cssdir = path.join(__dirname, '../..', 'main/css' );
-
 const sizes = [100, 200, 300, 400, 500, 600, 700, 800, 900, 'xs', 'sm', 'lg'];
 
 const sizeMap = {
@@ -91,7 +89,7 @@ fonts.forEach(font => {
         });
     });
     const subdir = `/${font}`;
-    const destdir = path.join(PLI.src.main.css, subdir);
+    const destdir = path.join(PLI.DIST, subdir);
     const file = path.join(destdir, '/index.css');
     mkdirp.sync(destdir);
     fs.writeFileSync(file, css);

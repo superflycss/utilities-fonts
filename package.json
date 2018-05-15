@@ -1,6 +1,6 @@
 {
   "name": "@superflycss/utilities-fonts",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "description": "Font utilities",
   "main": "index.css",
   "scripts": {
@@ -30,15 +30,15 @@
   "devDependencies": {
     "@superflycss/component-body": "^1.0.1",
     "@superflycss/component-display": "^1.0.2",
-    "@superflycss/component-header": "^1.2.29",
+    "@superflycss/component-header": "^2.1.0",
     "@superflycss/component-link": "^1.0.4",
     "@superflycss/component-test": "^2.0.32",
-    "@superflycss/foundation": "^1.0.0",
-    "@superflycss/pli": "^1.2.0",
-    "@superflycss/utilities-colors": "^2.1.4",
-    "@superflycss/utilities-format": "^1.1.0",
-    "@superflycss/utilities-layout": "^2.1.29",
-    "@superflycss/variables-colors": "^2.1.2",
-    "npm-check-updates": "^2.13.0"
+    "@superflycss/foundation": "^2.0.3",
+    "@superflycss/pli": "^2.0.1",
+    "@superflycss/utilities-colors": "^3.0.6",
+    "@superflycss/utilities-format": "^1.1.1",
+    "@superflycss/utilities-layout": "^4.0.1",
+    "@superflycss/variables-colors": "^3.0.4",
+    "npm-check-updates": "^2.14.2"
   }
 }

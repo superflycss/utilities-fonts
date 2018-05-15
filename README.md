@@ -35,7 +35,7 @@ Now run the build with `sfc build` and `postcss font-magician` will have created
 
 ## Distribution
 
-A custom script `src/main/js/index.js` is used to generate the Google Font utility subpackages.  Running the script creates a subpackage (Directory) for each google font within `src/main/css`.
+A custom script `src/main/js/index.js` is used to generate the Google Font utility subpackages.  Running the script creates a subpackage (Directory) for each google font in `./dist`.  Note that the subpackages do not generate into `src/main/css` in order to keep this directory clean and workable, and to avoid committing the 800+ generated modules to the github repository.
 
 ```
 git clone git@github.com:superflycss/utilities-fonts.git

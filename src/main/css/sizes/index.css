@@ -1,0 +1,14 @@
+/* =======================================
+   ICON SIZES
+   ======================================= */
+
+@for $factor from 1 to 20 {
+    :root {
+        --u-icon-size-$(factor)rem {
+            font-size: $(factor)rem;
+        }
+    }
+    .u-icon-size-$(factor)rem {
+        font-size: $(factor)rem !important;
+    }
+}
