@@ -32,7 +32,7 @@
     "@superflycss/component-display": "^1.0.2",
     "@superflycss/component-header": "^2.1.0",
     "@superflycss/component-link": "^1.0.4",
-    "@superflycss/component-test": "^2.0.32",
+    "@superflycss/component-test": "^3.5.1",
     "@superflycss/foundation": "^2.0.3",
     "@superflycss/pli": "^2.0.1",
     "@superflycss/utilities-colors": "^3.0.6",
