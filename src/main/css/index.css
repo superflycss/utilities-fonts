@@ -1,0 +1,142 @@
+/*! | superflycss/utilities-fonts |
+    | MIT License                 |
+    | https://github.com/superflycss/utilities-fonts/blob/master/LICENSE.md*/
+
+/** @define utilities */
+@import "@superflycss/variables-fonts";
+
+.u-font-family-helvetica {
+    font-family: var(--font-family-helvetica-neue) !important;
+}
+
+.u-font-family-helvetica-light {
+    font-family: var(--font-family-helvetica-neue-light) !important;
+}
+
+.u-font-family-menlo {
+    font-family: var(--font-family-menlo) !important;
+}
+
+.u-font-family-georgia {
+    font-family: var(--font-family-georgia) !important;
+}
+
+.u-font-family-titillium {
+    font-family: var(--font-family-titillium) !important;
+}
+
+.u-font-family-ampersand {
+    font-family: var(--font-family-ampersand) !important;
+}
+
+@each $weight in 100, 200, 300, 400, 500, 600, 700, 800, 900 {
+  @each $size in 100, 200, 300, 400, 500, 600, 700, 800, 900, xs, sm, lg {
+          .u-font-family-helvetica-fs$(size)-fw$(weight) {
+            font-family: var(--font-family-helvetica-neue) !important;
+            font-size: var(--font-size-$(size)) !important;
+            font-weight: $(weight) !important;
+            }
+        
+        .u-font-family-helvetica-light-fs$(size)-fw$(weight) {
+            font-family: var(--font-family-helvetica-neue-light) !important;
+            font-size: var(--font-size-$(size)) !important;
+            font-weight: $(weight) !important;
+            }
+        
+        .u-font-family-menlo-fs$(size)-fw$(weight) {
+            font-family: var(--font-family-menlo) !important;
+            font-size: var(--font-size-$(size)) !important;
+            font-weight: $(weight) !important;
+            }
+        
+        .u-font-family-georgia-fs$(size)-fw$(weight) {
+            font-family: var(--font-family-georgia) !important;
+            font-size: var(--font-size-$(size)) !important;
+            font-weight: $(weight) !important;
+            }
+        
+        .u-font-family-titillium-fs$(size)-fw$(weight) {
+            font-family: var(--font-family-titillium) !important;
+            font-size: var(--font-size-$(size)) !important;
+            font-weight: $(weight) !important;
+            }
+        
+        .u-font-family-ampersand-fs$(size)-fw$(weight) {
+            font-family: var(--font-family-ampersand) !important;
+            font-size: var(--font-size-$(size)) !important;
+            font-weight: $(weight) !important;
+            }  
+  }
+}
+
+
+
+@each $size in 100, 200, 300, 400, 500, 600, 700, 800, 900, xs, sm, lg {
+  .u-font-size-$(size) {
+    font-size: var(--font-size-$(size));
+  }
+}
+
+@each $weight in 100, 200, 300, 400, 500, 600, 700, 800, 900 {
+  .u-font-weight-$(weight) {
+    font-weight: $(weight) !important;
+  }
+}
+
+@for $factor from 1 to 9 {
+  .u-font-size-$(factor)rem {
+    font-size: $(factor)rem;
+  }
+}
+
+
+/*
+ * Will make the font thicker by x pixels by applying a font shadow.
+ */
+
+@for $factor from 1 to 9 {
+  .u-font-thickness-$(factor)px {
+    text-shadow: $(factor)px 0 currentColor;
+  }
+}
+
+
+/*
+ * Will make the text shadow create a background blur.
+ */
+
+@for $factor from 1 to 20 {
+  .u-text-shadow-blur-$(factor)rem {
+    text-shadow: 0px 0px $(factor)rem rgba(0, 0, 0, 0.90);
+  }
+}
+
+.u-icon-lg {
+  font-size: 1.33333333rem !important;
+}
+
+@for $factor from 2 to 10 {
+  .u-icon-$(factor)rem {
+    font-size: $(factor)rem !important;
+  }
+}
+
+/**
+ * Enables font kerning in all browsers.
+ * http://blog.typekit.com/2014/02/05/kerning-on-the-web/
+ * Reference: SUIT CSS
+ * https://github.com/suitcss/utils-text
+ *
+ * 1. Chrome (not Windows), Firefox, IE 10+
+ * 2. Safari 7 and future browsers
+ * 3. Chrome (not Windows), Firefox, Safari 6+, iOS, Android
+ */
+
+.u-font-kern {
+  font-feature-settings: "kern" 1 !important;
+  /* 1 */
+  font-kerning: normal !important;
+  /* 2 */
+  text-rendering: optimizeLegibility !important;
+  /* 3 */
+}

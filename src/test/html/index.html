@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <title>Font Utilities Tests</title>
+  <meta charset="utf-8">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1">
+  <meta name="description"
+        content="Header Component Tests">
+  <meta name="author"
+        content="Ole Ersoy">
+  <!-- Font Awesome -->
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet"
+        type="text/css"
+        href="../css/index.css">
+</head>
+
+<body class="Body">
+
+  <header class="Header--column">
+    <h1 class="Display--fs400fw700 u-font-lato u-padding-bottom-2rem u-padding-top-1rem">Font Utilities Test</h1>
+    <a class="Header_link"
+       href="https://github.com/superflycss/utilities-fonts/">Github</a>
+  </header>
+
+  <div class="u-flex
+              u-flex-justify-center
+              u-margin-top-4rem">
+    <div class="u-flex
+                u-flex-justify-center
+                u-flex-column
+                u-width-40rem">
+      <p class="u-text-align-center u-font-aldrich-fs600fw500">
+        Each link below launches a page containing a rendering of all Google Fonts at the declared font weight across the superflycss spectrum of font sizes.
+      </p>
+
+      <section class="u-flex
+                      u-flex-column
+                      u-flex-align-items-center">
+        {% for size in ['100','200','300', '400', '500', '600', '700', '800', '900']%}
+        <a class="Link" href="./fw{{size}}.html">Google Fonts | Font Weight {{size}}</a>
+        {%- endfor %}
+      </section>
+    </div>
+  </div>
+</body>
+
+</html>
