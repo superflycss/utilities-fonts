@@ -4,8 +4,6 @@
 
 /** @define utilities */
 @import "@superflycss/variables-fonts";
-@import "./sizes";
-
 
 .u-font-family-helvetica {
     font-family: var(--font-family-helvetica-neue) !important;

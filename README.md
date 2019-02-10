@@ -49,3 +49,7 @@ npm publish
 ## Tests
 
 [Superfly CSS Utilities Fonts Tests](https://superflycss.github.io/utilities-fonts/target/test/html/)
+
+## Related Articles
+
+- [Quickly Generate Google Fonts Preview](https://medium.com/@jmatix/quickly-generate-google-fonts-preview-954dc9974a62)

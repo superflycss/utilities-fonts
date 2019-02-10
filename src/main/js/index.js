@@ -1,8 +1,8 @@
+const mkdirp = require('mkdirp');
+const PLI = require('@superflycss/pli');
 const fs = require('fs');
 const path = require('path');
 const fontmap = require('./fontmap');
-const mkdirp = require('mkdirp');
-const PLI = require('@superflycss/pli');
 
 const sizes = [100, 200, 300, 400, 500, 600, 700, 800, 900, 'xs', 'sm', 'lg'];
 
@@ -10,7 +10,6 @@ const sizeMap = {
     100: '0.750rem',
     200: '0.875rem',
     300: '1.000rem',
-
     400: '1.250rem',
     500: '1.500rem',
     600: '1.750rem',
@@ -85,13 +84,12 @@ fonts.forEach(font => {
 css +=
 `.u-font-${font}-fw${w} {
 font-family: ${fontmap[font]} !important;
-font-size: ${sizeMap[font]} !important;
 font-weight: ${w} !important;
 }
 \n`;
         sizes.forEach(s => {
 css +=
-`.u-font-${font}-fw${w} {
+`.u-font-${font}-fw${w}-fs${s} {
 font-family: ${fontmap[font]} !important;
 font-size: ${sizeMap[s]} !important;
 font-weight: ${w} !important;
@@ -100,8 +98,14 @@ font-weight: ${w} !important;
         });
     });
     const subdir = `/${font}`;
-    const destdir = path.join(PLI.DIST, subdir);
-    const file = path.join(destdir, '/index.css');
+    let destdir = path.join(PLI.target.main.css, subdir);
+    let file = path.join(destdir, '/index.css');
     mkdirp.sync(destdir);
     fs.writeFileSync(file, css);
+
+    destdir = path.join(PLI.DIST, subdir);
+    file = path.join(destdir, '/index.css');
+    mkdirp.sync(destdir);
+    fs.writeFileSync(file, css);
+
 });
