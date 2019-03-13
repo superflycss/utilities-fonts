@@ -40,6 +40,6 @@
     "@superflycss/utilities-layout": "^4.0.1",
     "@superflycss/variables-colors": "^3.0.4",
     "mkdirp": "^0.5.1",
-    "npm-check-updates": "^2.14.2"
+    "npm-check-updates": "^3.0.5"
   }
 }
