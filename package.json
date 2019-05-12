@@ -34,7 +34,7 @@
     "@superflycss/component-link": "^1.0.4",
     "@superflycss/component-test": "^2.0.32",
     "@superflycss/foundation": "^2.0.3",
-    "@superflycss/pli": "^2.0.1",
+    "@superflycss/pli": "^3.0.7",
     "@superflycss/utilities-colors": "^3.0.6",
     "@superflycss/utilities-format": "^1.1.1",
     "@superflycss/utilities-layout": "^4.0.1",
