@@ -30,7 +30,7 @@
   "devDependencies": {
     "@superflycss/component-body": "^1.0.1",
     "@superflycss/component-display": "^1.0.2",
-    "@superflycss/component-header": "^2.1.0",
+    "@superflycss/component-header": "^2.1.2",
     "@superflycss/component-link": "^1.0.4",
     "@superflycss/component-test": "^2.0.32",
     "@superflycss/foundation": "^2.0.3",
