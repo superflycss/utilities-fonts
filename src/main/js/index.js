@@ -11,6 +11,7 @@ const del = require("del");
 //https://fireflysemantics.medium.com/obtaining-a-json-document-with-all-google-fonts-9e9ea5cbd80
 //================================
 const DOCUMENT = JSON.parse(fs.readFileSync("./src/main/json/google-fonts.json", "utf-8"));
+const ALL_UTILITIES = []
 const ITEMS = DOCUMENT.items;
 ITEMS.forEach((font) => {
   defineFontUtility(font);
@@ -51,39 +52,42 @@ function defineFontUtility(font) {
     variant = variant == "italic" ? "400-italic" : variant;
     variant = variant.replace("regular", 400);
     const class_name = `.u-font-${dashedFontName}-${variant}`;
+    let utility
 
     if (class_name.includes("italic")) {
-      const utility = createItalicUtility(
+      utility = createItalicUtility(
         class_name,
         font.family,
         variant.substring(0, 3)
       );
-      utilities.push(utility);
     } else {
-      const utility = createNormalUtility(
+      utility = createNormalUtility(
         class_name,
         font.family,
         variant.substring(0, 3)
       );
-      utilities.push(utility);
     }
-    const fontCSS = utilities.join("");
+    utilities.push(utility);
+    ALL_UTILITIES.push(utility)
 
-    saveFont(dashedFontName, fontCSS);
+    const packageCSS = utilities.join("\n");
+    const packagedir = `/google/${dashedFontName}`;
+    let dir = path.join(PLI.src.main.css, packagedir);
+    saveCSS(packageCSS, dir);
   });
+  const ALl_CSS = ALL_UTILITIES.join('\n')
+  saveCSS(ALl_CSS, PLI.src.main.css);
 }
 
 /**
  * Will delete `index.css` before saving it again.
- * @param {*} font The name of the font
  * @param {*} css The css string to be saved
+ * @param {*} dir The directory to save to
  */
-function saveFont(font, css) {
-  const subdir = `/google/${font}`;
-  let destdir = path.join(PLI.src.main.css, subdir);
-  let file = path.join(destdir, "/index.css");
+function saveCSS(css, dir) {
+  let file = path.join(dir, "/index.css");
   del.sync(file);
-  mkdirp.sync(destdir);
+  mkdirp.sync(dir);
   fs.writeFileSync(file, css);
 }
 
@@ -91,7 +95,7 @@ function createNormalUtility(className, fontFamily, weight) {
   return `${className} {
           font-family: '${fontFamily}' !important;
           font-weight: ${weight} !important;
-}\n`;
+}`;
 }
 
 function createItalicUtility(className, fontFamily, weight) {
@@ -99,5 +103,5 @@ function createItalicUtility(className, fontFamily, weight) {
         font-family: '${fontFamily}' !important;
         font-weight: ${weight} !important;
         font-style: italic !important;
-}\n`;
+}`;
 }
