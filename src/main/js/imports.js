@@ -1,8 +1,5 @@
 var fs = require("fs");
-var path = require("path");
-var mkdirp = require("mkdirp");
-const PLI = require("@superflycss/pli");
-const del = require("del");
+const save = require('./save')
 
 //================================
 //PARSE Google Fonts JSON
@@ -14,6 +11,7 @@ const DOCUMENT = JSON.parse(
   fs.readFileSync("./src/main/json/google-fonts.json", "utf-8")
 );
 const ITEMS = DOCUMENT.items;
+save(createCSSImportSnippets(), `./src/main/snippets/imports/` )
 
 function createCSSImportSnippets() {
   //================================
@@ -34,16 +32,3 @@ function createCSSImportSnippets() {
   return imports.join("\n");
 }
 
-saveImportSnippets(createCSSImportSnippets());
-
-/**
- * Will delete `index.css` before saving it again.
- * @param {*} css The css string to be saved
- */
-function saveImportSnippets(css) {
-  let destdir = `./src/main/snippets/imports/`;
-  let file = path.join(destdir, "/index.css");
-  del.sync(file);
-  mkdirp.sync(destdir);
-  fs.writeFileSync(file, css);
-}

@@ -1,14 +1,15 @@
 var fs = require("fs");
 var path = require("path");
-var mkdirp = require("mkdirp");
 const PLI = require("@superflycss/pli");
-const del = require("del");
+const save = require('./save')
 
 //================================
+//
 //PARSE Google Fonts JSON
 //Obtained from the Google Fonts API
 //See:
 //https://fireflysemantics.medium.com/obtaining-a-json-document-with-all-google-fonts-9e9ea5cbd80
+//
 //================================
 const DOCUMENT = JSON.parse(fs.readFileSync("./src/main/json/google-fonts.json", "utf-8"));
 const ALL_UTILITIES = []
@@ -73,22 +74,10 @@ function defineFontUtility(font) {
     const packageCSS = utilities.join("\n");
     const packagedir = `/google/${dashedFontName}`;
     let dir = path.join(PLI.src.main.css, packagedir);
-    saveCSS(packageCSS, dir);
+    save(packageCSS, dir);
   });
   const ALl_CSS = ALL_UTILITIES.join('\n')
-  saveCSS(ALl_CSS, PLI.src.main.css);
-}
-
-/**
- * Will delete `index.css` before saving it again.
- * @param {*} css The css string to be saved
- * @param {*} dir The directory to save to
- */
-function saveCSS(css, dir) {
-  let file = path.join(dir, "/index.css");
-  del.sync(file);
-  mkdirp.sync(dir);
-  fs.writeFileSync(file, css);
+  save(ALl_CSS, PLI.src.main.css);
 }
 
 function createNormalUtility(className, fontFamily, weight) {
