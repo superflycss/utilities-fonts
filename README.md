@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/superflycss/utilities-fonts.svg?branch=master)](https://travis-ci.org/superflycss/utilities-fonts)
 
+
+
 ## Installation
 
 ```
@@ -10,9 +12,8 @@ npm i @superflycss/utilities-fonts
 
 ## Usage
 
-General [usage instructions](https://github.com/superflycss/superflycss/#usage).  
 
-The Google fonts are located in individual sub packages.  For example '@superflycss/utilities-fonts/lato'.  
+The Google fonts are located in individual sub packages.  For example `@superflycss/utilities-fonts/lato`.  
 
 
 To import it using the following CSS declaration:
@@ -47,6 +48,12 @@ including the SuperflyCSS CLI.
 npm run i
 ```
 
+## Clone
+
+```
+git clone git@github.com:superflycss/utilities-fonts.git
+```
+
 ## Build
 
 ```
@@ -57,17 +64,6 @@ npm run pub
 
 ```
 npm run pub
-```
-
-
-Note that the subpackages do not generate into `src/main/css` in order to keep this directory clean and workable, and to avoid committing the 800+ generated modules to the github repository.
-
-```
-git clone git@github.com:superflycss/utilities-fonts.git
-node src/main/js/index.js
-sfc dist
-cd dist
-npm publish
 ```
 
 ## Related Articles
