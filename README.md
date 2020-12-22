@@ -8,11 +8,15 @@ npm i @superflycss/utilities-fonts
 
 ## Usage
 
+The root package contains all Google Fonts Utilities.  [That means all the fonts and all the supporting weights.](https://github.com/superflycss/utilities-fonts/blob/master/src/main/css/index.css).
 
-The Google fonts are located in individual sub packages.  For example `@superflycss/utilities-fonts/lato`.  
+Load all fonts utilities like this:
+``` css
+@import '@superflycss/utilities-fonts';
+...
 
+Or load them by idividual sub packages.  For example:
 
-To import it using the following CSS declaration:
 ``` css
 @import '@superflycss/utilities-fonts/lato';
 ...
@@ -34,6 +38,9 @@ To use the italic `lato` font at normal weight apply the utility like this:
 
 
 Now run the build with `sfc build` and `postcss font-magician` will create the font face rules in the target build file.
+
+[Have a look here for all the font face rules the build generates.](https://raw.githubusercontent.com/superflycss/utilities-fonts/master/target/main/css/index.css)
+
 
 ## Dependency Install
 
@@ -65,11 +72,6 @@ npm run pub
 ## Related Articles
 
 - [Quickly Generate Google Fonts Preview](https://medium.com/@jmatix/quickly-generate-google-fonts-preview-954dc9974a62)
-
-## Gists
-
-This gist can be used for snippets.  It contains all the generated utlities.
-- [Gists Containing All Generated Utilities](https://gist.github.com/fireflysemantics/101780f51487d055355359f33fbf1e30#file-superflycss-google-fonts-css)
 
 ## Snippets
 
