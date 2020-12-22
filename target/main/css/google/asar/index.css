@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Asar;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Asar Regular"),local(Asar-Regular),url(//fonts.gstatic.com/s/asar/v8/sZlLdRyI6TBIbk8aCQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/asar/v8/sZlLdRyI6TBIbkEaDQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/asar/v8/sZlLdRyI6TBIbk8aCw.woff) format("woff");
+}
+.u-font-asar-400 {
+          font-family: 'Asar' !important;
+          font-weight: 400 !important;
+}

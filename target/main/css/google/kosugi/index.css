@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Kosugi;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Kosugi Regular"),local(Kosugi-Regular),url(//fonts.gstatic.com/s/kosugi/v6/pxiFyp4_v8FCjlIIM7D_.eot?#) format("eot"),url(//fonts.gstatic.com/s/kosugi/v6/pxiFyp4_v8FCjlI4MdLqfUsvcYfqJiw3zzHMw5Qu_B3d0SE.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/kosugi/v6/pxiFyp4_v8FCjlIIM7D9.woff) format("woff");
+}
+.u-font-kosugi-400 {
+          font-family: 'Kosugi' !important;
+          font-weight: 400 !important;
+}

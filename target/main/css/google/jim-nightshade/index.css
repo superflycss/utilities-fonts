@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Jim Nightshade";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Jim Nightshade"),local(JimNightshade-Regular),url(//fonts.gstatic.com/s/jimnightshade/v8/PlIkFlu9Pb08Q8HLM1PxmB0g-NSxXX8.eot?#) format("eot"),url(//fonts.gstatic.com/s/jimnightshade/v8/PlIkFlu9Pb08Q8HLM1PxmB0g-NS_XXs.woff2) format("woff2"),url(//fonts.gstatic.com/s/jimnightshade/v8/PlIkFlu9Pb08Q8HLM1PxmB0g-NSxXX0.woff) format("woff");
+}
+.u-font-jim-nightshade-400 {
+          font-family: 'Jim Nightshade' !important;
+          font-weight: 400 !important;
+}

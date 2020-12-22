@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Poor Story";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Poor Story Regular"),local(PoorStory-Regular),url(//fonts.gstatic.com/s/poorstory/v8/jizfREFUsnUct9P6cDfd0O6tKQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/poorstory/v8/jizfREFUsnUct9P6cDfd4OzPOj8WkF1B7j-n17_EgOfBa4TcZw.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/poorstory/v8/jizfREFUsnUct9P6cDfd0O6tKw.woff) format("woff");
+}
+.u-font-poor-story-400 {
+          font-family: 'Poor Story' !important;
+          font-weight: 400 !important;
+}

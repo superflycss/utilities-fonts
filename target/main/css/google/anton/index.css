@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Anton;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Anton Regular"),local(Anton-Regular),url(//fonts.gstatic.com/s/anton/v12/1Ptgg87LROyAm3K9-Cs.eot?#) format("eot"),url(//fonts.gstatic.com/s/anton/v12/1Ptgg87LROyAm3Kz-C8.woff2) format("woff2"),url(//fonts.gstatic.com/s/anton/v12/1Ptgg87LROyAm3K9-Ck.woff) format("woff");
+}
+.u-font-anton-400 {
+          font-family: 'Anton' !important;
+          font-weight: 400 !important;
+}

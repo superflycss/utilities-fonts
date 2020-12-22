@@ -1,0 +1,70 @@
+@font-face {
+          font-family: Martel;
+          font-style: normal;
+          font-weight: 200;
+          src: local("Martel UltraLight"),local(Martel-UltraLight),url(//fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVqekqjBzS.eot?#) format("eot"),url(//fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVqekqghzW.woff2) format("woff2"),url(//fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVqekqjBzQ.woff) format("woff");
+}
+@font-face {
+          font-family: Martel;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Martel Light"),local(Martel-Light),url(//fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVzeoqjBzS.eot?#) format("eot"),url(//fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVzeoqghzW.woff2) format("woff2"),url(//fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVzeoqjBzQ.woff) format("woff");
+}
+@font-face {
+          font-family: Martel;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Martel),local(Martel-Regular),url(//fonts.gstatic.com/s/martel/v5/PN_xRfK9oXHga0XdaMg7.eot?#) format("eot"),url(//fonts.gstatic.com/s/martel/v5/PN_xRfK9oXHga0XdZsg_.woff2) format("woff2"),url(//fonts.gstatic.com/s/martel/v5/PN_xRfK9oXHga0XdaMg5.woff) format("woff");
+}
+@font-face {
+          font-family: Martel;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Martel DemiBold"),local(Martel-DemiBold),url(//fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVuewqjBzS.eot?#) format("eot"),url(//fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVuewqghzW.woff2) format("woff2"),url(//fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVuewqjBzQ.woff) format("woff");
+}
+@font-face {
+          font-family: Martel;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Martel Bold"),local(Martel-Bold),url(//fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XV3e0qjBzS.eot?#) format("eot"),url(//fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XV3e0qghzW.woff2) format("woff2"),url(//fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XV3e0qjBzQ.woff) format("woff");
+}
+@font-face {
+          font-family: Martel;
+          font-style: normal;
+          font-weight: 800;
+          src: local("Martel ExtraBold"),local(Martel-ExtraBold),url(//fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVwe4qjBzS.eot?#) format("eot"),url(//fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVwe4qghzW.woff2) format("woff2"),url(//fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XVwe4qjBzQ.woff) format("woff");
+}
+@font-face {
+          font-family: Martel;
+          font-style: normal;
+          font-weight: 900;
+          src: local("Martel Heavy"),local(Martel-Heavy),url(//fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XV5e8qjBzS.eot?#) format("eot"),url(//fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XV5e8qghzW.woff2) format("woff2"),url(//fonts.gstatic.com/s/martel/v5/PN_yRfK9oXHga0XV5e8qjBzQ.woff) format("woff");
+}
+.u-font-martel-200 {
+          font-family: 'Martel' !important;
+          font-weight: 200 !important;
+}
+.u-font-martel-300 {
+          font-family: 'Martel' !important;
+          font-weight: 300 !important;
+}
+.u-font-martel-400 {
+          font-family: 'Martel' !important;
+          font-weight: 400 !important;
+}
+.u-font-martel-600 {
+          font-family: 'Martel' !important;
+          font-weight: 600 !important;
+}
+.u-font-martel-700 {
+          font-family: 'Martel' !important;
+          font-weight: 700 !important;
+}
+.u-font-martel-800 {
+          font-family: 'Martel' !important;
+          font-weight: 800 !important;
+}
+.u-font-martel-900 {
+          font-family: 'Martel' !important;
+          font-weight: 900 !important;
+}

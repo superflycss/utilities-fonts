@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Arbutus;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Arbutus Regular"),local(Arbutus-Regular),url(//fonts.gstatic.com/s/arbutus/v10/NaPYcZ7dG_5J3pooX9tnqg.eot?#) format("eot"),url(//fonts.gstatic.com/s/arbutus/v10/NaPYcZ7dG_5J3pooX9Vnrg.woff2) format("woff2"),url(//fonts.gstatic.com/s/arbutus/v10/NaPYcZ7dG_5J3pooX9tnqA.woff) format("woff");
+}
+.u-font-arbutus-400 {
+          font-family: 'Arbutus' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,168 @@
+@font-face {
+          font-family: Sarabun;
+          font-style: italic;
+          font-weight: 100;
+          src: local("Sarabun Thin Italic"),local(Sarabun-ThinItalic),url(//fonts.gstatic.com/s/sarabun/v8/DtVnJx26TKEr37c9aBBx_kwFzgk.eot?#) format("eot"),url(//fonts.gstatic.com/s/sarabun/v8/DtVnJx26TKEr37c9aBBx_kwLzg0.woff2) format("woff2"),url(//fonts.gstatic.com/s/sarabun/v8/DtVnJx26TKEr37c9aBBx_kwFzgs.woff) format("woff");
+}
+@font-face {
+          font-family: Sarabun;
+          font-style: italic;
+          font-weight: 200;
+          src: local("Sarabun ExtraLight Italic"),local(Sarabun-ExtraLightItalic),url(//fonts.gstatic.com/s/sarabun/v8/DtVkJx26TKEr37c9aBBxUl0c5yjX.eot?#) format("eot"),url(//fonts.gstatic.com/s/sarabun/v8/DtVkJx26TKEr37c9aBBxUl0c6SjT.woff2) format("woff2"),url(//fonts.gstatic.com/s/sarabun/v8/DtVkJx26TKEr37c9aBBxUl0c5yjV.woff) format("woff");
+}
+@font-face {
+          font-family: Sarabun;
+          font-style: italic;
+          font-weight: 300;
+          src: local("Sarabun Light Italic"),local(Sarabun-LightItalic),url(//fonts.gstatic.com/s/sarabun/v8/DtVkJx26TKEr37c9aBBxNl4c5yjX.eot?#) format("eot"),url(//fonts.gstatic.com/s/sarabun/v8/DtVkJx26TKEr37c9aBBxNl4c6SjT.woff2) format("woff2"),url(//fonts.gstatic.com/s/sarabun/v8/DtVkJx26TKEr37c9aBBxNl4c5yjV.woff) format("woff");
+}
+@font-face {
+          font-family: Sarabun;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Sarabun Italic"),local(Sarabun-Italic),url(//fonts.gstatic.com/s/sarabun/v8/DtVhJx26TKEr37c9aBB5k3wN.eot?#) format("eot"),url(//fonts.gstatic.com/s/sarabun/v8/DtVhJx26TKEr37c9aBB5nXwJ.woff2) format("woff2"),url(//fonts.gstatic.com/s/sarabun/v8/DtVhJx26TKEr37c9aBB5k3wP.woff) format("woff");
+}
+@font-face {
+          font-family: Sarabun;
+          font-style: italic;
+          font-weight: 500;
+          src: local("Sarabun Medium Italic"),local(Sarabun-MediumItalic),url(//fonts.gstatic.com/s/sarabun/v8/DtVkJx26TKEr37c9aBBxbl8c5yjX.eot?#) format("eot"),url(//fonts.gstatic.com/s/sarabun/v8/DtVkJx26TKEr37c9aBBxbl8c6SjT.woff2) format("woff2"),url(//fonts.gstatic.com/s/sarabun/v8/DtVkJx26TKEr37c9aBBxbl8c5yjV.woff) format("woff");
+}
+@font-face {
+          font-family: Sarabun;
+          font-style: italic;
+          font-weight: 600;
+          src: local("Sarabun SemiBold Italic"),local(Sarabun-SemiBoldItalic),url(//fonts.gstatic.com/s/sarabun/v8/DtVkJx26TKEr37c9aBBxQlgc5yjX.eot?#) format("eot"),url(//fonts.gstatic.com/s/sarabun/v8/DtVkJx26TKEr37c9aBBxQlgc6SjT.woff2) format("woff2"),url(//fonts.gstatic.com/s/sarabun/v8/DtVkJx26TKEr37c9aBBxQlgc5yjV.woff) format("woff");
+}
+@font-face {
+          font-family: Sarabun;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Sarabun Bold Italic"),local(Sarabun-BoldItalic),url(//fonts.gstatic.com/s/sarabun/v8/DtVkJx26TKEr37c9aBBxJlkc5yjX.eot?#) format("eot"),url(//fonts.gstatic.com/s/sarabun/v8/DtVkJx26TKEr37c9aBBxJlkc6SjT.woff2) format("woff2"),url(//fonts.gstatic.com/s/sarabun/v8/DtVkJx26TKEr37c9aBBxJlkc5yjV.woff) format("woff");
+}
+@font-face {
+          font-family: Sarabun;
+          font-style: italic;
+          font-weight: 800;
+          src: local("Sarabun ExtraBold Italic"),local(Sarabun-ExtraBoldItalic),url(//fonts.gstatic.com/s/sarabun/v8/DtVkJx26TKEr37c9aBBxOloc5yjX.eot?#) format("eot"),url(//fonts.gstatic.com/s/sarabun/v8/DtVkJx26TKEr37c9aBBxOloc6SjT.woff2) format("woff2"),url(//fonts.gstatic.com/s/sarabun/v8/DtVkJx26TKEr37c9aBBxOloc5yjV.woff) format("woff");
+}
+@font-face {
+          font-family: Sarabun;
+          font-style: normal;
+          font-weight: 100;
+          src: local("Sarabun Thin"),local(Sarabun-Thin),url(//fonts.gstatic.com/s/sarabun/v8/DtVhJx26TKEr37c9YHZ5k3wN.eot?#) format("eot"),url(//fonts.gstatic.com/s/sarabun/v8/DtVhJx26TKEr37c9YHZ5nXwJ.woff2) format("woff2"),url(//fonts.gstatic.com/s/sarabun/v8/DtVhJx26TKEr37c9YHZ5k3wP.woff) format("woff");
+}
+@font-face {
+          font-family: Sarabun;
+          font-style: normal;
+          font-weight: 200;
+          src: local("Sarabun ExtraLight"),local(Sarabun-ExtraLight),url(//fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YNpoilUs7w.eot?#) format("eot"),url(//fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YNpoilss6w.woff2) format("woff2"),url(//fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YNpoilUs7Q.woff) format("woff");
+}
+@font-face {
+          font-family: Sarabun;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Sarabun Light"),local(Sarabun-Light),url(//fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YL5rilUs7w.eot?#) format("eot"),url(//fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YL5rilss6w.woff2) format("woff2"),url(//fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YL5rilUs7Q.woff) format("woff");
+}
+@font-face {
+          font-family: Sarabun;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Sarabun Regular"),local(Sarabun-Regular),url(//fonts.gstatic.com/s/sarabun/v8/DtVjJx26TKEr37c9aBtJmw.eot?#) format("eot"),url(//fonts.gstatic.com/s/sarabun/v8/DtVjJx26TKEr37c9aBVJnw.woff2) format("woff2"),url(//fonts.gstatic.com/s/sarabun/v8/DtVjJx26TKEr37c9aBtJmQ.woff) format("woff");
+}
+@font-face {
+          font-family: Sarabun;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Sarabun Medium"),local(Sarabun-Medium),url(//fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YOZqilUs7w.eot?#) format("eot"),url(//fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YOZqilss6w.woff2) format("woff2"),url(//fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YOZqilUs7Q.woff) format("woff");
+}
+@font-face {
+          font-family: Sarabun;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Sarabun SemiBold"),local(Sarabun-SemiBold),url(//fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YMptilUs7w.eot?#) format("eot"),url(//fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YMptilss6w.woff2) format("woff2"),url(//fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YMptilUs7Q.woff) format("woff");
+}
+@font-face {
+          font-family: Sarabun;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Sarabun Bold"),local(Sarabun-Bold),url(//fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YK5silUs7w.eot?#) format("eot"),url(//fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YK5silss6w.woff2) format("woff2"),url(//fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YK5silUs7Q.woff) format("woff");
+}
+@font-face {
+          font-family: Sarabun;
+          font-style: normal;
+          font-weight: 800;
+          src: local("Sarabun ExtraBold"),local(Sarabun-ExtraBold),url(//fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YLJvilUs7w.eot?#) format("eot"),url(//fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YLJvilss6w.woff2) format("woff2"),url(//fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YLJvilUs7Q.woff) format("woff");
+}
+.u-font-sarabun-100 {
+          font-family: 'Sarabun' !important;
+          font-weight: 100 !important;
+}
+.u-font-sarabun-100-italic {
+        font-family: 'Sarabun' !important;
+        font-weight: 100 !important;
+        font-style: italic !important;
+}
+.u-font-sarabun-200 {
+          font-family: 'Sarabun' !important;
+          font-weight: 200 !important;
+}
+.u-font-sarabun-200-italic {
+        font-family: 'Sarabun' !important;
+        font-weight: 200 !important;
+        font-style: italic !important;
+}
+.u-font-sarabun-300 {
+          font-family: 'Sarabun' !important;
+          font-weight: 300 !important;
+}
+.u-font-sarabun-300-italic {
+        font-family: 'Sarabun' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-sarabun-400 {
+          font-family: 'Sarabun' !important;
+          font-weight: 400 !important;
+}
+.u-font-sarabun-400-italic {
+        font-family: 'Sarabun' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-sarabun-500 {
+          font-family: 'Sarabun' !important;
+          font-weight: 500 !important;
+}
+.u-font-sarabun-500-italic {
+        font-family: 'Sarabun' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-sarabun-600 {
+          font-family: 'Sarabun' !important;
+          font-weight: 600 !important;
+}
+.u-font-sarabun-600-italic {
+        font-family: 'Sarabun' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-sarabun-700 {
+          font-family: 'Sarabun' !important;
+          font-weight: 700 !important;
+}
+.u-font-sarabun-700-italic {
+        font-family: 'Sarabun' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}
+.u-font-sarabun-800 {
+          font-family: 'Sarabun' !important;
+          font-weight: 800 !important;
+}
+.u-font-sarabun-800-italic {
+        font-family: 'Sarabun' !important;
+        font-weight: 800 !important;
+        font-style: italic !important;
+}

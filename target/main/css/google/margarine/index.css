@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Margarine;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Margarine),local(Margarine-Regular),url(//fonts.gstatic.com/s/margarine/v9/qkBXXvoE6trLT9Y7YLyu7Z5O.eot?#) format("eot"),url(//fonts.gstatic.com/s/margarine/v9/qkBXXvoE6trLT9Y7YLyu455K.woff2) format("woff2"),url(//fonts.gstatic.com/s/margarine/v9/qkBXXvoE6trLT9Y7YLyu7Z5M.woff) format("woff");
+}
+.u-font-margarine-400 {
+          font-family: 'Margarine' !important;
+          font-weight: 400 !important;
+}

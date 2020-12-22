@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Alata;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Alata Regular"),local(Alata-Regular),url(//fonts.gstatic.com/s/alata/v2/PbytFmztEwbIocezzqI.eot?#) format("eot"),url(//fonts.gstatic.com/s/alata/v2/PbytFmztEwbIoce9zqY.woff2) format("woff2"),url(//fonts.gstatic.com/s/alata/v2/PbytFmztEwbIocezzqA.woff) format("woff");
+}
+.u-font-alata-400 {
+          font-family: 'Alata' !important;
+          font-weight: 400 !important;
+}

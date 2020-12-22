@@ -1,0 +1,42 @@
+@font-face {
+          font-family: Cambay;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Cambay Italic"),local(Cambay-Italic),url(//fonts.gstatic.com/s/cambay/v7/SLXLc1rY6H0_ZDs2bI6F59I.eot?#) format("eot"),url(//fonts.gstatic.com/s/cambay/v7/SLXLc1rY6H0_ZDs2bI6L59Y.woff2) format("woff2"),url(//fonts.gstatic.com/s/cambay/v7/SLXLc1rY6H0_ZDs2bI6F59A.woff) format("woff");
+}
+@font-face {
+          font-family: Cambay;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Cambay Bold Italic"),local(Cambay-BoldItalic),url(//fonts.gstatic.com/s/cambay/v7/SLXMc1rY6H0_ZDs2bIYwwsN9SX8.eot?#) format("eot"),url(//fonts.gstatic.com/s/cambay/v7/SLXMc1rY6H0_ZDs2bIYwwsNzSXs.woff2) format("woff2"),url(//fonts.gstatic.com/s/cambay/v7/SLXMc1rY6H0_ZDs2bIYwwsN9SX0.woff) format("woff");
+}
+@font-face {
+          font-family: Cambay;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Cambay Regular"),local(Cambay-Regular),url(//fonts.gstatic.com/s/cambay/v7/SLXJc1rY6H0_ZDs2Z76N.eot?#) format("eot"),url(//fonts.gstatic.com/s/cambay/v7/SLXJc1rY6H0_ZDs2ab6J.woff2) format("woff2"),url(//fonts.gstatic.com/s/cambay/v7/SLXJc1rY6H0_ZDs2Z76P.woff) format("woff");
+}
+@font-face {
+          font-family: Cambay;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Cambay Bold"),local(Cambay-Bold),url(//fonts.gstatic.com/s/cambay/v7/SLXKc1rY6H0_ZDs-0puczvN1.eot?#) format("eot"),url(//fonts.gstatic.com/s/cambay/v7/SLXKc1rY6H0_ZDs-0pucwPNx.woff2) format("woff2"),url(//fonts.gstatic.com/s/cambay/v7/SLXKc1rY6H0_ZDs-0puczvN3.woff) format("woff");
+}
+.u-font-cambay-400 {
+          font-family: 'Cambay' !important;
+          font-weight: 400 !important;
+}
+.u-font-cambay-400-italic {
+        font-family: 'Cambay' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-cambay-700 {
+          font-family: 'Cambay' !important;
+          font-weight: 700 !important;
+}
+.u-font-cambay-700-italic {
+        font-family: 'Cambay' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

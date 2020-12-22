@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Fascinate;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Fascinate),local(Fascinate-Regular),url(//fonts.gstatic.com/s/fascinate/v9/z7NWdRrufC8XJK0IIElS07zV.eot?#) format("eot"),url(//fonts.gstatic.com/s/fascinate/v9/z7NWdRrufC8XJK0IIElS07zR.woff2) format("woff2"),url(//fonts.gstatic.com/s/fascinate/v9/z7NWdRrufC8XJK0IIElS07zX.woff) format("woff");
+}
+.u-font-fascinate-400 {
+          font-family: 'Fascinate' !important;
+          font-weight: 400 !important;
+}

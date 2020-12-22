@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Holtwood One SC";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Holtwood One SC"),local(HoltwoodOneSC),url(//fonts.gstatic.com/s/holtwoodonesc/v11/yYLx0hLR0P-3vMFSk1TCq3Txg5BHdrz_.eot?#) format("eot"),url(//fonts.gstatic.com/s/holtwoodonesc/v11/yYLx0hLR0P-3vMFSk1TCq3Txg5BHdrz7.woff2) format("woff2"),url(//fonts.gstatic.com/s/holtwoodonesc/v11/yYLx0hLR0P-3vMFSk1TCq3Txg5BHdrz9.woff) format("woff");
+}
+.u-font-holtwood-one-sc-400 {
+          font-family: 'Holtwood One SC' !important;
+          font-weight: 400 !important;
+}

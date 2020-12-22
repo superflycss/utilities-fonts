@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Days One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Days One"),local(DaysOne-Regular),url(//fonts.gstatic.com/s/daysone/v10/mem9YaCnxnKRiYZOCIYScrw.eot?#) format("eot"),url(//fonts.gstatic.com/s/daysone/v10/mem9YaCnxnKRiYZOCIYScrg.woff2) format("woff2"),url(//fonts.gstatic.com/s/daysone/v10/mem9YaCnxnKRiYZOCIYScr4.woff) format("woff");
+}
+.u-font-days-one-400 {
+          font-family: 'Days One' !important;
+          font-weight: 400 !important;
+}

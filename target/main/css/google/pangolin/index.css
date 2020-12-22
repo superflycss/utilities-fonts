@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Pangolin;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Pangolin Regular"),local(Pangolin-Regular),url(//fonts.gstatic.com/s/pangolin/v6/cY9GfjGcW0FPpi-tWMfD79g.eot?#) format("eot"),url(//fonts.gstatic.com/s/pangolin/v6/cY9GfjGcW0FPpi-tWMfN79w.woff2) format("woff2"),url(//fonts.gstatic.com/s/pangolin/v6/cY9GfjGcW0FPpi-tWMfD79o.woff) format("woff");
+}
+.u-font-pangolin-400 {
+          font-family: 'Pangolin' !important;
+          font-weight: 400 !important;
+}

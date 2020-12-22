@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Chonburi;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Chonburi),local(Chonburi-Regular),url(//fonts.gstatic.com/s/chonburi/v5/8AtqGs-wOpGRTBq66LWTHLg.eot?#) format("eot"),url(//fonts.gstatic.com/s/chonburi/v5/8AtqGs-wOpGRTBq66LWdHLw.woff2) format("woff2"),url(//fonts.gstatic.com/s/chonburi/v5/8AtqGs-wOpGRTBq66LWTHLo.woff) format("woff");
+}
+.u-font-chonburi-400 {
+          font-family: 'Chonburi' !important;
+          font-weight: 400 !important;
+}

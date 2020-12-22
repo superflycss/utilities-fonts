@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Handlee;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Handlee Regular"),local(Handlee-Regular),url(//fonts.gstatic.com/s/handlee/v9/-F6xfjBsISg9aMakPm3wpw.eot?#) format("eot"),url(//fonts.gstatic.com/s/handlee/v9/-F6xfjBsISg9aMakPm3wow.woff2) format("woff2"),url(//fonts.gstatic.com/s/handlee/v9/-F6xfjBsISg9aMakPm3wpQ.woff) format("woff");
+}
+.u-font-handlee-400 {
+          font-family: 'Handlee' !important;
+          font-weight: 400 !important;
+}

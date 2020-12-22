@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Hanuman;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Hanuman Regular"),local(Hanuman-Regular),url(//fonts.gstatic.com/s/hanuman/v14/VuJxdNvD15HhpJJBeKc.eot?#) format("eot"),url(//fonts.gstatic.com/s/hanuman/v14/VuJxdNvD15HhpJJBSKrdObFn.woff2) format("woff2"),url(//fonts.gstatic.com/s/hanuman/v14/VuJxdNvD15HhpJJBeKU.woff) format("woff");
+}
+@font-face {
+          font-family: Hanuman;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Hanuman Bold"),local(Hanuman-Bold),url(//fonts.gstatic.com/s/hanuman/v14/VuJ0dNvD15HhpJJBQBr4HIg.eot?#) format("eot"),url(//fonts.gstatic.com/s/hanuman/v14/VuJ0dNvD15HhpJJBQBr4LIVGZCNc.woff2) format("woff2"),url(//fonts.gstatic.com/s/hanuman/v14/VuJ0dNvD15HhpJJBQBr4HIo.woff) format("woff");
+}
+.u-font-hanuman-400 {
+          font-family: 'Hanuman' !important;
+          font-weight: 400 !important;
+}
+.u-font-hanuman-700 {
+          font-family: 'Hanuman' !important;
+          font-weight: 700 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Joti One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Joti One"),local(JotiOne-Regular),url(//fonts.gstatic.com/s/jotione/v9/Z9XVDmdJQAmWm9TwabTX6Og.eot?#) format("eot"),url(//fonts.gstatic.com/s/jotione/v9/Z9XVDmdJQAmWm9TwabTZ6Ow.woff2) format("woff2"),url(//fonts.gstatic.com/s/jotione/v9/Z9XVDmdJQAmWm9TwabTX6Oo.woff) format("woff");
+}
+.u-font-joti-one-400 {
+          font-family: 'Joti One' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Vibur;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Vibur),url(//fonts.gstatic.com/s/vibur/v11/DPEiYwmEzw0QRgTuJD8.eot?#) format("eot"),url(//fonts.gstatic.com/s/vibur/v11/DPEiYwmEzw0QRgTuJDs.woff2) format("woff2"),url(//fonts.gstatic.com/s/vibur/v11/DPEiYwmEzw0QRgTuJD0.woff) format("woff");
+}
+.u-font-vibur-400 {
+          font-family: 'Vibur' !important;
+          font-weight: 400 !important;
+}

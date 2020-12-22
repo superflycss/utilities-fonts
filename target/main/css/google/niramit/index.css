@@ -1,0 +1,126 @@
+@font-face {
+          font-family: Niramit;
+          font-style: italic;
+          font-weight: 200;
+          src: local("Niramit ExtraLight Italic"),local(Niramit-ExtraLightItalic),url(//fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiXim-orfB.eot?#) format("eot"),url(//fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiXim-rLfF.woff2) format("woff2"),url(//fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiXim-orfD.woff) format("woff");
+}
+@font-face {
+          font-family: Niramit;
+          font-style: italic;
+          font-weight: 300;
+          src: local("Niramit Light Italic"),local(Niramit-LightItalic),url(//fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiOiq-orfB.eot?#) format("eot"),url(//fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiOiq-rLfF.woff2) format("woff2"),url(//fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiOiq-orfD.woff) format("woff");
+}
+@font-face {
+          font-family: Niramit;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Niramit Italic"),local(Niramit-Italic),url(//fonts.gstatic.com/s/niramit/v5/I_usMpWdvgLdNxVLXbZqnwiv.eot?#) format("eot"),url(//fonts.gstatic.com/s/niramit/v5/I_usMpWdvgLdNxVLXbZqkQir.woff2) format("woff2"),url(//fonts.gstatic.com/s/niramit/v5/I_usMpWdvgLdNxVLXbZqnwit.woff) format("woff");
+}
+@font-face {
+          font-family: Niramit;
+          font-style: italic;
+          font-weight: 500;
+          src: local("Niramit Medium Italic"),local(Niramit-MediumItalic),url(//fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiYiu-orfB.eot?#) format("eot"),url(//fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiYiu-rLfF.woff2) format("woff2"),url(//fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiYiu-orfD.woff) format("woff");
+}
+@font-face {
+          font-family: Niramit;
+          font-style: italic;
+          font-weight: 600;
+          src: local("Niramit SemiBold Italic"),local(Niramit-SemiBoldItalic),url(//fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiTiy-orfB.eot?#) format("eot"),url(//fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiTiy-rLfF.woff2) format("woff2"),url(//fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiTiy-orfD.woff) format("woff");
+}
+@font-face {
+          font-family: Niramit;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Niramit Bold Italic"),local(Niramit-BoldItalic),url(//fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiKi2-orfB.eot?#) format("eot"),url(//fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiKi2-rLfF.woff2) format("woff2"),url(//fonts.gstatic.com/s/niramit/v5/I_upMpWdvgLdNxVLXbZiKi2-orfD.woff) format("woff");
+}
+@font-face {
+          font-family: Niramit;
+          font-style: normal;
+          font-weight: 200;
+          src: local("Niramit ExtraLight"),local(Niramit-ExtraLight),url(//fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVXx7hiGOqg.eot?#) format("eot"),url(//fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVXx7hi-Org.woff2) format("woff2"),url(//fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVXx7hiGOqA.woff) format("woff");
+}
+@font-face {
+          font-family: Niramit;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Niramit Light"),local(Niramit-Light),url(//fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVRh4hiGOqg.eot?#) format("eot"),url(//fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVRh4hi-Org.woff2) format("woff2"),url(//fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVRh4hiGOqA.woff) format("woff");
+}
+@font-face {
+          font-family: Niramit;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Niramit Regular"),local(Niramit-Regular),url(//fonts.gstatic.com/s/niramit/v5/I_uuMpWdvgLdNxVLXb1alw.eot?#) format("eot"),url(//fonts.gstatic.com/s/niramit/v5/I_uuMpWdvgLdNxVLXbNakw.woff2) format("woff2"),url(//fonts.gstatic.com/s/niramit/v5/I_uuMpWdvgLdNxVLXb1alQ.woff) format("woff");
+}
+@font-face {
+          font-family: Niramit;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Niramit Medium"),local(Niramit-Medium),url(//fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVUB5hiGOqg.eot?#) format("eot"),url(//fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVUB5hi-Org.woff2) format("woff2"),url(//fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVUB5hiGOqA.woff) format("woff");
+}
+@font-face {
+          font-family: Niramit;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Niramit SemiBold"),local(Niramit-SemiBold),url(//fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVWx-hiGOqg.eot?#) format("eot"),url(//fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVWx-hi-Org.woff2) format("woff2"),url(//fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVWx-hiGOqA.woff) format("woff");
+}
+@font-face {
+          font-family: Niramit;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Niramit Bold"),local(Niramit-Bold),url(//fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVQh_hiGOqg.eot?#) format("eot"),url(//fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVQh_hi-Org.woff2) format("woff2"),url(//fonts.gstatic.com/s/niramit/v5/I_urMpWdvgLdNxVLVQh_hiGOqA.woff) format("woff");
+}
+.u-font-niramit-200 {
+          font-family: 'Niramit' !important;
+          font-weight: 200 !important;
+}
+.u-font-niramit-200-italic {
+        font-family: 'Niramit' !important;
+        font-weight: 200 !important;
+        font-style: italic !important;
+}
+.u-font-niramit-300 {
+          font-family: 'Niramit' !important;
+          font-weight: 300 !important;
+}
+.u-font-niramit-300-italic {
+        font-family: 'Niramit' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-niramit-400 {
+          font-family: 'Niramit' !important;
+          font-weight: 400 !important;
+}
+.u-font-niramit-400-italic {
+        font-family: 'Niramit' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-niramit-500 {
+          font-family: 'Niramit' !important;
+          font-weight: 500 !important;
+}
+.u-font-niramit-500-italic {
+        font-family: 'Niramit' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-niramit-600 {
+          font-family: 'Niramit' !important;
+          font-weight: 600 !important;
+}
+.u-font-niramit-600-italic {
+        font-family: 'Niramit' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-niramit-700 {
+          font-family: 'Niramit' !important;
+          font-weight: 700 !important;
+}
+.u-font-niramit-700-italic {
+        font-family: 'Niramit' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

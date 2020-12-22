@@ -1,0 +1,126 @@
+@font-face {
+          font-family: Mali;
+          font-style: italic;
+          font-weight: 200;
+          src: local("Mali ExtraLight Italic"),local(Mali-ExtraLightItalic),url(//fonts.gstatic.com/s/mali/v4/N0bX2SRONuN4SCj8wlVgKP7W.eot?#) format("eot"),url(//fonts.gstatic.com/s/mali/v4/N0bX2SRONuN4SCj8wlVgJv7S.woff2) format("woff2"),url(//fonts.gstatic.com/s/mali/v4/N0bX2SRONuN4SCj8wlVgKP7U.woff) format("woff");
+}
+@font-face {
+          font-family: Mali;
+          font-style: italic;
+          font-weight: 300;
+          src: local("Mali Light Italic"),local(Mali-LightItalic),url(//fonts.gstatic.com/s/mali/v4/N0bX2SRONuN4SCj8plZgKP7W.eot?#) format("eot"),url(//fonts.gstatic.com/s/mali/v4/N0bX2SRONuN4SCj8plZgJv7S.woff2) format("woff2"),url(//fonts.gstatic.com/s/mali/v4/N0bX2SRONuN4SCj8plZgKP7U.woff) format("woff");
+}
+@font-face {
+          font-family: Mali;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Mali Italic"),local(Mali-Italic),url(//fonts.gstatic.com/s/mali/v4/N0bU2SRONuN4SCj0A3Rx.eot?#) format("eot"),url(//fonts.gstatic.com/s/mali/v4/N0bU2SRONuN4SCj0DXR1.woff2) format("woff2"),url(//fonts.gstatic.com/s/mali/v4/N0bU2SRONuN4SCj0A3Rz.woff) format("woff");
+}
+@font-face {
+          font-family: Mali;
+          font-style: italic;
+          font-weight: 500;
+          src: local("Mali Medium Italic"),local(Mali-MediumItalic),url(//fonts.gstatic.com/s/mali/v4/N0bX2SRONuN4SCj8_ldgKP7W.eot?#) format("eot"),url(//fonts.gstatic.com/s/mali/v4/N0bX2SRONuN4SCj8_ldgJv7S.woff2) format("woff2"),url(//fonts.gstatic.com/s/mali/v4/N0bX2SRONuN4SCj8_ldgKP7U.woff) format("woff");
+}
+@font-face {
+          font-family: Mali;
+          font-style: italic;
+          font-weight: 600;
+          src: local("Mali SemiBold Italic"),local(Mali-SemiBoldItalic),url(//fonts.gstatic.com/s/mali/v4/N0bX2SRONuN4SCj80lBgKP7W.eot?#) format("eot"),url(//fonts.gstatic.com/s/mali/v4/N0bX2SRONuN4SCj80lBgJv7S.woff2) format("woff2"),url(//fonts.gstatic.com/s/mali/v4/N0bX2SRONuN4SCj80lBgKP7U.woff) format("woff");
+}
+@font-face {
+          font-family: Mali;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Mali Bold Italic"),local(Mali-BoldItalic),url(//fonts.gstatic.com/s/mali/v4/N0bX2SRONuN4SCj8tlFgKP7W.eot?#) format("eot"),url(//fonts.gstatic.com/s/mali/v4/N0bX2SRONuN4SCj8tlFgJv7S.woff2) format("woff2"),url(//fonts.gstatic.com/s/mali/v4/N0bX2SRONuN4SCj8tlFgKP7U.woff) format("woff");
+}
+@font-face {
+          font-family: Mali;
+          font-style: normal;
+          font-weight: 200;
+          src: local("Mali ExtraLight"),local(Mali-ExtraLight),url(//fonts.gstatic.com/s/mali/v4/N0bV2SRONuN4QOLlGl1QIA.eot?#) format("eot"),url(//fonts.gstatic.com/s/mali/v4/N0bV2SRONuN4QOLlGlNQJA.woff2) format("woff2"),url(//fonts.gstatic.com/s/mali/v4/N0bV2SRONuN4QOLlGl1QIg.woff) format("woff");
+}
+@font-face {
+          font-family: Mali;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Mali Light"),local(Mali-Light),url(//fonts.gstatic.com/s/mali/v4/N0bV2SRONuN4QIbmGl1QIA.eot?#) format("eot"),url(//fonts.gstatic.com/s/mali/v4/N0bV2SRONuN4QIbmGlNQJA.woff2) format("woff2"),url(//fonts.gstatic.com/s/mali/v4/N0bV2SRONuN4QIbmGl1QIg.woff) format("woff");
+}
+@font-face {
+          font-family: Mali;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Mali Regular"),local(Mali-Regular),url(//fonts.gstatic.com/s/mali/v4/N0ba2SRONuN4SCPECw.eot?#) format("eot"),url(//fonts.gstatic.com/s/mali/v4/N0ba2SRONuN4SC3EDw.woff2) format("woff2"),url(//fonts.gstatic.com/s/mali/v4/N0ba2SRONuN4SCPECQ.woff) format("woff");
+}
+@font-face {
+          font-family: Mali;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Mali Medium"),local(Mali-Medium),url(//fonts.gstatic.com/s/mali/v4/N0bV2SRONuN4QN7nGl1QIA.eot?#) format("eot"),url(//fonts.gstatic.com/s/mali/v4/N0bV2SRONuN4QN7nGlNQJA.woff2) format("woff2"),url(//fonts.gstatic.com/s/mali/v4/N0bV2SRONuN4QN7nGl1QIg.woff) format("woff");
+}
+@font-face {
+          font-family: Mali;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Mali SemiBold"),local(Mali-SemiBold),url(//fonts.gstatic.com/s/mali/v4/N0bV2SRONuN4QPLgGl1QIA.eot?#) format("eot"),url(//fonts.gstatic.com/s/mali/v4/N0bV2SRONuN4QPLgGlNQJA.woff2) format("woff2"),url(//fonts.gstatic.com/s/mali/v4/N0bV2SRONuN4QPLgGl1QIg.woff) format("woff");
+}
+@font-face {
+          font-family: Mali;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Mali Bold"),local(Mali-Bold),url(//fonts.gstatic.com/s/mali/v4/N0bV2SRONuN4QJbhGl1QIA.eot?#) format("eot"),url(//fonts.gstatic.com/s/mali/v4/N0bV2SRONuN4QJbhGlNQJA.woff2) format("woff2"),url(//fonts.gstatic.com/s/mali/v4/N0bV2SRONuN4QJbhGl1QIg.woff) format("woff");
+}
+.u-font-mali-200 {
+          font-family: 'Mali' !important;
+          font-weight: 200 !important;
+}
+.u-font-mali-200-italic {
+        font-family: 'Mali' !important;
+        font-weight: 200 !important;
+        font-style: italic !important;
+}
+.u-font-mali-300 {
+          font-family: 'Mali' !important;
+          font-weight: 300 !important;
+}
+.u-font-mali-300-italic {
+        font-family: 'Mali' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-mali-400 {
+          font-family: 'Mali' !important;
+          font-weight: 400 !important;
+}
+.u-font-mali-400-italic {
+        font-family: 'Mali' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-mali-500 {
+          font-family: 'Mali' !important;
+          font-weight: 500 !important;
+}
+.u-font-mali-500-italic {
+        font-family: 'Mali' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-mali-600 {
+          font-family: 'Mali' !important;
+          font-weight: 600 !important;
+}
+.u-font-mali-600-italic {
+        font-family: 'Mali' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-mali-700 {
+          font-family: 'Mali' !important;
+          font-weight: 700 !important;
+}
+.u-font-mali-700-italic {
+        font-family: 'Mali' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

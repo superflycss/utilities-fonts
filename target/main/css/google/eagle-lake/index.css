@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Eagle Lake";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Eagle Lake"),local(EagleLake-Regular),url(//fonts.gstatic.com/s/eaglelake/v8/ptRMTiqbbuNJDOiKj9wG1Of4LA.eot?#) format("eot"),url(//fonts.gstatic.com/s/eaglelake/v8/ptRMTiqbbuNJDOiKj9wG1On4KA.woff2) format("woff2"),url(//fonts.gstatic.com/s/eaglelake/v8/ptRMTiqbbuNJDOiKj9wG1Of4Lg.woff) format("woff");
+}
+.u-font-eagle-lake-400 {
+          font-family: 'Eagle Lake' !important;
+          font-weight: 400 !important;
+}

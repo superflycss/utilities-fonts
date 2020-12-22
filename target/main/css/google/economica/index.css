@@ -1,0 +1,42 @@
+@font-face {
+          font-family: Economica;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Economica Italic"),local(Economica-Italic),url(//fonts.gstatic.com/s/economica/v8/Qw3ZZQZaHCLgIWa29ZBbM_INKl0.eot?#) format("eot"),url(//fonts.gstatic.com/s/economica/v8/Qw3ZZQZaHCLgIWa29ZBbM_IDKlk.woff2) format("woff2"),url(//fonts.gstatic.com/s/economica/v8/Qw3ZZQZaHCLgIWa29ZBbM_INKl8.woff) format("woff");
+}
+@font-face {
+          font-family: Economica;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Economica Bold Italic"),local(Economica-BoldItalic),url(//fonts.gstatic.com/s/economica/v8/Qw3EZQZaHCLgIWa29ZBbM_q4D0x0XHw.eot?#) format("eot"),url(//fonts.gstatic.com/s/economica/v8/Qw3EZQZaHCLgIWa29ZBbM_q4D0x6XHg.woff2) format("woff2"),url(//fonts.gstatic.com/s/economica/v8/Qw3EZQZaHCLgIWa29ZBbM_q4D0x0XH4.woff) format("woff");
+}
+@font-face {
+          font-family: Economica;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Economica),local(Economica-Regular),url(//fonts.gstatic.com/s/economica/v8/Qw3fZQZaHCLgIWa29ZBbOMIF.eot?#) format("eot"),url(//fonts.gstatic.com/s/economica/v8/Qw3fZQZaHCLgIWa29ZBbNsIB.woff2) format("woff2"),url(//fonts.gstatic.com/s/economica/v8/Qw3fZQZaHCLgIWa29ZBbOMIH.woff) format("woff");
+}
+@font-face {
+          font-family: Economica;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Economica Bold"),local(Economica-Bold),url(//fonts.gstatic.com/s/economica/v8/Qw3aZQZaHCLgIWa29ZBTjecUA3x8.eot?#) format("eot"),url(//fonts.gstatic.com/s/economica/v8/Qw3aZQZaHCLgIWa29ZBTjecUDXx4.woff2) format("woff2"),url(//fonts.gstatic.com/s/economica/v8/Qw3aZQZaHCLgIWa29ZBTjecUA3x-.woff) format("woff");
+}
+.u-font-economica-400 {
+          font-family: 'Economica' !important;
+          font-weight: 400 !important;
+}
+.u-font-economica-400-italic {
+        font-family: 'Economica' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-economica-700 {
+          font-family: 'Economica' !important;
+          font-weight: 700 !important;
+}
+.u-font-economica-700-italic {
+        font-family: 'Economica' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

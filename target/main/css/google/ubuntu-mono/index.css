@@ -1,0 +1,42 @@
+@font-face {
+          font-family: "Ubuntu Mono";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Ubuntu Mono Italic"),local(UbuntuMono-Italic),url(//fonts.gstatic.com/s/ubuntumono/v10/KFOhCneDtsqEr0keqCMhbCc_OsjSlA.eot?#) format("eot"),url(//fonts.gstatic.com/s/ubuntumono/v10/KFOhCneDtsqEr0keqCMhbCc_OsbSkA.woff2) format("woff2"),url(//fonts.gstatic.com/s/ubuntumono/v10/KFOhCneDtsqEr0keqCMhbCc_OsjSlg.woff) format("woff");
+}
+@font-face {
+          font-family: "Ubuntu Mono";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Ubuntu Mono Bold Italic"),local(UbuntuMono-BoldItalic),url(//fonts.gstatic.com/s/ubuntumono/v10/KFO8CneDtsqEr0keqCMhbCc_Mn33hYFueg.eot?#) format("eot"),url(//fonts.gstatic.com/s/ubuntumono/v10/KFO8CneDtsqEr0keqCMhbCc_Mn33hY9ufg.woff2) format("woff2"),url(//fonts.gstatic.com/s/ubuntumono/v10/KFO8CneDtsqEr0keqCMhbCc_Mn33hYFueA.woff) format("woff");
+}
+@font-face {
+          font-family: "Ubuntu Mono";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Ubuntu Mono"),local(UbuntuMono-Regular),url(//fonts.gstatic.com/s/ubuntumono/v10/KFOjCneDtsqEr0keqCMhbCc0CsA.eot?#) format("eot"),url(//fonts.gstatic.com/s/ubuntumono/v10/KFOjCneDtsqEr0keqCMhbCc6CsQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/ubuntumono/v10/KFOjCneDtsqEr0keqCMhbCc0CsI.woff) format("woff");
+}
+@font-face {
+          font-family: "Ubuntu Mono";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Ubuntu Mono Bold"),local(UbuntuMono-Bold),url(//fonts.gstatic.com/s/ubuntumono/v10/KFO-CneDtsqEr0keqCMhbC-BL9H7tYk.eot?#) format("eot"),url(//fonts.gstatic.com/s/ubuntumono/v10/KFO-CneDtsqEr0keqCMhbC-BL9H1tY0.woff2) format("woff2"),url(//fonts.gstatic.com/s/ubuntumono/v10/KFO-CneDtsqEr0keqCMhbC-BL9H7tYs.woff) format("woff");
+}
+.u-font-ubuntu-mono-400 {
+          font-family: 'Ubuntu Mono' !important;
+          font-weight: 400 !important;
+}
+.u-font-ubuntu-mono-400-italic {
+        font-family: 'Ubuntu Mono' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-ubuntu-mono-700 {
+          font-family: 'Ubuntu Mono' !important;
+          font-weight: 700 !important;
+}
+.u-font-ubuntu-mono-700-italic {
+        font-family: 'Ubuntu Mono' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

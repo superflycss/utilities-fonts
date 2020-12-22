@@ -1,0 +1,30 @@
+@font-face {
+          font-family: Gupter;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Gupter Regular"),local(Gupter-Regular),url(//fonts.gstatic.com/s/gupter/v2/2-cm9JNmxJqPO1QkZpy6.eot?#) format("eot"),url(//fonts.gstatic.com/s/gupter/v2/2-cm9JNmxJqPO1QkZpy-.woff2) format("woff2"),url(//fonts.gstatic.com/s/gupter/v2/2-cm9JNmxJqPO1QkZpy4.woff) format("woff");
+}
+@font-face {
+          font-family: Gupter;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Gupter Medium"),local(Gupter-Medium),url(//fonts.gstatic.com/s/gupter/v2/2-cl9JNmxJqPO1Qslb-rVc78.eot?#) format("eot"),url(//fonts.gstatic.com/s/gupter/v2/2-cl9JNmxJqPO1Qslb-rVc74.woff2) format("woff2"),url(//fonts.gstatic.com/s/gupter/v2/2-cl9JNmxJqPO1Qslb-rVc7-.woff) format("woff");
+}
+@font-face {
+          font-family: Gupter;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Gupter Bold"),local(Gupter-Bold),url(//fonts.gstatic.com/s/gupter/v2/2-cl9JNmxJqPO1Qs3bmrVc78.eot?#) format("eot"),url(//fonts.gstatic.com/s/gupter/v2/2-cl9JNmxJqPO1Qs3bmrVc74.woff2) format("woff2"),url(//fonts.gstatic.com/s/gupter/v2/2-cl9JNmxJqPO1Qs3bmrVc7-.woff) format("woff");
+}
+.u-font-gupter-400 {
+          font-family: 'Gupter' !important;
+          font-weight: 400 !important;
+}
+.u-font-gupter-500 {
+          font-family: 'Gupter' !important;
+          font-weight: 500 !important;
+}
+.u-font-gupter-700 {
+          font-family: 'Gupter' !important;
+          font-weight: 700 !important;
+}

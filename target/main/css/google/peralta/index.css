@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Peralta;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Peralta),local(Peralta-Regular),url(//fonts.gstatic.com/s/peralta/v8/hYkJPu0-RP_9d3kRKxkrqw.eot?#) format("eot"),url(//fonts.gstatic.com/s/peralta/v8/hYkJPu0-RP_9d3kRKxcrrw.woff2) format("woff2"),url(//fonts.gstatic.com/s/peralta/v8/hYkJPu0-RP_9d3kRKxkrqQ.woff) format("woff");
+}
+.u-font-peralta-400 {
+          font-family: 'Peralta' !important;
+          font-weight: 400 !important;
+}

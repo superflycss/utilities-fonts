@@ -1,0 +1,70 @@
+@font-face {
+          font-family: "Noto Serif KR";
+          font-style: normal;
+          font-weight: 200;
+          src: local("Noto Serif KR ExtraLight"),local(NotoSerifKR-ExtraLight),url(//fonts.gstatic.com/s/notoserifkr/v6/3JnmSDn90Gmq2mr3blnHaTZXTihCwOxTMQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserifkr/v6/3JnmSDn90Gmq2mr3blnHaTZXTihC8O4xIn9V9qdcXo8YlPu-H40amXOQLQ.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserifkr/v6/3JnmSDn90Gmq2mr3blnHaTZXTihCwOxTMw.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Serif KR";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Noto Serif KR Light"),local(NotoSerifKR-Light),url(//fonts.gstatic.com/s/notoserifkr/v6/3JnmSDn90Gmq2mr3blnHaTZXTkxBwOxTMQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserifkr/v6/3JnmSDn90Gmq2mr3blnHaTZXTkxB8O4xIn9V9qdcXo8YlPu-H40amXOQLQ.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserifkr/v6/3JnmSDn90Gmq2mr3blnHaTZXTkxBwOxTMw.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Serif KR";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Noto Serif KR"),local(NotoSerifKR-Regular),url(//fonts.gstatic.com/s/notoserifkr/v6/3Jn7SDn90Gmq2mr3blnHaTZXRudj0Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserifkr/v6/3Jn7SDn90Gmq2mr3blnHaTZXduUBwuF9Wxop-KlAZIoTrf6uFZh_9Q.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserifkr/v6/3Jn7SDn90Gmq2mr3blnHaTZXRudj0w.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Serif KR";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Noto Serif KR Medium"),local(NotoSerifKR-Medium),url(//fonts.gstatic.com/s/notoserifkr/v6/3JnmSDn90Gmq2mr3blnHaTZXThRAwOxTMQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserifkr/v6/3JnmSDn90Gmq2mr3blnHaTZXThRA8O4xIn9V9qdcXo8YlPu-H40amXOQLQ.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserifkr/v6/3JnmSDn90Gmq2mr3blnHaTZXThRAwOxTMw.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Serif KR";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Noto Serif KR SemiBold"),local(NotoSerifKR-SemiBold),url(//fonts.gstatic.com/s/notoserifkr/v6/3JnmSDn90Gmq2mr3blnHaTZXTjhHwOxTMQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserifkr/v6/3JnmSDn90Gmq2mr3blnHaTZXTjhH8O4xIn9V9qdcXo8YlPu-H40amXOQLQ.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserifkr/v6/3JnmSDn90Gmq2mr3blnHaTZXTjhHwOxTMw.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Serif KR";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Noto Serif KR Bold"),local(NotoSerifKR-Bold),url(//fonts.gstatic.com/s/notoserifkr/v6/3JnmSDn90Gmq2mr3blnHaTZXTlxGwOxTMQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserifkr/v6/3JnmSDn90Gmq2mr3blnHaTZXTlxG8O4xIn9V9qdcXo8YlPu-H40amXOQLQ.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserifkr/v6/3JnmSDn90Gmq2mr3blnHaTZXTlxGwOxTMw.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Serif KR";
+          font-style: normal;
+          font-weight: 900;
+          src: local("Noto Serif KR Black"),local(NotoSerifKR-Black),url(//fonts.gstatic.com/s/notoserifkr/v6/3JnmSDn90Gmq2mr3blnHaTZXTmREwOxTMQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserifkr/v6/3JnmSDn90Gmq2mr3blnHaTZXTmRE8O4xIn9V9qdcXo8YlPu-H40amXOQLQ.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserifkr/v6/3JnmSDn90Gmq2mr3blnHaTZXTmREwOxTMw.woff) format("woff");
+}
+.u-font-noto-serif-kr-200 {
+          font-family: 'Noto Serif KR' !important;
+          font-weight: 200 !important;
+}
+.u-font-noto-serif-kr-300 {
+          font-family: 'Noto Serif KR' !important;
+          font-weight: 300 !important;
+}
+.u-font-noto-serif-kr-400 {
+          font-family: 'Noto Serif KR' !important;
+          font-weight: 400 !important;
+}
+.u-font-noto-serif-kr-500 {
+          font-family: 'Noto Serif KR' !important;
+          font-weight: 500 !important;
+}
+.u-font-noto-serif-kr-600 {
+          font-family: 'Noto Serif KR' !important;
+          font-weight: 600 !important;
+}
+.u-font-noto-serif-kr-700 {
+          font-family: 'Noto Serif KR' !important;
+          font-weight: 700 !important;
+}
+.u-font-noto-serif-kr-900 {
+          font-family: 'Noto Serif KR' !important;
+          font-weight: 900 !important;
+}

@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Quicksand;
+          font-style: normal;
+          font-weight: 300;
+          src: url(//fonts.gstatic.com/s/quicksand/v21/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58i-xg.eot?#) format("eot"),url(//fonts.gstatic.com/s/quicksand/v21/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58a-wg.woff2) format("woff2"),url(//fonts.gstatic.com/s/quicksand/v21/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58i-xA.woff) format("woff");
+}
+@font-face {
+          font-family: Quicksand;
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/quicksand/v21/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58i-xg.eot?#) format("eot"),url(//fonts.gstatic.com/s/quicksand/v21/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-wg.woff2) format("woff2"),url(//fonts.gstatic.com/s/quicksand/v21/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58i-xA.woff) format("woff");
+}
+@font-face {
+          font-family: Quicksand;
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/quicksand/v21/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58i-xg.eot?#) format("eot"),url(//fonts.gstatic.com/s/quicksand/v21/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58a-wg.woff2) format("woff2"),url(//fonts.gstatic.com/s/quicksand/v21/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58i-xA.woff) format("woff");
+}
+@font-face {
+          font-family: Quicksand;
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/quicksand/v21/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58i-xg.eot?#) format("eot"),url(//fonts.gstatic.com/s/quicksand/v21/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58a-wg.woff2) format("woff2"),url(//fonts.gstatic.com/s/quicksand/v21/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58i-xA.woff) format("woff");
+}
+@font-face {
+          font-family: Quicksand;
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/quicksand/v21/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58i-xg.eot?#) format("eot"),url(//fonts.gstatic.com/s/quicksand/v21/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58a-wg.woff2) format("woff2"),url(//fonts.gstatic.com/s/quicksand/v21/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58i-xA.woff) format("woff");
+}
+.u-font-quicksand-300 {
+          font-family: 'Quicksand' !important;
+          font-weight: 300 !important;
+}
+.u-font-quicksand-400 {
+          font-family: 'Quicksand' !important;
+          font-weight: 400 !important;
+}
+.u-font-quicksand-500 {
+          font-family: 'Quicksand' !important;
+          font-weight: 500 !important;
+}
+.u-font-quicksand-600 {
+          font-family: 'Quicksand' !important;
+          font-weight: 600 !important;
+}
+.u-font-quicksand-700 {
+          font-family: 'Quicksand' !important;
+          font-weight: 700 !important;
+}

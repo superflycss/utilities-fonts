@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Girassol;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Girassol Regular"),local(Girassol-Regular),url(//fonts.gstatic.com/s/girassol/v3/JTUUjIo_-DK48laaNB9ExW8.eot?#) format("eot"),url(//fonts.gstatic.com/s/girassol/v3/JTUUjIo_-DK48laaNB9KxWs.woff2) format("woff2"),url(//fonts.gstatic.com/s/girassol/v3/JTUUjIo_-DK48laaNB9ExW0.woff) format("woff");
+}
+.u-font-girassol-400 {
+          font-family: 'Girassol' !important;
+          font-weight: 400 !important;
+}

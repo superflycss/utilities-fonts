@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Sree Krushnadevaraya";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Sree Krushnadevaraya"),local(SreeKrushnadevaraya),url(//fonts.gstatic.com/s/sreekrushnadevaraya/v8/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0l0.eot?#) format("eot"),url(//fonts.gstatic.com/s/sreekrushnadevaraya/v8/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0lk.woff2) format("woff2"),url(//fonts.gstatic.com/s/sreekrushnadevaraya/v8/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0l8.woff) format("woff");
+}
+.u-font-sree-krushnadevaraya-400 {
+          font-family: 'Sree Krushnadevaraya' !important;
+          font-weight: 400 !important;
+}

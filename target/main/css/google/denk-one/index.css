@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Denk One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Denk One"),local(DenkOne-Regular),url(//fonts.gstatic.com/s/denkone/v8/dg4m_pzhrqcFb2IzRNtOr70.eot?#) format("eot"),url(//fonts.gstatic.com/s/denkone/v8/dg4m_pzhrqcFb2IzRNtAr7k.woff2) format("woff2"),url(//fonts.gstatic.com/s/denkone/v8/dg4m_pzhrqcFb2IzRNtOr78.woff) format("woff");
+}
+.u-font-denk-one-400 {
+          font-family: 'Denk One' !important;
+          font-weight: 400 !important;
+}

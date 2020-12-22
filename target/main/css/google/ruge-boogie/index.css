@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Ruge Boogie";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Ruge Boogie"),local(RugeBoogie-Regular),url(//fonts.gstatic.com/s/rugeboogie/v11/JIA3UVFwbHRF_GIWSMhKNSOrNTA.eot?#) format("eot"),url(//fonts.gstatic.com/s/rugeboogie/v11/JIA3UVFwbHRF_GIWSMhKNSOlNTQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/rugeboogie/v11/JIA3UVFwbHRF_GIWSMhKNSOrNTI.woff) format("woff");
+}
+.u-font-ruge-boogie-400 {
+          font-family: 'Ruge Boogie' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Waiting for the Sunrise";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Waiting for the Sunrise"),local(WaitingfortheSunrise),url(//fonts.gstatic.com/s/waitingforthesunrise/v11/WBL1rFvOYl9CEv2i1mO6KUW8RKWJ2zoXoz5JsbZX_Bo.eot?#) format("eot"),url(//fonts.gstatic.com/s/waitingforthesunrise/v11/WBL1rFvOYl9CEv2i1mO6KUW8RKWJ2zoXoz5JsbZX_B4.woff2) format("woff2"),url(//fonts.gstatic.com/s/waitingforthesunrise/v11/WBL1rFvOYl9CEv2i1mO6KUW8RKWJ2zoXoz5JsbZX_Bg.woff) format("woff");
+}
+.u-font-waiting-for-the-sunrise-400 {
+          font-family: 'Waiting for the Sunrise' !important;
+          font-weight: 400 !important;
+}

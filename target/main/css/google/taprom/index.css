@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Taprom;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Taprom),url(//fonts.gstatic.com/s/taprom/v12/UcCn3F82JHycULbFQg.eot?#) format("eot"),url(//fonts.gstatic.com/s/taprom/v12/UcCn3F82JHycULb1TyM2y0k.woff2) format("woff2"),url(//fonts.gstatic.com/s/taprom/v12/UcCn3F82JHycULbFQA.woff) format("woff");
+}
+.u-font-taprom-400 {
+          font-family: 'Taprom' !important;
+          font-weight: 400 !important;
+}

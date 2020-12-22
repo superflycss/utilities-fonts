@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Gotu;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Gotu),local(Gotu-Regular),url(//fonts.gstatic.com/s/gotu/v1/o-0FIpksx3QOpHQBjw.eot?#) format("eot"),url(//fonts.gstatic.com/s/gotu/v1/o-0FIpksx3QOpHoBiw.woff2) format("woff2"),url(//fonts.gstatic.com/s/gotu/v1/o-0FIpksx3QOpHQBjQ.woff) format("woff");
+}
+.u-font-gotu-400 {
+          font-family: 'Gotu' !important;
+          font-weight: 400 !important;
+}

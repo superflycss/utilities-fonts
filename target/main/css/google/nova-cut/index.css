@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Nova Cut";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Nova Cut"),local(NovaCut),url(//fonts.gstatic.com/s/novacut/v12/KFOkCnSYu8mL-39LkVxIIzY.eot?#) format("eot"),url(//fonts.gstatic.com/s/novacut/v12/KFOkCnSYu8mL-39LkVxIIzI.woff2) format("woff2"),url(//fonts.gstatic.com/s/novacut/v12/KFOkCnSYu8mL-39LkVxIIzQ.woff) format("woff");
+}
+.u-font-nova-cut-400 {
+          font-family: 'Nova Cut' !important;
+          font-weight: 400 !important;
+}

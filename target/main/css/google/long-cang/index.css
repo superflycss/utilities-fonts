@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Long Cang";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Long Cang Regular"),local(LongCang-Regular),url(//fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRQqnou.eot?#) format("eot"),url(//fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRgqBgxXsWsMfnCm1_q1j3gcsptb8OMg_Z2HVZhDbPBCIyx.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRQqnos.woff) format("woff");
+}
+.u-font-long-cang-400 {
+          font-family: 'Long Cang' !important;
+          font-weight: 400 !important;
+}

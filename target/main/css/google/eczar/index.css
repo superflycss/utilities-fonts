@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Eczar;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Eczar Regular"),local(Eczar-Regular),url(//fonts.gstatic.com/s/eczar/v9/BXRlvF3Pi-DLmz0rDOo.eot?#) format("eot"),url(//fonts.gstatic.com/s/eczar/v9/BXRlvF3Pi-DLmz0lDO4.woff2) format("woff2"),url(//fonts.gstatic.com/s/eczar/v9/BXRlvF3Pi-DLmz0rDOg.woff) format("woff");
+}
+@font-face {
+          font-family: Eczar;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Eczar Medium"),local(Eczar-Medium),url(//fonts.gstatic.com/s/eczar/v9/BXRovF3Pi-DLmzXWL_tz0W4.eot?#) format("eot"),url(//fonts.gstatic.com/s/eczar/v9/BXRovF3Pi-DLmzXWL_t90Wo.woff2) format("woff2"),url(//fonts.gstatic.com/s/eczar/v9/BXRovF3Pi-DLmzXWL_tz0Ww.woff) format("woff");
+}
+@font-face {
+          font-family: Eczar;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Eczar SemiBold"),local(Eczar-SemiBold),url(//fonts.gstatic.com/s/eczar/v9/BXRovF3Pi-DLmzX6KPtz0W4.eot?#) format("eot"),url(//fonts.gstatic.com/s/eczar/v9/BXRovF3Pi-DLmzX6KPt90Wo.woff2) format("woff2"),url(//fonts.gstatic.com/s/eczar/v9/BXRovF3Pi-DLmzX6KPtz0Ww.woff) format("woff");
+}
+@font-face {
+          font-family: Eczar;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Eczar Bold"),local(Eczar-Bold),url(//fonts.gstatic.com/s/eczar/v9/BXRovF3Pi-DLmzWeKftz0W4.eot?#) format("eot"),url(//fonts.gstatic.com/s/eczar/v9/BXRovF3Pi-DLmzWeKft90Wo.woff2) format("woff2"),url(//fonts.gstatic.com/s/eczar/v9/BXRovF3Pi-DLmzWeKftz0Ww.woff) format("woff");
+}
+@font-face {
+          font-family: Eczar;
+          font-style: normal;
+          font-weight: 800;
+          src: local("Eczar ExtraBold"),local(Eczar-ExtraBold),url(//fonts.gstatic.com/s/eczar/v9/BXRovF3Pi-DLmzWCKvtz0W4.eot?#) format("eot"),url(//fonts.gstatic.com/s/eczar/v9/BXRovF3Pi-DLmzWCKvt90Wo.woff2) format("woff2"),url(//fonts.gstatic.com/s/eczar/v9/BXRovF3Pi-DLmzWCKvtz0Ww.woff) format("woff");
+}
+.u-font-eczar-400 {
+          font-family: 'Eczar' !important;
+          font-weight: 400 !important;
+}
+.u-font-eczar-500 {
+          font-family: 'Eczar' !important;
+          font-weight: 500 !important;
+}
+.u-font-eczar-600 {
+          font-family: 'Eczar' !important;
+          font-weight: 600 !important;
+}
+.u-font-eczar-700 {
+          font-family: 'Eczar' !important;
+          font-weight: 700 !important;
+}
+.u-font-eczar-800 {
+          font-family: 'Eczar' !important;
+          font-weight: 800 !important;
+}

@@ -1,0 +1,30 @@
+@font-face {
+          font-family: Amiko;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Amiko),local(Amiko-Regular),url(//fonts.gstatic.com/s/amiko/v5/WwkQxPq1DFK04uqseVs.eot?#) format("eot"),url(//fonts.gstatic.com/s/amiko/v5/WwkQxPq1DFK04uqieV8.woff2) format("woff2"),url(//fonts.gstatic.com/s/amiko/v5/WwkQxPq1DFK04uqseVk.woff) format("woff");
+}
+@font-face {
+          font-family: Amiko;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Amiko SemiBold"),local(Amiko-SemiBold),url(//fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uJ9XUrNEIE.eot?#) format("eot"),url(//fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uJ9XUrDEIU.woff2) format("woff2"),url(//fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uJ9XUrNEIM.woff) format("woff");
+}
+@font-face {
+          font-family: Amiko;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Amiko Bold"),local(Amiko-Bold),url(//fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uIZXErNEIE.eot?#) format("eot"),url(//fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uIZXErDEIU.woff2) format("woff2"),url(//fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uIZXErNEIM.woff) format("woff");
+}
+.u-font-amiko-400 {
+          font-family: 'Amiko' !important;
+          font-weight: 400 !important;
+}
+.u-font-amiko-600 {
+          font-family: 'Amiko' !important;
+          font-weight: 600 !important;
+}
+.u-font-amiko-700 {
+          font-family: 'Amiko' !important;
+          font-weight: 700 !important;
+}

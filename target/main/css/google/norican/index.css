@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Norican;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Norican Regular"),local(Norican-Regular),url(//fonts.gstatic.com/s/norican/v9/MwQ2bhXp1eSBqjkPKJtbsQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/norican/v9/MwQ2bhXp1eSBqjkPKJVbtQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/norican/v9/MwQ2bhXp1eSBqjkPKJtbsw.woff) format("woff");
+}
+.u-font-norican-400 {
+          font-family: 'Norican' !important;
+          font-weight: 400 !important;
+}

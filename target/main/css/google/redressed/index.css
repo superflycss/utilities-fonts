@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Redressed;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Redressed Regular"),local(Redressed-Regular),url(//fonts.gstatic.com/s/redressed/v11/x3dickHUbrmJ7wMy9Msxe_oH.eot?#) format("eot"),url(//fonts.gstatic.com/s/redressed/v11/x3dickHUbrmJ7wMy9Msxe_oD.woff2) format("woff2"),url(//fonts.gstatic.com/s/redressed/v11/x3dickHUbrmJ7wMy9Msxe_oF.woff) format("woff");
+}
+.u-font-redressed-400 {
+          font-family: 'Redressed' !important;
+          font-weight: 400 !important;
+}

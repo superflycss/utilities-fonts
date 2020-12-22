@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Syne;
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/syne/v1/8vIS7w4qzmVxsWxjBZRjr0FKM_04uQ6tTYs.eot?#) format("eot"),url(//fonts.gstatic.com/s/syne/v1/8vIS7w4qzmVxsWxjBZRjr0FKM_04uQ6jTY8.woff2) format("woff2"),url(//fonts.gstatic.com/s/syne/v1/8vIS7w4qzmVxsWxjBZRjr0FKM_04uQ6tTYk.woff) format("woff");
+}
+@font-face {
+          font-family: Syne;
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/syne/v1/8vIS7w4qzmVxsWxjBZRjr0FKM_0KuQ6tTYs.eot?#) format("eot"),url(//fonts.gstatic.com/s/syne/v1/8vIS7w4qzmVxsWxjBZRjr0FKM_0KuQ6jTY8.woff2) format("woff2"),url(//fonts.gstatic.com/s/syne/v1/8vIS7w4qzmVxsWxjBZRjr0FKM_0KuQ6tTYk.woff) format("woff");
+}
+@font-face {
+          font-family: Syne;
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/syne/v1/8vIS7w4qzmVxsWxjBZRjr0FKM_3mvg6tTYs.eot?#) format("eot"),url(//fonts.gstatic.com/s/syne/v1/8vIS7w4qzmVxsWxjBZRjr0FKM_3mvg6jTY8.woff2) format("woff2"),url(//fonts.gstatic.com/s/syne/v1/8vIS7w4qzmVxsWxjBZRjr0FKM_3mvg6tTYk.woff) format("woff");
+}
+@font-face {
+          font-family: Syne;
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/syne/v1/8vIS7w4qzmVxsWxjBZRjr0FKM_3fvg6tTYs.eot?#) format("eot"),url(//fonts.gstatic.com/s/syne/v1/8vIS7w4qzmVxsWxjBZRjr0FKM_3fvg6jTY8.woff2) format("woff2"),url(//fonts.gstatic.com/s/syne/v1/8vIS7w4qzmVxsWxjBZRjr0FKM_3fvg6tTYk.woff) format("woff");
+}
+@font-face {
+          font-family: Syne;
+          font-style: normal;
+          font-weight: 800;
+          src: url(//fonts.gstatic.com/s/syne/v1/8vIS7w4qzmVxsWxjBZRjr0FKM_24vg6tTYs.eot?#) format("eot"),url(//fonts.gstatic.com/s/syne/v1/8vIS7w4qzmVxsWxjBZRjr0FKM_24vg6jTY8.woff2) format("woff2"),url(//fonts.gstatic.com/s/syne/v1/8vIS7w4qzmVxsWxjBZRjr0FKM_24vg6tTYk.woff) format("woff");
+}
+.u-font-syne-400 {
+          font-family: 'Syne' !important;
+          font-weight: 400 !important;
+}
+.u-font-syne-500 {
+          font-family: 'Syne' !important;
+          font-weight: 500 !important;
+}
+.u-font-syne-600 {
+          font-family: 'Syne' !important;
+          font-weight: 600 !important;
+}
+.u-font-syne-700 {
+          font-family: 'Syne' !important;
+          font-weight: 700 !important;
+}
+.u-font-syne-800 {
+          font-family: 'Syne' !important;
+          font-weight: 800 !important;
+}

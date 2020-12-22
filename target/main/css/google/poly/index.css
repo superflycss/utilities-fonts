@@ -1,0 +1,21 @@
+@font-face {
+          font-family: Poly;
+          font-style: italic;
+          font-weight: 400;
+          src: local(Poly-Italic),url(//fonts.gstatic.com/s/poly/v11/MQpV-W6wKNitdLK6qErp.eot?#) format("eot"),url(//fonts.gstatic.com/s/poly/v11/MQpV-W6wKNitdLK6qErt.woff2) format("woff2"),url(//fonts.gstatic.com/s/poly/v11/MQpV-W6wKNitdLK6qErr.woff) format("woff");
+}
+@font-face {
+          font-family: Poly;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Poly-Regular),url(//fonts.gstatic.com/s/poly/v11/MQpb-W6wKNitdLeKrg.eot?#) format("eot"),url(//fonts.gstatic.com/s/poly/v11/MQpb-W6wKNitdLeKqg.woff2) format("woff2"),url(//fonts.gstatic.com/s/poly/v11/MQpb-W6wKNitdLeKrA.woff) format("woff");
+}
+.u-font-poly-400 {
+          font-family: 'Poly' !important;
+          font-weight: 400 !important;
+}
+.u-font-poly-400-italic {
+        font-family: 'Poly' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}

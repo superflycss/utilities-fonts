@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Baumans;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Baumans Regular"),local(Baumans-Regular),url(//fonts.gstatic.com/s/baumans/v10/-W_-XJj9QyTd3Qfpd_04bw.eot?#) format("eot"),url(//fonts.gstatic.com/s/baumans/v10/-W_-XJj9QyTd3Qfpd_04aw.woff2) format("woff2"),url(//fonts.gstatic.com/s/baumans/v10/-W_-XJj9QyTd3Qfpd_04bQ.woff) format("woff");
+}
+.u-font-baumans-400 {
+          font-family: 'Baumans' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Geostar Fill";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Geostar Fill"),local(GeostarFill-Regular),url(//fonts.gstatic.com/s/geostarfill/v11/AMOWz4SWuWiXFfjEohxQ9osEVFiz.eot?#) format("eot"),url(//fonts.gstatic.com/s/geostarfill/v11/AMOWz4SWuWiXFfjEohxQ9osEVFi3.woff2) format("woff2"),url(//fonts.gstatic.com/s/geostarfill/v11/AMOWz4SWuWiXFfjEohxQ9osEVFix.woff) format("woff");
+}
+.u-font-geostar-fill-400 {
+          font-family: 'Geostar Fill' !important;
+          font-weight: 400 !important;
+}

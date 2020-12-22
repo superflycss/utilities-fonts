@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Hanalei Fill";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Hanalei Fill"),local(HanaleiFill-Regular),url(//fonts.gstatic.com/s/hanaleifill/v9/fC1mPYtObGbfyQznIaQzPQi8XgjE.eot?#) format("eot"),url(//fonts.gstatic.com/s/hanaleifill/v9/fC1mPYtObGbfyQznIaQzPQi8UAjA.woff2) format("woff2"),url(//fonts.gstatic.com/s/hanaleifill/v9/fC1mPYtObGbfyQznIaQzPQi8XgjG.woff) format("woff");
+}
+.u-font-hanalei-fill-400 {
+          font-family: 'Hanalei Fill' !important;
+          font-weight: 400 !important;
+}

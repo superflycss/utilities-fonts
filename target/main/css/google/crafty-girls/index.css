@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Crafty Girls";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Crafty Girls Regular"),local(CraftyGirls-Regular),url(//fonts.gstatic.com/s/craftygirls/v10/va9B4kXI39VaDdlPJo8N_NveRhf-.eot?#) format("eot"),url(//fonts.gstatic.com/s/craftygirls/v10/va9B4kXI39VaDdlPJo8N_NveRhf6.woff2) format("woff2"),url(//fonts.gstatic.com/s/craftygirls/v10/va9B4kXI39VaDdlPJo8N_NveRhf8.woff) format("woff");
+}
+.u-font-crafty-girls-400 {
+          font-family: 'Crafty Girls' !important;
+          font-weight: 400 !important;
+}

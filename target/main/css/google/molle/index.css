@@ -1,0 +1,11 @@
+@font-face {
+        font-family: Molle;
+        font-style: italic;
+        font-weight: 400;
+        src: local(Molle),local(Molle-Regular),url(//fonts.gstatic.com/s/molle/v9/E21n_dL5hOXFhWEsbzEsUg.eot?#) format("eot"),url(//fonts.gstatic.com/s/molle/v9/E21n_dL5hOXFhWEsbz8sVg.woff2) format("woff2"),url(//fonts.gstatic.com/s/molle/v9/E21n_dL5hOXFhWEsbzEsUA.woff) format("woff");
+}
+.u-font-molle-400-italic {
+        font-family: 'Molle' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}

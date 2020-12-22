@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Copse;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Copse),url(//fonts.gstatic.com/s/copse/v10/11hPGpDKz1rGb3dkFE0.eot?#) format("eot"),url(//fonts.gstatic.com/s/copse/v10/11hPGpDKz1rGb3dkFEk.woff2) format("woff2"),url(//fonts.gstatic.com/s/copse/v10/11hPGpDKz1rGb3dkFE8.woff) format("woff");
+}
+.u-font-copse-400 {
+          font-family: 'Copse' !important;
+          font-weight: 400 !important;
+}

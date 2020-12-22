@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Chathura;
+          font-style: normal;
+          font-weight: 100;
+          src: local("Chathura Thin"),local(Chathura-Thin),url(//fonts.gstatic.com/s/chathura/v6/_gP91R7-rzUuVjim42dEm0ORSw.eot?#) format("eot"),url(//fonts.gstatic.com/s/chathura/v6/_gP91R7-rzUuVjim42dEm0ORTw.woff2) format("woff2"),url(//fonts.gstatic.com/s/chathura/v6/_gP91R7-rzUuVjim42dEm0ORSQ.woff) format("woff");
+}
+@font-face {
+          font-family: Chathura;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Chathura Light"),local(Chathura-Light),url(//fonts.gstatic.com/s/chathura/v6/_gP81R7-rzUuVjim42eMiVS2av8.eot?#) format("eot"),url(//fonts.gstatic.com/s/chathura/v6/_gP81R7-rzUuVjim42eMiVS2avs.woff2) format("woff2"),url(//fonts.gstatic.com/s/chathura/v6/_gP81R7-rzUuVjim42eMiVS2av0.woff) format("woff");
+}
+@font-face {
+          font-family: Chathura;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Chathura Regular"),local(Chathura-Regular),url(//fonts.gstatic.com/s/chathura/v6/_gP71R7-rzUuVjim428nq0U.eot?#) format("eot"),url(//fonts.gstatic.com/s/chathura/v6/_gP71R7-rzUuVjim428nq0E.woff2) format("woff2"),url(//fonts.gstatic.com/s/chathura/v6/_gP71R7-rzUuVjim428nq0c.woff) format("woff");
+}
+@font-face {
+          font-family: Chathura;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Chathura Bold"),local(Chathura-Bold),url(//fonts.gstatic.com/s/chathura/v6/_gP81R7-rzUuVjim42ecjlS2av8.eot?#) format("eot"),url(//fonts.gstatic.com/s/chathura/v6/_gP81R7-rzUuVjim42ecjlS2avs.woff2) format("woff2"),url(//fonts.gstatic.com/s/chathura/v6/_gP81R7-rzUuVjim42ecjlS2av0.woff) format("woff");
+}
+@font-face {
+          font-family: Chathura;
+          font-style: normal;
+          font-weight: 800;
+          src: local("Chathura ExtraBold"),local(Chathura-ExtraBold),url(//fonts.gstatic.com/s/chathura/v6/_gP81R7-rzUuVjim42eAjVS2av8.eot?#) format("eot"),url(//fonts.gstatic.com/s/chathura/v6/_gP81R7-rzUuVjim42eAjVS2avs.woff2) format("woff2"),url(//fonts.gstatic.com/s/chathura/v6/_gP81R7-rzUuVjim42eAjVS2av0.woff) format("woff");
+}
+.u-font-chathura-100 {
+          font-family: 'Chathura' !important;
+          font-weight: 100 !important;
+}
+.u-font-chathura-300 {
+          font-family: 'Chathura' !important;
+          font-weight: 300 !important;
+}
+.u-font-chathura-400 {
+          font-family: 'Chathura' !important;
+          font-weight: 400 !important;
+}
+.u-font-chathura-700 {
+          font-family: 'Chathura' !important;
+          font-weight: 700 !important;
+}
+.u-font-chathura-800 {
+          font-family: 'Chathura' !important;
+          font-weight: 800 !important;
+}

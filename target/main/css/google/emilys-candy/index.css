@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Emilys Candy";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Emilys Candy"),local(EmilysCandy-Regular),url(//fonts.gstatic.com/s/emilyscandy/v8/2EbgL-1mD1Rnb0OGKudbk0yJptZu.eot?#) format("eot"),url(//fonts.gstatic.com/s/emilyscandy/v8/2EbgL-1mD1Rnb0OGKudbk0yJqNZq.woff2) format("woff2"),url(//fonts.gstatic.com/s/emilyscandy/v8/2EbgL-1mD1Rnb0OGKudbk0yJptZs.woff) format("woff");
+}
+.u-font-emilys-candy-400 {
+          font-family: 'Emilys Candy' !important;
+          font-weight: 400 !important;
+}

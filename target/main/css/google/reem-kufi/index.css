@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Reem Kufi";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Reem Kufi Regular"),local(ReemKufi-Regular),url(//fonts.gstatic.com/s/reemkufi/v9/2sDcZGJLip7W2J7v7wQzaGW9.eot?#) format("eot"),url(//fonts.gstatic.com/s/reemkufi/v9/2sDcZGJLip7W2J7v7wQzaGW5.woff2) format("woff2"),url(//fonts.gstatic.com/s/reemkufi/v9/2sDcZGJLip7W2J7v7wQzaGW_.woff) format("woff");
+}
+.u-font-reem-kufi-400 {
+          font-family: 'Reem Kufi' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Sonsie One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Sonsie One"),local(SonsieOne-Regular),url(//fonts.gstatic.com/s/sonsieone/v9/PbymFmP_EAnPqbKaoc18UVK21w.eot?#) format("eot"),url(//fonts.gstatic.com/s/sonsieone/v9/PbymFmP_EAnPqbKaoc18UVy20w.woff2) format("woff2"),url(//fonts.gstatic.com/s/sonsieone/v9/PbymFmP_EAnPqbKaoc18UVK21Q.woff) format("woff");
+}
+.u-font-sonsie-one-400 {
+          font-family: 'Sonsie One' !important;
+          font-weight: 400 !important;
+}

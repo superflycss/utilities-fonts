@@ -1,0 +1,42 @@
+@font-face {
+          font-family: Tinos;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Tinos Italic"),local(Tinos-Italic),url(//fonts.gstatic.com/s/tinos/v15/buE2poGnedXvwjX-TmhJ8Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/tinos/v15/buE2poGnedXvwjX-TmZJ9Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/tinos/v15/buE2poGnedXvwjX-TmhJ8w.woff) format("woff");
+}
+@font-face {
+          font-family: Tinos;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Tinos Bold Italic"),local(Tinos-BoldItalic),url(//fonts.gstatic.com/s/tinos/v15/buEzpoGnedXvwjX-Rt1s4CMf-Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/tinos/v15/buEzpoGnedXvwjX-Rt1s4C0f_Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/tinos/v15/buEzpoGnedXvwjX-Rt1s4CMf-w.woff) format("woff");
+}
+@font-face {
+          font-family: Tinos;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Tinos Regular"),local(Tinos-Regular),url(//fonts.gstatic.com/s/tinos/v15/buE4poGnedXvwjX1fmA.eot?#) format("eot"),url(//fonts.gstatic.com/s/tinos/v15/buE4poGnedXvwjX7fmQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/tinos/v15/buE4poGnedXvwjX1fmI.woff) format("woff");
+}
+@font-face {
+          font-family: Tinos;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Tinos Bold"),local(Tinos-Bold),url(//fonts.gstatic.com/s/tinos/v15/buE1poGnedXvwj1AW3Fg0Cs.eot?#) format("eot"),url(//fonts.gstatic.com/s/tinos/v15/buE1poGnedXvwj1AW3Fu0C8.woff2) format("woff2"),url(//fonts.gstatic.com/s/tinos/v15/buE1poGnedXvwj1AW3Fg0Ck.woff) format("woff");
+}
+.u-font-tinos-400 {
+          font-family: 'Tinos' !important;
+          font-weight: 400 !important;
+}
+.u-font-tinos-400-italic {
+        font-family: 'Tinos' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-tinos-700 {
+          font-family: 'Tinos' !important;
+          font-weight: 700 !important;
+}
+.u-font-tinos-700-italic {
+        font-family: 'Tinos' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

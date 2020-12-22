@@ -1,0 +1,84 @@
+@font-face {
+          font-family: Chivo;
+          font-style: italic;
+          font-weight: 300;
+          src: local("Chivo Light Italic"),local(Chivo-LightItalic),url(//fonts.gstatic.com/s/chivo/v12/va9D4kzIxd1KFrBteUp9gKHuQA.eot?#) format("eot"),url(//fonts.gstatic.com/s/chivo/v12/va9D4kzIxd1KFrBteUp9gK_uRA.woff2) format("woff2"),url(//fonts.gstatic.com/s/chivo/v12/va9D4kzIxd1KFrBteUp9gKHuQg.woff) format("woff");
+}
+@font-face {
+          font-family: Chivo;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Chivo Italic"),local(Chivo-Italic),url(//fonts.gstatic.com/s/chivo/v12/va9G4kzIxd1KFrBtce9fkQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/chivo/v12/va9G4kzIxd1KFrBtceFflQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/chivo/v12/va9G4kzIxd1KFrBtce9fkw.woff) format("woff");
+}
+@font-face {
+          font-family: Chivo;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Chivo Bold Italic"),local(Chivo-BoldItalic),url(//fonts.gstatic.com/s/chivo/v12/va9D4kzIxd1KFrBteVp6gKHuQA.eot?#) format("eot"),url(//fonts.gstatic.com/s/chivo/v12/va9D4kzIxd1KFrBteVp6gK_uRA.woff2) format("woff2"),url(//fonts.gstatic.com/s/chivo/v12/va9D4kzIxd1KFrBteVp6gKHuQg.woff) format("woff");
+}
+@font-face {
+          font-family: Chivo;
+          font-style: italic;
+          font-weight: 900;
+          src: local("Chivo Black Italic"),local(Chivo-BlackItalic),url(//fonts.gstatic.com/s/chivo/v12/va9D4kzIxd1KFrBteWJ4gKHuQA.eot?#) format("eot"),url(//fonts.gstatic.com/s/chivo/v12/va9D4kzIxd1KFrBteWJ4gK_uRA.woff2) format("woff2"),url(//fonts.gstatic.com/s/chivo/v12/va9D4kzIxd1KFrBteWJ4gKHuQg.woff) format("woff");
+}
+@font-face {
+          font-family: Chivo;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Chivo Light"),local(Chivo-Light),url(//fonts.gstatic.com/s/chivo/v12/va9F4kzIxd1KFrjDY_Z2sKk.eot?#) format("eot"),url(//fonts.gstatic.com/s/chivo/v12/va9F4kzIxd1KFrjDY_Z4sK0.woff2) format("woff2"),url(//fonts.gstatic.com/s/chivo/v12/va9F4kzIxd1KFrjDY_Z2sKs.woff) format("woff");
+}
+@font-face {
+          font-family: Chivo;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Chivo Regular"),local(Chivo-Regular),url(//fonts.gstatic.com/s/chivo/v12/va9I4kzIxd1KFrBmQec.eot?#) format("eot"),url(//fonts.gstatic.com/s/chivo/v12/va9I4kzIxd1KFrBoQeM.woff2) format("woff2"),url(//fonts.gstatic.com/s/chivo/v12/va9I4kzIxd1KFrBmQeU.woff) format("woff");
+}
+@font-face {
+          font-family: Chivo;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Chivo Bold"),local(Chivo-Bold),url(//fonts.gstatic.com/s/chivo/v12/va9F4kzIxd1KFrjTZPZ2sKk.eot?#) format("eot"),url(//fonts.gstatic.com/s/chivo/v12/va9F4kzIxd1KFrjTZPZ4sK0.woff2) format("woff2"),url(//fonts.gstatic.com/s/chivo/v12/va9F4kzIxd1KFrjTZPZ2sKs.woff) format("woff");
+}
+@font-face {
+          font-family: Chivo;
+          font-style: normal;
+          font-weight: 900;
+          src: local("Chivo Black"),local(Chivo-Black),url(//fonts.gstatic.com/s/chivo/v12/va9F4kzIxd1KFrjrZvZ2sKk.eot?#) format("eot"),url(//fonts.gstatic.com/s/chivo/v12/va9F4kzIxd1KFrjrZvZ4sK0.woff2) format("woff2"),url(//fonts.gstatic.com/s/chivo/v12/va9F4kzIxd1KFrjrZvZ2sKs.woff) format("woff");
+}
+.u-font-chivo-300 {
+          font-family: 'Chivo' !important;
+          font-weight: 300 !important;
+}
+.u-font-chivo-300-italic {
+        font-family: 'Chivo' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-chivo-400 {
+          font-family: 'Chivo' !important;
+          font-weight: 400 !important;
+}
+.u-font-chivo-400-italic {
+        font-family: 'Chivo' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-chivo-700 {
+          font-family: 'Chivo' !important;
+          font-weight: 700 !important;
+}
+.u-font-chivo-700-italic {
+        font-family: 'Chivo' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}
+.u-font-chivo-900 {
+          font-family: 'Chivo' !important;
+          font-weight: 900 !important;
+}
+.u-font-chivo-900-italic {
+        font-family: 'Chivo' !important;
+        font-weight: 900 !important;
+        font-style: italic !important;
+}

@@ -1,0 +1,70 @@
+@font-face {
+          font-family: Dosis;
+          font-style: normal;
+          font-weight: 200;
+          src: url(//fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7Ml1RMA.eot?#) format("eot"),url(//fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7Ml2xME.woff2) format("woff2"),url(//fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7Ml1RMC.woff) format("woff");
+}
+@font-face {
+          font-family: Dosis;
+          font-style: normal;
+          font-weight: 300;
+          src: url(//fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJabMl1RMA.eot?#) format("eot"),url(//fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJabMl2xME.woff2) format("woff2"),url(//fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJabMl1RMC.woff) format("woff");
+}
+@font-face {
+          font-family: Dosis;
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJN7Ml1RMA.eot?#) format("eot"),url(//fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJN7Ml2xME.woff2) format("woff2"),url(//fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJN7Ml1RMC.woff) format("woff");
+}
+@font-face {
+          font-family: Dosis;
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJBbMl1RMA.eot?#) format("eot"),url(//fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJBbMl2xME.woff2) format("woff2"),url(//fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJBbMl1RMC.woff) format("woff");
+}
+@font-face {
+          font-family: Dosis;
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJ6bQl1RMA.eot?#) format("eot"),url(//fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJ6bQl2xME.woff2) format("woff2"),url(//fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJ6bQl1RMC.woff) format("woff");
+}
+@font-face {
+          font-family: Dosis;
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJ0LQl1RMA.eot?#) format("eot"),url(//fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJ0LQl2xME.woff2) format("woff2"),url(//fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJ0LQl1RMC.woff) format("woff");
+}
+@font-face {
+          font-family: Dosis;
+          font-style: normal;
+          font-weight: 800;
+          src: url(//fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7Ql1RMA.eot?#) format("eot"),url(//fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7Ql2xME.woff2) format("woff2"),url(//fonts.gstatic.com/s/dosis/v18/HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7Ql1RMC.woff) format("woff");
+}
+.u-font-dosis-200 {
+          font-family: 'Dosis' !important;
+          font-weight: 200 !important;
+}
+.u-font-dosis-300 {
+          font-family: 'Dosis' !important;
+          font-weight: 300 !important;
+}
+.u-font-dosis-400 {
+          font-family: 'Dosis' !important;
+          font-weight: 400 !important;
+}
+.u-font-dosis-500 {
+          font-family: 'Dosis' !important;
+          font-weight: 500 !important;
+}
+.u-font-dosis-600 {
+          font-family: 'Dosis' !important;
+          font-weight: 600 !important;
+}
+.u-font-dosis-700 {
+          font-family: 'Dosis' !important;
+          font-weight: 700 !important;
+}
+.u-font-dosis-800 {
+          font-family: 'Dosis' !important;
+          font-weight: 800 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Antic Didone";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Antic Didone Regular"),local(AnticDidone-Regular),url(//fonts.gstatic.com/s/anticdidone/v9/RWmPoKKX6u8sp8fIWdnDKqDSroED.eot?#) format("eot"),url(//fonts.gstatic.com/s/anticdidone/v9/RWmPoKKX6u8sp8fIWdnDKqDSroEH.woff2) format("woff2"),url(//fonts.gstatic.com/s/anticdidone/v9/RWmPoKKX6u8sp8fIWdnDKqDSroEB.woff) format("woff");
+}
+.u-font-antic-didone-400 {
+          font-family: 'Antic Didone' !important;
+          font-weight: 400 !important;
+}

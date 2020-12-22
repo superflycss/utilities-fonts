@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Jomhuria;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Jomhuria),local(Jomhuria-Regular),url(//fonts.gstatic.com/s/jomhuria/v9/Dxxp8j-TMXf-llKur1b8OuQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/jomhuria/v9/Dxxp8j-TMXf-llKur1byOuA.woff2) format("woff2"),url(//fonts.gstatic.com/s/jomhuria/v9/Dxxp8j-TMXf-llKur1b8OuY.woff) format("woff");
+}
+.u-font-jomhuria-400 {
+          font-family: 'Jomhuria' !important;
+          font-weight: 400 !important;
+}

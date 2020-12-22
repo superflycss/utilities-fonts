@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Eater;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Eater),local(Eater-Regular),url(//fonts.gstatic.com/s/eater/v9/mtG04_FCK7bOvqu_sXQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/eater/v9/mtG04_FCK7bOvquxsXA.woff2) format("woff2"),url(//fonts.gstatic.com/s/eater/v9/mtG04_FCK7bOvqu_sXY.woff) format("woff");
+}
+.u-font-eater-400 {
+          font-family: 'Eater' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,70 @@
+@font-face {
+          font-family: "M PLUS 1p";
+          font-style: normal;
+          font-weight: 100;
+          src: local("M PLUS 1p Thin"),local(MPLUS1p-Thin),url(//fonts.gstatic.com/s/mplus1p/v19/e3tleuShHdiFyPFzBRrQnAQJW2g.eot?#) format("eot"),url(//fonts.gstatic.com/s/mplus1p/v19/e3tleuShHdiFyPFzBRrQnDQFOX3YupwtkuZbYOZ4sg48FHr49TMjRQ.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/mplus1p/v19/e3tleuShHdiFyPFzBRrQnAQJW2o.woff) format("woff");
+}
+@font-face {
+          font-family: "M PLUS 1p";
+          font-style: normal;
+          font-weight: 300;
+          src: local("M PLUS 1p Light"),local(MPLUS1p-Light),url(//fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQVBYQcknT.eot?#) format("eot"),url(//fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQVBYgfivGoOYmg_dUa_BuiDU9F33s7CtHVU4.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQVBYQcknR.woff) format("woff");
+}
+@font-face {
+          font-family: "M PLUS 1p";
+          font-style: normal;
+          font-weight: 400;
+          src: local("M PLUS 1p"),local(MPLUS1p-Regular),url(//fonts.gstatic.com/s/mplus1p/v19/e3tjeuShHdiFyPFzBRrY8TQB.eot?#) format("eot"),url(//fonts.gstatic.com/s/mplus1p/v19/e3tjeuShHdiFyPFzBRro_VYUcXm4y4YtjOJGYMp5iAw4B3f5iUc.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/mplus1p/v19/e3tjeuShHdiFyPFzBRrY8TQD.woff) format("woff");
+}
+@font-face {
+          font-family: "M PLUS 1p";
+          font-style: normal;
+          font-weight: 500;
+          src: local("M PLUS 1p Medium"),local(MPLUS1p-Medium),url(//fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQDBcQcknT.eot?#) format("eot"),url(//fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQDBcgfivGoOYmg_dUa_BuiDU9F33s7CtHVU4.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQDBcQcknR.woff) format("woff");
+}
+@font-face {
+          font-family: "M PLUS 1p";
+          font-style: normal;
+          font-weight: 700;
+          src: local("M PLUS 1p Bold"),local(MPLUS1p-Bold),url(//fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQRBEQcknT.eot?#) format("eot"),url(//fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQRBEgfivGoOYmg_dUa_BuiDU9F33s7CtHVU4.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQRBEQcknR.woff) format("woff");
+}
+@font-face {
+          font-family: "M PLUS 1p";
+          font-style: normal;
+          font-weight: 800;
+          src: local("M PLUS 1p ExtraBold"),local(MPLUS1p-ExtraBold),url(//fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQWBIQcknT.eot?#) format("eot"),url(//fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQWBIgfivGoOYmg_dUa_BuiDU9F33s7CtHVU4.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQWBIQcknR.woff) format("woff");
+}
+@font-face {
+          font-family: "M PLUS 1p";
+          font-style: normal;
+          font-weight: 900;
+          src: local("M PLUS 1p Black"),local(MPLUS1p-Black),url(//fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQfBMQcknT.eot?#) format("eot"),url(//fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQfBMgfivGoOYmg_dUa_BuiDU9F33s7CtHVU4.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQfBMQcknR.woff) format("woff");
+}
+.u-font-m-plus-1p-100 {
+          font-family: 'M PLUS 1p' !important;
+          font-weight: 100 !important;
+}
+.u-font-m-plus-1p-300 {
+          font-family: 'M PLUS 1p' !important;
+          font-weight: 300 !important;
+}
+.u-font-m-plus-1p-400 {
+          font-family: 'M PLUS 1p' !important;
+          font-weight: 400 !important;
+}
+.u-font-m-plus-1p-500 {
+          font-family: 'M PLUS 1p' !important;
+          font-weight: 500 !important;
+}
+.u-font-m-plus-1p-700 {
+          font-family: 'M PLUS 1p' !important;
+          font-weight: 700 !important;
+}
+.u-font-m-plus-1p-800 {
+          font-family: 'M PLUS 1p' !important;
+          font-weight: 800 !important;
+}
+.u-font-m-plus-1p-900 {
+          font-family: 'M PLUS 1p' !important;
+          font-weight: 900 !important;
+}

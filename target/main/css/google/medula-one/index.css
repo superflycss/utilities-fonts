@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Medula One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Medula One"),local(MedulaOne-Regular),url(//fonts.gstatic.com/s/medulaone/v10/YA9Wr0qb5kjJM6l2V0yuoiYgtg.eot?#) format("eot"),url(//fonts.gstatic.com/s/medulaone/v10/YA9Wr0qb5kjJM6l2V0yuoiYgsg.woff2) format("woff2"),url(//fonts.gstatic.com/s/medulaone/v10/YA9Wr0qb5kjJM6l2V0yuoiYgtA.woff) format("woff");
+}
+.u-font-medula-one-400 {
+          font-family: 'Medula One' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Irish Grover";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Irish Grover Regular"),local(IrishGrover-Regular),url(//fonts.gstatic.com/s/irishgrover/v10/buExpoi6YtLz2QW7LA4flVgv__RL.eot?#) format("eot"),url(//fonts.gstatic.com/s/irishgrover/v10/buExpoi6YtLz2QW7LA4flVgv__RP.woff2) format("woff2"),url(//fonts.gstatic.com/s/irishgrover/v10/buExpoi6YtLz2QW7LA4flVgv__RJ.woff) format("woff");
+}
+.u-font-irish-grover-400 {
+          font-family: 'Irish Grover' !important;
+          font-weight: 400 !important;
+}

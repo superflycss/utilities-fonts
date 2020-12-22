@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Bungee Outline";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Bungee Outline"),local(BungeeOutline-Regular),url(//fonts.gstatic.com/s/bungeeoutline/v6/_6_mEDvmVP24UvU2MyiGDslL3Tg-aBc.eot?#) format("eot"),url(//fonts.gstatic.com/s/bungeeoutline/v6/_6_mEDvmVP24UvU2MyiGDslL3TgwaBM.woff2) format("woff2"),url(//fonts.gstatic.com/s/bungeeoutline/v6/_6_mEDvmVP24UvU2MyiGDslL3Tg-aBU.woff) format("woff");
+}
+.u-font-bungee-outline-400 {
+          font-family: 'Bungee Outline' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Butcherman;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Butcherman Regular"),local(Butcherman-Regular),url(//fonts.gstatic.com/s/butcherman/v12/2EbiL-thF0loflXUBOdb5zy5rg.eot?#) format("eot"),url(//fonts.gstatic.com/s/butcherman/v12/2EbiL-thF0loflXUBOdb5zK5qg.woff2) format("woff2"),url(//fonts.gstatic.com/s/butcherman/v12/2EbiL-thF0loflXUBOdb5zy5rA.woff) format("woff");
+}
+.u-font-butcherman-400 {
+          font-family: 'Butcherman' !important;
+          font-weight: 400 !important;
+}

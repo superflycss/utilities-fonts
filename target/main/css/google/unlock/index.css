@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Unlock;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Unlock Regular"),local(Unlock-Regular),url(//fonts.gstatic.com/s/unlock/v10/7Au-p_8ykD-cDl72LwLX.eot?#) format("eot"),url(//fonts.gstatic.com/s/unlock/v10/7Au-p_8ykD-cDl72LwLT.woff2) format("woff2"),url(//fonts.gstatic.com/s/unlock/v10/7Au-p_8ykD-cDl72LwLV.woff) format("woff");
+}
+.u-font-unlock-400 {
+          font-family: 'Unlock' !important;
+          font-weight: 400 !important;
+}

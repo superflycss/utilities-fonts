@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Lusitana;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Lusitana),url(//fonts.gstatic.com/s/lusitana/v8/CSR84z9ShvucWzsMKyhdTOY.eot?#) format("eot"),url(//fonts.gstatic.com/s/lusitana/v8/CSR84z9ShvucWzsMKyhdTOI.woff2) format("woff2"),url(//fonts.gstatic.com/s/lusitana/v8/CSR84z9ShvucWzsMKyhdTOQ.woff) format("woff");
+}
+@font-face {
+          font-family: Lusitana;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Lusitana Bold"),local(Lusitana-Bold),url(//fonts.gstatic.com/s/lusitana/v8/CSR74z9ShvucWzsMKyDmafctaNI.eot?#) format("eot"),url(//fonts.gstatic.com/s/lusitana/v8/CSR74z9ShvucWzsMKyDmafctaNY.woff2) format("woff2"),url(//fonts.gstatic.com/s/lusitana/v8/CSR74z9ShvucWzsMKyDmafctaNA.woff) format("woff");
+}
+.u-font-lusitana-400 {
+          font-family: 'Lusitana' !important;
+          font-weight: 400 !important;
+}
+.u-font-lusitana-700 {
+          font-family: 'Lusitana' !important;
+          font-weight: 700 !important;
+}

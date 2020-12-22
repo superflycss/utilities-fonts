@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Merienda One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Merienda One"),local(MeriendaOne-Regular),url(//fonts.gstatic.com/s/meriendaone/v11/H4cgBXaMndbflEq6kyZ1ht6ohYa3.eot?#) format("eot"),url(//fonts.gstatic.com/s/meriendaone/v11/H4cgBXaMndbflEq6kyZ1ht6ohYaz.woff2) format("woff2"),url(//fonts.gstatic.com/s/meriendaone/v11/H4cgBXaMndbflEq6kyZ1ht6ohYa1.woff) format("woff");
+}
+.u-font-merienda-one-400 {
+          font-family: 'Merienda One' !important;
+          font-weight: 400 !important;
+}

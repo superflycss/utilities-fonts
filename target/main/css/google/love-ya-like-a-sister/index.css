@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Love Ya Like A Sister";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Love Ya Like A Sister Regular"),local(LoveYaLikeASister-Regular),url(//fonts.gstatic.com/s/loveyalikeasister/v11/R70EjzUBlOqPeouhFDfR80-0FhOqJubN-BeL9XxZ.eot?#) format("eot"),url(//fonts.gstatic.com/s/loveyalikeasister/v11/R70EjzUBlOqPeouhFDfR80-0FhOqJubN-BeL9Xxd.woff2) format("woff2"),url(//fonts.gstatic.com/s/loveyalikeasister/v11/R70EjzUBlOqPeouhFDfR80-0FhOqJubN-BeL9Xxb.woff) format("woff");
+}
+.u-font-love-ya-like-a-sister-400 {
+          font-family: 'Love Ya Like A Sister' !important;
+          font-weight: 400 !important;
+}

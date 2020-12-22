@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Farsan;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Farsan Regular"),local(Farsan-Regular),url(//fonts.gstatic.com/s/farsan/v6/VEMwRoJ0vY_zsyzK06Ws.eot?#) format("eot"),url(//fonts.gstatic.com/s/farsan/v6/VEMwRoJ0vY_zsyzK3aWo.woff2) format("woff2"),url(//fonts.gstatic.com/s/farsan/v6/VEMwRoJ0vY_zsyzK06Wu.woff) format("woff");
+}
+.u-font-farsan-400 {
+          font-family: 'Farsan' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Suez One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Suez One"),local(SuezOne-Regular),url(//fonts.gstatic.com/s/suezone/v5/taiJGmd_EZ6rqscQgOFAmo8.eot?#) format("eot"),url(//fonts.gstatic.com/s/suezone/v5/taiJGmd_EZ6rqscQgOFOmos.woff2) format("woff2"),url(//fonts.gstatic.com/s/suezone/v5/taiJGmd_EZ6rqscQgOFAmo0.woff) format("woff");
+}
+.u-font-suez-one-400 {
+          font-family: 'Suez One' !important;
+          font-weight: 400 !important;
+}

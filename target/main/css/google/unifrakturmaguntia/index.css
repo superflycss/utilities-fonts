@@ -1,0 +1,10 @@
+@font-face {
+          font-family: UnifrakturMaguntia;
+          font-style: normal;
+          font-weight: 400;
+          src: local(UnifrakturMaguntia),url(//fonts.gstatic.com/s/unifrakturmaguntia/v11/WWXPlieVYwiGNomYU-ciRLRvEmK7oaVemGZI.eot?#) format("eot"),url(//fonts.gstatic.com/s/unifrakturmaguntia/v11/WWXPlieVYwiGNomYU-ciRLRvEmK7oaVemGZM.woff2) format("woff2"),url(//fonts.gstatic.com/s/unifrakturmaguntia/v11/WWXPlieVYwiGNomYU-ciRLRvEmK7oaVemGZK.woff) format("woff");
+}
+.u-font-unifrakturmaguntia-400 {
+          font-family: 'UnifrakturMaguntia' !important;
+          font-weight: 400 !important;
+}

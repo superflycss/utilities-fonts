@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Kurale;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Kurale Regular"),local(Kurale-Regular),url(//fonts.gstatic.com/s/kurale/v6/4iCs6KV9e9dXjhoKcQ7y.eot?#) format("eot"),url(//fonts.gstatic.com/s/kurale/v6/4iCs6KV9e9dXjhoKfw72.woff2) format("woff2"),url(//fonts.gstatic.com/s/kurale/v6/4iCs6KV9e9dXjhoKcQ7w.woff) format("woff");
+}
+.u-font-kurale-400 {
+          font-family: 'Kurale' !important;
+          font-weight: 400 !important;
+}

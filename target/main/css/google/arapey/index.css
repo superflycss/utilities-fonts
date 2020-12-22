@@ -1,0 +1,21 @@
+@font-face {
+          font-family: Arapey;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Arapey Italic"),local(Arapey-Italic),url(//fonts.gstatic.com/s/arapey/v9/-W_9XJn-UDDA2RCKZeofTkI.eot?#) format("eot"),url(//fonts.gstatic.com/s/arapey/v9/-W_9XJn-UDDA2RCKZeofTkY.woff2) format("woff2"),url(//fonts.gstatic.com/s/arapey/v9/-W_9XJn-UDDA2RCKZeofTkA.woff) format("woff");
+}
+@font-face {
+          font-family: Arapey;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Arapey Regular"),local(Arapey-Regular),url(//fonts.gstatic.com/s/arapey/v9/-W__XJn-UDDA2RCKYNoZ.eot?#) format("eot"),url(//fonts.gstatic.com/s/arapey/v9/-W__XJn-UDDA2RCKYNod.woff2) format("woff2"),url(//fonts.gstatic.com/s/arapey/v9/-W__XJn-UDDA2RCKYNob.woff) format("woff");
+}
+.u-font-arapey-400 {
+          font-family: 'Arapey' !important;
+          font-weight: 400 !important;
+}
+.u-font-arapey-400-italic {
+        font-family: 'Arapey' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}

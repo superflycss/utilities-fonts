@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Lexend Mega";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Lexend Mega Regular"),local(LexendMega-Regular),url(//fonts.gstatic.com/s/lexendmega/v3/qFdA35aBi5JtHD41zSTFEs7D4h4.eot?#) format("eot"),url(//fonts.gstatic.com/s/lexendmega/v3/qFdA35aBi5JtHD41zSTFEs7N4ho.woff2) format("woff2"),url(//fonts.gstatic.com/s/lexendmega/v3/qFdA35aBi5JtHD41zSTFEs7D4hw.woff) format("woff");
+}
+.u-font-lexend-mega-400 {
+          font-family: 'Lexend Mega' !important;
+          font-weight: 400 !important;
+}

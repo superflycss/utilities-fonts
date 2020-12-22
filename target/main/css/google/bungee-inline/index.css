@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Bungee Inline";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Bungee Inline"),local(BungeeInline-Regular),url(//fonts.gstatic.com/s/bungeeinline/v6/Gg8zN58UcgnlCweMrih332VuPGt__Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/bungeeinline/v6/Gg8zN58UcgnlCweMrih332VuPGV_-Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/bungeeinline/v6/Gg8zN58UcgnlCweMrih332VuPGt__w.woff) format("woff");
+}
+.u-font-bungee-inline-400 {
+          font-family: 'Bungee Inline' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,60 @@
+@font-face {
+          font-family: "Noto Sans SC";
+          font-style: normal;
+          font-weight: 100;
+          src: local("Noto Sans SC Thin"),local(NotoSansSC-Thin),url(//fonts.gstatic.com/s/notosanssc/v11/k3kJo84MPvpLmixcA63oeALZTbKK0Q4.eot?#) format("eot"),url(//fonts.gstatic.com/s/notosanssc/v11/k3kJo84MPvpLmixcA63oeALZTYKIsxH06N_zdmfq1OoODZD-nxggnlIfShWOMaIwVQNhqlw.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notosanssc/v11/k3kJo84MPvpLmixcA63oeALZTbKK0Qw.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Sans SC";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Noto Sans SC Light"),local(NotoSansSC-Light),url(//fonts.gstatic.com/s/notosanssc/v11/k3kIo84MPvpLmixcA63oeALZhaCd9i__.eot?#) format("eot"),url(//fonts.gstatic.com/s/notosanssc/v11/k3kIo84MPvpLmixcA63oeALZhaCt9E3g-Lbpcnr20eUBAZG30RMhmVkJXC-1MKE3QRp5zkww.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notosanssc/v11/k3kIo84MPvpLmixcA63oeALZhaCd9i_9.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Sans SC";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Noto Sans SC Regular"),local(NotoSansSC-Regular),url(//fonts.gstatic.com/s/notosanssc/v11/k3kXo84MPvpLmixcA63oeALRLoKM.eot?#) format("eot"),url(//fonts.gstatic.com/s/notosanssc/v11/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notosanssc/v11/k3kXo84MPvpLmixcA63oeALRLoKO.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Sans SC";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Noto Sans SC Medium"),local(NotoSansSC-Medium),url(//fonts.gstatic.com/s/notosanssc/v11/k3kIo84MPvpLmixcA63oeALZ3aGd9i__.eot?#) format("eot"),url(//fonts.gstatic.com/s/notosanssc/v11/k3kIo84MPvpLmixcA63oeALZ3aGt9E3g-Lbpcnr20eUBAZG30RMhmVkJXC-1MKE3QRp5zkww.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notosanssc/v11/k3kIo84MPvpLmixcA63oeALZ3aGd9i_9.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Sans SC";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Noto Sans SC Bold"),local(NotoSansSC-Bold),url(//fonts.gstatic.com/s/notosanssc/v11/k3kIo84MPvpLmixcA63oeALZlaed9i__.eot?#) format("eot"),url(//fonts.gstatic.com/s/notosanssc/v11/k3kIo84MPvpLmixcA63oeALZlaet9E3g-Lbpcnr20eUBAZG30RMhmVkJXC-1MKE3QRp5zkww.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notosanssc/v11/k3kIo84MPvpLmixcA63oeALZlaed9i_9.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Sans SC";
+          font-style: normal;
+          font-weight: 900;
+          src: local("Noto Sans SC Black"),local(NotoSansSC-Black),url(//fonts.gstatic.com/s/notosanssc/v11/k3kIo84MPvpLmixcA63oeALZraWd9i__.eot?#) format("eot"),url(//fonts.gstatic.com/s/notosanssc/v11/k3kIo84MPvpLmixcA63oeALZraWt9E3g-Lbpcnr20eUBAZG30RMhmVkJXC-1MKE3QRp5zkww.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notosanssc/v11/k3kIo84MPvpLmixcA63oeALZraWd9i_9.woff) format("woff");
+}
+.u-font-noto-sans-sc-100 {
+          font-family: 'Noto Sans SC' !important;
+          font-weight: 100 !important;
+}
+.u-font-noto-sans-sc-300 {
+          font-family: 'Noto Sans SC' !important;
+          font-weight: 300 !important;
+}
+.u-font-noto-sans-sc-400 {
+          font-family: 'Noto Sans SC' !important;
+          font-weight: 400 !important;
+}
+.u-font-noto-sans-sc-500 {
+          font-family: 'Noto Sans SC' !important;
+          font-weight: 500 !important;
+}
+.u-font-noto-sans-sc-700 {
+          font-family: 'Noto Sans SC' !important;
+          font-weight: 700 !important;
+}
+.u-font-noto-sans-sc-900 {
+          font-family: 'Noto Sans SC' !important;
+          font-weight: 900 !important;
+}

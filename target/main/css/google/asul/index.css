@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Asul;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Asul Regular"),local(Asul-Regular),url(//fonts.gstatic.com/s/asul/v10/VuJ-dNjKxYr42fQPWQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/asul/v10/VuJ-dNjKxYr42fQPXQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/asul/v10/VuJ-dNjKxYr42fQPWw.woff) format("woff");
+}
+@font-face {
+          font-family: Asul;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Asul Bold"),local(Asul-Bold),url(//fonts.gstatic.com/s/asul/v10/VuJxdNjKxYr40U8qSKHdPQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/asul/v10/VuJxdNjKxYr40U8qSKHdOQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/asul/v10/VuJxdNjKxYr40U8qSKHdPw.woff) format("woff");
+}
+.u-font-asul-400 {
+          font-family: 'Asul' !important;
+          font-weight: 400 !important;
+}
+.u-font-asul-700 {
+          font-family: 'Asul' !important;
+          font-weight: 700 !important;
+}

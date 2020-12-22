@@ -1,0 +1,84 @@
+@font-face {
+          font-family: Lora;
+          font-style: italic;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/lora/v16/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoqF2mA.eot?#) format("eot"),url(//fonts.gstatic.com/s/lora/v16/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoq92nA.woff2) format("woff2"),url(//fonts.gstatic.com/s/lora/v16/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoqF2mg.woff) format("woff");
+}
+@font-face {
+          font-family: Lora;
+          font-style: italic;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/lora/v16/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-PgFoqF2mA.eot?#) format("eot"),url(//fonts.gstatic.com/s/lora/v16/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-PgFoq92nA.woff2) format("woff2"),url(//fonts.gstatic.com/s/lora/v16/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-PgFoqF2mg.woff) format("woff");
+}
+@font-face {
+          font-family: Lora;
+          font-style: italic;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/lora/v16/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-BQCoqF2mA.eot?#) format("eot"),url(//fonts.gstatic.com/s/lora/v16/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-BQCoq92nA.woff2) format("woff2"),url(//fonts.gstatic.com/s/lora/v16/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-BQCoqF2mg.woff) format("woff");
+}
+@font-face {
+          font-family: Lora;
+          font-style: italic;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/lora/v16/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0CoqF2mA.eot?#) format("eot"),url(//fonts.gstatic.com/s/lora/v16/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0Coq92nA.woff2) format("woff2"),url(//fonts.gstatic.com/s/lora/v16/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0CoqF2mg.woff) format("woff");
+}
+@font-face {
+          font-family: Lora;
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/lora/v16/0QI6MX1D_JOuGQbT0gvTJPa787weuxJPkqk.eot?#) format("eot"),url(//fonts.gstatic.com/s/lora/v16/0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkq0.woff2) format("woff2"),url(//fonts.gstatic.com/s/lora/v16/0QI6MX1D_JOuGQbT0gvTJPa787weuxJPkqs.woff) format("woff");
+}
+@font-face {
+          font-family: Lora;
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/lora/v16/0QI6MX1D_JOuGQbT0gvTJPa787wsuxJPkqk.eot?#) format("eot"),url(//fonts.gstatic.com/s/lora/v16/0QI6MX1D_JOuGQbT0gvTJPa787wsuxJBkq0.woff2) format("woff2"),url(//fonts.gstatic.com/s/lora/v16/0QI6MX1D_JOuGQbT0gvTJPa787wsuxJPkqs.woff) format("woff");
+}
+@font-face {
+          font-family: Lora;
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/lora/v16/0QI6MX1D_JOuGQbT0gvTJPa787zAvBJPkqk.eot?#) format("eot"),url(//fonts.gstatic.com/s/lora/v16/0QI6MX1D_JOuGQbT0gvTJPa787zAvBJBkq0.woff2) format("woff2"),url(//fonts.gstatic.com/s/lora/v16/0QI6MX1D_JOuGQbT0gvTJPa787zAvBJPkqs.woff) format("woff");
+}
+@font-face {
+          font-family: Lora;
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/lora/v16/0QI6MX1D_JOuGQbT0gvTJPa787z5vBJPkqk.eot?#) format("eot"),url(//fonts.gstatic.com/s/lora/v16/0QI6MX1D_JOuGQbT0gvTJPa787z5vBJBkq0.woff2) format("woff2"),url(//fonts.gstatic.com/s/lora/v16/0QI6MX1D_JOuGQbT0gvTJPa787z5vBJPkqs.woff) format("woff");
+}
+.u-font-lora-400 {
+          font-family: 'Lora' !important;
+          font-weight: 400 !important;
+}
+.u-font-lora-500 {
+          font-family: 'Lora' !important;
+          font-weight: 500 !important;
+}
+.u-font-lora-600 {
+          font-family: 'Lora' !important;
+          font-weight: 600 !important;
+}
+.u-font-lora-700 {
+          font-family: 'Lora' !important;
+          font-weight: 700 !important;
+}
+.u-font-lora-400-italic {
+        font-family: 'Lora' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-lora-500-italic {
+        font-family: 'Lora' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-lora-600-italic {
+        font-family: 'Lora' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-lora-700-italic {
+        font-family: 'Lora' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

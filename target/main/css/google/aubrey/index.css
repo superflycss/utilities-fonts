@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Aubrey;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Aubrey Regular"),local(Aubrey-Regular),url(//fonts.gstatic.com/s/aubrey/v13/q5uGsou7NPBw-p7fvQlp.eot?#) format("eot"),url(//fonts.gstatic.com/s/aubrey/v13/q5uGsou7NPBw-p7fvQlt.woff2) format("woff2"),url(//fonts.gstatic.com/s/aubrey/v13/q5uGsou7NPBw-p7fvQlr.woff) format("woff");
+}
+.u-font-aubrey-400 {
+          font-family: 'Aubrey' !important;
+          font-weight: 400 !important;
+}

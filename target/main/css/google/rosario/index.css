@@ -1,0 +1,105 @@
+@font-face {
+          font-family: Rosario;
+          font-style: italic;
+          font-weight: 300;
+          src: url(//fonts.gstatic.com/s/rosario/v18/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQStFwTesPOw.eot?#) format("eot"),url(//fonts.gstatic.com/s/rosario/v18/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQStFwTeUPPw.woff2) format("woff2"),url(//fonts.gstatic.com/s/rosario/v18/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQStFwTesPOQ.woff) format("woff");
+}
+@font-face {
+          font-family: Rosario;
+          font-style: italic;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/rosario/v18/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSo9wTesPOw.eot?#) format("eot"),url(//fonts.gstatic.com/s/rosario/v18/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSo9wTeUPPw.woff2) format("woff2"),url(//fonts.gstatic.com/s/rosario/v18/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSo9wTesPOQ.woff) format("woff");
+}
+@font-face {
+          font-family: Rosario;
+          font-style: italic;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/rosario/v18/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSr1wTesPOw.eot?#) format("eot"),url(//fonts.gstatic.com/s/rosario/v18/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSr1wTeUPPw.woff2) format("woff2"),url(//fonts.gstatic.com/s/rosario/v18/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSr1wTesPOQ.woff) format("woff");
+}
+@font-face {
+          font-family: Rosario;
+          font-style: italic;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/rosario/v18/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSlF3TesPOw.eot?#) format("eot"),url(//fonts.gstatic.com/s/rosario/v18/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSlF3TeUPPw.woff2) format("woff2"),url(//fonts.gstatic.com/s/rosario/v18/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSlF3TesPOQ.woff) format("woff");
+}
+@font-face {
+          font-family: Rosario;
+          font-style: italic;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/rosario/v18/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSmh3TesPOw.eot?#) format("eot"),url(//fonts.gstatic.com/s/rosario/v18/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSmh3TeUPPw.woff2) format("woff2"),url(//fonts.gstatic.com/s/rosario/v18/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSmh3TesPOQ.woff) format("woff");
+}
+@font-face {
+          font-family: Rosario;
+          font-style: normal;
+          font-weight: 300;
+          src: url(//fonts.gstatic.com/s/rosario/v18/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM69GCVc6feM.eot?#) format("eot"),url(//fonts.gstatic.com/s/rosario/v18/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM69GCVc0fec.woff2) format("woff2"),url(//fonts.gstatic.com/s/rosario/v18/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM69GCVc6feE.woff) format("woff");
+}
+@font-face {
+          font-family: Rosario;
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/rosario/v18/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM68YCVc6feM.eot?#) format("eot"),url(//fonts.gstatic.com/s/rosario/v18/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM68YCVc0fec.woff2) format("woff2"),url(//fonts.gstatic.com/s/rosario/v18/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM68YCVc6feE.woff) format("woff");
+}
+@font-face {
+          font-family: Rosario;
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/rosario/v18/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM68qCVc6feM.eot?#) format("eot"),url(//fonts.gstatic.com/s/rosario/v18/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM68qCVc0fec.woff2) format("woff2"),url(//fonts.gstatic.com/s/rosario/v18/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM68qCVc6feE.woff) format("woff");
+}
+@font-face {
+          font-family: Rosario;
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/rosario/v18/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM6_GDlc6feM.eot?#) format("eot"),url(//fonts.gstatic.com/s/rosario/v18/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM6_GDlc0fec.woff2) format("woff2"),url(//fonts.gstatic.com/s/rosario/v18/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM6_GDlc6feE.woff) format("woff");
+}
+@font-face {
+          font-family: Rosario;
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/rosario/v18/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM6__Dlc6feM.eot?#) format("eot"),url(//fonts.gstatic.com/s/rosario/v18/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM6__Dlc0fec.woff2) format("woff2"),url(//fonts.gstatic.com/s/rosario/v18/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM6__Dlc6feE.woff) format("woff");
+}
+.u-font-rosario-300 {
+          font-family: 'Rosario' !important;
+          font-weight: 300 !important;
+}
+.u-font-rosario-400 {
+          font-family: 'Rosario' !important;
+          font-weight: 400 !important;
+}
+.u-font-rosario-500 {
+          font-family: 'Rosario' !important;
+          font-weight: 500 !important;
+}
+.u-font-rosario-600 {
+          font-family: 'Rosario' !important;
+          font-weight: 600 !important;
+}
+.u-font-rosario-700 {
+          font-family: 'Rosario' !important;
+          font-weight: 700 !important;
+}
+.u-font-rosario-300-italic {
+        font-family: 'Rosario' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-rosario-400-italic {
+        font-family: 'Rosario' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-rosario-500-italic {
+        font-family: 'Rosario' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-rosario-600-italic {
+        font-family: 'Rosario' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-rosario-700-italic {
+        font-family: 'Rosario' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

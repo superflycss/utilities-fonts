@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Devonshire;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Devonshire-Regular),url(//fonts.gstatic.com/s/devonshire/v9/46kqlbDwWirWr4gtBD2Bb0xg1g.eot?#) format("eot"),url(//fonts.gstatic.com/s/devonshire/v9/46kqlbDwWirWr4gtBD2Bb0Jg0g.woff2) format("woff2"),url(//fonts.gstatic.com/s/devonshire/v9/46kqlbDwWirWr4gtBD2Bb0xg1A.woff) format("woff");
+}
+.u-font-devonshire-400 {
+          font-family: 'Devonshire' !important;
+          font-weight: 400 !important;
+}

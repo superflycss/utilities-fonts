@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Suwannaphum;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Suwannaphum Regular"),local(Suwannaphum-Regular),url(//fonts.gstatic.com/s/suwannaphum/v14/jAnCgHV7GtDvc8jbe8hXXIWk.eot?#) format("eot"),url(//fonts.gstatic.com/s/suwannaphum/v14/jAnCgHV7GtDvc8jbe8hXXLWp9cGEWg.woff2) format("woff2"),url(//fonts.gstatic.com/s/suwannaphum/v14/jAnCgHV7GtDvc8jbe8hXXIWm.woff) format("woff");
+}
+.u-font-suwannaphum-400 {
+          font-family: 'Suwannaphum' !important;
+          font-weight: 400 !important;
+}

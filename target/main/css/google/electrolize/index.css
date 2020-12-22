@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Electrolize;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Electrolize),local(Electrolize-Regular),url(//fonts.gstatic.com/s/electrolize/v9/cIf5Ma1dtE0zSiGSiED7AXEBuIs.eot?#) format("eot"),url(//fonts.gstatic.com/s/electrolize/v9/cIf5Ma1dtE0zSiGSiED7AXEBuI8.woff2) format("woff2"),url(//fonts.gstatic.com/s/electrolize/v9/cIf5Ma1dtE0zSiGSiED7AXEBuIk.woff) format("woff");
+}
+.u-font-electrolize-400 {
+          font-family: 'Electrolize' !important;
+          font-weight: 400 !important;
+}

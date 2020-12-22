@@ -1,0 +1,64 @@
+@font-face {
+          font-family: Assistant;
+          font-style: normal;
+          font-weight: 200;
+          src: local("Assistant ExtraLight"),local(Assistant-ExtraLight),url(//fonts.gstatic.com/s/assistant/v5/2sDZZGJYnIjSi6H75xk7p0SsBJ0c.eot?#) format("eot"),url(//fonts.gstatic.com/s/assistant/v5/2sDZZGJYnIjSi6H75xk7p0SsBJ0Y.woff2) format("woff2"),url(//fonts.gstatic.com/s/assistant/v5/2sDZZGJYnIjSi6H75xk7p0SsBJ0e.woff) format("woff");
+}
+@font-face {
+          font-family: Assistant;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Assistant Light"),local(Assistant-Light),url(//fonts.gstatic.com/s/assistant/v5/2sDZZGJYnIjSi6H75xk7w0esBJ0c.eot?#) format("eot"),url(//fonts.gstatic.com/s/assistant/v5/2sDZZGJYnIjSi6H75xk7w0esBJ0Y.woff2) format("woff2"),url(//fonts.gstatic.com/s/assistant/v5/2sDZZGJYnIjSi6H75xk7w0esBJ0e.woff) format("woff");
+}
+@font-face {
+          font-family: Assistant;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Assistant),local(Assistant-Regular),url(//fonts.gstatic.com/s/assistant/v5/2sDcZGJYnIjSi6H75xkzaGW9.eot?#) format("eot"),url(//fonts.gstatic.com/s/assistant/v5/2sDcZGJYnIjSi6H75xkzaGW5.woff2) format("woff2"),url(//fonts.gstatic.com/s/assistant/v5/2sDcZGJYnIjSi6H75xkzaGW_.woff) format("woff");
+}
+@font-face {
+          font-family: Assistant;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Assistant SemiBold"),local(Assistant-SemiBold),url(//fonts.gstatic.com/s/assistant/v5/2sDZZGJYnIjSi6H75xk7t0GsBJ0c.eot?#) format("eot"),url(//fonts.gstatic.com/s/assistant/v5/2sDZZGJYnIjSi6H75xk7t0GsBJ0Y.woff2) format("woff2"),url(//fonts.gstatic.com/s/assistant/v5/2sDZZGJYnIjSi6H75xk7t0GsBJ0e.woff) format("woff");
+}
+@font-face {
+          font-family: Assistant;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Assistant Bold"),local(Assistant-Bold),url(//fonts.gstatic.com/s/assistant/v5/2sDZZGJYnIjSi6H75xk700CsBJ0c.eot?#) format("eot"),url(//fonts.gstatic.com/s/assistant/v5/2sDZZGJYnIjSi6H75xk700CsBJ0Y.woff2) format("woff2"),url(//fonts.gstatic.com/s/assistant/v5/2sDZZGJYnIjSi6H75xk700CsBJ0e.woff) format("woff");
+}
+@font-face {
+          font-family: Assistant;
+          font-style: normal;
+          font-weight: 800;
+          src: local("Assistant ExtraBold"),local(Assistant-ExtraBold),url(//fonts.gstatic.com/s/assistant/v5/2sDZZGJYnIjSi6H75xk7z0OsBJ0c.eot?#) format("eot"),url(//fonts.gstatic.com/s/assistant/v5/2sDZZGJYnIjSi6H75xk7z0OsBJ0Y.woff2) format("woff2"),url(//fonts.gstatic.com/s/assistant/v5/2sDZZGJYnIjSi6H75xk7z0OsBJ0e.woff) format("woff");
+}
+.u-font-assistant-200 {
+          font-family: 'Assistant' !important;
+          font-weight: 200 !important;
+}
+.u-font-assistant-300 {
+          font-family: 'Assistant' !important;
+          font-weight: 300 !important;
+}
+.u-font-assistant-400 {
+          font-family: 'Assistant' !important;
+          font-weight: 400 !important;
+}
+.u-font-assistant-500 {
+          font-family: 'Assistant' !important;
+          font-weight: 500 !important;
+}
+.u-font-assistant-600 {
+          font-family: 'Assistant' !important;
+          font-weight: 600 !important;
+}
+.u-font-assistant-700 {
+          font-family: 'Assistant' !important;
+          font-weight: 700 !important;
+}
+.u-font-assistant-800 {
+          font-family: 'Assistant' !important;
+          font-weight: 800 !important;
+}

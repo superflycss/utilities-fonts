@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Bahianita;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Bahianita Regular"),local(Bahianita-Regular),url(//fonts.gstatic.com/s/bahianita/v3/yYLr0hTb3vuqqsBUgxWdzDHQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/bahianita/v3/yYLr0hTb3vuqqsBUgxWdwjHU.woff2) format("woff2"),url(//fonts.gstatic.com/s/bahianita/v3/yYLr0hTb3vuqqsBUgxWdzDHS.woff) format("woff");
+}
+.u-font-bahianita-400 {
+          font-family: 'Bahianita' !important;
+          font-weight: 400 !important;
+}

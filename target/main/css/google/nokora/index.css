@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Nokora;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Nokora Regular"),local(Nokora-Regular),url(//fonts.gstatic.com/s/nokora/v14/hYkIPuwgTubzaWxQOg.eot?#) format("eot"),url(//fonts.gstatic.com/s/nokora/v14/hYkIPuwgTubzaWxgNzAOkvY.woff2) format("woff2"),url(//fonts.gstatic.com/s/nokora/v14/hYkIPuwgTubzaWxQOA.woff) format("woff");
+}
+@font-face {
+          font-family: Nokora;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Nokora Bold"),local(Nokora-Bold),url(//fonts.gstatic.com/s/nokora/v14/hYkLPuwgTubzaWxohxUrqw.eot?#) format("eot"),url(//fonts.gstatic.com/s/nokora/v14/hYkLPuwgTubzaWxohxUbptd9yB8.woff2) format("woff2"),url(//fonts.gstatic.com/s/nokora/v14/hYkLPuwgTubzaWxohxUrqQ.woff) format("woff");
+}
+.u-font-nokora-400 {
+          font-family: 'Nokora' !important;
+          font-weight: 400 !important;
+}
+.u-font-nokora-700 {
+          font-family: 'Nokora' !important;
+          font-weight: 700 !important;
+}

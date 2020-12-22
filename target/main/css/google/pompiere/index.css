@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Pompiere;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Pompiere "),local(Pompiere-Regular),url(//fonts.gstatic.com/s/pompiere/v10/VEMyRoxis5Dwuyeov5Wq7DU.eot?#) format("eot"),url(//fonts.gstatic.com/s/pompiere/v10/VEMyRoxis5Dwuyeov5Wq7DE.woff2) format("woff2"),url(//fonts.gstatic.com/s/pompiere/v10/VEMyRoxis5Dwuyeov5Wq7Dc.woff) format("woff");
+}
+.u-font-pompiere-400 {
+          font-family: 'Pompiere' !important;
+          font-weight: 400 !important;
+}

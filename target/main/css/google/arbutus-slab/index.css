@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Arbutus Slab";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Arbutus Slab Regular"),local(ArbutusSlab-Regular),url(//fonts.gstatic.com/s/arbutusslab/v9/oY1Z8e7OuLXkJGbXtr5ba7ZlYqUY.eot?#) format("eot"),url(//fonts.gstatic.com/s/arbutusslab/v9/oY1Z8e7OuLXkJGbXtr5ba7ZlbKUc.woff2) format("woff2"),url(//fonts.gstatic.com/s/arbutusslab/v9/oY1Z8e7OuLXkJGbXtr5ba7ZlYqUa.woff) format("woff");
+}
+.u-font-arbutus-slab-400 {
+          font-family: 'Arbutus Slab' !important;
+          font-weight: 400 !important;
+}

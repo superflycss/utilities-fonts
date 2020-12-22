@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Harmattan;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Harmattan),local(Harmattan-Regular),url(//fonts.gstatic.com/s/harmattan/v9/goksH6L2DkFvVvRp9XpjQkqm.eot?#) format("eot"),url(//fonts.gstatic.com/s/harmattan/v9/goksH6L2DkFvVvRp9XpjTEqi.woff2) format("woff2"),url(//fonts.gstatic.com/s/harmattan/v9/goksH6L2DkFvVvRp9XpjQkqk.woff) format("woff");
+}
+@font-face {
+          font-family: Harmattan;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Harmattan Bold"),local(Harmattan-Bold),url(//fonts.gstatic.com/s/harmattan/v9/gokpH6L2DkFvVvRp9Xpr92-3kdxB.eot?#) format("eot"),url(//fonts.gstatic.com/s/harmattan/v9/gokpH6L2DkFvVvRp9Xpr92-3n9xF.woff2) format("woff2"),url(//fonts.gstatic.com/s/harmattan/v9/gokpH6L2DkFvVvRp9Xpr92-3kdxD.woff) format("woff");
+}
+.u-font-harmattan-400 {
+          font-family: 'Harmattan' !important;
+          font-weight: 400 !important;
+}
+.u-font-harmattan-700 {
+          font-family: 'Harmattan' !important;
+          font-weight: 700 !important;
+}

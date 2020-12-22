@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Content;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Content),url(//fonts.gstatic.com/s/content/v13/zrfl0HLayePhU_AwUaE.eot?#) format("eot"),url(//fonts.gstatic.com/s/content/v13/zrfl0HLayePhU_AwYaz4IxL0.woff2) format("woff2"),url(//fonts.gstatic.com/s/content/v13/zrfl0HLayePhU_AwUaM.woff) format("woff");
+}
+@font-face {
+          font-family: Content;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Content Bold"),local(Content-Bold),url(//fonts.gstatic.com/s/content/v13/zrfg0HLayePhU_AwaRzdBis.eot?#) format("eot"),url(//fonts.gstatic.com/s/content/v13/zrfg0HLayePhU_AwaRzdNibVWRHv.woff2) format("woff2"),url(//fonts.gstatic.com/s/content/v13/zrfg0HLayePhU_AwaRzdBik.woff) format("woff");
+}
+.u-font-content-400 {
+          font-family: 'Content' !important;
+          font-weight: 400 !important;
+}
+.u-font-content-700 {
+          font-family: 'Content' !important;
+          font-weight: 700 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Tauri;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Tauri Regular"),local(Tauri-Regular),url(//fonts.gstatic.com/s/tauri/v9/TwMA-IISS0AM3LpcUnA.eot?#) format("eot"),url(//fonts.gstatic.com/s/tauri/v9/TwMA-IISS0AM3LpSUnQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/tauri/v9/TwMA-IISS0AM3LpcUnI.woff) format("woff");
+}
+.u-font-tauri-400 {
+          font-family: 'Tauri' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Goudy Bookletter 1911";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Goudy Bookletter 1911"),local(GoudyBookletter1911),url(//fonts.gstatic.com/s/goudybookletter1911/v10/sykt-z54laciWfKv-kX8krex0jDiD2HbY6IJshzS.eot?#) format("eot"),url(//fonts.gstatic.com/s/goudybookletter1911/v10/sykt-z54laciWfKv-kX8krex0jDiD2HbY6IJshzW.woff2) format("woff2"),url(//fonts.gstatic.com/s/goudybookletter1911/v10/sykt-z54laciWfKv-kX8krex0jDiD2HbY6IJshzQ.woff) format("woff");
+}
+.u-font-goudy-bookletter-1911-400 {
+          font-family: 'Goudy Bookletter 1911' !important;
+          font-weight: 400 !important;
+}

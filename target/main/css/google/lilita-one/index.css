@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Lilita One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Lilita One"),local(LilitaOne),url(//fonts.gstatic.com/s/lilitaone/v8/i7dPIFZ9Zz-WBtRtedDbYE98QQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/lilitaone/v8/i7dPIFZ9Zz-WBtRtedDbYEF8RQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/lilitaone/v8/i7dPIFZ9Zz-WBtRtedDbYE98Qw.woff) format("woff");
+}
+.u-font-lilita-one-400 {
+          font-family: 'Lilita One' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Gochi Hand";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Gochi Hand"),local(GochiHand-Regular),url(//fonts.gstatic.com/s/gochihand/v11/hES06XlsOjtJsgCkx1Pkfon__w.eot?#) format("eot"),url(//fonts.gstatic.com/s/gochihand/v11/hES06XlsOjtJsgCkx1Pkfon_-w.woff2) format("woff2"),url(//fonts.gstatic.com/s/gochihand/v11/hES06XlsOjtJsgCkx1Pkfon__Q.woff) format("woff");
+}
+.u-font-gochi-hand-400 {
+          font-family: 'Gochi Hand' !important;
+          font-weight: 400 !important;
+}

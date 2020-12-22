@@ -1,0 +1,70 @@
+@font-face {
+          font-family: "Noto Serif SC";
+          font-style: normal;
+          font-weight: 200;
+          src: local("Noto Serif SC ExtraLight"),local(NotoSerifSC-ExtraLight),url(//fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mm63ezdLFw.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mm63SzUpCNMKEN0nmGnGv-OMEQDgKS-k5SiuioPhBdQcziZZTQ.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mm63ezdLFQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Serif SC";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Noto Serif SC Light"),local(NotoSerifSC-Light),url(//fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mgq0ezdLFw.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mgq0SzUpCNMKEN0nmGnGv-OMEQDgKS-k5SiuioPhBdQcziZZTQ.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mgq0ezdLFQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Serif SC";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Noto Serif SC"),local(NotoSerifSC-Regular),url(//fonts.gstatic.com/s/notoserifsc/v7/H4chBXePl9DZ0Xe7gG9cyOj7kqGWag.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserifsc/v7/H4chBXePl9DZ0Xe7gG9cyOj7oqP0dTpxZbB9E9gjjmzKvaeKHUTtJDWv3z-us4bxD8F5og.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserifsc/v7/H4chBXePl9DZ0Xe7gG9cyOj7kqGWaA.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Serif SC";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Noto Serif SC Medium"),local(NotoSerifSC-Medium),url(//fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mlK1ezdLFw.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mlK1SzUpCNMKEN0nmGnGv-OMEQDgKS-k5SiuioPhBdQcziZZTQ.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mlK1ezdLFQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Serif SC";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Noto Serif SC SemiBold"),local(NotoSerifSC-SemiBold),url(//fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mn6yezdLFw.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mn6ySzUpCNMKEN0nmGnGv-OMEQDgKS-k5SiuioPhBdQcziZZTQ.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mn6yezdLFQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Serif SC";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Noto Serif SC Bold"),local(NotoSerifSC-Bold),url(//fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mhqzezdLFw.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mhqzSzUpCNMKEN0nmGnGv-OMEQDgKS-k5SiuioPhBdQcziZZTQ.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7mhqzezdLFQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Serif SC";
+          font-style: normal;
+          font-weight: 900;
+          src: local("Noto Serif SC Black"),local(NotoSerifSC-Black),url(//fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7miKxezdLFw.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7miKxSzUpCNMKEN0nmGnGv-OMEQDgKS-k5SiuioPhBdQcziZZTQ.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserifsc/v7/H4c8BXePl9DZ0Xe7gG9cyOj7miKxezdLFQ.woff) format("woff");
+}
+.u-font-noto-serif-sc-200 {
+          font-family: 'Noto Serif SC' !important;
+          font-weight: 200 !important;
+}
+.u-font-noto-serif-sc-300 {
+          font-family: 'Noto Serif SC' !important;
+          font-weight: 300 !important;
+}
+.u-font-noto-serif-sc-400 {
+          font-family: 'Noto Serif SC' !important;
+          font-weight: 400 !important;
+}
+.u-font-noto-serif-sc-500 {
+          font-family: 'Noto Serif SC' !important;
+          font-weight: 500 !important;
+}
+.u-font-noto-serif-sc-600 {
+          font-family: 'Noto Serif SC' !important;
+          font-weight: 600 !important;
+}
+.u-font-noto-serif-sc-700 {
+          font-family: 'Noto Serif SC' !important;
+          font-weight: 700 !important;
+}
+.u-font-noto-serif-sc-900 {
+          font-family: 'Noto Serif SC' !important;
+          font-weight: 900 !important;
+}

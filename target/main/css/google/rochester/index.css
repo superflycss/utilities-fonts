@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Rochester;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Rochester Regular"),local(Rochester-Regular),url(//fonts.gstatic.com/s/rochester/v11/6ae-4KCqVa4Zy6Fif-UC2FHT.eot?#) format("eot"),url(//fonts.gstatic.com/s/rochester/v11/6ae-4KCqVa4Zy6Fif-UC2FHX.woff2) format("woff2"),url(//fonts.gstatic.com/s/rochester/v11/6ae-4KCqVa4Zy6Fif-UC2FHR.woff) format("woff");
+}
+.u-font-rochester-400 {
+          font-family: 'Rochester' !important;
+          font-weight: 400 !important;
+}

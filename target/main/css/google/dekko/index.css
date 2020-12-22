@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Dekko;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Dekko),url(//fonts.gstatic.com/s/dekko/v7/46khlb_wWjfSrutMTU4.eot?#) format("eot"),url(//fonts.gstatic.com/s/dekko/v7/46khlb_wWjfSrutCTUo.woff2) format("woff2"),url(//fonts.gstatic.com/s/dekko/v7/46khlb_wWjfSrutMTUw.woff) format("woff");
+}
+.u-font-dekko-400 {
+          font-family: 'Dekko' !important;
+          font-weight: 400 !important;
+}

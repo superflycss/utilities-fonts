@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Rubik Mono One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Rubik Mono One Regular"),local(RubikMonoOne-Regular),url(//fonts.gstatic.com/s/rubikmonoone/v9/UqyJK8kPP3hjw6ANTdfRk9YSN985TKE.eot?#) format("eot"),url(//fonts.gstatic.com/s/rubikmonoone/v9/UqyJK8kPP3hjw6ANTdfRk9YSN983TKU.woff2) format("woff2"),url(//fonts.gstatic.com/s/rubikmonoone/v9/UqyJK8kPP3hjw6ANTdfRk9YSN985TKM.woff) format("woff");
+}
+.u-font-rubik-mono-one-400 {
+          font-family: 'Rubik Mono One' !important;
+          font-weight: 400 !important;
+}

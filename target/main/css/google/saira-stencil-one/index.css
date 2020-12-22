@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Saira Stencil One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Saira Stencil One Regular"),local(SairaStencilOne-Regular),url(//fonts.gstatic.com/s/sairastencilone/v2/SLXSc03I6HkvZGJ1GvvipLoYSTEL9DsFYQ0.eot?#) format("eot"),url(//fonts.gstatic.com/s/sairastencilone/v2/SLXSc03I6HkvZGJ1GvvipLoYSTEL9DsLYQk.woff2) format("woff2"),url(//fonts.gstatic.com/s/sairastencilone/v2/SLXSc03I6HkvZGJ1GvvipLoYSTEL9DsFYQ8.woff) format("woff");
+}
+.u-font-saira-stencil-one-400 {
+          font-family: 'Saira Stencil One' !important;
+          font-weight: 400 !important;
+}

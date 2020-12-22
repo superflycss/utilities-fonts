@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Diplomata;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Diplomata),local(Diplomata-Regular),url(//fonts.gstatic.com/s/diplomata/v12/Cn-0JtiMXwhNwp-wKxyvaWZd.eot?#) format("eot"),url(//fonts.gstatic.com/s/diplomata/v12/Cn-0JtiMXwhNwp-wKxyvZ2ZZ.woff2) format("woff2"),url(//fonts.gstatic.com/s/diplomata/v12/Cn-0JtiMXwhNwp-wKxyvaWZf.woff) format("woff");
+}
+.u-font-diplomata-400 {
+          font-family: 'Diplomata' !important;
+          font-weight: 400 !important;
+}

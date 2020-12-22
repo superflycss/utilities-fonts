@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Metal;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Metal),url(//fonts.gstatic.com/s/metal/v13/lW-wwjUJIXTo7i3m.eot?#) format("eot"),url(//fonts.gstatic.com/s/metal/v13/lW-wwjUJIXTo7h3rlIUwUQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/metal/v13/lW-wwjUJIXTo7i3k.woff) format("woff");
+}
+.u-font-metal-400 {
+          font-family: 'Metal' !important;
+          font-weight: 400 !important;
+}

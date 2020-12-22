@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Bowlby One SC";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Bowlby One SC Regular"),local(BowlbyOneSC-Regular),url(//fonts.gstatic.com/s/bowlbyonesc/v12/DtVlJxerQqQm37tzN3wMug9P_gH2pg.eot?#) format("eot"),url(//fonts.gstatic.com/s/bowlbyonesc/v12/DtVlJxerQqQm37tzN3wMug9P_g_2og.woff2) format("woff2"),url(//fonts.gstatic.com/s/bowlbyonesc/v12/DtVlJxerQqQm37tzN3wMug9P_gH2pA.woff) format("woff");
+}
+.u-font-bowlby-one-sc-400 {
+          font-family: 'Bowlby One SC' !important;
+          font-weight: 400 !important;
+}

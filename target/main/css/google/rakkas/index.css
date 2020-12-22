@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Rakkas;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Rakkas Regular"),local(Rakkas-Regular),url(//fonts.gstatic.com/s/rakkas/v9/Qw3cZQlNHiblL3jPn9FK.eot?#) format("eot"),url(//fonts.gstatic.com/s/rakkas/v9/Qw3cZQlNHiblL3jPkdFO.woff2) format("woff2"),url(//fonts.gstatic.com/s/rakkas/v9/Qw3cZQlNHiblL3jPn9FI.woff) format("woff");
+}
+.u-font-rakkas-400 {
+          font-family: 'Rakkas' !important;
+          font-weight: 400 !important;
+}

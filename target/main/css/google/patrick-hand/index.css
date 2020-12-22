@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Patrick Hand";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Patrick Hand"),local(PatrickHand-Regular),url(//fonts.gstatic.com/s/patrickhand/v14/LDI1apSQOAYtSuYWp8ZhfYe8UMLP.eot?#) format("eot"),url(//fonts.gstatic.com/s/patrickhand/v14/LDI1apSQOAYtSuYWp8ZhfYe8XsLL.woff2) format("woff2"),url(//fonts.gstatic.com/s/patrickhand/v14/LDI1apSQOAYtSuYWp8ZhfYe8UMLN.woff) format("woff");
+}
+.u-font-patrick-hand-400 {
+          font-family: 'Patrick Hand' !important;
+          font-weight: 400 !important;
+}

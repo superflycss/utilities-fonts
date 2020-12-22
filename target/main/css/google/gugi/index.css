@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Gugi;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Gugi Regular"),local(Gugi-Regular),url(//fonts.gstatic.com/s/gugi/v8/A2BVn5dXywshZAmK8Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/gugi/v8/A2BVn5dXywshVAvo4jMQ8c2HNvL_56t4zTCEuE6pbA.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/gugi/v8/A2BVn5dXywshZAmK8w.woff) format("woff");
+}
+.u-font-gugi-400 {
+          font-family: 'Gugi' !important;
+          font-weight: 400 !important;
+}

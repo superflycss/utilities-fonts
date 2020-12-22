@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Chela One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Chela One"),local(ChelaOne-Regular),url(//fonts.gstatic.com/s/chelaone/v9/6ae-4KC7Uqgdz_JZdPIC1lHT.eot?#) format("eot"),url(//fonts.gstatic.com/s/chelaone/v9/6ae-4KC7Uqgdz_JZdPIC2FHX.woff2) format("woff2"),url(//fonts.gstatic.com/s/chelaone/v9/6ae-4KC7Uqgdz_JZdPIC1lHR.woff) format("woff");
+}
+.u-font-chela-one-400 {
+          font-family: 'Chela One' !important;
+          font-weight: 400 !important;
+}

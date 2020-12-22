@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Kirang Haerang";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Kirang Haerang Regular"),local(KirangHaerang-Regular),url(//fonts.gstatic.com/s/kiranghaerang/v8/E21-_dn_gvvIjhYON1lpIU4-bfqoUvM.eot?#) format("eot"),url(//fonts.gstatic.com/s/kiranghaerang/v8/E21-_dn_gvvIjhYON1lpIU4-bcqqMOCLpPqGnVKCKlULbfuN6LAeqVI.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/kiranghaerang/v8/E21-_dn_gvvIjhYON1lpIU4-bfqoUvE.woff) format("woff");
+}
+.u-font-kirang-haerang-400 {
+          font-family: 'Kirang Haerang' !important;
+          font-weight: 400 !important;
+}

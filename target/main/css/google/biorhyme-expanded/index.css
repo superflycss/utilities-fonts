@@ -1,0 +1,50 @@
+@font-face {
+          font-family: "BioRhyme Expanded";
+          font-style: normal;
+          font-weight: 200;
+          src: local("BioRhyme Expanded ExtraLight"),local(BioRhymeExpanded-ExtraLight),url(//fonts.gstatic.com/s/biorhymeexpanded/v6/i7dVIE1zZzytGswgU577CDY9LjbffxxcbmSOQ9E.eot?#) format("eot"),url(//fonts.gstatic.com/s/biorhymeexpanded/v6/i7dVIE1zZzytGswgU577CDY9LjbffxxcbmSAQ9U.woff2) format("woff2"),url(//fonts.gstatic.com/s/biorhymeexpanded/v6/i7dVIE1zZzytGswgU577CDY9LjbffxxcbmSOQ9M.woff) format("woff");
+}
+@font-face {
+          font-family: "BioRhyme Expanded";
+          font-style: normal;
+          font-weight: 300;
+          src: local("BioRhyme Expanded Light"),local(BioRhymeExpanded-Light),url(//fonts.gstatic.com/s/biorhymeexpanded/v6/i7dVIE1zZzytGswgU577CDY9Ljbffxw4bWSOQ9E.eot?#) format("eot"),url(//fonts.gstatic.com/s/biorhymeexpanded/v6/i7dVIE1zZzytGswgU577CDY9Ljbffxw4bWSAQ9U.woff2) format("woff2"),url(//fonts.gstatic.com/s/biorhymeexpanded/v6/i7dVIE1zZzytGswgU577CDY9Ljbffxw4bWSOQ9M.woff) format("woff");
+}
+@font-face {
+          font-family: "BioRhyme Expanded";
+          font-style: normal;
+          font-weight: 400;
+          src: local("BioRhyme Expanded"),local(BioRhymeExpanded-Regular),url(//fonts.gstatic.com/s/biorhymeexpanded/v6/i7dQIE1zZzytGswgU577CDY9LjbffxSdT3U.eot?#) format("eot"),url(//fonts.gstatic.com/s/biorhymeexpanded/v6/i7dQIE1zZzytGswgU577CDY9LjbffxSTT3E.woff2) format("woff2"),url(//fonts.gstatic.com/s/biorhymeexpanded/v6/i7dQIE1zZzytGswgU577CDY9LjbffxSdT3c.woff) format("woff");
+}
+@font-face {
+          font-family: "BioRhyme Expanded";
+          font-style: normal;
+          font-weight: 700;
+          src: local("BioRhyme Expanded Bold"),local(BioRhymeExpanded-Bold),url(//fonts.gstatic.com/s/biorhymeexpanded/v6/i7dVIE1zZzytGswgU577CDY9LjbffxwoamSOQ9E.eot?#) format("eot"),url(//fonts.gstatic.com/s/biorhymeexpanded/v6/i7dVIE1zZzytGswgU577CDY9LjbffxwoamSAQ9U.woff2) format("woff2"),url(//fonts.gstatic.com/s/biorhymeexpanded/v6/i7dVIE1zZzytGswgU577CDY9LjbffxwoamSOQ9M.woff) format("woff");
+}
+@font-face {
+          font-family: "BioRhyme Expanded";
+          font-style: normal;
+          font-weight: 800;
+          src: local("BioRhyme Expanded ExtraBold"),local(BioRhymeExpanded-ExtraBold),url(//fonts.gstatic.com/s/biorhymeexpanded/v6/i7dVIE1zZzytGswgU577CDY9Ljbffxw0aWSOQ9E.eot?#) format("eot"),url(//fonts.gstatic.com/s/biorhymeexpanded/v6/i7dVIE1zZzytGswgU577CDY9Ljbffxw0aWSAQ9U.woff2) format("woff2"),url(//fonts.gstatic.com/s/biorhymeexpanded/v6/i7dVIE1zZzytGswgU577CDY9Ljbffxw0aWSOQ9M.woff) format("woff");
+}
+.u-font-biorhyme-expanded-200 {
+          font-family: 'BioRhyme Expanded' !important;
+          font-weight: 200 !important;
+}
+.u-font-biorhyme-expanded-300 {
+          font-family: 'BioRhyme Expanded' !important;
+          font-weight: 300 !important;
+}
+.u-font-biorhyme-expanded-400 {
+          font-family: 'BioRhyme Expanded' !important;
+          font-weight: 400 !important;
+}
+.u-font-biorhyme-expanded-700 {
+          font-family: 'BioRhyme Expanded' !important;
+          font-weight: 700 !important;
+}
+.u-font-biorhyme-expanded-800 {
+          font-family: 'BioRhyme Expanded' !important;
+          font-weight: 800 !important;
+}

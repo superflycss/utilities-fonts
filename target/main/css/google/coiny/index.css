@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Coiny;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Coiny Regular"),local(Coiny-Regular),url(//fonts.gstatic.com/s/coiny/v6/gyByhwU1K989PUwSGFE.eot?#) format("eot"),url(//fonts.gstatic.com/s/coiny/v6/gyByhwU1K989PUwcGFU.woff2) format("woff2"),url(//fonts.gstatic.com/s/coiny/v6/gyByhwU1K989PUwSGFM.woff) format("woff");
+}
+.u-font-coiny-400 {
+          font-family: 'Coiny' !important;
+          font-weight: 400 !important;
+}

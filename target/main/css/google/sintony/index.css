@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Sintony;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Sintony),url(//fonts.gstatic.com/s/sintony/v8/XoHm2YDqR7-98cVUET0tvg.eot?#) format("eot"),url(//fonts.gstatic.com/s/sintony/v8/XoHm2YDqR7-98cVUETMtug.woff2) format("woff2"),url(//fonts.gstatic.com/s/sintony/v8/XoHm2YDqR7-98cVUET0tvA.woff) format("woff");
+}
+@font-face {
+          font-family: Sintony;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Sintony Bold"),local(Sintony-Bold),url(//fonts.gstatic.com/s/sintony/v8/XoHj2YDqR7-98cVUGYgIr94Jlw.eot?#) format("eot"),url(//fonts.gstatic.com/s/sintony/v8/XoHj2YDqR7-98cVUGYgIr9AJkw.woff2) format("woff2"),url(//fonts.gstatic.com/s/sintony/v8/XoHj2YDqR7-98cVUGYgIr94JlQ.woff) format("woff");
+}
+.u-font-sintony-400 {
+          font-family: 'Sintony' !important;
+          font-weight: 400 !important;
+}
+.u-font-sintony-700 {
+          font-family: 'Sintony' !important;
+          font-weight: 700 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Libre Barcode 39 Extended";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Libre Barcode 39 Extended"),local(LibreBarcode39Extended-Regular),url(//fonts.gstatic.com/s/librebarcode39extended/v9/8At7Gt6_O5yNS0-K4Nf5U922qSzhJ3dUdfJpwNUgTNNIPA.eot?#) format("eot"),url(//fonts.gstatic.com/s/librebarcode39extended/v9/8At7Gt6_O5yNS0-K4Nf5U922qSzhJ3dUdfJpwNUgTNNIOA.woff2) format("woff2"),url(//fonts.gstatic.com/s/librebarcode39extended/v9/8At7Gt6_O5yNS0-K4Nf5U922qSzhJ3dUdfJpwNUgTNNIPg.woff) format("woff");
+}
+.u-font-libre-barcode-39-extended-400 {
+          font-family: 'Libre Barcode 39 Extended' !important;
+          font-weight: 400 !important;
+}

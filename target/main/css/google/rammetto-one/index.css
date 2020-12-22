@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Rammetto One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Rammetto One Regular"),local(RammettoOne-Regular),url(//fonts.gstatic.com/s/rammettoone/v9/LhWiMV3HOfMbMetJG3lQDppNO_GZ.eot?#) format("eot"),url(//fonts.gstatic.com/s/rammettoone/v9/LhWiMV3HOfMbMetJG3lQDppNNfGd.woff2) format("woff2"),url(//fonts.gstatic.com/s/rammettoone/v9/LhWiMV3HOfMbMetJG3lQDppNO_Gb.woff) format("woff");
+}
+.u-font-rammetto-one-400 {
+          font-family: 'Rammetto One' !important;
+          font-weight: 400 !important;
+}

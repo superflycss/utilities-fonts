@@ -1,0 +1,30 @@
+@font-face {
+          font-family: Kantumruy;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Kantumruy Light"),local(KantumruyLight),url(//fonts.gstatic.com/s/kantumruy/v8/syk0-yJ0m7wyVb-f4FOPUtDlpw.eot?#) format("eot"),url(//fonts.gstatic.com/s/kantumruy/v8/syk0-yJ0m7wyVb-f4FOPUtDVqnWVF1E.woff2) format("woff2"),url(//fonts.gstatic.com/s/kantumruy/v8/syk0-yJ0m7wyVb-f4FOPUtDlpQ.woff) format("woff");
+}
+@font-face {
+          font-family: Kantumruy;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Kantumruy),url(//fonts.gstatic.com/s/kantumruy/v8/sykx-yJ0m7wyVb-f4FO3_w.eot?#) format("eot"),url(//fonts.gstatic.com/s/kantumruy/v8/sykx-yJ0m7wyVb-f4FOH8vLAnlQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/kantumruy/v8/sykx-yJ0m7wyVb-f4FO3_Q.woff) format("woff");
+}
+@font-face {
+          font-family: Kantumruy;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Kantumruy Bold"),local(Kantumruy-Bold),url(//fonts.gstatic.com/s/kantumruy/v8/syk0-yJ0m7wyVb-f4FOPQtflpw.eot?#) format("eot"),url(//fonts.gstatic.com/s/kantumruy/v8/syk0-yJ0m7wyVb-f4FOPQtfVqnWVF1E.woff2) format("woff2"),url(//fonts.gstatic.com/s/kantumruy/v8/syk0-yJ0m7wyVb-f4FOPQtflpQ.woff) format("woff");
+}
+.u-font-kantumruy-300 {
+          font-family: 'Kantumruy' !important;
+          font-weight: 300 !important;
+}
+.u-font-kantumruy-400 {
+          font-family: 'Kantumruy' !important;
+          font-weight: 400 !important;
+}
+.u-font-kantumruy-700 {
+          font-family: 'Kantumruy' !important;
+          font-weight: 700 !important;
+}

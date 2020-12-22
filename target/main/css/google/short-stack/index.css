@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Short Stack";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Short Stack"),local(ShortStack),url(//fonts.gstatic.com/s/shortstack/v10/bMrzmS2X6p0jZC6EcmPFX9SVe3o.eot?#) format("eot"),url(//fonts.gstatic.com/s/shortstack/v10/bMrzmS2X6p0jZC6EcmPFX9SVe34.woff2) format("woff2"),url(//fonts.gstatic.com/s/shortstack/v10/bMrzmS2X6p0jZC6EcmPFX9SVe3g.woff) format("woff");
+}
+.u-font-short-stack-400 {
+          font-family: 'Short Stack' !important;
+          font-weight: 400 !important;
+}

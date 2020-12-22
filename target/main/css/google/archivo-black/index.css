@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Archivo Black";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Archivo Black Regular"),local(ArchivoBlack-Regular),url(//fonts.gstatic.com/s/archivoblack/v10/HTxqL289NzCGg4MzN6KJ7eW6CYKF-g.eot?#) format("eot"),url(//fonts.gstatic.com/s/archivoblack/v10/HTxqL289NzCGg4MzN6KJ7eW6CYyF_g.woff2) format("woff2"),url(//fonts.gstatic.com/s/archivoblack/v10/HTxqL289NzCGg4MzN6KJ7eW6CYKF-A.woff) format("woff");
+}
+.u-font-archivo-black-400 {
+          font-family: 'Archivo Black' !important;
+          font-weight: 400 !important;
+}

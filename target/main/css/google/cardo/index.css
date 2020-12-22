@@ -1,0 +1,31 @@
+@font-face {
+          font-family: Cardo;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Cardo Italic"),local(Cardo-Italic),url(//fonts.gstatic.com/s/cardo/v13/wlpxgwjKBV1pqhv97I0x2A.eot?#) format("eot"),url(//fonts.gstatic.com/s/cardo/v13/wlpxgwjKBV1pqhv97IMx3A.woff2) format("woff2"),url(//fonts.gstatic.com/s/cardo/v13/wlpxgwjKBV1pqhv97I0x2g.woff) format("woff");
+}
+@font-face {
+          font-family: Cardo;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Cardo),local(Cardo-Regular),url(//fonts.gstatic.com/s/cardo/v13/wlp_gwjKBV1pqhv23IU.eot?#) format("eot"),url(//fonts.gstatic.com/s/cardo/v13/wlp_gwjKBV1pqhv43IE.woff2) format("woff2"),url(//fonts.gstatic.com/s/cardo/v13/wlp_gwjKBV1pqhv23Ic.woff) format("woff");
+}
+@font-face {
+          font-family: Cardo;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Cardo Bold"),local(Cardo-Bold),url(//fonts.gstatic.com/s/cardo/v13/wlpygwjKBV1pqhND-ZQY-Wc.eot?#) format("eot"),url(//fonts.gstatic.com/s/cardo/v13/wlpygwjKBV1pqhND-ZQW-WM.woff2) format("woff2"),url(//fonts.gstatic.com/s/cardo/v13/wlpygwjKBV1pqhND-ZQY-WU.woff) format("woff");
+}
+.u-font-cardo-400 {
+          font-family: 'Cardo' !important;
+          font-weight: 400 !important;
+}
+.u-font-cardo-400-italic {
+        font-family: 'Cardo' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-cardo-700 {
+          font-family: 'Cardo' !important;
+          font-weight: 700 !important;
+}

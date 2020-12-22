@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Crushed;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Crushed Regular"),local(Crushed-Regular),url(//fonts.gstatic.com/s/crushed/v11/U9Mc6dym6WXImTlFf14VvQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/crushed/v11/U9Mc6dym6WXImTlFf14VuQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/crushed/v11/U9Mc6dym6WXImTlFf14Vvw.woff) format("woff");
+}
+.u-font-crushed-400 {
+          font-family: 'Crushed' !important;
+          font-weight: 400 !important;
+}

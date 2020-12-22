@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Chelsea Market";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Chelsea Market"),local(ChelseaMarket-Regular),url(//fonts.gstatic.com/s/chelseamarket/v8/BCawqZsHqfr89WNP_IApC8tzKChsJgs.eot?#) format("eot"),url(//fonts.gstatic.com/s/chelseamarket/v8/BCawqZsHqfr89WNP_IApC8tzKChiJg8.woff2) format("woff2"),url(//fonts.gstatic.com/s/chelseamarket/v8/BCawqZsHqfr89WNP_IApC8tzKChsJgk.woff) format("woff");
+}
+.u-font-chelsea-market-400 {
+          font-family: 'Chelsea Market' !important;
+          font-weight: 400 !important;
+}

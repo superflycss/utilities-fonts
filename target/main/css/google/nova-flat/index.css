@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Nova Flat";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Nova Flat"),local(NovaFlat),url(//fonts.gstatic.com/s/novaflat/v12/QdVUSTc-JgqpytEbVeb0viFh.eot?#) format("eot"),url(//fonts.gstatic.com/s/novaflat/v12/QdVUSTc-JgqpytEbVeb0viFl.woff2) format("woff2"),url(//fonts.gstatic.com/s/novaflat/v12/QdVUSTc-JgqpytEbVeb0viFj.woff) format("woff");
+}
+.u-font-nova-flat-400 {
+          font-family: 'Nova Flat' !important;
+          font-weight: 400 !important;
+}

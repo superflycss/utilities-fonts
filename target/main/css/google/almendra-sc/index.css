@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Almendra SC";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Almendra SC Regular"),local(AlmendraSC-Regular),url(//fonts.gstatic.com/s/almendrasc/v11/Iure6Yx284eebowr7hbyTaZOrLA.eot?#) format("eot"),url(//fonts.gstatic.com/s/almendrasc/v11/Iure6Yx284eebowr7hbyTaZOrLQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/almendrasc/v11/Iure6Yx284eebowr7hbyTaZOrLI.woff) format("woff");
+}
+.u-font-almendra-sc-400 {
+          font-family: 'Almendra SC' !important;
+          font-weight: 400 !important;
+}

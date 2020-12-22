@@ -1,0 +1,20 @@
+@font-face {
+          font-family: "Aref Ruqaa";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Aref Ruqaa Regular"),local(ArefRuqaa-Regular),url(//fonts.gstatic.com/s/arefruqaa/v10/WwkbxPW1E165rajQKDulIIcoUQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/arefruqaa/v10/WwkbxPW1E165rajQKDulIIcoVQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/arefruqaa/v10/WwkbxPW1E165rajQKDulIIcoUw.woff) format("woff");
+}
+@font-face {
+          font-family: "Aref Ruqaa";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Aref Ruqaa Bold"),local(ArefRuqaa-Bold),url(//fonts.gstatic.com/s/arefruqaa/v10/WwkYxPW1E165rajQKDulKDwNQNUY3Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/arefruqaa/v10/WwkYxPW1E165rajQKDulKDwNQNUY2Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/arefruqaa/v10/WwkYxPW1E165rajQKDulKDwNQNUY3w.woff) format("woff");
+}
+.u-font-aref-ruqaa-400 {
+          font-family: 'Aref Ruqaa' !important;
+          font-weight: 400 !important;
+}
+.u-font-aref-ruqaa-700 {
+          font-family: 'Aref Ruqaa' !important;
+          font-weight: 700 !important;
+}

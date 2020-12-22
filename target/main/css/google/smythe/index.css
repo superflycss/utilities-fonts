@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Smythe;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Smythe),url(//fonts.gstatic.com/s/smythe/v11/MwQ3bhT01--coT1xP7J6.eot?#) format("eot"),url(//fonts.gstatic.com/s/smythe/v11/MwQ3bhT01--coT1xP7J-.woff2) format("woff2"),url(//fonts.gstatic.com/s/smythe/v11/MwQ3bhT01--coT1xP7J4.woff) format("woff");
+}
+.u-font-smythe-400 {
+          font-family: 'Smythe' !important;
+          font-weight: 400 !important;
+}

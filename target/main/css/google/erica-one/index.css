@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Erica One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Erica One"),local(EricaOne-Regular),url(//fonts.gstatic.com/s/ericaone/v11/WBLnrEXccV9VGrOKmGDFUkXJ.eot?#) format("eot"),url(//fonts.gstatic.com/s/ericaone/v11/WBLnrEXccV9VGrOKmGDFXEXN.woff2) format("woff2"),url(//fonts.gstatic.com/s/ericaone/v11/WBLnrEXccV9VGrOKmGDFUkXL.woff) format("woff");
+}
+.u-font-erica-one-400 {
+          font-family: 'Erica One' !important;
+          font-weight: 400 !important;
+}

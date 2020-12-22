@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Butterfly Kids";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Butterfly Kids Regular"),local(ButterflyKids-Regular),url(//fonts.gstatic.com/s/butterflykids/v9/ll8lK2CWTjuqAsXDqlnIbMNs5R4TpRQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/butterflykids/v9/ll8lK2CWTjuqAsXDqlnIbMNs5R4dpRA.woff2) format("woff2"),url(//fonts.gstatic.com/s/butterflykids/v9/ll8lK2CWTjuqAsXDqlnIbMNs5R4TpRY.woff) format("woff");
+}
+.u-font-butterfly-kids-400 {
+          font-family: 'Butterfly Kids' !important;
+          font-weight: 400 !important;
+}

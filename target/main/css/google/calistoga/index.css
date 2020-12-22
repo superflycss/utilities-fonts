@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Calistoga;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Calistoga Regular"),local(Calistoga-Regular),url(//fonts.gstatic.com/s/calistoga/v2/6NUU8F2OJg6MeR7l4e0fvcwF.eot?#) format("eot"),url(//fonts.gstatic.com/s/calistoga/v2/6NUU8F2OJg6MeR7l4e0fs8wB.woff2) format("woff2"),url(//fonts.gstatic.com/s/calistoga/v2/6NUU8F2OJg6MeR7l4e0fvcwH.woff) format("woff");
+}
+.u-font-calistoga-400 {
+          font-family: 'Calistoga' !important;
+          font-weight: 400 !important;
+}

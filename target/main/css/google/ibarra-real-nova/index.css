@@ -1,0 +1,72 @@
+@font-face {
+          font-family: "Ibarra Real Nova";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Ibarra Real Nova Italic"),local(IbarraRealNova-Italic),url(//fonts.gstatic.com/s/ibarrarealnova/v4/sZlZdQiA-DBIDCcaWtQzL4BZHoiDkH5oHfRu.eot?#) format("eot"),url(//fonts.gstatic.com/s/ibarrarealnova/v4/sZlZdQiA-DBIDCcaWtQzL4BZHoiDkH5oE_Rq.woff2) format("woff2"),url(//fonts.gstatic.com/s/ibarrarealnova/v4/sZlZdQiA-DBIDCcaWtQzL4BZHoiDkH5oHfRs.woff) format("woff");
+}
+@font-face {
+          font-family: "Ibarra Real Nova";
+          font-style: italic;
+          font-weight: 600;
+          src: local("Ibarra Real Nova SemiBold Italic"),local(IbarraRealNova-SemiBoldItalic),url(//fonts.gstatic.com/s/ibarrarealnova/v4/sZladQiA-DBIDCcaWtQzL4BZHoiDkH5gzNB_P8Bj.eot?#) format("eot"),url(//fonts.gstatic.com/s/ibarrarealnova/v4/sZladQiA-DBIDCcaWtQzL4BZHoiDkH5gzNB_McBn.woff2) format("woff2"),url(//fonts.gstatic.com/s/ibarrarealnova/v4/sZladQiA-DBIDCcaWtQzL4BZHoiDkH5gzNB_P8Bh.woff) format("woff");
+}
+@font-face {
+          font-family: "Ibarra Real Nova";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Ibarra Real Nova Bold Italic"),local(IbarraRealNova-BoldItalic),url(//fonts.gstatic.com/s/ibarrarealnova/v4/sZladQiA-DBIDCcaWtQzL4BZHoiDkH5gqNF_P8Bj.eot?#) format("eot"),url(//fonts.gstatic.com/s/ibarrarealnova/v4/sZladQiA-DBIDCcaWtQzL4BZHoiDkH5gqNF_McBn.woff2) format("woff2"),url(//fonts.gstatic.com/s/ibarrarealnova/v4/sZladQiA-DBIDCcaWtQzL4BZHoiDkH5gqNF_P8Bh.woff) format("woff");
+}
+@font-face {
+          font-family: "Ibarra Real Nova";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Ibarra Real Nova Regular"),local(IbarraRealNova-Regular),url(//fonts.gstatic.com/s/ibarrarealnova/v4/sZlfdQiA-DBIDCcaWtQzL4BZHoiDkHVYFQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/ibarrarealnova/v4/sZlfdQiA-DBIDCcaWtQzL4BZHoiDkHtYEQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/ibarrarealnova/v4/sZlfdQiA-DBIDCcaWtQzL4BZHoiDkHVYFw.woff) format("woff");
+}
+@font-face {
+          font-family: "Ibarra Real Nova";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Ibarra Real Nova SemiBold"),local(IbarraRealNova-SemiBold),url(//fonts.gstatic.com/s/ibarrarealnova/v4/sZlYdQiA-DBIDCcaWtQzL4BZHoiDmKR8BN1PNw.eot?#) format("eot"),url(//fonts.gstatic.com/s/ibarrarealnova/v4/sZlYdQiA-DBIDCcaWtQzL4BZHoiDmKR8BNNPMw.woff2) format("woff2"),url(//fonts.gstatic.com/s/ibarrarealnova/v4/sZlYdQiA-DBIDCcaWtQzL4BZHoiDmKR8BN1PNQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Ibarra Real Nova";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Ibarra Real Nova Bold"),local(IbarraRealNova-Bold),url(//fonts.gstatic.com/s/ibarrarealnova/v4/sZlYdQiA-DBIDCcaWtQzL4BZHoiDmMB9BN1PNw.eot?#) format("eot"),url(//fonts.gstatic.com/s/ibarrarealnova/v4/sZlYdQiA-DBIDCcaWtQzL4BZHoiDmMB9BNNPMw.woff2) format("woff2"),url(//fonts.gstatic.com/s/ibarrarealnova/v4/sZlYdQiA-DBIDCcaWtQzL4BZHoiDmMB9BN1PNQ.woff) format("woff");
+}
+.u-font-ibarra-real-nova-400 {
+          font-family: 'Ibarra Real Nova' !important;
+          font-weight: 400 !important;
+}
+.u-font-ibarra-real-nova-500 {
+          font-family: 'Ibarra Real Nova' !important;
+          font-weight: 500 !important;
+}
+.u-font-ibarra-real-nova-600 {
+          font-family: 'Ibarra Real Nova' !important;
+          font-weight: 600 !important;
+}
+.u-font-ibarra-real-nova-700 {
+          font-family: 'Ibarra Real Nova' !important;
+          font-weight: 700 !important;
+}
+.u-font-ibarra-real-nova-400-italic {
+        font-family: 'Ibarra Real Nova' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-ibarra-real-nova-500-italic {
+        font-family: 'Ibarra Real Nova' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-ibarra-real-nova-600-italic {
+        font-family: 'Ibarra Real Nova' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-ibarra-real-nova-700-italic {
+        font-family: 'Ibarra Real Nova' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Covered By Your Grace";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Covered By Your Grace"),local(CoveredByYourGrace),url(//fonts.gstatic.com/s/coveredbyyourgrace/v10/QGYwz-AZahWOJJI9kykWW9mD6opopoqXSOSEEQgo.eot?#) format("eot"),url(//fonts.gstatic.com/s/coveredbyyourgrace/v10/QGYwz-AZahWOJJI9kykWW9mD6opopoqXSOSEEQgs.woff2) format("woff2"),url(//fonts.gstatic.com/s/coveredbyyourgrace/v10/QGYwz-AZahWOJJI9kykWW9mD6opopoqXSOSEEQgq.woff) format("woff");
+}
+.u-font-covered-by-your-grace-400 {
+          font-family: 'Covered By Your Grace' !important;
+          font-weight: 400 !important;
+}

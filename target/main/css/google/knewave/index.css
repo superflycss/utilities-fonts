@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Knewave;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Knewave),local(Knewave-Regular),url(//fonts.gstatic.com/s/knewave/v9/sykz-yx0lLcxQaSIhSO3_w.eot?#) format("eot"),url(//fonts.gstatic.com/s/knewave/v9/sykz-yx0lLcxQaSIhS23-w.woff2) format("woff2"),url(//fonts.gstatic.com/s/knewave/v9/sykz-yx0lLcxQaSIhSO3_Q.woff) format("woff");
+}
+.u-font-knewave-400 {
+          font-family: 'Knewave' !important;
+          font-weight: 400 !important;
+}

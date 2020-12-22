@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Kavoon;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Kavoon),local(Kavoon-Regular),url(//fonts.gstatic.com/s/kavoon/v9/pxiFyp4_scRYhlUIPbD_.eot?#) format("eot"),url(//fonts.gstatic.com/s/kavoon/v9/pxiFyp4_scRYhlUIM7D7.woff2) format("woff2"),url(//fonts.gstatic.com/s/kavoon/v9/pxiFyp4_scRYhlUIPbD9.woff) format("woff");
+}
+.u-font-kavoon-400 {
+          font-family: 'Kavoon' !important;
+          font-weight: 400 !important;
+}

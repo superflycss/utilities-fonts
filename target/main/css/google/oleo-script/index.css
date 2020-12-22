@@ -1,0 +1,20 @@
+@font-face {
+          font-family: "Oleo Script";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Oleo Script"),local(OleoScript-Regular),url(//fonts.gstatic.com/s/oleoscript/v9/rax5HieDvtMOe0iICsUccChTu0s.eot?#) format("eot"),url(//fonts.gstatic.com/s/oleoscript/v9/rax5HieDvtMOe0iICsUccChdu08.woff2) format("woff2"),url(//fonts.gstatic.com/s/oleoscript/v9/rax5HieDvtMOe0iICsUccChTu0k.woff) format("woff");
+}
+@font-face {
+          font-family: "Oleo Script";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Oleo Script Bold"),local(OleoScript-Bold),url(//fonts.gstatic.com/s/oleoscript/v9/raxkHieDvtMOe0iICsUccCDmnlrR0T8.eot?#) format("eot"),url(//fonts.gstatic.com/s/oleoscript/v9/raxkHieDvtMOe0iICsUccCDmnlrf0Ts.woff2) format("woff2"),url(//fonts.gstatic.com/s/oleoscript/v9/raxkHieDvtMOe0iICsUccCDmnlrR0T0.woff) format("woff");
+}
+.u-font-oleo-script-400 {
+          font-family: 'Oleo Script' !important;
+          font-weight: 400 !important;
+}
+.u-font-oleo-script-700 {
+          font-family: 'Oleo Script' !important;
+          font-weight: 700 !important;
+}

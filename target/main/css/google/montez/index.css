@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Montez;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Montez Regular"),local(Montez-Regular),url(//fonts.gstatic.com/s/montez/v11/845ZNMk5GoGIX8lW07rb.eot?#) format("eot"),url(//fonts.gstatic.com/s/montez/v11/845ZNMk5GoGIX8lW07rf.woff2) format("woff2"),url(//fonts.gstatic.com/s/montez/v11/845ZNMk5GoGIX8lW07rZ.woff) format("woff");
+}
+.u-font-montez-400 {
+          font-family: 'Montez' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Bentham;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Bentham Regular"),local(Bentham-Regular),url(//fonts.gstatic.com/s/bentham/v11/VdGeAZQPEpYfmHglGWsxDQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/bentham/v11/VdGeAZQPEpYfmHglGWsxCQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/bentham/v11/VdGeAZQPEpYfmHglGWsxDw.woff) format("woff");
+}
+.u-font-bentham-400 {
+          font-family: 'Bentham' !important;
+          font-weight: 400 !important;
+}

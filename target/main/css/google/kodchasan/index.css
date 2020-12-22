@@ -1,0 +1,126 @@
+@font-face {
+          font-family: Kodchasan;
+          font-style: italic;
+          font-weight: 200;
+          src: local("Kodchasan ExtraLight Italic"),local(Kodchasan-ExtraLightItalic),url(//fonts.gstatic.com/s/kodchasan/v4/1cXqaUPOAJv9sG4I-DJWjUlIgNCl9eM.eot?#) format("eot"),url(//fonts.gstatic.com/s/kodchasan/v4/1cXqaUPOAJv9sG4I-DJWjUlIgNCr9ec.woff2) format("woff2"),url(//fonts.gstatic.com/s/kodchasan/v4/1cXqaUPOAJv9sG4I-DJWjUlIgNCl9eE.woff) format("woff");
+}
+@font-face {
+          font-family: Kodchasan;
+          font-style: italic;
+          font-weight: 300;
+          src: local("Kodchasan Light Italic"),local(Kodchasan-LightItalic),url(//fonts.gstatic.com/s/kodchasan/v4/1cXqaUPOAJv9sG4I-DJWjUksg9Cl9eM.eot?#) format("eot"),url(//fonts.gstatic.com/s/kodchasan/v4/1cXqaUPOAJv9sG4I-DJWjUksg9Cr9ec.woff2) format("woff2"),url(//fonts.gstatic.com/s/kodchasan/v4/1cXqaUPOAJv9sG4I-DJWjUksg9Cl9eE.woff) format("woff");
+}
+@font-face {
+          font-family: Kodchasan;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Kodchasan Italic"),local(Kodchasan-Italic),url(//fonts.gstatic.com/s/kodchasan/v4/1cX3aUPOAJv9sG4I-DJWjUGJocE.eot?#) format("eot"),url(//fonts.gstatic.com/s/kodchasan/v4/1cX3aUPOAJv9sG4I-DJWjUGHocU.woff2) format("woff2"),url(//fonts.gstatic.com/s/kodchasan/v4/1cX3aUPOAJv9sG4I-DJWjUGJocM.woff) format("woff");
+}
+@font-face {
+          font-family: Kodchasan;
+          font-style: italic;
+          font-weight: 500;
+          src: local("Kodchasan Medium Italic"),local(Kodchasan-MediumItalic),url(//fonts.gstatic.com/s/kodchasan/v4/1cXqaUPOAJv9sG4I-DJWjUl0gtCl9eM.eot?#) format("eot"),url(//fonts.gstatic.com/s/kodchasan/v4/1cXqaUPOAJv9sG4I-DJWjUl0gtCr9ec.woff2) format("woff2"),url(//fonts.gstatic.com/s/kodchasan/v4/1cXqaUPOAJv9sG4I-DJWjUl0gtCl9eE.woff) format("woff");
+}
+@font-face {
+          font-family: Kodchasan;
+          font-style: italic;
+          font-weight: 600;
+          src: local("Kodchasan SemiBold Italic"),local(Kodchasan-SemiBoldItalic),url(//fonts.gstatic.com/s/kodchasan/v4/1cXqaUPOAJv9sG4I-DJWjUlYhdCl9eM.eot?#) format("eot"),url(//fonts.gstatic.com/s/kodchasan/v4/1cXqaUPOAJv9sG4I-DJWjUlYhdCr9ec.woff2) format("woff2"),url(//fonts.gstatic.com/s/kodchasan/v4/1cXqaUPOAJv9sG4I-DJWjUlYhdCl9eE.woff) format("woff");
+}
+@font-face {
+          font-family: Kodchasan;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Kodchasan Bold Italic"),local(Kodchasan-BoldItalic),url(//fonts.gstatic.com/s/kodchasan/v4/1cXqaUPOAJv9sG4I-DJWjUk8hNCl9eM.eot?#) format("eot"),url(//fonts.gstatic.com/s/kodchasan/v4/1cXqaUPOAJv9sG4I-DJWjUk8hNCr9ec.woff2) format("woff2"),url(//fonts.gstatic.com/s/kodchasan/v4/1cXqaUPOAJv9sG4I-DJWjUk8hNCl9eE.woff) format("woff");
+}
+@font-face {
+          font-family: Kodchasan;
+          font-style: normal;
+          font-weight: 200;
+          src: local("Kodchasan ExtraLight"),local(Kodchasan-ExtraLight),url(//fonts.gstatic.com/s/kodchasan/v4/1cX0aUPOAJv9sG4I-DJeR1CQiOCt.eot?#) format("eot"),url(//fonts.gstatic.com/s/kodchasan/v4/1cX0aUPOAJv9sG4I-DJeR1CQhuCp.woff2) format("woff2"),url(//fonts.gstatic.com/s/kodchasan/v4/1cX0aUPOAJv9sG4I-DJeR1CQiOCv.woff) format("woff");
+}
+@font-face {
+          font-family: Kodchasan;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Kodchasan Light"),local(Kodchasan-Light),url(//fonts.gstatic.com/s/kodchasan/v4/1cX0aUPOAJv9sG4I-DJeI1OQiOCt.eot?#) format("eot"),url(//fonts.gstatic.com/s/kodchasan/v4/1cX0aUPOAJv9sG4I-DJeI1OQhuCp.woff2) format("woff2"),url(//fonts.gstatic.com/s/kodchasan/v4/1cX0aUPOAJv9sG4I-DJeI1OQiOCv.woff) format("woff");
+}
+@font-face {
+          font-family: Kodchasan;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Kodchasan Regular"),local(Kodchasan-Regular),url(//fonts.gstatic.com/s/kodchasan/v4/1cXxaUPOAJv9sG4I-DJWhnGB.eot?#) format("eot"),url(//fonts.gstatic.com/s/kodchasan/v4/1cXxaUPOAJv9sG4I-DJWiHGF.woff2) format("woff2"),url(//fonts.gstatic.com/s/kodchasan/v4/1cXxaUPOAJv9sG4I-DJWhnGD.woff) format("woff");
+}
+@font-face {
+          font-family: Kodchasan;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Kodchasan Medium"),local(Kodchasan-Medium),url(//fonts.gstatic.com/s/kodchasan/v4/1cX0aUPOAJv9sG4I-DJee1KQiOCt.eot?#) format("eot"),url(//fonts.gstatic.com/s/kodchasan/v4/1cX0aUPOAJv9sG4I-DJee1KQhuCp.woff2) format("woff2"),url(//fonts.gstatic.com/s/kodchasan/v4/1cX0aUPOAJv9sG4I-DJee1KQiOCv.woff) format("woff");
+}
+@font-face {
+          font-family: Kodchasan;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Kodchasan SemiBold"),local(Kodchasan-SemiBold),url(//fonts.gstatic.com/s/kodchasan/v4/1cX0aUPOAJv9sG4I-DJeV1WQiOCt.eot?#) format("eot"),url(//fonts.gstatic.com/s/kodchasan/v4/1cX0aUPOAJv9sG4I-DJeV1WQhuCp.woff2) format("woff2"),url(//fonts.gstatic.com/s/kodchasan/v4/1cX0aUPOAJv9sG4I-DJeV1WQiOCv.woff) format("woff");
+}
+@font-face {
+          font-family: Kodchasan;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Kodchasan Bold"),local(Kodchasan-Bold),url(//fonts.gstatic.com/s/kodchasan/v4/1cX0aUPOAJv9sG4I-DJeM1SQiOCt.eot?#) format("eot"),url(//fonts.gstatic.com/s/kodchasan/v4/1cX0aUPOAJv9sG4I-DJeM1SQhuCp.woff2) format("woff2"),url(//fonts.gstatic.com/s/kodchasan/v4/1cX0aUPOAJv9sG4I-DJeM1SQiOCv.woff) format("woff");
+}
+.u-font-kodchasan-200 {
+          font-family: 'Kodchasan' !important;
+          font-weight: 200 !important;
+}
+.u-font-kodchasan-200-italic {
+        font-family: 'Kodchasan' !important;
+        font-weight: 200 !important;
+        font-style: italic !important;
+}
+.u-font-kodchasan-300 {
+          font-family: 'Kodchasan' !important;
+          font-weight: 300 !important;
+}
+.u-font-kodchasan-300-italic {
+        font-family: 'Kodchasan' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-kodchasan-400 {
+          font-family: 'Kodchasan' !important;
+          font-weight: 400 !important;
+}
+.u-font-kodchasan-400-italic {
+        font-family: 'Kodchasan' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-kodchasan-500 {
+          font-family: 'Kodchasan' !important;
+          font-weight: 500 !important;
+}
+.u-font-kodchasan-500-italic {
+        font-family: 'Kodchasan' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-kodchasan-600 {
+          font-family: 'Kodchasan' !important;
+          font-weight: 600 !important;
+}
+.u-font-kodchasan-600-italic {
+        font-family: 'Kodchasan' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-kodchasan-700 {
+          font-family: 'Kodchasan' !important;
+          font-weight: 700 !important;
+}
+.u-font-kodchasan-700-italic {
+        font-family: 'Kodchasan' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

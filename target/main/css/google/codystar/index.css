@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Codystar;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Codystar Light"),local(Codystar-Light),url(//fonts.gstatic.com/s/codystar/v8/FwZf7-Q1xVk-40qxOuYsytyihUI.eot?#) format("eot"),url(//fonts.gstatic.com/s/codystar/v8/FwZf7-Q1xVk-40qxOuYsytyshUY.woff2) format("woff2"),url(//fonts.gstatic.com/s/codystar/v8/FwZf7-Q1xVk-40qxOuYsytyihUA.woff) format("woff");
+}
+@font-face {
+          font-family: Codystar;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Codystar),url(//fonts.gstatic.com/s/codystar/v8/FwZY7-Q1xVk-40qxOu6J6M0.eot?#) format("eot"),url(//fonts.gstatic.com/s/codystar/v8/FwZY7-Q1xVk-40qxOu6H6Mk.woff2) format("woff2"),url(//fonts.gstatic.com/s/codystar/v8/FwZY7-Q1xVk-40qxOu6J6M8.woff) format("woff");
+}
+.u-font-codystar-300 {
+          font-family: 'Codystar' !important;
+          font-weight: 300 !important;
+}
+.u-font-codystar-400 {
+          font-family: 'Codystar' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Bree Serif";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Bree Serif Regular"),local(BreeSerif-Regular),url(//fonts.gstatic.com/s/breeserif/v10/4UaHrEJCrhhnVA3DgluA96Tp4w.eot?#) format("eot"),url(//fonts.gstatic.com/s/breeserif/v10/4UaHrEJCrhhnVA3DgluA96rp5w.woff2) format("woff2"),url(//fonts.gstatic.com/s/breeserif/v10/4UaHrEJCrhhnVA3DgluA96Tp4Q.woff) format("woff");
+}
+.u-font-bree-serif-400 {
+          font-family: 'Bree Serif' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,42 @@
+@font-face {
+          font-family: "Gentium Book Basic";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Gentium Book Basic Italic"),local(GentiumBookBasic-Italic),url(//fonts.gstatic.com/s/gentiumbookbasic/v11/pe0xMJCbPYBVokB1LHA9bbyaQb8ZGjc4VYF266Y.eot?#) format("eot"),url(//fonts.gstatic.com/s/gentiumbookbasic/v11/pe0xMJCbPYBVokB1LHA9bbyaQb8ZGjc4VYF466I.woff2) format("woff2"),url(//fonts.gstatic.com/s/gentiumbookbasic/v11/pe0xMJCbPYBVokB1LHA9bbyaQb8ZGjc4VYF266Q.woff) format("woff");
+}
+@font-face {
+          font-family: "Gentium Book Basic";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Gentium Book Basic Bold Italic"),local(GentiumBookBasic-BoldItalic),url(//fonts.gstatic.com/s/gentiumbookbasic/v11/pe0-MJCbPYBVokB1LHA9bbyaQb8ZGjc4VYnDzrfV-V4.eot?#) format("eot"),url(//fonts.gstatic.com/s/gentiumbookbasic/v11/pe0-MJCbPYBVokB1LHA9bbyaQb8ZGjc4VYnDzrfb-Vo.woff2) format("woff2"),url(//fonts.gstatic.com/s/gentiumbookbasic/v11/pe0-MJCbPYBVokB1LHA9bbyaQb8ZGjc4VYnDzrfV-Vw.woff) format("woff");
+}
+@font-face {
+          font-family: "Gentium Book Basic";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Gentium Book Basic"),local(GentiumBookBasic),url(//fonts.gstatic.com/s/gentiumbookbasic/v11/pe0zMJCbPYBVokB1LHA9bbyaQb8ZGjc4XrF-.eot?#) format("eot"),url(//fonts.gstatic.com/s/gentiumbookbasic/v11/pe0zMJCbPYBVokB1LHA9bbyaQb8ZGjc4ULF6.woff2) format("woff2"),url(//fonts.gstatic.com/s/gentiumbookbasic/v11/pe0zMJCbPYBVokB1LHA9bbyaQb8ZGjc4XrF8.woff) format("woff");
+}
+@font-face {
+          font-family: "Gentium Book Basic";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Gentium Book Basic Bold"),local(GentiumBookBasic-Bold),url(//fonts.gstatic.com/s/gentiumbookbasic/v11/pe0wMJCbPYBVokB1LHA9bbyaQb8ZGjcw65Rvwofd.eot?#) format("eot"),url(//fonts.gstatic.com/s/gentiumbookbasic/v11/pe0wMJCbPYBVokB1LHA9bbyaQb8ZGjcw65RvzIfZ.woff2) format("woff2"),url(//fonts.gstatic.com/s/gentiumbookbasic/v11/pe0wMJCbPYBVokB1LHA9bbyaQb8ZGjcw65Rvwoff.woff) format("woff");
+}
+.u-font-gentium-book-basic-400 {
+          font-family: 'Gentium Book Basic' !important;
+          font-weight: 400 !important;
+}
+.u-font-gentium-book-basic-400-italic {
+        font-family: 'Gentium Book Basic' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-gentium-book-basic-700 {
+          font-family: 'Gentium Book Basic' !important;
+          font-weight: 700 !important;
+}
+.u-font-gentium-book-basic-700-italic {
+        font-family: 'Gentium Book Basic' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

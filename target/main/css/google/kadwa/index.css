@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Kadwa;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Kadwa),local(Kadwa-Regular),url(//fonts.gstatic.com/s/kadwa/v4/rnCm-x5V0g7ipiTAT8I.eot?#) format("eot"),url(//fonts.gstatic.com/s/kadwa/v4/rnCm-x5V0g7ipiTAT8Y.woff2) format("woff2"),url(//fonts.gstatic.com/s/kadwa/v4/rnCm-x5V0g7ipiTAT8A.woff) format("woff");
+}
+@font-face {
+          font-family: Kadwa;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Kadwa Bold"),local(Kadwa-Bold),url(//fonts.gstatic.com/s/kadwa/v4/rnCr-x5V0g7ipix7atM5knw.eot?#) format("eot"),url(//fonts.gstatic.com/s/kadwa/v4/rnCr-x5V0g7ipix7atM5kng.woff2) format("woff2"),url(//fonts.gstatic.com/s/kadwa/v4/rnCr-x5V0g7ipix7atM5kn4.woff) format("woff");
+}
+.u-font-kadwa-400 {
+          font-family: 'Kadwa' !important;
+          font-weight: 400 !important;
+}
+.u-font-kadwa-700 {
+          font-family: 'Kadwa' !important;
+          font-weight: 700 !important;
+}

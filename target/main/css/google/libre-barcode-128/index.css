@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Libre Barcode 128";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Libre Barcode 128 Regular"),local(LibreBarcode128-Regular),url(//fonts.gstatic.com/s/librebarcode128/v10/cIfnMbdUsUoiW3O_hVviCwVjuLtXeK_H9AY.eot?#) format("eot"),url(//fonts.gstatic.com/s/librebarcode128/v10/cIfnMbdUsUoiW3O_hVviCwVjuLtXeK_H9AI.woff2) format("woff2"),url(//fonts.gstatic.com/s/librebarcode128/v10/cIfnMbdUsUoiW3O_hVviCwVjuLtXeK_H9AQ.woff) format("woff");
+}
+.u-font-libre-barcode-128-400 {
+          font-family: 'Libre Barcode 128' !important;
+          font-weight: 400 !important;
+}

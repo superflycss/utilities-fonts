@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Mansalva;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Mansalva Regular"),local(Mansalva-Regular),url(//fonts.gstatic.com/s/mansalva/v2/aWB4m0aacbtDfvq5NKliKYs.eot?#) format("eot"),url(//fonts.gstatic.com/s/mansalva/v2/aWB4m0aacbtDfvq5NKliKY8.woff2) format("woff2"),url(//fonts.gstatic.com/s/mansalva/v2/aWB4m0aacbtDfvq5NKliKYk.woff) format("woff");
+}
+.u-font-mansalva-400 {
+          font-family: 'Mansalva' !important;
+          font-weight: 400 !important;
+}

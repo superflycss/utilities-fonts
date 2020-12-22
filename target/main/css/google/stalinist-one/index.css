@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Stalinist One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Stalinist One"),local(StalinistOne-Regular),url(//fonts.gstatic.com/s/stalinistone/v26/MQpS-WezM9W4Dd7D3B7I-UT7SZaeOg.eot?#) format("eot"),url(//fonts.gstatic.com/s/stalinistone/v26/MQpS-WezM9W4Dd7D3B7I-UT7SZiePg.woff2) format("woff2"),url(//fonts.gstatic.com/s/stalinistone/v26/MQpS-WezM9W4Dd7D3B7I-UT7SZaeOA.woff) format("woff");
+}
+.u-font-stalinist-one-400 {
+          font-family: 'Stalinist One' !important;
+          font-weight: 400 !important;
+}

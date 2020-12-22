@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Shojumaru;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Shojumaru),local(Shojumaru-Regular),url(//fonts.gstatic.com/s/shojumaru/v8/rax_HiWfutkLLnaKCtl8DRhb.eot?#) format("eot"),url(//fonts.gstatic.com/s/shojumaru/v8/rax_HiWfutkLLnaKCtl8Axhf.woff2) format("woff2"),url(//fonts.gstatic.com/s/shojumaru/v8/rax_HiWfutkLLnaKCtl8DRhZ.woff) format("woff");
+}
+.u-font-shojumaru-400 {
+          font-family: 'Shojumaru' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Sofia;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Sofia),local(Sofia-Regular),url(//fonts.gstatic.com/s/sofia/v9/8QIHdirahM3j_su5uIk.eot?#) format("eot"),url(//fonts.gstatic.com/s/sofia/v9/8QIHdirahM3j_su5uI0.woff2) format("woff2"),url(//fonts.gstatic.com/s/sofia/v9/8QIHdirahM3j_su5uIs.woff) format("woff");
+}
+.u-font-sofia-400 {
+          font-family: 'Sofia' !important;
+          font-weight: 400 !important;
+}

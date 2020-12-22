@@ -1,0 +1,42 @@
+@font-face {
+          font-family: Cousine;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Cousine Italic"),local(Cousine-Italic),url(//fonts.gstatic.com/s/cousine/v16/d6lKkaiiRdih4SpP_SEfwB7t.eot?#) format("eot"),url(//fonts.gstatic.com/s/cousine/v16/d6lKkaiiRdih4SpP_SEfzh7p.woff2) format("woff2"),url(//fonts.gstatic.com/s/cousine/v16/d6lKkaiiRdih4SpP_SEfwB7v.woff) format("woff");
+}
+@font-face {
+          font-family: Cousine;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Cousine Bold Italic"),local(Cousine-BoldItalic),url(//fonts.gstatic.com/s/cousine/v16/d6lPkaiiRdih4SpP_SEXdTv83vhl.eot?#) format("eot"),url(//fonts.gstatic.com/s/cousine/v16/d6lPkaiiRdih4SpP_SEXdTv80Phh.woff2) format("woff2"),url(//fonts.gstatic.com/s/cousine/v16/d6lPkaiiRdih4SpP_SEXdTv83vhn.woff) format("woff");
+}
+@font-face {
+          font-family: Cousine;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Cousine Regular"),local(Cousine-Regular),url(//fonts.gstatic.com/s/cousine/v16/d6lIkaiiRdih4SpP_SovyA.eot?#) format("eot"),url(//fonts.gstatic.com/s/cousine/v16/d6lIkaiiRdih4SpP_SQvzA.woff2) format("woff2"),url(//fonts.gstatic.com/s/cousine/v16/d6lIkaiiRdih4SpP_Sovyg.woff) format("woff");
+}
+@font-face {
+          font-family: Cousine;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Cousine Bold"),local(Cousine-Bold),url(//fonts.gstatic.com/s/cousine/v16/d6lNkaiiRdih4SpP9Z8K2TfM1g.eot?#) format("eot"),url(//fonts.gstatic.com/s/cousine/v16/d6lNkaiiRdih4SpP9Z8K2TnM0g.woff2) format("woff2"),url(//fonts.gstatic.com/s/cousine/v16/d6lNkaiiRdih4SpP9Z8K2TfM1A.woff) format("woff");
+}
+.u-font-cousine-400 {
+          font-family: 'Cousine' !important;
+          font-weight: 400 !important;
+}
+.u-font-cousine-400-italic {
+        font-family: 'Cousine' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-cousine-700 {
+          font-family: 'Cousine' !important;
+          font-weight: 700 !important;
+}
+.u-font-cousine-700-italic {
+        font-family: 'Cousine' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

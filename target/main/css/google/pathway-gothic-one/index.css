@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Pathway Gothic One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Pathway Gothic One Regular"),local(PathwayGothicOne-Regular),url(//fonts.gstatic.com/s/pathwaygothicone/v9/MwQrbgD32-KAvjkYGNUUxAtW7pEBwx-tRVZb.eot?#) format("eot"),url(//fonts.gstatic.com/s/pathwaygothicone/v9/MwQrbgD32-KAvjkYGNUUxAtW7pEBwx-tS1Zf.woff2) format("woff2"),url(//fonts.gstatic.com/s/pathwaygothicone/v9/MwQrbgD32-KAvjkYGNUUxAtW7pEBwx-tRVZZ.woff) format("woff");
+}
+.u-font-pathway-gothic-one-400 {
+          font-family: 'Pathway Gothic One' !important;
+          font-weight: 400 !important;
+}

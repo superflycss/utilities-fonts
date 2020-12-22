@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Andada;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Andada Regular"),local(Andada-Regular),url(//fonts.gstatic.com/s/andada/v12/uK_y4riWaego3w9hAxcW.eot?#) format("eot"),url(//fonts.gstatic.com/s/andada/v12/uK_y4riWaego3w9hDRcS.woff2) format("woff2"),url(//fonts.gstatic.com/s/andada/v12/uK_y4riWaego3w9hAxcU.woff) format("woff");
+}
+.u-font-andada-400 {
+          font-family: 'Andada' !important;
+          font-weight: 400 !important;
+}

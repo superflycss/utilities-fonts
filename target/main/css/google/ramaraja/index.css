@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Ramaraja;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Ramaraja),url(//fonts.gstatic.com/s/ramaraja/v5/SlGTmQearpYAYG1CACIjoHU.eot?#) format("eot"),url(//fonts.gstatic.com/s/ramaraja/v5/SlGTmQearpYAYG1CACIjoHE.woff2) format("woff2"),url(//fonts.gstatic.com/s/ramaraja/v5/SlGTmQearpYAYG1CACIjoHc.woff) format("woff");
+}
+.u-font-ramaraja-400 {
+          font-family: 'Ramaraja' !important;
+          font-weight: 400 !important;
+}

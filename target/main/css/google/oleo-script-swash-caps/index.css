@@ -1,0 +1,20 @@
+@font-face {
+          font-family: "Oleo Script Swash Caps";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Oleo Script Swash Caps"),local(OleoScriptSwashCaps-Regular),url(//fonts.gstatic.com/s/oleoscriptswashcaps/v8/Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HAXOkTA.eot?#) format("eot"),url(//fonts.gstatic.com/s/oleoscriptswashcaps/v8/Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HAX2kSA.woff2) format("woff2"),url(//fonts.gstatic.com/s/oleoscriptswashcaps/v8/Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HAXOkTg.woff) format("woff");
+}
+@font-face {
+          font-family: "Oleo Script Swash Caps";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Oleo Script Swash Caps Bold"),local(OleoScriptSwashCaps-Bold),url(//fonts.gstatic.com/s/oleoscriptswashcaps/v8/Noag6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HCcaBXYwmmg.eot?#) format("eot"),url(//fonts.gstatic.com/s/oleoscriptswashcaps/v8/Noag6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HCcaBXYImng.woff2) format("woff2"),url(//fonts.gstatic.com/s/oleoscriptswashcaps/v8/Noag6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HCcaBXYwmmA.woff) format("woff");
+}
+.u-font-oleo-script-swash-caps-400 {
+          font-family: 'Oleo Script Swash Caps' !important;
+          font-weight: 400 !important;
+}
+.u-font-oleo-script-swash-caps-700 {
+          font-family: 'Oleo Script Swash Caps' !important;
+          font-weight: 700 !important;
+}

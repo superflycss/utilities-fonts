@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Meie Script";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Meie Script"),local(MeieScript-Regular),url(//fonts.gstatic.com/s/meiescript/v8/_LOImzDK7erRjhunIspaMgxu7oA.eot?#) format("eot"),url(//fonts.gstatic.com/s/meiescript/v8/_LOImzDK7erRjhunIspaMgxg7oQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/meiescript/v8/_LOImzDK7erRjhunIspaMgxu7oI.woff) format("woff");
+}
+.u-font-meie-script-400 {
+          font-family: 'Meie Script' !important;
+          font-weight: 400 !important;
+}

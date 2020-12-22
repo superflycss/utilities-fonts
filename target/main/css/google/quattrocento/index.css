@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Quattrocento;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Quattrocento),url(//fonts.gstatic.com/s/quattrocento/v12/OZpEg_xvsDZQL_LKIF7q4jP3zWj-.eot?#) format("eot"),url(//fonts.gstatic.com/s/quattrocento/v12/OZpEg_xvsDZQL_LKIF7q4jP3w2j6.woff2) format("woff2"),url(//fonts.gstatic.com/s/quattrocento/v12/OZpEg_xvsDZQL_LKIF7q4jP3zWj8.woff) format("woff");
+}
+@font-face {
+          font-family: Quattrocento;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Quattrocento Bold"),local(Quattrocento-Bold),url(//fonts.gstatic.com/s/quattrocento/v12/OZpbg_xvsDZQL_LKIF7q4jP_eE3vfqnc.eot?#) format("eot"),url(//fonts.gstatic.com/s/quattrocento/v12/OZpbg_xvsDZQL_LKIF7q4jP_eE3vcKnY.woff2) format("woff2"),url(//fonts.gstatic.com/s/quattrocento/v12/OZpbg_xvsDZQL_LKIF7q4jP_eE3vfqne.woff) format("woff");
+}
+.u-font-quattrocento-400 {
+          font-family: 'Quattrocento' !important;
+          font-weight: 400 !important;
+}
+.u-font-quattrocento-700 {
+          font-family: 'Quattrocento' !important;
+          font-weight: 700 !important;
+}

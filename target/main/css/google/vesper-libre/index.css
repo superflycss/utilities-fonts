@@ -1,0 +1,40 @@
+@font-face {
+          font-family: "Vesper Libre";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Vesper Libre"),local(VesperLibre-Regular),url(//fonts.gstatic.com/s/vesperlibre/v13/bx6CNxyWnf-uxPdXDHUD_RdIBkWI.eot?#) format("eot"),url(//fonts.gstatic.com/s/vesperlibre/v13/bx6CNxyWnf-uxPdXDHUD_RdICEWM.woff2) format("woff2"),url(//fonts.gstatic.com/s/vesperlibre/v13/bx6CNxyWnf-uxPdXDHUD_RdIBkWK.woff) format("woff");
+}
+@font-face {
+          font-family: "Vesper Libre";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Vesper Libre Medium"),local(VesperLibre-Medium),url(//fonts.gstatic.com/s/vesperlibre/v13/bx6dNxyWnf-uxPdXDHUD_RdA-2aZ24MP.eot?#) format("eot"),url(//fonts.gstatic.com/s/vesperlibre/v13/bx6dNxyWnf-uxPdXDHUD_RdA-2aZ1YML.woff2) format("woff2"),url(//fonts.gstatic.com/s/vesperlibre/v13/bx6dNxyWnf-uxPdXDHUD_RdA-2aZ24MN.woff) format("woff");
+}
+@font-face {
+          font-family: "Vesper Libre";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Vesper Libre Bold"),local(VesperLibre-Bold),url(//fonts.gstatic.com/s/vesperlibre/v13/bx6dNxyWnf-uxPdXDHUD_RdAs2CZ24MP.eot?#) format("eot"),url(//fonts.gstatic.com/s/vesperlibre/v13/bx6dNxyWnf-uxPdXDHUD_RdAs2CZ1YML.woff2) format("woff2"),url(//fonts.gstatic.com/s/vesperlibre/v13/bx6dNxyWnf-uxPdXDHUD_RdAs2CZ24MN.woff) format("woff");
+}
+@font-face {
+          font-family: "Vesper Libre";
+          font-style: normal;
+          font-weight: 900;
+          src: local("Vesper Libre Heavy"),local(VesperLibre-Heavy),url(//fonts.gstatic.com/s/vesperlibre/v13/bx6dNxyWnf-uxPdXDHUD_RdAi2KZ24MP.eot?#) format("eot"),url(//fonts.gstatic.com/s/vesperlibre/v13/bx6dNxyWnf-uxPdXDHUD_RdAi2KZ1YML.woff2) format("woff2"),url(//fonts.gstatic.com/s/vesperlibre/v13/bx6dNxyWnf-uxPdXDHUD_RdAi2KZ24MN.woff) format("woff");
+}
+.u-font-vesper-libre-400 {
+          font-family: 'Vesper Libre' !important;
+          font-weight: 400 !important;
+}
+.u-font-vesper-libre-500 {
+          font-family: 'Vesper Libre' !important;
+          font-weight: 500 !important;
+}
+.u-font-vesper-libre-700 {
+          font-family: 'Vesper Libre' !important;
+          font-weight: 700 !important;
+}
+.u-font-vesper-libre-900 {
+          font-family: 'Vesper Libre' !important;
+          font-weight: 900 !important;
+}

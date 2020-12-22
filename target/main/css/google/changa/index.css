@@ -1,0 +1,70 @@
+@font-face {
+          font-family: Changa;
+          font-style: normal;
+          font-weight: 200;
+          src: url(//fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZy2xcjnj8w.eot?#) format("eot"),url(//fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZy2xcjfj9w.woff2) format("woff2"),url(//fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZy2xcjnj8Q.woff) format("woff");
+}
+@font-face {
+          font-family: Changa;
+          font-style: normal;
+          font-weight: 300;
+          src: url(//fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZ_Oxcjnj8w.eot?#) format("eot"),url(//fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZ_Oxcjfj9w.woff2) format("woff2"),url(//fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZ_Oxcjnj8Q.woff) format("woff");
+}
+@font-face {
+          font-family: Changa;
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZ62xcjnj8w.eot?#) format("eot"),url(//fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZ62xcjfj9w.woff2) format("woff2"),url(//fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZ62xcjnj8Q.woff) format("woff");
+}
+@font-face {
+          font-family: Changa;
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZ5-xcjnj8w.eot?#) format("eot"),url(//fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZ5-xcjfj9w.woff2) format("woff2"),url(//fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZ5-xcjnj8Q.woff) format("woff");
+}
+@font-face {
+          font-family: Changa;
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZ3O2cjnj8w.eot?#) format("eot"),url(//fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZ3O2cjfj9w.woff2) format("woff2"),url(//fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZ3O2cjnj8Q.woff) format("woff");
+}
+@font-face {
+          font-family: Changa;
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZ0q2cjnj8w.eot?#) format("eot"),url(//fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZ0q2cjfj9w.woff2) format("woff2"),url(//fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZ0q2cjnj8Q.woff) format("woff");
+}
+@font-face {
+          font-family: Changa;
+          font-style: normal;
+          font-weight: 800;
+          src: url(//fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZy22cjnj8w.eot?#) format("eot"),url(//fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZy22cjfj9w.woff2) format("woff2"),url(//fonts.gstatic.com/s/changa/v10/2-c79JNi2YuVOUcOarRPgnNGooxCZy22cjnj8Q.woff) format("woff");
+}
+.u-font-changa-200 {
+          font-family: 'Changa' !important;
+          font-weight: 200 !important;
+}
+.u-font-changa-300 {
+          font-family: 'Changa' !important;
+          font-weight: 300 !important;
+}
+.u-font-changa-400 {
+          font-family: 'Changa' !important;
+          font-weight: 400 !important;
+}
+.u-font-changa-500 {
+          font-family: 'Changa' !important;
+          font-weight: 500 !important;
+}
+.u-font-changa-600 {
+          font-family: 'Changa' !important;
+          font-weight: 600 !important;
+}
+.u-font-changa-700 {
+          font-family: 'Changa' !important;
+          font-weight: 700 !important;
+}
+.u-font-changa-800 {
+          font-family: 'Changa' !important;
+          font-weight: 800 !important;
+}

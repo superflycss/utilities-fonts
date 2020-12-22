@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Odor Mean Chey";
+          font-style: normal;
+          font-weight: 400;
+          src: local(OdorMeanChey),url(//fonts.gstatic.com/s/odormeanchey/v12/raxkHiKDttkTe1aOGcJMR1A_4mrZ.eot?#) format("eot"),url(//fonts.gstatic.com/s/odormeanchey/v12/raxkHiKDttkTe1aOGcJMR1A_4lrU0TukKQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/odormeanchey/v12/raxkHiKDttkTe1aOGcJMR1A_4mrb.woff) format("woff");
+}
+.u-font-odor-mean-chey-400 {
+          font-family: 'Odor Mean Chey' !important;
+          font-weight: 400 !important;
+}

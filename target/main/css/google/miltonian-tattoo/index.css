@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Miltonian Tattoo";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Miltonian Tattoo"),local(MiltonianTattoo-Regular),url(//fonts.gstatic.com/s/miltoniantattoo/v16/EvOUzBRL0o0kCxF-lcMCQxlpVsA_JwT2NQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/miltoniantattoo/v16/EvOUzBRL0o0kCxF-lcMCQxlpVsA_JwT2MQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/miltoniantattoo/v16/EvOUzBRL0o0kCxF-lcMCQxlpVsA_JwT2Nw.woff) format("woff");
+}
+.u-font-miltonian-tattoo-400 {
+          font-family: 'Miltonian Tattoo' !important;
+          font-weight: 400 !important;
+}

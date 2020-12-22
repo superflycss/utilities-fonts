@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Tenali Ramakrishna";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Tenali Ramakrishna"),local(TenaliRamakrishna),url(//fonts.gstatic.com/s/tenaliramakrishna/v7/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-ML5_v.eot?#) format("eot"),url(//fonts.gstatic.com/s/tenaliramakrishna/v7/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-ML5_r.woff2) format("woff2"),url(//fonts.gstatic.com/s/tenaliramakrishna/v7/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-ML5_t.woff) format("woff");
+}
+.u-font-tenali-ramakrishna-400 {
+          font-family: 'Tenali Ramakrishna' !important;
+          font-weight: 400 !important;
+}

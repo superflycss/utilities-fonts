@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Salsa;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Salsa-Regular),url(//fonts.gstatic.com/s/salsa/v10/gNMKW3FiRpKj-hmf-HI.eot?#) format("eot"),url(//fonts.gstatic.com/s/salsa/v10/gNMKW3FiRpKj-hmf-HY.woff2) format("woff2"),url(//fonts.gstatic.com/s/salsa/v10/gNMKW3FiRpKj-hmf-HA.woff) format("woff");
+}
+.u-font-salsa-400 {
+          font-family: 'Salsa' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Damion;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Damion),url(//fonts.gstatic.com/s/damion/v10/hv-XlzJ3KEUe_YZkamwy.eot?#) format("eot"),url(//fonts.gstatic.com/s/damion/v10/hv-XlzJ3KEUe_YZkamw2.woff2) format("woff2"),url(//fonts.gstatic.com/s/damion/v10/hv-XlzJ3KEUe_YZkamww.woff) format("woff");
+}
+.u-font-damion-400 {
+          font-family: 'Damion' !important;
+          font-weight: 400 !important;
+}

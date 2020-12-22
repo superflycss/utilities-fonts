@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Walter Turncoat";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Walter Turncoat Regular"),local(WalterTurncoat-Regular),url(//fonts.gstatic.com/s/walterturncoat/v11/snfys0Gs98ln43n0d-14ULoToe6LZxeY.eot?#) format("eot"),url(//fonts.gstatic.com/s/walterturncoat/v11/snfys0Gs98ln43n0d-14ULoToe6LZxec.woff2) format("woff2"),url(//fonts.gstatic.com/s/walterturncoat/v11/snfys0Gs98ln43n0d-14ULoToe6LZxea.woff) format("woff");
+}
+.u-font-walter-turncoat-400 {
+          font-family: 'Walter Turncoat' !important;
+          font-weight: 400 !important;
+}

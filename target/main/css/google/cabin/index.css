@@ -1,0 +1,84 @@
+@font-face {
+          font-family: Cabin;
+          font-style: italic;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/cabin/v17/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHx_KVy0br.eot?#) format("eot"),url(//fonts.gstatic.com/s/cabin/v17/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHx_KVxUbv.woff2) format("woff2"),url(//fonts.gstatic.com/s/cabin/v17/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHx_KVy0bp.woff) format("woff");
+}
+@font-face {
+          font-family: Cabin;
+          font-style: italic;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/cabin/v17/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXH9fKVy0br.eot?#) format("eot"),url(//fonts.gstatic.com/s/cabin/v17/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXH9fKVxUbv.woff2) format("woff2"),url(//fonts.gstatic.com/s/cabin/v17/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXH9fKVy0bp.woff) format("woff");
+}
+@font-face {
+          font-family: Cabin;
+          font-style: italic;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/cabin/v17/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHGfWVy0br.eot?#) format("eot"),url(//fonts.gstatic.com/s/cabin/v17/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHGfWVxUbv.woff2) format("woff2"),url(//fonts.gstatic.com/s/cabin/v17/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHGfWVy0bp.woff) format("woff");
+}
+@font-face {
+          font-family: Cabin;
+          font-style: italic;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/cabin/v17/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHIPWVy0br.eot?#) format("eot"),url(//fonts.gstatic.com/s/cabin/v17/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHIPWVxUbv.woff2) format("woff2"),url(//fonts.gstatic.com/s/cabin/v17/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHIPWVy0bp.woff) format("woff");
+}
+@font-face {
+          font-family: Cabin;
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/cabin/v17/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkV2EH7ilww.eot?#) format("eot"),url(//fonts.gstatic.com/s/cabin/v17/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkV2EH7alxw.woff2) format("woff2"),url(//fonts.gstatic.com/s/cabin/v17/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkV2EH7ilwQ.woff) format("woff");
+}
+@font-face {
+          font-family: Cabin;
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/cabin/v17/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkW-EH7ilww.eot?#) format("eot"),url(//fonts.gstatic.com/s/cabin/v17/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkW-EH7alxw.woff2) format("woff2"),url(//fonts.gstatic.com/s/cabin/v17/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkW-EH7ilwQ.woff) format("woff");
+}
+@font-face {
+          font-family: Cabin;
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/cabin/v17/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkYODH7ilww.eot?#) format("eot"),url(//fonts.gstatic.com/s/cabin/v17/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkYODH7alxw.woff2) format("woff2"),url(//fonts.gstatic.com/s/cabin/v17/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkYODH7ilwQ.woff) format("woff");
+}
+@font-face {
+          font-family: Cabin;
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/cabin/v17/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkbqDH7ilww.eot?#) format("eot"),url(//fonts.gstatic.com/s/cabin/v17/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkbqDH7alxw.woff2) format("woff2"),url(//fonts.gstatic.com/s/cabin/v17/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkbqDH7ilwQ.woff) format("woff");
+}
+.u-font-cabin-400 {
+          font-family: 'Cabin' !important;
+          font-weight: 400 !important;
+}
+.u-font-cabin-500 {
+          font-family: 'Cabin' !important;
+          font-weight: 500 !important;
+}
+.u-font-cabin-600 {
+          font-family: 'Cabin' !important;
+          font-weight: 600 !important;
+}
+.u-font-cabin-700 {
+          font-family: 'Cabin' !important;
+          font-weight: 700 !important;
+}
+.u-font-cabin-400-italic {
+        font-family: 'Cabin' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-cabin-500-italic {
+        font-family: 'Cabin' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-cabin-600-italic {
+        font-family: 'Cabin' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-cabin-700-italic {
+        font-family: 'Cabin' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

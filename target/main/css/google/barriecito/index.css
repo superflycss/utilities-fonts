@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Barriecito;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Barriecito Regular"),local(Barriecito-Regular),url(//fonts.gstatic.com/s/barriecito/v3/WWXXlj-CbBOSLY2QTuY_GdwoZg.eot?#) format("eot"),url(//fonts.gstatic.com/s/barriecito/v3/WWXXlj-CbBOSLY2QTuY_GdIoYg.woff2) format("woff2"),url(//fonts.gstatic.com/s/barriecito/v3/WWXXlj-CbBOSLY2QTuY_GdwoZA.woff) format("woff");
+}
+.u-font-barriecito-400 {
+          font-family: 'Barriecito' !important;
+          font-weight: 400 !important;
+}

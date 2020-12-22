@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "ZCOOL KuaiLe";
+          font-style: normal;
+          font-weight: 400;
+          src: local("ZCOOL KuaiLe Regular"),local(ZCOOLKuaiLe-Regular),url(//fonts.gstatic.com/s/zcoolkuaile/v5/tssqApdaRQokwFjFJjvM6h2moYb2.eot?#) format("eot"),url(//fonts.gstatic.com/s/zcoolkuaile/v5/tssqApdaRQokwFjFJjvM6h2Wo-Tpo2MpsrpYU3EJjXfOiTrBdUtGm0PGsPHkbHZzpr3G.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/zcoolkuaile/v5/tssqApdaRQokwFjFJjvM6h2moYb0.woff) format("woff");
+}
+.u-font-zcool-kuaile-400 {
+          font-family: 'ZCOOL KuaiLe' !important;
+          font-weight: 400 !important;
+}

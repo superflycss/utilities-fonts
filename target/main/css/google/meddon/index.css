@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Meddon;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Meddon),url(//fonts.gstatic.com/s/meddon/v13/kmK8ZqA2EgDNeHTpgx1E.eot?#) format("eot"),url(//fonts.gstatic.com/s/meddon/v13/kmK8ZqA2EgDNeHTpgx1A.woff2) format("woff2"),url(//fonts.gstatic.com/s/meddon/v13/kmK8ZqA2EgDNeHTpgx1G.woff) format("woff");
+}
+.u-font-meddon-400 {
+          font-family: 'Meddon' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "IM Fell French Canon SC";
+          font-style: normal;
+          font-weight: 400;
+          src: local("IM FELL French Canon SC"),local(IM_FELL_French_Canon_SC),url(//fonts.gstatic.com/s/imfellfrenchcanonsc/v10/FBVmdCru5-ifcor2bgq9V89khWcmQghEURY7H0czWhU.eot?#) format("eot"),url(//fonts.gstatic.com/s/imfellfrenchcanonsc/v10/FBVmdCru5-ifcor2bgq9V89khWcmQghEURY7H0czWhE.woff2) format("woff2"),url(//fonts.gstatic.com/s/imfellfrenchcanonsc/v10/FBVmdCru5-ifcor2bgq9V89khWcmQghEURY7H0czWhc.woff) format("woff");
+}
+.u-font-im-fell-french-canon-sc-400 {
+          font-family: 'IM Fell French Canon SC' !important;
+          font-weight: 400 !important;
+}

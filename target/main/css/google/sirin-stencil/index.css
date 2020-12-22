@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Sirin Stencil";
+          font-style: normal;
+          font-weight: 400;
+          src: local(SirinStencil),local(SirinStencil-Regular),url(//fonts.gstatic.com/s/sirinstencil/v9/mem4YaWwznmLx-lzGfN7MdRyRc9MAw.eot?#) format("eot"),url(//fonts.gstatic.com/s/sirinstencil/v9/mem4YaWwznmLx-lzGfN7MdRyRc9MBw.woff2) format("woff2"),url(//fonts.gstatic.com/s/sirinstencil/v9/mem4YaWwznmLx-lzGfN7MdRyRc9MAQ.woff) format("woff");
+}
+.u-font-sirin-stencil-400 {
+          font-family: 'Sirin Stencil' !important;
+          font-weight: 400 !important;
+}

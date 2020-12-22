@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Sriracha;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Sriracha),local(Sriracha-Regular),url(//fonts.gstatic.com/s/sriracha/v4/0nkrC9D4IuYBgWcI9NbRTwU.eot?#) format("eot"),url(//fonts.gstatic.com/s/sriracha/v4/0nkrC9D4IuYBgWcI9NbfTwE.woff2) format("woff2"),url(//fonts.gstatic.com/s/sriracha/v4/0nkrC9D4IuYBgWcI9NbRTwc.woff) format("woff");
+}
+.u-font-sriracha-400 {
+          font-family: 'Sriracha' !important;
+          font-weight: 400 !important;
+}

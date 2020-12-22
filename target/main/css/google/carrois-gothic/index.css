@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Carrois Gothic";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Carrois Gothic Regular"),local(CarroisGothic-Regular),url(//fonts.gstatic.com/s/carroisgothic/v11/Z9XPDmFATg-N1PLtLOOxvIHl9amE1Cs.eot?#) format("eot"),url(//fonts.gstatic.com/s/carroisgothic/v11/Z9XPDmFATg-N1PLtLOOxvIHl9amE1C8.woff2) format("woff2"),url(//fonts.gstatic.com/s/carroisgothic/v11/Z9XPDmFATg-N1PLtLOOxvIHl9amE1Ck.woff) format("woff");
+}
+.u-font-carrois-gothic-400 {
+          font-family: 'Carrois Gothic' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Bahiana;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Bahiana Regular"),local(Bahiana-Regular),url(//fonts.gstatic.com/s/bahiana/v5/uU9PCBUV4YenPWJU3xrR2w.eot?#) format("eot"),url(//fonts.gstatic.com/s/bahiana/v5/uU9PCBUV4YenPWJU3xTR3w.woff2) format("woff2"),url(//fonts.gstatic.com/s/bahiana/v5/uU9PCBUV4YenPWJU3xrR2Q.woff) format("woff");
+}
+.u-font-bahiana-400 {
+          font-family: 'Bahiana' !important;
+          font-weight: 400 !important;
+}

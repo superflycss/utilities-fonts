@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Cantora One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Cantora One"),local(CantoraOne-Regular),url(//fonts.gstatic.com/s/cantoraone/v10/gyB4hws1JdgnKy56GB_JX5zUbY4.eot?#) format("eot"),url(//fonts.gstatic.com/s/cantoraone/v10/gyB4hws1JdgnKy56GB_JX5zabYo.woff2) format("woff2"),url(//fonts.gstatic.com/s/cantoraone/v10/gyB4hws1JdgnKy56GB_JX5zUbYw.woff) format("woff");
+}
+.u-font-cantora-one-400 {
+          font-family: 'Cantora One' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Galindo;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Galindo),local(Galindo-Regular),url(//fonts.gstatic.com/s/galindo/v8/HI_KiYMeLqVKqwyuc5joQw.eot?#) format("eot"),url(//fonts.gstatic.com/s/galindo/v8/HI_KiYMeLqVKqwyuc5boRw.woff2) format("woff2"),url(//fonts.gstatic.com/s/galindo/v8/HI_KiYMeLqVKqwyuc5joQQ.woff) format("woff");
+}
+.u-font-galindo-400 {
+          font-family: 'Galindo' !important;
+          font-weight: 400 !important;
+}

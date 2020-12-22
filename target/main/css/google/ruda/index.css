@@ -1,0 +1,60 @@
+@font-face {
+          font-family: Ruda;
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/ruda/v13/k3kKo8YQJOpFgHQ1mQ5VkEbUKaJFsh_30q0.eot?#) format("eot"),url(//fonts.gstatic.com/s/ruda/v13/k3kKo8YQJOpFgHQ1mQ5VkEbUKaJFsh_50qk.woff2) format("woff2"),url(//fonts.gstatic.com/s/ruda/v13/k3kKo8YQJOpFgHQ1mQ5VkEbUKaJFsh_30q8.woff) format("woff");
+}
+@font-face {
+          font-family: Ruda;
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/ruda/v13/k3kKo8YQJOpFgHQ1mQ5VkEbUKaJ3sh_30q0.eot?#) format("eot"),url(//fonts.gstatic.com/s/ruda/v13/k3kKo8YQJOpFgHQ1mQ5VkEbUKaJ3sh_50qk.woff2) format("woff2"),url(//fonts.gstatic.com/s/ruda/v13/k3kKo8YQJOpFgHQ1mQ5VkEbUKaJ3sh_30q8.woff) format("woff");
+}
+@font-face {
+          font-family: Ruda;
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/ruda/v13/k3kKo8YQJOpFgHQ1mQ5VkEbUKaKbtR_30q0.eot?#) format("eot"),url(//fonts.gstatic.com/s/ruda/v13/k3kKo8YQJOpFgHQ1mQ5VkEbUKaKbtR_50qk.woff2) format("woff2"),url(//fonts.gstatic.com/s/ruda/v13/k3kKo8YQJOpFgHQ1mQ5VkEbUKaKbtR_30q8.woff) format("woff");
+}
+@font-face {
+          font-family: Ruda;
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/ruda/v13/k3kKo8YQJOpFgHQ1mQ5VkEbUKaKitR_30q0.eot?#) format("eot"),url(//fonts.gstatic.com/s/ruda/v13/k3kKo8YQJOpFgHQ1mQ5VkEbUKaKitR_50qk.woff2) format("woff2"),url(//fonts.gstatic.com/s/ruda/v13/k3kKo8YQJOpFgHQ1mQ5VkEbUKaKitR_30q8.woff) format("woff");
+}
+@font-face {
+          font-family: Ruda;
+          font-style: normal;
+          font-weight: 800;
+          src: url(//fonts.gstatic.com/s/ruda/v13/k3kKo8YQJOpFgHQ1mQ5VkEbUKaLFtR_30q0.eot?#) format("eot"),url(//fonts.gstatic.com/s/ruda/v13/k3kKo8YQJOpFgHQ1mQ5VkEbUKaLFtR_50qk.woff2) format("woff2"),url(//fonts.gstatic.com/s/ruda/v13/k3kKo8YQJOpFgHQ1mQ5VkEbUKaLFtR_30q8.woff) format("woff");
+}
+@font-face {
+          font-family: Ruda;
+          font-style: normal;
+          font-weight: 900;
+          src: url(//fonts.gstatic.com/s/ruda/v13/k3kKo8YQJOpFgHQ1mQ5VkEbUKaLstR_30q0.eot?#) format("eot"),url(//fonts.gstatic.com/s/ruda/v13/k3kKo8YQJOpFgHQ1mQ5VkEbUKaLstR_50qk.woff2) format("woff2"),url(//fonts.gstatic.com/s/ruda/v13/k3kKo8YQJOpFgHQ1mQ5VkEbUKaLstR_30q8.woff) format("woff");
+}
+.u-font-ruda-400 {
+          font-family: 'Ruda' !important;
+          font-weight: 400 !important;
+}
+.u-font-ruda-500 {
+          font-family: 'Ruda' !important;
+          font-weight: 500 !important;
+}
+.u-font-ruda-600 {
+          font-family: 'Ruda' !important;
+          font-weight: 600 !important;
+}
+.u-font-ruda-700 {
+          font-family: 'Ruda' !important;
+          font-weight: 700 !important;
+}
+.u-font-ruda-800 {
+          font-family: 'Ruda' !important;
+          font-weight: 800 !important;
+}
+.u-font-ruda-900 {
+          font-family: 'Ruda' !important;
+          font-weight: 900 !important;
+}

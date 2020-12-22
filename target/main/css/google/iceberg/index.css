@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Iceberg;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Iceberg),local(Iceberg-Regular),url(//fonts.gstatic.com/s/iceberg/v8/8QIJdijAiM7o-qnZiI8Erg.eot?#) format("eot"),url(//fonts.gstatic.com/s/iceberg/v8/8QIJdijAiM7o-qnZiI8Eqg.woff2) format("woff2"),url(//fonts.gstatic.com/s/iceberg/v8/8QIJdijAiM7o-qnZiI8ErA.woff) format("woff");
+}
+.u-font-iceberg-400 {
+          font-family: 'Iceberg' !important;
+          font-weight: 400 !important;
+}

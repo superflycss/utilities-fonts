@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Indie Flower";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Indie Flower"),local(IndieFlower),url(//fonts.gstatic.com/s/indieflower/v12/m8JVjfNVeKWVnh3QMuKkFcZVaUuD.eot?#) format("eot"),url(//fonts.gstatic.com/s/indieflower/v12/m8JVjfNVeKWVnh3QMuKkFcZVaUuH.woff2) format("woff2"),url(//fonts.gstatic.com/s/indieflower/v12/m8JVjfNVeKWVnh3QMuKkFcZVaUuB.woff) format("woff");
+}
+.u-font-indie-flower-400 {
+          font-family: 'Indie Flower' !important;
+          font-weight: 400 !important;
+}

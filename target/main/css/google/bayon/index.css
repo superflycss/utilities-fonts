@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Bayon;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Bayon Regular"),local(Bayon-Regular),url(//fonts.gstatic.com/s/bayon/v14/9XUrlJNmn0LPFl-o.eot?#) format("eot"),url(//fonts.gstatic.com/s/bayon/v14/9XUrlJNmn0LPFm-lMBc0dw.woff2) format("woff2"),url(//fonts.gstatic.com/s/bayon/v14/9XUrlJNmn0LPFl-q.woff) format("woff");
+}
+.u-font-bayon-400 {
+          font-family: 'Bayon' !important;
+          font-weight: 400 !important;
+}

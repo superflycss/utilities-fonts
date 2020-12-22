@@ -1,0 +1,63 @@
+@font-face {
+          font-family: "Averia Sans Libre";
+          font-style: italic;
+          font-weight: 300;
+          src: local("Averia Sans Libre Light Italic"),local(AveriaSansLibre-LightItalic),url(//fonts.gstatic.com/s/averiasanslibre/v9/ga6caxZG_G5OvCf_rt7FH3B6BHLMEdVLKisSH5DdLg.eot?#) format("eot"),url(//fonts.gstatic.com/s/averiasanslibre/v9/ga6caxZG_G5OvCf_rt7FH3B6BHLMEdVLKisSH5DdKg.woff2) format("woff2"),url(//fonts.gstatic.com/s/averiasanslibre/v9/ga6caxZG_G5OvCf_rt7FH3B6BHLMEdVLKisSH5DdLA.woff) format("woff");
+}
+@font-face {
+          font-family: "Averia Sans Libre";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Averia Sans Libre Italic"),local(AveriaSansLibre-Italic),url(//fonts.gstatic.com/s/averiasanslibre/v9/ga6RaxZG_G5OvCf_rt7FH3B6BHLMEdVLIoAwDg.eot?#) format("eot"),url(//fonts.gstatic.com/s/averiasanslibre/v9/ga6RaxZG_G5OvCf_rt7FH3B6BHLMEdVLIoAwCg.woff2) format("woff2"),url(//fonts.gstatic.com/s/averiasanslibre/v9/ga6RaxZG_G5OvCf_rt7FH3B6BHLMEdVLIoAwDA.woff) format("woff");
+}
+@font-face {
+          font-family: "Averia Sans Libre";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Averia Sans Libre Bold Italic"),local(AveriaSansLibre-BoldItalic),url(//fonts.gstatic.com/s/averiasanslibre/v9/ga6caxZG_G5OvCf_rt7FH3B6BHLMEdVLKjsVH5DdLg.eot?#) format("eot"),url(//fonts.gstatic.com/s/averiasanslibre/v9/ga6caxZG_G5OvCf_rt7FH3B6BHLMEdVLKjsVH5DdKg.woff2) format("woff2"),url(//fonts.gstatic.com/s/averiasanslibre/v9/ga6caxZG_G5OvCf_rt7FH3B6BHLMEdVLKjsVH5DdLA.woff) format("woff");
+}
+@font-face {
+          font-family: "Averia Sans Libre";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Averia Sans Libre Light"),local(AveriaSansLibre-Light),url(//fonts.gstatic.com/s/averiasanslibre/v9/ga6SaxZG_G5OvCf_rt7FH3B6BHLMEd3lMJcXL5Y.eot?#) format("eot"),url(//fonts.gstatic.com/s/averiasanslibre/v9/ga6SaxZG_G5OvCf_rt7FH3B6BHLMEd3lMJcXL5I.woff2) format("woff2"),url(//fonts.gstatic.com/s/averiasanslibre/v9/ga6SaxZG_G5OvCf_rt7FH3B6BHLMEd3lMJcXL5Q.woff) format("woff");
+}
+@font-face {
+          font-family: "Averia Sans Libre";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Averia Sans Libre Regular"),local(AveriaSansLibre-Regular),url(//fonts.gstatic.com/s/averiasanslibre/v9/ga6XaxZG_G5OvCf_rt7FH3B6BHLMEdVOEoY.eot?#) format("eot"),url(//fonts.gstatic.com/s/averiasanslibre/v9/ga6XaxZG_G5OvCf_rt7FH3B6BHLMEdVOEoI.woff2) format("woff2"),url(//fonts.gstatic.com/s/averiasanslibre/v9/ga6XaxZG_G5OvCf_rt7FH3B6BHLMEdVOEoQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Averia Sans Libre";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Averia Sans Libre Bold"),local(AveriaSansLibre-Bold),url(//fonts.gstatic.com/s/averiasanslibre/v9/ga6SaxZG_G5OvCf_rt7FH3B6BHLMEd31N5cXL5Y.eot?#) format("eot"),url(//fonts.gstatic.com/s/averiasanslibre/v9/ga6SaxZG_G5OvCf_rt7FH3B6BHLMEd31N5cXL5I.woff2) format("woff2"),url(//fonts.gstatic.com/s/averiasanslibre/v9/ga6SaxZG_G5OvCf_rt7FH3B6BHLMEd31N5cXL5Q.woff) format("woff");
+}
+.u-font-averia-sans-libre-300 {
+          font-family: 'Averia Sans Libre' !important;
+          font-weight: 300 !important;
+}
+.u-font-averia-sans-libre-300-italic {
+        font-family: 'Averia Sans Libre' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-averia-sans-libre-400 {
+          font-family: 'Averia Sans Libre' !important;
+          font-weight: 400 !important;
+}
+.u-font-averia-sans-libre-400-italic {
+        font-family: 'Averia Sans Libre' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-averia-sans-libre-700 {
+          font-family: 'Averia Sans Libre' !important;
+          font-weight: 700 !important;
+}
+.u-font-averia-sans-libre-700-italic {
+        font-family: 'Averia Sans Libre' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

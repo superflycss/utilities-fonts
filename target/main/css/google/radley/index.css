@@ -1,0 +1,21 @@
+@font-face {
+          font-family: Radley;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Radley Italic"),local(Radley-Italic),url(//fonts.gstatic.com/s/radley/v15/LYjBdGzinEIjCN1NojNJjVs.eot?#) format("eot"),url(//fonts.gstatic.com/s/radley/v15/LYjBdGzinEIjCN1NojNHjV8.woff2) format("woff2"),url(//fonts.gstatic.com/s/radley/v15/LYjBdGzinEIjCN1NojNJjVk.woff) format("woff");
+}
+@font-face {
+          font-family: Radley;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Radley Regular"),local(Radley-Regular),url(//fonts.gstatic.com/s/radley/v15/LYjDdGzinEIjCN1NqQNB.eot?#) format("eot"),url(//fonts.gstatic.com/s/radley/v15/LYjDdGzinEIjCN1NpwNF.woff2) format("woff2"),url(//fonts.gstatic.com/s/radley/v15/LYjDdGzinEIjCN1NqQND.woff) format("woff");
+}
+.u-font-radley-400 {
+          font-family: 'Radley' !important;
+          font-weight: 400 !important;
+}
+.u-font-radley-400-italic {
+        font-family: 'Radley' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Rye;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Rye Regular"),local(Rye-Regular),url(//fonts.gstatic.com/s/rye/v8/r05XGLJT86YzH57p.eot?#) format("eot"),url(//fonts.gstatic.com/s/rye/v8/r05XGLJT86YzEZ7t.woff2) format("woff2"),url(//fonts.gstatic.com/s/rye/v8/r05XGLJT86YzH57r.woff) format("woff");
+}
+.u-font-rye-400 {
+          font-family: 'Rye' !important;
+          font-weight: 400 !important;
+}

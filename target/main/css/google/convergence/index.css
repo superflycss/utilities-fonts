@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Convergence;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Convergence-Regular),url(//fonts.gstatic.com/s/convergence/v9/rax5HiePvdgXPmmMHcIPYShdu0s.eot?#) format("eot"),url(//fonts.gstatic.com/s/convergence/v9/rax5HiePvdgXPmmMHcIPYShdu08.woff2) format("woff2"),url(//fonts.gstatic.com/s/convergence/v9/rax5HiePvdgXPmmMHcIPYShdu0k.woff) format("woff");
+}
+.u-font-convergence-400 {
+          font-family: 'Convergence' !important;
+          font-weight: 400 !important;
+}

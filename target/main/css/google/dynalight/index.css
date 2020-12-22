@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Dynalight;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Dynalight),local(Dynalight-Regular),url(//fonts.gstatic.com/s/dynalight/v9/1Ptsg8LOU_aOmQvTsF44Q4Fu.eot?#) format("eot"),url(//fonts.gstatic.com/s/dynalight/v9/1Ptsg8LOU_aOmQvTsF44TYFq.woff2) format("woff2"),url(//fonts.gstatic.com/s/dynalight/v9/1Ptsg8LOU_aOmQvTsF44Q4Fs.woff) format("woff");
+}
+.u-font-dynalight-400 {
+          font-family: 'Dynalight' !important;
+          font-weight: 400 !important;
+}

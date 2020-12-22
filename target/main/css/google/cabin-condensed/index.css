@@ -1,0 +1,40 @@
+@font-face {
+          font-family: "Cabin Condensed";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Cabin Condensed"),local(CabinCondensed-Regular),url(//fonts.gstatic.com/s/cabincondensed/v14/nwpMtK6mNhBK2err_hqkYhHRqmwqaeLc.eot?#) format("eot"),url(//fonts.gstatic.com/s/cabincondensed/v14/nwpMtK6mNhBK2err_hqkYhHRqmwqZ-LY.woff2) format("woff2"),url(//fonts.gstatic.com/s/cabincondensed/v14/nwpMtK6mNhBK2err_hqkYhHRqmwqaeLe.woff) format("woff");
+}
+@font-face {
+          font-family: "Cabin Condensed";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Cabin Condensed Medium"),local(CabinCondensed-Medium),url(//fonts.gstatic.com/s/cabincondensed/v14/nwpJtK6mNhBK2err_hqkYhHRqmwilMHN5Vd8.eot?#) format("eot"),url(//fonts.gstatic.com/s/cabincondensed/v14/nwpJtK6mNhBK2err_hqkYhHRqmwilMHN61d4.woff2) format("woff2"),url(//fonts.gstatic.com/s/cabincondensed/v14/nwpJtK6mNhBK2err_hqkYhHRqmwilMHN5Vd-.woff) format("woff");
+}
+@font-face {
+          font-family: "Cabin Condensed";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Cabin Condensed SemiBold"),local(CabinCondensed-SemiBold),url(//fonts.gstatic.com/s/cabincondensed/v14/nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN5Vd8.eot?#) format("eot"),url(//fonts.gstatic.com/s/cabincondensed/v14/nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN61d4.woff2) format("woff2"),url(//fonts.gstatic.com/s/cabincondensed/v14/nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN5Vd-.woff) format("woff");
+}
+@font-face {
+          font-family: "Cabin Condensed";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Cabin Condensed Bold"),local(CabinCondensed-Bold),url(//fonts.gstatic.com/s/cabincondensed/v14/nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN5Vd8.eot?#) format("eot"),url(//fonts.gstatic.com/s/cabincondensed/v14/nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN61d4.woff2) format("woff2"),url(//fonts.gstatic.com/s/cabincondensed/v14/nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN5Vd-.woff) format("woff");
+}
+.u-font-cabin-condensed-400 {
+          font-family: 'Cabin Condensed' !important;
+          font-weight: 400 !important;
+}
+.u-font-cabin-condensed-500 {
+          font-family: 'Cabin Condensed' !important;
+          font-weight: 500 !important;
+}
+.u-font-cabin-condensed-600 {
+          font-family: 'Cabin Condensed' !important;
+          font-weight: 600 !important;
+}
+.u-font-cabin-condensed-700 {
+          font-family: 'Cabin Condensed' !important;
+          font-weight: 700 !important;
+}

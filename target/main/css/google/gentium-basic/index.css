@@ -1,0 +1,42 @@
+@font-face {
+          font-family: "Gentium Basic";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Gentium Basic Italic"),local(GentiumBasic-Italic),url(//fonts.gstatic.com/s/gentiumbasic/v12/WnzjHAw9aB_JD2VGQVR80We3LAi5hBo_.eot?#) format("eot"),url(//fonts.gstatic.com/s/gentiumbasic/v12/WnzjHAw9aB_JD2VGQVR80We3LAi5iho7.woff2) format("woff2"),url(//fonts.gstatic.com/s/gentiumbasic/v12/WnzjHAw9aB_JD2VGQVR80We3LAi5hBo9.woff) format("woff");
+}
+@font-face {
+          font-family: "Gentium Basic";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Gentium Basic Bold Italic"),local(GentiumBasic-BoldItalic),url(//fonts.gstatic.com/s/gentiumbasic/v12/WnzmHAw9aB_JD2VGQVR80We3LAixMT8uYaKI.eot?#) format("eot"),url(//fonts.gstatic.com/s/gentiumbasic/v12/WnzmHAw9aB_JD2VGQVR80We3LAixMT8ub6KM.woff2) format("woff2"),url(//fonts.gstatic.com/s/gentiumbasic/v12/WnzmHAw9aB_JD2VGQVR80We3LAixMT8uYaKK.woff) format("woff");
+}
+@font-face {
+          font-family: "Gentium Basic";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Gentium Basic"),local(GentiumBasic),url(//fonts.gstatic.com/s/gentiumbasic/v12/Wnz9HAw9aB_JD2VGQVR80We3LAOJjA.eot?#) format("eot"),url(//fonts.gstatic.com/s/gentiumbasic/v12/Wnz9HAw9aB_JD2VGQVR80We3LA2JiA.woff2) format("woff2"),url(//fonts.gstatic.com/s/gentiumbasic/v12/Wnz9HAw9aB_JD2VGQVR80We3LAOJjg.woff) format("woff");
+}
+@font-face {
+          font-family: "Gentium Basic";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Gentium Basic Bold"),local(GentiumBasic-Bold),url(//fonts.gstatic.com/s/gentiumbasic/v12/WnzgHAw9aB_JD2VGQVR80We3JLasnTMeaQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/gentiumbasic/v12/WnzgHAw9aB_JD2VGQVR80We3JLasnT0ebQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/gentiumbasic/v12/WnzgHAw9aB_JD2VGQVR80We3JLasnTMeaw.woff) format("woff");
+}
+.u-font-gentium-basic-400 {
+          font-family: 'Gentium Basic' !important;
+          font-weight: 400 !important;
+}
+.u-font-gentium-basic-400-italic {
+        font-family: 'Gentium Basic' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-gentium-basic-700 {
+          font-family: 'Gentium Basic' !important;
+          font-weight: 700 !important;
+}
+.u-font-gentium-basic-700-italic {
+        font-family: 'Gentium Basic' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

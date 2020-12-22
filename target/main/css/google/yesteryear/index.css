@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Yesteryear;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Yesteryear),local(Yesteryear-Regular),url(//fonts.gstatic.com/s/yesteryear/v9/dg4g_p78rroaKl8kRKo1n7sNSg.eot?#) format("eot"),url(//fonts.gstatic.com/s/yesteryear/v9/dg4g_p78rroaKl8kRKo1n7sNTg.woff2) format("woff2"),url(//fonts.gstatic.com/s/yesteryear/v9/dg4g_p78rroaKl8kRKo1n7sNSA.woff) format("woff");
+}
+.u-font-yesteryear-400 {
+          font-family: 'Yesteryear' !important;
+          font-weight: 400 !important;
+}

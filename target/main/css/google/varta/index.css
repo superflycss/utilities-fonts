@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Varta;
+          font-style: normal;
+          font-weight: 300;
+          src: url(//fonts.gstatic.com/s/varta/v1/Qw3AZQpJHj_6LzHUngWbrFkDH1x96j40g7s7.eot?#) format("eot"),url(//fonts.gstatic.com/s/varta/v1/Qw3AZQpJHj_6LzHUngWbrFkDH1x96j40jbs_.woff2) format("woff2"),url(//fonts.gstatic.com/s/varta/v1/Qw3AZQpJHj_6LzHUngWbrFkDH1x96j40g7s5.woff) format("woff");
+}
+@font-face {
+          font-family: Varta;
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/varta/v1/Qw3AZQpJHj_6LzHUngWbrFkDH1x9tD40g7s7.eot?#) format("eot"),url(//fonts.gstatic.com/s/varta/v1/Qw3AZQpJHj_6LzHUngWbrFkDH1x9tD40jbs_.woff2) format("woff2"),url(//fonts.gstatic.com/s/varta/v1/Qw3AZQpJHj_6LzHUngWbrFkDH1x9tD40g7s5.woff) format("woff");
+}
+@font-face {
+          font-family: Varta;
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/varta/v1/Qw3AZQpJHj_6LzHUngWbrFkDH1x9hj40g7s7.eot?#) format("eot"),url(//fonts.gstatic.com/s/varta/v1/Qw3AZQpJHj_6LzHUngWbrFkDH1x9hj40jbs_.woff2) format("woff2"),url(//fonts.gstatic.com/s/varta/v1/Qw3AZQpJHj_6LzHUngWbrFkDH1x9hj40g7s5.woff) format("woff");
+}
+@font-face {
+          font-family: Varta;
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/varta/v1/Qw3AZQpJHj_6LzHUngWbrFkDH1x9ajk0g7s7.eot?#) format("eot"),url(//fonts.gstatic.com/s/varta/v1/Qw3AZQpJHj_6LzHUngWbrFkDH1x9ajk0jbs_.woff2) format("woff2"),url(//fonts.gstatic.com/s/varta/v1/Qw3AZQpJHj_6LzHUngWbrFkDH1x9ajk0g7s5.woff) format("woff");
+}
+@font-face {
+          font-family: Varta;
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/varta/v1/Qw3AZQpJHj_6LzHUngWbrFkDH1x9Uzk0g7s7.eot?#) format("eot"),url(//fonts.gstatic.com/s/varta/v1/Qw3AZQpJHj_6LzHUngWbrFkDH1x9Uzk0jbs_.woff2) format("woff2"),url(//fonts.gstatic.com/s/varta/v1/Qw3AZQpJHj_6LzHUngWbrFkDH1x9Uzk0g7s5.woff) format("woff");
+}
+.u-font-varta-300 {
+          font-family: 'Varta' !important;
+          font-weight: 300 !important;
+}
+.u-font-varta-400 {
+          font-family: 'Varta' !important;
+          font-weight: 400 !important;
+}
+.u-font-varta-500 {
+          font-family: 'Varta' !important;
+          font-weight: 500 !important;
+}
+.u-font-varta-600 {
+          font-family: 'Varta' !important;
+          font-weight: 600 !important;
+}
+.u-font-varta-700 {
+          font-family: 'Varta' !important;
+          font-weight: 700 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Pirata One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Pirata One"),local(PirataOne-Regular),url(//fonts.gstatic.com/s/pirataone/v9/I_urMpiDvgLdLh0fAtofhiGOqg.eot?#) format("eot"),url(//fonts.gstatic.com/s/pirataone/v9/I_urMpiDvgLdLh0fAtofhi-Org.woff2) format("woff2"),url(//fonts.gstatic.com/s/pirataone/v9/I_urMpiDvgLdLh0fAtofhiGOqA.woff) format("woff");
+}
+.u-font-pirata-one-400 {
+          font-family: 'Pirata One' !important;
+          font-weight: 400 !important;
+}

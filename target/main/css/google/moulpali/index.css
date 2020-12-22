@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Moulpali;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Moul Pali"),local(MoulPali),url(//fonts.gstatic.com/s/moulpali/v13/H4ckBXKMl9HagUWymyY7.eot?#) format("eot"),url(//fonts.gstatic.com/s/moulpali/v13/H4ckBXKMl9HagUWymxY2yL6Agw.woff2) format("woff2"),url(//fonts.gstatic.com/s/moulpali/v13/H4ckBXKMl9HagUWymyY5.woff) format("woff");
+}
+.u-font-moulpali-400 {
+          font-family: 'Moulpali' !important;
+          font-weight: 400 !important;
+}

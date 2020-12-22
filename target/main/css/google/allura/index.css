@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Allura;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Allura Regular"),local(Allura-Regular),url(//fonts.gstatic.com/s/allura/v9/9oRPNYsQpS4zjuA_hQgS.eot?#) format("eot"),url(//fonts.gstatic.com/s/allura/v9/9oRPNYsQpS4zjuA_iwgW.woff2) format("woff2"),url(//fonts.gstatic.com/s/allura/v9/9oRPNYsQpS4zjuA_hQgQ.woff) format("woff");
+}
+.u-font-allura-400 {
+          font-family: 'Allura' !important;
+          font-weight: 400 !important;
+}

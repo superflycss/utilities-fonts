@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Bonbon;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Bonbon Regular"),local(Bonbon-Regular),url(//fonts.gstatic.com/s/bonbon/v12/0FlVVPeVlFec4eePdzsF.eot?#) format("eot"),url(//fonts.gstatic.com/s/bonbon/v12/0FlVVPeVlFec4eePdzsB.woff2) format("woff2"),url(//fonts.gstatic.com/s/bonbon/v12/0FlVVPeVlFec4eePdzsH.woff) format("woff");
+}
+.u-font-bonbon-400 {
+          font-family: 'Bonbon' !important;
+          font-weight: 400 !important;
+}

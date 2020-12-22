@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Timmana;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Timmana),url(//fonts.gstatic.com/s/timmana/v5/6xKvdShfL9yK-rvpOmzRLQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/timmana/v5/6xKvdShfL9yK-rvpOmzRKQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/timmana/v5/6xKvdShfL9yK-rvpOmzRLw.woff) format("woff");
+}
+.u-font-timmana-400 {
+          font-family: 'Timmana' !important;
+          font-weight: 400 !important;
+}

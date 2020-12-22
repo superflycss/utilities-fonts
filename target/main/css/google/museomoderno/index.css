@@ -1,0 +1,90 @@
+@font-face {
+          font-family: MuseoModerno;
+          font-style: normal;
+          font-weight: 100;
+          src: url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMlZFieUQiA.eot?#) format("eot"),url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMlZFiesQjA.woff2) format("woff2"),url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMlZFieUQig.woff) format("woff");
+}
+@font-face {
+          font-family: MuseoModerno;
+          font-style: normal;
+          font-weight: 200;
+          src: url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMtZEieUQiA.eot?#) format("eot"),url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMtZEiesQjA.woff2) format("woff2"),url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMtZEieUQig.woff) format("woff");
+}
+@font-face {
+          font-family: MuseoModerno;
+          font-style: normal;
+          font-weight: 300;
+          src: url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMghEieUQiA.eot?#) format("eot"),url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMghEiesQjA.woff2) format("woff2"),url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMghEieUQig.woff) format("woff");
+}
+@font-face {
+          font-family: MuseoModerno;
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMlZEieUQiA.eot?#) format("eot"),url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMlZEiesQjA.woff2) format("woff2"),url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMlZEieUQig.woff) format("woff");
+}
+@font-face {
+          font-family: MuseoModerno;
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMmREieUQiA.eot?#) format("eot"),url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMmREiesQjA.woff2) format("woff2"),url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMmREieUQig.woff) format("woff");
+}
+@font-face {
+          font-family: MuseoModerno;
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMohDieUQiA.eot?#) format("eot"),url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMohDiesQjA.woff2) format("woff2"),url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMohDieUQig.woff) format("woff");
+}
+@font-face {
+          font-family: MuseoModerno;
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMrFDieUQiA.eot?#) format("eot"),url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMrFDiesQjA.woff2) format("woff2"),url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMrFDieUQig.woff) format("woff");
+}
+@font-face {
+          font-family: MuseoModerno;
+          font-style: normal;
+          font-weight: 800;
+          src: url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMtZDieUQiA.eot?#) format("eot"),url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMtZDiesQjA.woff2) format("woff2"),url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMtZDieUQig.woff) format("woff");
+}
+@font-face {
+          font-family: MuseoModerno;
+          font-style: normal;
+          font-weight: 900;
+          src: url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMv9DieUQiA.eot?#) format("eot"),url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMv9DiesQjA.woff2) format("woff2"),url(//fonts.gstatic.com/s/museomoderno/v2/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMv9DieUQig.woff) format("woff");
+}
+.u-font-museomoderno-100 {
+          font-family: 'MuseoModerno' !important;
+          font-weight: 100 !important;
+}
+.u-font-museomoderno-200 {
+          font-family: 'MuseoModerno' !important;
+          font-weight: 200 !important;
+}
+.u-font-museomoderno-300 {
+          font-family: 'MuseoModerno' !important;
+          font-weight: 300 !important;
+}
+.u-font-museomoderno-400 {
+          font-family: 'MuseoModerno' !important;
+          font-weight: 400 !important;
+}
+.u-font-museomoderno-500 {
+          font-family: 'MuseoModerno' !important;
+          font-weight: 500 !important;
+}
+.u-font-museomoderno-600 {
+          font-family: 'MuseoModerno' !important;
+          font-weight: 600 !important;
+}
+.u-font-museomoderno-700 {
+          font-family: 'MuseoModerno' !important;
+          font-weight: 700 !important;
+}
+.u-font-museomoderno-800 {
+          font-family: 'MuseoModerno' !important;
+          font-weight: 800 !important;
+}
+.u-font-museomoderno-900 {
+          font-family: 'MuseoModerno' !important;
+          font-weight: 900 !important;
+}

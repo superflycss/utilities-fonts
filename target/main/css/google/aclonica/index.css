@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Aclonica;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Aclonica Regular"),local(Aclonica-Regular),url(//fonts.gstatic.com/s/aclonica/v11/K2FyfZJVlfNNSEBXGY7UAos.eot?#) format("eot"),url(//fonts.gstatic.com/s/aclonica/v11/K2FyfZJVlfNNSEBXGY7UAo8.woff2) format("woff2"),url(//fonts.gstatic.com/s/aclonica/v11/K2FyfZJVlfNNSEBXGY7UAok.woff) format("woff");
+}
+.u-font-aclonica-400 {
+          font-family: 'Aclonica' !important;
+          font-weight: 400 !important;
+}

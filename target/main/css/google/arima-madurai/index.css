@@ -1,0 +1,80 @@
+@font-face {
+          font-family: "Arima Madurai";
+          font-style: normal;
+          font-weight: 100;
+          src: local("Arima Madurai Thin"),local(ArimaMadurai-Thin),url(//fonts.gstatic.com/s/arimamadurai/v6/t5t4IRoeKYORG0WNMgnC3seB1V3_o7uH.eot?#) format("eot"),url(//fonts.gstatic.com/s/arimamadurai/v6/t5t4IRoeKYORG0WNMgnC3seB1V3_rbuD.woff2) format("woff2"),url(//fonts.gstatic.com/s/arimamadurai/v6/t5t4IRoeKYORG0WNMgnC3seB1V3_o7uF.woff) format("woff");
+}
+@font-face {
+          font-family: "Arima Madurai";
+          font-style: normal;
+          font-weight: 200;
+          src: local("Arima Madurai ExtraLight"),local(ArimaMadurai-ExtraLight),url(//fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1fHuupKmew.eot?#) format("eot"),url(//fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1fHuupymfw.woff2) format("woff2"),url(//fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1fHuupKmeQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Arima Madurai";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Arima Madurai Light"),local(ArimaMadurai-Light),url(//fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1ZXtupKmew.eot?#) format("eot"),url(//fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1ZXtupymfw.woff2) format("woff2"),url(//fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1ZXtupKmeQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Arima Madurai";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Arima Madurai"),local(ArimaMadurai-Regular),url(//fonts.gstatic.com/s/arimamadurai/v6/t5tmIRoeKYORG0WNMgnC3seB3TDPqw.eot?#) format("eot"),url(//fonts.gstatic.com/s/arimamadurai/v6/t5tmIRoeKYORG0WNMgnC3seB3T7Prw.woff2) format("woff2"),url(//fonts.gstatic.com/s/arimamadurai/v6/t5tmIRoeKYORG0WNMgnC3seB3TDPqQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Arima Madurai";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Arima Madurai Medium"),local(ArimaMadurai-Medium),url(//fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1c3supKmew.eot?#) format("eot"),url(//fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1c3supymfw.woff2) format("woff2"),url(//fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1c3supKmeQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Arima Madurai";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Arima Madurai Bold"),local(ArimaMadurai-Bold),url(//fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1YXqupKmew.eot?#) format("eot"),url(//fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1YXqupymfw.woff2) format("woff2"),url(//fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1YXqupKmeQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Arima Madurai";
+          font-style: normal;
+          font-weight: 800;
+          src: local("Arima Madurai ExtraBold"),local(ArimaMadurai-ExtraBold),url(//fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1ZnpupKmew.eot?#) format("eot"),url(//fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1Znpupymfw.woff2) format("woff2"),url(//fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1ZnpupKmeQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Arima Madurai";
+          font-style: normal;
+          font-weight: 900;
+          src: local("Arima Madurai Black"),local(ArimaMadurai-Black),url(//fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1b3oupKmew.eot?#) format("eot"),url(//fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1b3oupymfw.woff2) format("woff2"),url(//fonts.gstatic.com/s/arimamadurai/v6/t5t7IRoeKYORG0WNMgnC3seB1b3oupKmeQ.woff) format("woff");
+}
+.u-font-arima-madurai-100 {
+          font-family: 'Arima Madurai' !important;
+          font-weight: 100 !important;
+}
+.u-font-arima-madurai-200 {
+          font-family: 'Arima Madurai' !important;
+          font-weight: 200 !important;
+}
+.u-font-arima-madurai-300 {
+          font-family: 'Arima Madurai' !important;
+          font-weight: 300 !important;
+}
+.u-font-arima-madurai-400 {
+          font-family: 'Arima Madurai' !important;
+          font-weight: 400 !important;
+}
+.u-font-arima-madurai-500 {
+          font-family: 'Arima Madurai' !important;
+          font-weight: 500 !important;
+}
+.u-font-arima-madurai-700 {
+          font-family: 'Arima Madurai' !important;
+          font-weight: 700 !important;
+}
+.u-font-arima-madurai-800 {
+          font-family: 'Arima Madurai' !important;
+          font-weight: 800 !important;
+}
+.u-font-arima-madurai-900 {
+          font-family: 'Arima Madurai' !important;
+          font-weight: 900 !important;
+}

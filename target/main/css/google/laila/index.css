@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Laila;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Laila Light"),local(Laila-Light),url(//fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLzxojNJjVs.eot?#) format("eot"),url(//fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLzxojNHjV8.woff2) format("woff2"),url(//fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLzxojNJjVk.woff) format("woff");
+}
+@font-face {
+          font-family: Laila;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Laila Regular"),local(Laila-Regular),url(//fonts.gstatic.com/s/laila/v7/LYjMdG_8nE8jDLRUgCI.eot?#) format("eot"),url(//fonts.gstatic.com/s/laila/v7/LYjMdG_8nE8jDLRagCY.woff2) format("woff2"),url(//fonts.gstatic.com/s/laila/v7/LYjMdG_8nE8jDLRUgCA.woff) format("woff");
+}
+@font-face {
+          font-family: Laila;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Laila Medium"),local(Laila-Medium),url(//fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLypozNJjVs.eot?#) format("eot"),url(//fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLypozNHjV8.woff2) format("woff2"),url(//fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLypozNJjVk.woff) format("woff");
+}
+@font-face {
+          font-family: Laila;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Laila SemiBold"),local(Laila-SemiBold),url(//fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLyFpDNJjVs.eot?#) format("eot"),url(//fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLyFpDNHjV8.woff2) format("woff2"),url(//fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLyFpDNJjVk.woff) format("woff");
+}
+@font-face {
+          font-family: Laila;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Laila Bold"),local(Laila-Bold),url(//fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLzhpTNJjVs.eot?#) format("eot"),url(//fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLzhpTNHjV8.woff2) format("woff2"),url(//fonts.gstatic.com/s/laila/v7/LYjBdG_8nE8jDLzhpTNJjVk.woff) format("woff");
+}
+.u-font-laila-300 {
+          font-family: 'Laila' !important;
+          font-weight: 300 !important;
+}
+.u-font-laila-400 {
+          font-family: 'Laila' !important;
+          font-weight: 400 !important;
+}
+.u-font-laila-500 {
+          font-family: 'Laila' !important;
+          font-weight: 500 !important;
+}
+.u-font-laila-600 {
+          font-family: 'Laila' !important;
+          font-weight: 600 !important;
+}
+.u-font-laila-700 {
+          font-family: 'Laila' !important;
+          font-weight: 700 !important;
+}

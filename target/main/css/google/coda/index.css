@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Coda;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Coda Regular"),local(Coda-Regular),url(//fonts.gstatic.com/s/coda/v16/SLXHc1jY5nQ8FUsGbw.eot?#) format("eot"),url(//fonts.gstatic.com/s/coda/v16/SLXHc1jY5nQ8FUUGaw.woff2) format("woff2"),url(//fonts.gstatic.com/s/coda/v16/SLXHc1jY5nQ8FUsGbQ.woff) format("woff");
+}
+@font-face {
+          font-family: Coda;
+          font-style: normal;
+          font-weight: 800;
+          src: local("Coda ExtraBold"),local(Coda-ExtraBold),url(//fonts.gstatic.com/s/coda/v16/SLXIc1jY5nQ8HeIgfpesxg.eot?#) format("eot"),url(//fonts.gstatic.com/s/coda/v16/SLXIc1jY5nQ8HeIgfpmswg.woff2) format("woff2"),url(//fonts.gstatic.com/s/coda/v16/SLXIc1jY5nQ8HeIgfpesxA.woff) format("woff");
+}
+.u-font-coda-400 {
+          font-family: 'Coda' !important;
+          font-weight: 400 !important;
+}
+.u-font-coda-800 {
+          font-family: 'Coda' !important;
+          font-weight: 800 !important;
+}

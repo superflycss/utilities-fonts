@@ -1,0 +1,50 @@
+@font-face {
+          font-family: "Hind Guntur";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Hind Guntur Light"),local(HindGuntur-Light),url(//fonts.gstatic.com/s/hindguntur/v6/wXKyE3UZrok56nvamSuJd_yGn2c6ldk.eot?#) format("eot"),url(//fonts.gstatic.com/s/hindguntur/v6/wXKyE3UZrok56nvamSuJd_yGn2c0ld0.woff2) format("woff2"),url(//fonts.gstatic.com/s/hindguntur/v6/wXKyE3UZrok56nvamSuJd_yGn2c6lds.woff) format("woff");
+}
+@font-face {
+          font-family: "Hind Guntur";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Hind Guntur Regular"),local(HindGuntur-Regular),url(//fonts.gstatic.com/s/hindguntur/v6/wXKvE3UZrok56nvamSuJd_QjvXY.eot?#) format("eot"),url(//fonts.gstatic.com/s/hindguntur/v6/wXKvE3UZrok56nvamSuJd_QtvXI.woff2) format("woff2"),url(//fonts.gstatic.com/s/hindguntur/v6/wXKvE3UZrok56nvamSuJd_QjvXQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Hind Guntur";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Hind Guntur Medium"),local(HindGuntur-Medium),url(//fonts.gstatic.com/s/hindguntur/v6/wXKyE3UZrok56nvamSuJd_zenmc6ldk.eot?#) format("eot"),url(//fonts.gstatic.com/s/hindguntur/v6/wXKyE3UZrok56nvamSuJd_zenmc0ld0.woff2) format("woff2"),url(//fonts.gstatic.com/s/hindguntur/v6/wXKyE3UZrok56nvamSuJd_zenmc6lds.woff) format("woff");
+}
+@font-face {
+          font-family: "Hind Guntur";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Hind Guntur SemiBold"),local(HindGuntur-SemiBold),url(//fonts.gstatic.com/s/hindguntur/v6/wXKyE3UZrok56nvamSuJd_zymWc6ldk.eot?#) format("eot"),url(//fonts.gstatic.com/s/hindguntur/v6/wXKyE3UZrok56nvamSuJd_zymWc0ld0.woff2) format("woff2"),url(//fonts.gstatic.com/s/hindguntur/v6/wXKyE3UZrok56nvamSuJd_zymWc6lds.woff) format("woff");
+}
+@font-face {
+          font-family: "Hind Guntur";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Hind Guntur Bold"),local(HindGuntur-Bold),url(//fonts.gstatic.com/s/hindguntur/v6/wXKyE3UZrok56nvamSuJd_yWmGc6ldk.eot?#) format("eot"),url(//fonts.gstatic.com/s/hindguntur/v6/wXKyE3UZrok56nvamSuJd_yWmGc0ld0.woff2) format("woff2"),url(//fonts.gstatic.com/s/hindguntur/v6/wXKyE3UZrok56nvamSuJd_yWmGc6lds.woff) format("woff");
+}
+.u-font-hind-guntur-300 {
+          font-family: 'Hind Guntur' !important;
+          font-weight: 300 !important;
+}
+.u-font-hind-guntur-400 {
+          font-family: 'Hind Guntur' !important;
+          font-weight: 400 !important;
+}
+.u-font-hind-guntur-500 {
+          font-family: 'Hind Guntur' !important;
+          font-weight: 500 !important;
+}
+.u-font-hind-guntur-600 {
+          font-family: 'Hind Guntur' !important;
+          font-weight: 600 !important;
+}
+.u-font-hind-guntur-700 {
+          font-family: 'Hind Guntur' !important;
+          font-weight: 700 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Kumar One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Kumar One"),local(KumarOne-Regular),url(//fonts.gstatic.com/s/kumarone/v5/bMr1mS-P958wYi6YaGe2PeST.eot?#) format("eot"),url(//fonts.gstatic.com/s/kumarone/v5/bMr1mS-P958wYi6YaGe2M-SX.woff2) format("woff2"),url(//fonts.gstatic.com/s/kumarone/v5/bMr1mS-P958wYi6YaGe2PeSR.woff) format("woff");
+}
+.u-font-kumar-one-400 {
+          font-family: 'Kumar One' !important;
+          font-weight: 400 !important;
+}

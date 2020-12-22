@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Scheherazade;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Scheherazade),local(Scheherazade-Regular),url(//fonts.gstatic.com/s/scheherazade/v19/YA9Ur0yF4ETZN60keViq1kQQsJmt.eot?#) format("eot"),url(//fonts.gstatic.com/s/scheherazade/v19/YA9Ur0yF4ETZN60keViq1kQQsJmp.woff2) format("woff2"),url(//fonts.gstatic.com/s/scheherazade/v19/YA9Ur0yF4ETZN60keViq1kQQsJmv.woff) format("woff");
+}
+@font-face {
+          font-family: Scheherazade;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Scheherazade Bold"),local(Scheherazade-Bold),url(//fonts.gstatic.com/s/scheherazade/v19/YA9Lr0yF4ETZN60keViq1kQYC7y8idfQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/scheherazade/v19/YA9Lr0yF4ETZN60keViq1kQYC7y8idfU.woff2) format("woff2"),url(//fonts.gstatic.com/s/scheherazade/v19/YA9Lr0yF4ETZN60keViq1kQYC7y8idfS.woff) format("woff");
+}
+.u-font-scheherazade-400 {
+          font-family: 'Scheherazade' !important;
+          font-weight: 400 !important;
+}
+.u-font-scheherazade-700 {
+          font-family: 'Scheherazade' !important;
+          font-weight: 700 !important;
+}

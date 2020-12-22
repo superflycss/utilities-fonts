@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Bubblegum Sans";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Bubblegum Sans Regular"),local(BubblegumSans-Regular),url(//fonts.gstatic.com/s/bubblegumsans/v9/AYCSpXb_Z9EORv1M5QTjEzMEteaOxIY.eot?#) format("eot"),url(//fonts.gstatic.com/s/bubblegumsans/v9/AYCSpXb_Z9EORv1M5QTjEzMEteaAxII.woff2) format("woff2"),url(//fonts.gstatic.com/s/bubblegumsans/v9/AYCSpXb_Z9EORv1M5QTjEzMEteaOxIQ.woff) format("woff");
+}
+.u-font-bubblegum-sans-400 {
+          font-family: 'Bubblegum Sans' !important;
+          font-weight: 400 !important;
+}

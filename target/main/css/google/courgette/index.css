@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Courgette;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Courgette Regular"),local(Courgette-Regular),url(//fonts.gstatic.com/s/courgette/v8/wEO_EBrAnc9BLjLQAUk1WPoO.eot?#) format("eot"),url(//fonts.gstatic.com/s/courgette/v8/wEO_EBrAnc9BLjLQAUk1VvoK.woff2) format("woff2"),url(//fonts.gstatic.com/s/courgette/v8/wEO_EBrAnc9BLjLQAUk1WPoM.woff) format("woff");
+}
+.u-font-courgette-400 {
+          font-family: 'Courgette' !important;
+          font-weight: 400 !important;
+}

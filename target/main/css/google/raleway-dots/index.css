@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Raleway Dots";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Raleway Dots"),local(RalewayDots-Regular),url(//fonts.gstatic.com/s/ralewaydots/v8/6NUR8FifJg6AfQvzpshgwJ8UwPVA.eot?#) format("eot"),url(//fonts.gstatic.com/s/ralewaydots/v8/6NUR8FifJg6AfQvzpshgwJ8UzvVE.woff2) format("woff2"),url(//fonts.gstatic.com/s/ralewaydots/v8/6NUR8FifJg6AfQvzpshgwJ8UwPVC.woff) format("woff");
+}
+.u-font-raleway-dots-400 {
+          font-family: 'Raleway Dots' !important;
+          font-weight: 400 !important;
+}

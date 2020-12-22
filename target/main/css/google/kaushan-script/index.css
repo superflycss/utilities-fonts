@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Kaushan Script";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Kaushan Script"),local(KaushanScript-Regular),url(//fonts.gstatic.com/s/kaushanscript/v9/vm8vdRfvXFLG3OLnsO15WYS5DG72wNY.eot?#) format("eot"),url(//fonts.gstatic.com/s/kaushanscript/v9/vm8vdRfvXFLG3OLnsO15WYS5DG74wNI.woff2) format("woff2"),url(//fonts.gstatic.com/s/kaushanscript/v9/vm8vdRfvXFLG3OLnsO15WYS5DG72wNQ.woff) format("woff");
+}
+.u-font-kaushan-script-400 {
+          font-family: 'Kaushan Script' !important;
+          font-weight: 400 !important;
+}

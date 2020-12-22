@@ -1,0 +1,63 @@
+@font-face {
+          font-family: Nobile;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Nobile Italic"),local(Nobile-Italic),url(//fonts.gstatic.com/s/nobile/v12/m8JRjflSeaOVl1iGXJ3aULU.eot?#) format("eot"),url(//fonts.gstatic.com/s/nobile/v12/m8JRjflSeaOVl1iGXJ3UULE.woff2) format("woff2"),url(//fonts.gstatic.com/s/nobile/v12/m8JRjflSeaOVl1iGXJ3aULc.woff) format("woff");
+}
+@font-face {
+          font-family: Nobile;
+          font-style: italic;
+          font-weight: 500;
+          src: local("Nobile Medium Italic"),local(Nobile-MediumItalic),url(//fonts.gstatic.com/s/nobile/v12/m8JWjflSeaOVl1iGXJUnc6RMTmo.eot?#) format("eot"),url(//fonts.gstatic.com/s/nobile/v12/m8JWjflSeaOVl1iGXJUnc6RCTm4.woff2) format("woff2"),url(//fonts.gstatic.com/s/nobile/v12/m8JWjflSeaOVl1iGXJUnc6RMTmg.woff) format("woff");
+}
+@font-face {
+          font-family: Nobile;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Nobile Bold Italic"),local(Nobile-BoldItalic),url(//fonts.gstatic.com/s/nobile/v12/m8JWjflSeaOVl1iGXJVvdaRMTmo.eot?#) format("eot"),url(//fonts.gstatic.com/s/nobile/v12/m8JWjflSeaOVl1iGXJVvdaRCTm4.woff2) format("woff2"),url(//fonts.gstatic.com/s/nobile/v12/m8JWjflSeaOVl1iGXJVvdaRMTmg.woff) format("woff");
+}
+@font-face {
+          font-family: Nobile;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Nobile),local(Nobile-Regular),url(//fonts.gstatic.com/s/nobile/v12/m8JTjflSeaOVl1iGV63S.eot?#) format("eot"),url(//fonts.gstatic.com/s/nobile/v12/m8JTjflSeaOVl1iGWa3W.woff2) format("woff2"),url(//fonts.gstatic.com/s/nobile/v12/m8JTjflSeaOVl1iGV63Q.woff) format("woff");
+}
+@font-face {
+          font-family: Nobile;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Nobile Medium"),local(Nobile-Medium),url(//fonts.gstatic.com/s/nobile/v12/m8JQjflSeaOVl1iOqo7DeZRE.eot?#) format("eot"),url(//fonts.gstatic.com/s/nobile/v12/m8JQjflSeaOVl1iOqo7Dd5RA.woff2) format("woff2"),url(//fonts.gstatic.com/s/nobile/v12/m8JQjflSeaOVl1iOqo7DeZRG.woff) format("woff");
+}
+@font-face {
+          font-family: Nobile;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Nobile Bold"),local(Nobile-Bold),url(//fonts.gstatic.com/s/nobile/v12/m8JQjflSeaOVl1iO4ojDeZRE.eot?#) format("eot"),url(//fonts.gstatic.com/s/nobile/v12/m8JQjflSeaOVl1iO4ojDd5RA.woff2) format("woff2"),url(//fonts.gstatic.com/s/nobile/v12/m8JQjflSeaOVl1iO4ojDeZRG.woff) format("woff");
+}
+.u-font-nobile-400 {
+          font-family: 'Nobile' !important;
+          font-weight: 400 !important;
+}
+.u-font-nobile-400-italic {
+        font-family: 'Nobile' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-nobile-500 {
+          font-family: 'Nobile' !important;
+          font-weight: 500 !important;
+}
+.u-font-nobile-500-italic {
+        font-family: 'Nobile' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-nobile-700 {
+          font-family: 'Nobile' !important;
+          font-weight: 700 !important;
+}
+.u-font-nobile-700-italic {
+        font-family: 'Nobile' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

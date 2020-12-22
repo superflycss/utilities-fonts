@@ -1,0 +1,189 @@
+@font-face {
+          font-family: Bitter;
+          font-style: italic;
+          font-weight: 100;
+          src: url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c4P3-UXB2.eot?#) format("eot"),url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c4P3-X3By.woff2) format("woff2"),url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c4P3-UXB0.woff) format("woff");
+}
+@font-face {
+          font-family: Bitter;
+          font-style: italic;
+          font-weight: 200;
+          src: url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPz-UXB2.eot?#) format("eot"),url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPz-X3By.woff2) format("woff2"),url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPz-UXB0.woff) format("woff");
+}
+@font-face {
+          font-family: Bitter;
+          font-style: italic;
+          font-weight: 300;
+          src: url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cvvz-UXB2.eot?#) format("eot"),url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cvvz-X3By.woff2) format("woff2"),url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cvvz-UXB0.woff) format("woff");
+}
+@font-face {
+          font-family: Bitter;
+          font-style: italic;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c4Pz-UXB2.eot?#) format("eot"),url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c4Pz-X3By.woff2) format("woff2"),url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c4Pz-UXB0.woff) format("woff");
+}
+@font-face {
+          font-family: Bitter;
+          font-style: italic;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c0vz-UXB2.eot?#) format("eot"),url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c0vz-X3By.woff2) format("woff2"),url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c0vz-UXB0.woff) format("woff");
+}
+@font-face {
+          font-family: Bitter;
+          font-style: italic;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cPvv-UXB2.eot?#) format("eot"),url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cPvv-X3By.woff2) format("woff2"),url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cPvv-UXB0.woff) format("woff");
+}
+@font-face {
+          font-family: Bitter;
+          font-style: italic;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cB_v-UXB2.eot?#) format("eot"),url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cB_v-X3By.woff2) format("woff2"),url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cB_v-UXB0.woff) format("woff");
+}
+@font-face {
+          font-family: Bitter;
+          font-style: italic;
+          font-weight: 800;
+          src: url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPv-UXB2.eot?#) format("eot"),url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPv-X3By.woff2) format("woff2"),url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPv-UXB0.woff) format("woff");
+}
+@font-face {
+          font-family: Bitter;
+          font-style: italic;
+          font-weight: 900;
+          src: url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cSfv-UXB2.eot?#) format("eot"),url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cSfv-X3By.woff2) format("woff2"),url(//fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cSfv-UXB0.woff) format("woff");
+}
+@font-face {
+          font-family: Bitter;
+          font-style: normal;
+          font-weight: 100;
+          src: url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbeOLbOWQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbeOLjOXQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbeOLbOWw.woff) format("woff");
+}
+@font-face {
+          font-family: Bitter;
+          font-style: normal;
+          font-weight: 200;
+          src: url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbfOLbOWQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbfOLjOXQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbfOLbOWw.woff) format("woff");
+}
+@font-face {
+          font-family: Bitter;
+          font-style: normal;
+          font-weight: 300;
+          src: url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8ajfOLbOWQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8ajfOLjOXQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8ajfOLbOWw.woff) format("woff");
+}
+@font-face {
+          font-family: Bitter;
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLbOWQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLjOXQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLbOWw.woff) format("woff");
+}
+@font-face {
+          font-family: Bitter;
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8cTfOLbOWQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8cTfOLjOXQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8cTfOLbOWw.woff) format("woff");
+}
+@font-face {
+          font-family: Bitter;
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8SjYOLbOWQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8SjYOLjOXQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8SjYOLbOWw.woff) format("woff");
+}
+@font-face {
+          font-family: Bitter;
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLbOWQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLjOXQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLbOWw.woff) format("woff");
+}
+@font-face {
+          font-family: Bitter;
+          font-style: normal;
+          font-weight: 800;
+          src: url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbYOLbOWQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbYOLjOXQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbYOLbOWw.woff) format("woff");
+}
+@font-face {
+          font-family: Bitter;
+          font-style: normal;
+          font-weight: 900;
+          src: url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8V_YOLbOWQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8V_YOLjOXQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8V_YOLbOWw.woff) format("woff");
+}
+.u-font-bitter-100 {
+          font-family: 'Bitter' !important;
+          font-weight: 100 !important;
+}
+.u-font-bitter-200 {
+          font-family: 'Bitter' !important;
+          font-weight: 200 !important;
+}
+.u-font-bitter-300 {
+          font-family: 'Bitter' !important;
+          font-weight: 300 !important;
+}
+.u-font-bitter-400 {
+          font-family: 'Bitter' !important;
+          font-weight: 400 !important;
+}
+.u-font-bitter-500 {
+          font-family: 'Bitter' !important;
+          font-weight: 500 !important;
+}
+.u-font-bitter-600 {
+          font-family: 'Bitter' !important;
+          font-weight: 600 !important;
+}
+.u-font-bitter-700 {
+          font-family: 'Bitter' !important;
+          font-weight: 700 !important;
+}
+.u-font-bitter-800 {
+          font-family: 'Bitter' !important;
+          font-weight: 800 !important;
+}
+.u-font-bitter-900 {
+          font-family: 'Bitter' !important;
+          font-weight: 900 !important;
+}
+.u-font-bitter-100-italic {
+        font-family: 'Bitter' !important;
+        font-weight: 100 !important;
+        font-style: italic !important;
+}
+.u-font-bitter-200-italic {
+        font-family: 'Bitter' !important;
+        font-weight: 200 !important;
+        font-style: italic !important;
+}
+.u-font-bitter-300-italic {
+        font-family: 'Bitter' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-bitter-400-italic {
+        font-family: 'Bitter' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-bitter-500-italic {
+        font-family: 'Bitter' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-bitter-600-italic {
+        font-family: 'Bitter' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-bitter-700-italic {
+        font-family: 'Bitter' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}
+.u-font-bitter-800-italic {
+        font-family: 'Bitter' !important;
+        font-weight: 800 !important;
+        font-style: italic !important;
+}
+.u-font-bitter-900-italic {
+        font-family: 'Bitter' !important;
+        font-weight: 900 !important;
+        font-style: italic !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Mystery Quest";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Mystery Quest"),local(MysteryQuest),url(//fonts.gstatic.com/s/mysteryquest/v8/-nF6OG414u0E6k0wynSGlujRLwgvCg.eot?#) format("eot"),url(//fonts.gstatic.com/s/mysteryquest/v8/-nF6OG414u0E6k0wynSGlujRLwYvDg.woff2) format("woff2"),url(//fonts.gstatic.com/s/mysteryquest/v8/-nF6OG414u0E6k0wynSGlujRLwgvCA.woff) format("woff");
+}
+.u-font-mystery-quest-400 {
+          font-family: 'Mystery Quest' !important;
+          font-weight: 400 !important;
+}

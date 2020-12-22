@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Passero One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Passero One"),local(PasseroOne-Regular),url(//fonts.gstatic.com/s/passeroone/v12/JTUTjIko8DOq5FeaeEAjgH5I7g8.eot?#) format("eot"),url(//fonts.gstatic.com/s/passeroone/v12/JTUTjIko8DOq5FeaeEAjgH5G7gs.woff2) format("woff2"),url(//fonts.gstatic.com/s/passeroone/v12/JTUTjIko8DOq5FeaeEAjgH5I7g0.woff) format("woff");
+}
+.u-font-passero-one-400 {
+          font-family: 'Passero One' !important;
+          font-weight: 400 !important;
+}

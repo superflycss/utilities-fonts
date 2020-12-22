@@ -1,0 +1,40 @@
+@font-face {
+          font-family: "Vollkorn SC";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Vollkorn SC Regular"),local(VollkornSC-Regular),url(//fonts.gstatic.com/s/vollkornsc/v4/j8_v6-zQ3rXpceZj9cqnViFwPno.eot?#) format("eot"),url(//fonts.gstatic.com/s/vollkornsc/v4/j8_v6-zQ3rXpceZj9cqnViF-Pn4.woff2) format("woff2"),url(//fonts.gstatic.com/s/vollkornsc/v4/j8_v6-zQ3rXpceZj9cqnViFwPng.woff) format("woff");
+}
+@font-face {
+          font-family: "Vollkorn SC";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Vollkorn SC SemiBold"),local(VollkornSC-SemiBold),url(//fonts.gstatic.com/s/vollkornsc/v4/j8_y6-zQ3rXpceZj9cqnVimhGmuja7Y.eot?#) format("eot"),url(//fonts.gstatic.com/s/vollkornsc/v4/j8_y6-zQ3rXpceZj9cqnVimhGmuta7I.woff2) format("woff2"),url(//fonts.gstatic.com/s/vollkornsc/v4/j8_y6-zQ3rXpceZj9cqnVimhGmuja7Q.woff) format("woff");
+}
+@font-face {
+          font-family: "Vollkorn SC";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Vollkorn SC Bold"),local(VollkornSC-Bold),url(//fonts.gstatic.com/s/vollkornsc/v4/j8_y6-zQ3rXpceZj9cqnVinFG2uja7Y.eot?#) format("eot"),url(//fonts.gstatic.com/s/vollkornsc/v4/j8_y6-zQ3rXpceZj9cqnVinFG2uta7I.woff2) format("woff2"),url(//fonts.gstatic.com/s/vollkornsc/v4/j8_y6-zQ3rXpceZj9cqnVinFG2uja7Q.woff) format("woff");
+}
+@font-face {
+          font-family: "Vollkorn SC";
+          font-style: normal;
+          font-weight: 900;
+          src: local("Vollkorn SC Black"),local(VollkornSC-Black),url(//fonts.gstatic.com/s/vollkornsc/v4/j8_y6-zQ3rXpceZj9cqnVin9GWuja7Y.eot?#) format("eot"),url(//fonts.gstatic.com/s/vollkornsc/v4/j8_y6-zQ3rXpceZj9cqnVin9GWuta7I.woff2) format("woff2"),url(//fonts.gstatic.com/s/vollkornsc/v4/j8_y6-zQ3rXpceZj9cqnVin9GWuja7Q.woff) format("woff");
+}
+.u-font-vollkorn-sc-400 {
+          font-family: 'Vollkorn SC' !important;
+          font-weight: 400 !important;
+}
+.u-font-vollkorn-sc-600 {
+          font-family: 'Vollkorn SC' !important;
+          font-weight: 600 !important;
+}
+.u-font-vollkorn-sc-700 {
+          font-family: 'Vollkorn SC' !important;
+          font-weight: 700 !important;
+}
+.u-font-vollkorn-sc-900 {
+          font-family: 'Vollkorn SC' !important;
+          font-weight: 900 !important;
+}

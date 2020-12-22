@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Ewert;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Ewert),local(Ewert-Regular),url(//fonts.gstatic.com/s/ewert/v8/va9I4kzO2tFODbBmQec.eot?#) format("eot"),url(//fonts.gstatic.com/s/ewert/v8/va9I4kzO2tFODbBoQeM.woff2) format("woff2"),url(//fonts.gstatic.com/s/ewert/v8/va9I4kzO2tFODbBmQeU.woff) format("woff");
+}
+.u-font-ewert-400 {
+          font-family: 'Ewert' !important;
+          font-weight: 400 !important;
+}

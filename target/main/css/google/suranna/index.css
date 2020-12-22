@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Suranna;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Suranna),url(//fonts.gstatic.com/s/suranna/v8/gokuH6ztGkFjWe58hBNTSg.eot?#) format("eot"),url(//fonts.gstatic.com/s/suranna/v8/gokuH6ztGkFjWe58hBNTTg.woff2) format("woff2"),url(//fonts.gstatic.com/s/suranna/v8/gokuH6ztGkFjWe58hBNTSA.woff) format("woff");
+}
+.u-font-suranna-400 {
+          font-family: 'Suranna' !important;
+          font-weight: 400 !important;
+}

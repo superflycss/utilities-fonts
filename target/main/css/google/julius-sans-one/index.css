@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Julius Sans One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Julius Sans One"),local(JuliusSansOne-Regular),url(//fonts.gstatic.com/s/juliussansone/v9/1Pt2g8TAX_SGgBGUi0tGOYEga5WOzHsT.eot?#) format("eot"),url(//fonts.gstatic.com/s/juliussansone/v9/1Pt2g8TAX_SGgBGUi0tGOYEga5WOwnsX.woff2) format("woff2"),url(//fonts.gstatic.com/s/juliussansone/v9/1Pt2g8TAX_SGgBGUi0tGOYEga5WOzHsR.woff) format("woff");
+}
+.u-font-julius-sans-one-400 {
+          font-family: 'Julius Sans One' !important;
+          font-weight: 400 !important;
+}

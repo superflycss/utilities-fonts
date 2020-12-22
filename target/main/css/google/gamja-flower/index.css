@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Gamja Flower";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Gamja Flower Regular"),local(GamjaFlower-Regular),url(//fonts.gstatic.com/s/gamjaflower/v8/6NUR8FiKJg-Pa0rM6uN40Z4UzvVA.eot?#) format("eot"),url(//fonts.gstatic.com/s/gamjaflower/v8/6NUR8FiKJg-Pa0rM6uN40Z4kzJdTdNPFFRJ7lwb-CZch2ydaLb0K.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/gamjaflower/v8/6NUR8FiKJg-Pa0rM6uN40Z4UzvVC.woff) format("woff");
+}
+.u-font-gamja-flower-400 {
+          font-family: 'Gamja Flower' !important;
+          font-weight: 400 !important;
+}

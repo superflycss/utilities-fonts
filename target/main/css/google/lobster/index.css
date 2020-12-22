@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Lobster;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Lobster Regular"),local(Lobster-Regular),url(//fonts.gstatic.com/s/lobster/v23/neILzCirqoswsqX9zoymNw.eot?#) format("eot"),url(//fonts.gstatic.com/s/lobster/v23/neILzCirqoswsqX9zoKmMw.woff2) format("woff2"),url(//fonts.gstatic.com/s/lobster/v23/neILzCirqoswsqX9zoymNQ.woff) format("woff");
+}
+.u-font-lobster-400 {
+          font-family: 'Lobster' !important;
+          font-weight: 400 !important;
+}

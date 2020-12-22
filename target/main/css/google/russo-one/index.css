@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Russo One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Russo One"),local(RussoOne-Regular),url(//fonts.gstatic.com/s/russoone/v9/Z9XUDmZRWg6M1LvRYsHOwcmN.eot?#) format("eot"),url(//fonts.gstatic.com/s/russoone/v9/Z9XUDmZRWg6M1LvRYsHOz8mJ.woff2) format("woff2"),url(//fonts.gstatic.com/s/russoone/v9/Z9XUDmZRWg6M1LvRYsHOwcmP.woff) format("woff");
+}
+.u-font-russo-one-400 {
+          font-family: 'Russo One' !important;
+          font-weight: 400 !important;
+}

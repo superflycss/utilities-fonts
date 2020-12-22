@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Abel;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Abel Regular"),local(Abel-Regular),url(//fonts.gstatic.com/s/abel/v12/MwQ5bhbm2POE2V9BOQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/abel/v12/MwQ5bhbm2POE2V9BPQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/abel/v12/MwQ5bhbm2POE2V9BOw.woff) format("woff");
+}
+.u-font-abel-400 {
+          font-family: 'Abel' !important;
+          font-weight: 400 !important;
+}

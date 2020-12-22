@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Candal;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Candal),url(//fonts.gstatic.com/s/candal/v10/XoHn2YH6T7-t_8c9BhQM.eot?#) format("eot"),url(//fonts.gstatic.com/s/candal/v10/XoHn2YH6T7-t_8c9BhQI.woff2) format("woff2"),url(//fonts.gstatic.com/s/candal/v10/XoHn2YH6T7-t_8c9BhQO.woff) format("woff");
+}
+.u-font-candal-400 {
+          font-family: 'Candal' !important;
+          font-weight: 400 !important;
+}

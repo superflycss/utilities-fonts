@@ -1,0 +1,90 @@
+@font-face {
+          font-family: "Encode Sans";
+          font-style: normal;
+          font-weight: 100;
+          src: url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHiVtyF6Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHiVtKF7Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHiVtyF6w.woff) format("woff");
+}
+@font-face {
+          font-family: "Encode Sans";
+          font-style: normal;
+          font-weight: 200;
+          src: url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHjVtyF6Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHjVtKF7Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHjVtyF6w.woff) format("woff");
+}
+@font-face {
+          font-family: "Encode Sans";
+          font-style: normal;
+          font-weight: 300;
+          src: url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGD_jVtyF6Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGD_jVtKF7Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGD_jVtyF6w.woff) format("woff");
+}
+@font-face {
+          font-family: "Encode Sans";
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHjVtyF6Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHjVtKF7Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHjVtyF6w.woff) format("woff");
+}
+@font-face {
+          font-family: "Encode Sans";
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGFPjVtyF6Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGFPjVtKF7Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGFPjVtyF6w.woff) format("woff");
+}
+@font-face {
+          font-family: "Encode Sans";
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGL_kVtyF6Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGL_kVtKF7Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGL_kVtyF6w.woff) format("woff");
+}
+@font-face {
+          font-family: "Encode Sans";
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGIbkVtyF6Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGIbkVtKF7Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGIbkVtyF6w.woff) format("woff");
+}
+@font-face {
+          font-family: "Encode Sans";
+          font-style: normal;
+          font-weight: 800;
+          src: url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHkVtyF6Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHkVtKF7Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHkVtyF6w.woff) format("woff");
+}
+@font-face {
+          font-family: "Encode Sans";
+          font-style: normal;
+          font-weight: 900;
+          src: url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGMjkVtyF6Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGMjkVtKF7Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/encodesans/v7/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGMjkVtyF6w.woff) format("woff");
+}
+.u-font-encode-sans-100 {
+          font-family: 'Encode Sans' !important;
+          font-weight: 100 !important;
+}
+.u-font-encode-sans-200 {
+          font-family: 'Encode Sans' !important;
+          font-weight: 200 !important;
+}
+.u-font-encode-sans-300 {
+          font-family: 'Encode Sans' !important;
+          font-weight: 300 !important;
+}
+.u-font-encode-sans-400 {
+          font-family: 'Encode Sans' !important;
+          font-weight: 400 !important;
+}
+.u-font-encode-sans-500 {
+          font-family: 'Encode Sans' !important;
+          font-weight: 500 !important;
+}
+.u-font-encode-sans-600 {
+          font-family: 'Encode Sans' !important;
+          font-weight: 600 !important;
+}
+.u-font-encode-sans-700 {
+          font-family: 'Encode Sans' !important;
+          font-weight: 700 !important;
+}
+.u-font-encode-sans-800 {
+          font-family: 'Encode Sans' !important;
+          font-weight: 800 !important;
+}
+.u-font-encode-sans-900 {
+          font-family: 'Encode Sans' !important;
+          font-weight: 900 !important;
+}

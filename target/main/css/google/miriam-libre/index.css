@@ -1,0 +1,20 @@
+@font-face {
+          font-family: "Miriam Libre";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Miriam Libre Regular"),local(MiriamLibre-Regular),url(//fonts.gstatic.com/s/miriamlibre/v7/DdTh798HsHwubBAqfkcBTL_faZP6.eot?#) format("eot"),url(//fonts.gstatic.com/s/miriamlibre/v7/DdTh798HsHwubBAqfkcBTL_fZ5P-.woff2) format("woff2"),url(//fonts.gstatic.com/s/miriamlibre/v7/DdTh798HsHwubBAqfkcBTL_faZP4.woff) format("woff");
+}
+@font-face {
+          font-family: "Miriam Libre";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Miriam Libre Bold"),local(MiriamLibre-Bold),url(//fonts.gstatic.com/s/miriamlibre/v7/DdT-798HsHwubBAqfkcBTL_X3LbrTMq-.eot?#) format("eot"),url(//fonts.gstatic.com/s/miriamlibre/v7/DdT-798HsHwubBAqfkcBTL_X3LbrQsq6.woff2) format("woff2"),url(//fonts.gstatic.com/s/miriamlibre/v7/DdT-798HsHwubBAqfkcBTL_X3LbrTMq8.woff) format("woff");
+}
+.u-font-miriam-libre-400 {
+          font-family: 'Miriam Libre' !important;
+          font-weight: 400 !important;
+}
+.u-font-miriam-libre-700 {
+          font-family: 'Miriam Libre' !important;
+          font-weight: 700 !important;
+}

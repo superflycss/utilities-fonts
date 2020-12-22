@@ -1,0 +1,61 @@
+@font-face {
+          font-family: Neuton;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Neuton Italic"),local(Neuton-Italic),url(//fonts.gstatic.com/s/neuton/v13/UMBRrPtMoH62xUZCyrg2Wis.eot?#) format("eot"),url(//fonts.gstatic.com/s/neuton/v13/UMBRrPtMoH62xUZCyrg4Wi8.woff2) format("woff2"),url(//fonts.gstatic.com/s/neuton/v13/UMBRrPtMoH62xUZCyrg2Wik.woff) format("woff");
+}
+@font-face {
+          font-family: Neuton;
+          font-style: normal;
+          font-weight: 200;
+          src: local("Neuton ExtraLight"),local(Neuton-ExtraLight),url(//fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKAKkvcwr8.eot?#) format("eot"),url(//fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKAKkvfQr4.woff2) format("woff2"),url(//fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKAKkvcwr-.woff) format("woff");
+}
+@font-face {
+          font-family: Neuton;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Neuton Light"),local(Neuton-Light),url(//fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKZKovcwr8.eot?#) format("eot"),url(//fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKZKovfQr4.woff2) format("woff2"),url(//fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKZKovcwr-.woff) format("woff");
+}
+@font-face {
+          font-family: Neuton;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Neuton Regular"),local(Neuton-Regular),url(//fonts.gstatic.com/s/neuton/v13/UMBTrPtMoH62xUZCwYg-.eot?#) format("eot"),url(//fonts.gstatic.com/s/neuton/v13/UMBTrPtMoH62xUZCz4g6.woff2) format("woff2"),url(//fonts.gstatic.com/s/neuton/v13/UMBTrPtMoH62xUZCwYg8.woff) format("woff");
+}
+@font-face {
+          font-family: Neuton;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Neuton Bold"),local(Neuton-Bold),url(//fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKdK0vcwr8.eot?#) format("eot"),url(//fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKdK0vfQr4.woff2) format("woff2"),url(//fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKdK0vcwr-.woff) format("woff");
+}
+@font-face {
+          font-family: Neuton;
+          font-style: normal;
+          font-weight: 800;
+          src: local("Neuton ExtraBold"),local(Neuton-ExtraBold),url(//fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKaK4vcwr8.eot?#) format("eot"),url(//fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKaK4vfQr4.woff2) format("woff2"),url(//fonts.gstatic.com/s/neuton/v13/UMBQrPtMoH62xUZKaK4vcwr-.woff) format("woff");
+}
+.u-font-neuton-200 {
+          font-family: 'Neuton' !important;
+          font-weight: 200 !important;
+}
+.u-font-neuton-300 {
+          font-family: 'Neuton' !important;
+          font-weight: 300 !important;
+}
+.u-font-neuton-400 {
+          font-family: 'Neuton' !important;
+          font-weight: 400 !important;
+}
+.u-font-neuton-400-italic {
+        font-family: 'Neuton' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-neuton-700 {
+          font-family: 'Neuton' !important;
+          font-weight: 700 !important;
+}
+.u-font-neuton-800 {
+          font-family: 'Neuton' !important;
+          font-weight: 800 !important;
+}

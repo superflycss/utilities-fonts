@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Do Hyeon";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Do Hyeon Regular"),local(DoHyeon-Regular),url(//fonts.gstatic.com/s/dohyeon/v11/TwMN-I8CRRU2zM86HGEwbQM.eot?#) format("eot"),url(//fonts.gstatic.com/s/dohyeon/v11/TwMN-I8CRRU2zM86HFEyDxCF8IzsrHhQDsWbqMgmMqte6j0.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/dohyeon/v11/TwMN-I8CRRU2zM86HGEwbQE.woff) format("woff");
+}
+.u-font-do-hyeon-400 {
+          font-family: 'Do Hyeon' !important;
+          font-weight: 400 !important;
+}

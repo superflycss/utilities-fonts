@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Yeon Sung";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Yeon Sung Regular"),local(YeonSung-Regular),url(//fonts.gstatic.com/s/yeonsung/v8/QldMNTpbohAGtsJvUn6BTllf.eot?#) format("eot"),url(//fonts.gstatic.com/s/yeonsung/v8/QldMNTpbohAGtsJvUn6xTDtMzKMFqIuVbfp5ryWEr_gQfipm.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/yeonsung/v8/QldMNTpbohAGtsJvUn6BTlld.woff) format("woff");
+}
+.u-font-yeon-sung-400 {
+          font-family: 'Yeon Sung' !important;
+          font-weight: 400 !important;
+}

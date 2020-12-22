@@ -1,0 +1,31 @@
+@font-face {
+          font-family: Judson;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Judson Italic"),local(Judson-Italic),url(//fonts.gstatic.com/s/judson/v13/FeVTS0Fbvbc14VxhDYl5_bU.eot?#) format("eot"),url(//fonts.gstatic.com/s/judson/v13/FeVTS0Fbvbc14VxhDYl3_bE.woff2) format("woff2"),url(//fonts.gstatic.com/s/judson/v13/FeVTS0Fbvbc14VxhDYl5_bc.woff) format("woff");
+}
+@font-face {
+          font-family: Judson;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Judson Regular"),local(Judson-Regular),url(//fonts.gstatic.com/s/judson/v13/FeVRS0Fbvbc14VxhBrlx.eot?#) format("eot"),url(//fonts.gstatic.com/s/judson/v13/FeVRS0Fbvbc14VxhCLl1.woff2) format("woff2"),url(//fonts.gstatic.com/s/judson/v13/FeVRS0Fbvbc14VxhBrlz.woff) format("woff");
+}
+@font-face {
+          font-family: Judson;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Judson Bold"),local(Judson-Bold),url(//fonts.gstatic.com/s/judson/v13/FeVSS0Fbvbc14Vxps5xg1JRi.eot?#) format("eot"),url(//fonts.gstatic.com/s/judson/v13/FeVSS0Fbvbc14Vxps5xg2pRm.woff2) format("woff2"),url(//fonts.gstatic.com/s/judson/v13/FeVSS0Fbvbc14Vxps5xg1JRg.woff) format("woff");
+}
+.u-font-judson-400 {
+          font-family: 'Judson' !important;
+          font-weight: 400 !important;
+}
+.u-font-judson-400-italic {
+        font-family: 'Judson' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-judson-700 {
+          font-family: 'Judson' !important;
+          font-weight: 700 !important;
+}

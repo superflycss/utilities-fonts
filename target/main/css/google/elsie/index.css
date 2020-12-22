@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Elsie;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Elsie Regular"),local(Elsie-Regular),url(//fonts.gstatic.com/s/elsie/v10/BCanqZABrez54xYn_Mw.eot?#) format("eot"),url(//fonts.gstatic.com/s/elsie/v10/BCanqZABrez54xYp_Mg.woff2) format("woff2"),url(//fonts.gstatic.com/s/elsie/v10/BCanqZABrez54xYn_M4.woff) format("woff");
+}
+@font-face {
+          font-family: Elsie;
+          font-style: normal;
+          font-weight: 900;
+          src: local("Elsie Black"),local(Elsie-Black),url(//fonts.gstatic.com/s/elsie/v10/BCaqqZABrez54x6q291BWaE.eot?#) format("eot"),url(//fonts.gstatic.com/s/elsie/v10/BCaqqZABrez54x6q291PWaU.woff2) format("woff2"),url(//fonts.gstatic.com/s/elsie/v10/BCaqqZABrez54x6q291BWaM.woff) format("woff");
+}
+.u-font-elsie-400 {
+          font-family: 'Elsie' !important;
+          font-weight: 400 !important;
+}
+.u-font-elsie-900 {
+          font-family: 'Elsie' !important;
+          font-weight: 900 !important;
+}

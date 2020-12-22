@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Fascinate Inline";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Fascinate Inline"),local(FascinateInline-Regular),url(//fonts.gstatic.com/s/fascinateinline/v10/jVyR7mzzB3zc-jp6QCAu60poNqIy5grIeA.eot?#) format("eot"),url(//fonts.gstatic.com/s/fascinateinline/v10/jVyR7mzzB3zc-jp6QCAu60poNqIy5grIfA.woff2) format("woff2"),url(//fonts.gstatic.com/s/fascinateinline/v10/jVyR7mzzB3zc-jp6QCAu60poNqIy5grIeg.woff) format("woff");
+}
+.u-font-fascinate-inline-400 {
+          font-family: 'Fascinate Inline' !important;
+          font-weight: 400 !important;
+}

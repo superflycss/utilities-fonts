@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Molengo;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Molengo),local(Molengo-Regular),url(//fonts.gstatic.com/s/molengo/v11/I_uuMpWeuBzZNBtQXb1alw.eot?#) format("eot"),url(//fonts.gstatic.com/s/molengo/v11/I_uuMpWeuBzZNBtQXbNakw.woff2) format("woff2"),url(//fonts.gstatic.com/s/molengo/v11/I_uuMpWeuBzZNBtQXb1alQ.woff) format("woff");
+}
+.u-font-molengo-400 {
+          font-family: 'Molengo' !important;
+          font-weight: 400 !important;
+}

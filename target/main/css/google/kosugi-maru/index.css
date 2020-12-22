@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Kosugi Maru";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Kosugi Maru"),local(KosugiMaru-Regular),url(//fonts.gstatic.com/s/kosugimaru/v6/0nksC9PgP_wGh21A2KeqGhTtgP8.eot?#) format("eot"),url(//fonts.gstatic.com/s/kosugimaru/v6/0nksC9PgP_wGh21A2KeqGiTv4ur_mWjfXWdNMtg65zwIiCccFzPAsA.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/kosugimaru/v6/0nksC9PgP_wGh21A2KeqGhTtgP0.woff) format("woff");
+}
+.u-font-kosugi-maru-400 {
+          font-family: 'Kosugi Maru' !important;
+          font-weight: 400 !important;
+}

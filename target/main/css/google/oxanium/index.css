@@ -1,0 +1,70 @@
+@font-face {
+          font-family: Oxanium;
+          font-style: normal;
+          font-weight: 200;
+          src: local("Oxanium ExtraLight"),local(Oxanium-ExtraLight),url(//fonts.gstatic.com/s/oxanium/v2/RrQVboN_4yJ0JmiMc63lxLFgbg.eot?#) format("eot"),url(//fonts.gstatic.com/s/oxanium/v2/RrQVboN_4yJ0JmiMc63lxL9gag.woff2) format("woff2"),url(//fonts.gstatic.com/s/oxanium/v2/RrQVboN_4yJ0JmiMc63lxLFgbA.woff) format("woff");
+}
+@font-face {
+          font-family: Oxanium;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Oxanium Light"),local(Oxanium-Light),url(//fonts.gstatic.com/s/oxanium/v2/RrQVboN_4yJ0JmiMc8nmxLFgbg.eot?#) format("eot"),url(//fonts.gstatic.com/s/oxanium/v2/RrQVboN_4yJ0JmiMc8nmxL9gag.woff2) format("woff2"),url(//fonts.gstatic.com/s/oxanium/v2/RrQVboN_4yJ0JmiMc8nmxLFgbA.woff) format("woff");
+}
+@font-face {
+          font-family: Oxanium;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Oxanium Regular"),local(Oxanium-Regular),url(//fonts.gstatic.com/s/oxanium/v2/RrQQboN_4yJ0JmiMe2zE1Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/oxanium/v2/RrQQboN_4yJ0JmiMe2LE0Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/oxanium/v2/RrQQboN_4yJ0JmiMe2zE1w.woff) format("woff");
+}
+@font-face {
+          font-family: Oxanium;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Oxanium Medium"),local(Oxanium-Medium),url(//fonts.gstatic.com/s/oxanium/v2/RrQVboN_4yJ0JmiMc5HnxLFgbg.eot?#) format("eot"),url(//fonts.gstatic.com/s/oxanium/v2/RrQVboN_4yJ0JmiMc5HnxL9gag.woff2) format("woff2"),url(//fonts.gstatic.com/s/oxanium/v2/RrQVboN_4yJ0JmiMc5HnxLFgbA.woff) format("woff");
+}
+@font-face {
+          font-family: Oxanium;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Oxanium SemiBold"),local(Oxanium-SemiBold),url(//fonts.gstatic.com/s/oxanium/v2/RrQVboN_4yJ0JmiMc73gxLFgbg.eot?#) format("eot"),url(//fonts.gstatic.com/s/oxanium/v2/RrQVboN_4yJ0JmiMc73gxL9gag.woff2) format("woff2"),url(//fonts.gstatic.com/s/oxanium/v2/RrQVboN_4yJ0JmiMc73gxLFgbA.woff) format("woff");
+}
+@font-face {
+          font-family: Oxanium;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Oxanium Bold"),local(Oxanium-Bold),url(//fonts.gstatic.com/s/oxanium/v2/RrQVboN_4yJ0JmiMc9nhxLFgbg.eot?#) format("eot"),url(//fonts.gstatic.com/s/oxanium/v2/RrQVboN_4yJ0JmiMc9nhxL9gag.woff2) format("woff2"),url(//fonts.gstatic.com/s/oxanium/v2/RrQVboN_4yJ0JmiMc9nhxLFgbA.woff) format("woff");
+}
+@font-face {
+          font-family: Oxanium;
+          font-style: normal;
+          font-weight: 800;
+          src: local("Oxanium ExtraBold"),local(Oxanium-ExtraBold),url(//fonts.gstatic.com/s/oxanium/v2/RrQVboN_4yJ0JmiMc8XixLFgbg.eot?#) format("eot"),url(//fonts.gstatic.com/s/oxanium/v2/RrQVboN_4yJ0JmiMc8XixL9gag.woff2) format("woff2"),url(//fonts.gstatic.com/s/oxanium/v2/RrQVboN_4yJ0JmiMc8XixLFgbA.woff) format("woff");
+}
+.u-font-oxanium-200 {
+          font-family: 'Oxanium' !important;
+          font-weight: 200 !important;
+}
+.u-font-oxanium-300 {
+          font-family: 'Oxanium' !important;
+          font-weight: 300 !important;
+}
+.u-font-oxanium-400 {
+          font-family: 'Oxanium' !important;
+          font-weight: 400 !important;
+}
+.u-font-oxanium-500 {
+          font-family: 'Oxanium' !important;
+          font-weight: 500 !important;
+}
+.u-font-oxanium-600 {
+          font-family: 'Oxanium' !important;
+          font-weight: 600 !important;
+}
+.u-font-oxanium-700 {
+          font-family: 'Oxanium' !important;
+          font-weight: 700 !important;
+}
+.u-font-oxanium-800 {
+          font-family: 'Oxanium' !important;
+          font-weight: 800 !important;
+}

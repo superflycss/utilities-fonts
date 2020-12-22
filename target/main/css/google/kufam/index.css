@@ -1,0 +1,126 @@
+@font-face {
+          font-family: Kufam;
+          font-style: italic;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/kufam/v2/C8c84cY7pG7w_q6APDMZN6kY3hbiXurT6jqENvI.eot?#) format("eot"),url(//fonts.gstatic.com/s/kufam/v2/C8c84cY7pG7w_q6APDMZN6kY3hbiXurT6jqKNvY.woff2) format("woff2"),url(//fonts.gstatic.com/s/kufam/v2/C8c84cY7pG7w_q6APDMZN6kY3hbiXurT6jqENvA.woff) format("woff");
+}
+@font-face {
+          font-family: Kufam;
+          font-style: italic;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/kufam/v2/C8c84cY7pG7w_q6APDMZN6kY3hbiXurh6jqENvI.eot?#) format("eot"),url(//fonts.gstatic.com/s/kufam/v2/C8c84cY7pG7w_q6APDMZN6kY3hbiXurh6jqKNvY.woff2) format("woff2"),url(//fonts.gstatic.com/s/kufam/v2/C8c84cY7pG7w_q6APDMZN6kY3hbiXurh6jqENvA.woff) format("woff");
+}
+@font-face {
+          font-family: Kufam;
+          font-style: italic;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/kufam/v2/C8c84cY7pG7w_q6APDMZN6kY3hbiXuoN7TqENvI.eot?#) format("eot"),url(//fonts.gstatic.com/s/kufam/v2/C8c84cY7pG7w_q6APDMZN6kY3hbiXuoN7TqKNvY.woff2) format("woff2"),url(//fonts.gstatic.com/s/kufam/v2/C8c84cY7pG7w_q6APDMZN6kY3hbiXuoN7TqENvA.woff) format("woff");
+}
+@font-face {
+          font-family: Kufam;
+          font-style: italic;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/kufam/v2/C8c84cY7pG7w_q6APDMZN6kY3hbiXuo07TqENvI.eot?#) format("eot"),url(//fonts.gstatic.com/s/kufam/v2/C8c84cY7pG7w_q6APDMZN6kY3hbiXuo07TqKNvY.woff2) format("woff2"),url(//fonts.gstatic.com/s/kufam/v2/C8c84cY7pG7w_q6APDMZN6kY3hbiXuo07TqENvA.woff) format("woff");
+}
+@font-face {
+          font-family: Kufam;
+          font-style: italic;
+          font-weight: 800;
+          src: url(//fonts.gstatic.com/s/kufam/v2/C8c84cY7pG7w_q6APDMZN6kY3hbiXupT7TqENvI.eot?#) format("eot"),url(//fonts.gstatic.com/s/kufam/v2/C8c84cY7pG7w_q6APDMZN6kY3hbiXupT7TqKNvY.woff2) format("woff2"),url(//fonts.gstatic.com/s/kufam/v2/C8c84cY7pG7w_q6APDMZN6kY3hbiXupT7TqENvA.woff) format("woff");
+}
+@font-face {
+          font-family: Kufam;
+          font-style: italic;
+          font-weight: 900;
+          src: url(//fonts.gstatic.com/s/kufam/v2/C8c84cY7pG7w_q6APDMZN6kY3hbiXup67TqENvI.eot?#) format("eot"),url(//fonts.gstatic.com/s/kufam/v2/C8c84cY7pG7w_q6APDMZN6kY3hbiXup67TqKNvY.woff2) format("woff2"),url(//fonts.gstatic.com/s/kufam/v2/C8c84cY7pG7w_q6APDMZN6kY3hbiXup67TqENvA.woff) format("woff");
+}
+@font-face {
+          font-family: Kufam;
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/kufam/v2/C8c-4cY7pG7w_oSJDszBXsKCcBH3lqkLoAqM.eot?#) format("eot"),url(//fonts.gstatic.com/s/kufam/v2/C8c-4cY7pG7w_oSJDszBXsKCcBH3lqkLrgqI.woff2) format("woff2"),url(//fonts.gstatic.com/s/kufam/v2/C8c-4cY7pG7w_oSJDszBXsKCcBH3lqkLoAqO.woff) format("woff");
+}
+@font-face {
+          font-family: Kufam;
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/kufam/v2/C8c-4cY7pG7w_oSJDszBXsKCcBH3pKkLoAqM.eot?#) format("eot"),url(//fonts.gstatic.com/s/kufam/v2/C8c-4cY7pG7w_oSJDszBXsKCcBH3pKkLrgqI.woff2) format("woff2"),url(//fonts.gstatic.com/s/kufam/v2/C8c-4cY7pG7w_oSJDszBXsKCcBH3pKkLoAqO.woff) format("woff");
+}
+@font-face {
+          font-family: Kufam;
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/kufam/v2/C8c-4cY7pG7w_oSJDszBXsKCcBH3SK4LoAqM.eot?#) format("eot"),url(//fonts.gstatic.com/s/kufam/v2/C8c-4cY7pG7w_oSJDszBXsKCcBH3SK4LrgqI.woff2) format("woff2"),url(//fonts.gstatic.com/s/kufam/v2/C8c-4cY7pG7w_oSJDszBXsKCcBH3SK4LoAqO.woff) format("woff");
+}
+@font-face {
+          font-family: Kufam;
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/kufam/v2/C8c-4cY7pG7w_oSJDszBXsKCcBH3ca4LoAqM.eot?#) format("eot"),url(//fonts.gstatic.com/s/kufam/v2/C8c-4cY7pG7w_oSJDszBXsKCcBH3ca4LrgqI.woff2) format("woff2"),url(//fonts.gstatic.com/s/kufam/v2/C8c-4cY7pG7w_oSJDszBXsKCcBH3ca4LoAqO.woff) format("woff");
+}
+@font-face {
+          font-family: Kufam;
+          font-style: normal;
+          font-weight: 800;
+          src: url(//fonts.gstatic.com/s/kufam/v2/C8c-4cY7pG7w_oSJDszBXsKCcBH3Fq4LoAqM.eot?#) format("eot"),url(//fonts.gstatic.com/s/kufam/v2/C8c-4cY7pG7w_oSJDszBXsKCcBH3Fq4LrgqI.woff2) format("woff2"),url(//fonts.gstatic.com/s/kufam/v2/C8c-4cY7pG7w_oSJDszBXsKCcBH3Fq4LoAqO.woff) format("woff");
+}
+@font-face {
+          font-family: Kufam;
+          font-style: normal;
+          font-weight: 900;
+          src: url(//fonts.gstatic.com/s/kufam/v2/C8c-4cY7pG7w_oSJDszBXsKCcBH3P64LoAqM.eot?#) format("eot"),url(//fonts.gstatic.com/s/kufam/v2/C8c-4cY7pG7w_oSJDszBXsKCcBH3P64LrgqI.woff2) format("woff2"),url(//fonts.gstatic.com/s/kufam/v2/C8c-4cY7pG7w_oSJDszBXsKCcBH3P64LoAqO.woff) format("woff");
+}
+.u-font-kufam-400 {
+          font-family: 'Kufam' !important;
+          font-weight: 400 !important;
+}
+.u-font-kufam-500 {
+          font-family: 'Kufam' !important;
+          font-weight: 500 !important;
+}
+.u-font-kufam-600 {
+          font-family: 'Kufam' !important;
+          font-weight: 600 !important;
+}
+.u-font-kufam-700 {
+          font-family: 'Kufam' !important;
+          font-weight: 700 !important;
+}
+.u-font-kufam-800 {
+          font-family: 'Kufam' !important;
+          font-weight: 800 !important;
+}
+.u-font-kufam-900 {
+          font-family: 'Kufam' !important;
+          font-weight: 900 !important;
+}
+.u-font-kufam-400-italic {
+        font-family: 'Kufam' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-kufam-500-italic {
+        font-family: 'Kufam' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-kufam-600-italic {
+        font-family: 'Kufam' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-kufam-700-italic {
+        font-family: 'Kufam' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}
+.u-font-kufam-800-italic {
+        font-family: 'Kufam' !important;
+        font-weight: 800 !important;
+        font-style: italic !important;
+}
+.u-font-kufam-900-italic {
+        font-family: 'Kufam' !important;
+        font-weight: 900 !important;
+        font-style: italic !important;
+}

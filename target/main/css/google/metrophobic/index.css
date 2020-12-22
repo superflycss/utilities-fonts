@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Metrophobic;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Metrophobic Regular"),local(Metrophobic-Regular),url(//fonts.gstatic.com/s/metrophobic/v14/sJoA3LZUhMSAPV_u0qwiAQ-A5Xs.eot?#) format("eot"),url(//fonts.gstatic.com/s/metrophobic/v14/sJoA3LZUhMSAPV_u0qwiAQ-O5X8.woff2) format("woff2"),url(//fonts.gstatic.com/s/metrophobic/v14/sJoA3LZUhMSAPV_u0qwiAQ-A5Xk.woff) format("woff");
+}
+.u-font-metrophobic-400 {
+          font-family: 'Metrophobic' !important;
+          font-weight: 400 !important;
+}

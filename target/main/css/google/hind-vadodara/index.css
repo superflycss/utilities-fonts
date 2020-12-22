@@ -1,0 +1,50 @@
+@font-face {
+          font-family: "Hind Vadodara";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Hind Vadodara Light"),local(HindVadodara-Light),url(//fonts.gstatic.com/s/hindvadodara/v7/neIQzCKvrIcn5pbuuuriV9tTSDn3uXo-pA.eot?#) format("eot"),url(//fonts.gstatic.com/s/hindvadodara/v7/neIQzCKvrIcn5pbuuuriV9tTSDn3uXQ-oA.woff2) format("woff2"),url(//fonts.gstatic.com/s/hindvadodara/v7/neIQzCKvrIcn5pbuuuriV9tTSDn3uXo-pg.woff) format("woff");
+}
+@font-face {
+          font-family: "Hind Vadodara";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Hind Vadodara Regular"),local(HindVadodara-Regular),url(//fonts.gstatic.com/s/hindvadodara/v7/neINzCKvrIcn5pbuuuriV9tTQJzVqA.eot?#) format("eot"),url(//fonts.gstatic.com/s/hindvadodara/v7/neINzCKvrIcn5pbuuuriV9tTQJLVrA.woff2) format("woff2"),url(//fonts.gstatic.com/s/hindvadodara/v7/neINzCKvrIcn5pbuuuriV9tTQJzVqg.woff) format("woff");
+}
+@font-face {
+          font-family: "Hind Vadodara";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Hind Vadodara Medium"),local(HindVadodara-Medium),url(//fonts.gstatic.com/s/hindvadodara/v7/neIQzCKvrIcn5pbuuuriV9tTSGH2uXo-pA.eot?#) format("eot"),url(//fonts.gstatic.com/s/hindvadodara/v7/neIQzCKvrIcn5pbuuuriV9tTSGH2uXQ-oA.woff2) format("woff2"),url(//fonts.gstatic.com/s/hindvadodara/v7/neIQzCKvrIcn5pbuuuriV9tTSGH2uXo-pg.woff) format("woff");
+}
+@font-face {
+          font-family: "Hind Vadodara";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Hind Vadodara SemiBold"),local(HindVadodara-SemiBold),url(//fonts.gstatic.com/s/hindvadodara/v7/neIQzCKvrIcn5pbuuuriV9tTSE3xuXo-pA.eot?#) format("eot"),url(//fonts.gstatic.com/s/hindvadodara/v7/neIQzCKvrIcn5pbuuuriV9tTSE3xuXQ-oA.woff2) format("woff2"),url(//fonts.gstatic.com/s/hindvadodara/v7/neIQzCKvrIcn5pbuuuriV9tTSE3xuXo-pg.woff) format("woff");
+}
+@font-face {
+          font-family: "Hind Vadodara";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Hind Vadodara Bold"),local(HindVadodara-Bold),url(//fonts.gstatic.com/s/hindvadodara/v7/neIQzCKvrIcn5pbuuuriV9tTSCnwuXo-pA.eot?#) format("eot"),url(//fonts.gstatic.com/s/hindvadodara/v7/neIQzCKvrIcn5pbuuuriV9tTSCnwuXQ-oA.woff2) format("woff2"),url(//fonts.gstatic.com/s/hindvadodara/v7/neIQzCKvrIcn5pbuuuriV9tTSCnwuXo-pg.woff) format("woff");
+}
+.u-font-hind-vadodara-300 {
+          font-family: 'Hind Vadodara' !important;
+          font-weight: 300 !important;
+}
+.u-font-hind-vadodara-400 {
+          font-family: 'Hind Vadodara' !important;
+          font-weight: 400 !important;
+}
+.u-font-hind-vadodara-500 {
+          font-family: 'Hind Vadodara' !important;
+          font-weight: 500 !important;
+}
+.u-font-hind-vadodara-600 {
+          font-family: 'Hind Vadodara' !important;
+          font-weight: 600 !important;
+}
+.u-font-hind-vadodara-700 {
+          font-family: 'Hind Vadodara' !important;
+          font-weight: 700 !important;
+}

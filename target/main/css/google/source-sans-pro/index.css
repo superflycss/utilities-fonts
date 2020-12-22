@@ -1,0 +1,126 @@
+@font-face {
+          font-family: "Source Sans Pro";
+          font-style: italic;
+          font-weight: 200;
+          src: local("Source Sans Pro ExtraLight Italic"),local(SourceSansPro-ExtraLightItalic),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdi18A.eot?#) format("eot"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSds18Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdi18I.woff) format("woff");
+}
+@font-face {
+          font-family: "Source Sans Pro";
+          font-style: italic;
+          font-weight: 300;
+          src: local("Source Sans Pro Light Italic"),local(SourceSansPro-LightItalic),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidi18A.eot?#) format("eot"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkids18Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidi18I.woff) format("woff");
+}
+@font-face {
+          font-family: "Source Sans Pro";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Source Sans Pro Italic"),local(SourceSansPro-Italic),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDY.eot?#) format("eot"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDI.woff2) format("woff2"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Source Sans Pro";
+          font-style: italic;
+          font-weight: 600;
+          src: local("Source Sans Pro SemiBold Italic"),local(SourceSansPro-SemiBoldItalic),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdi18A.eot?#) format("eot"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCds18Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdi18I.woff) format("woff");
+}
+@font-face {
+          font-family: "Source Sans Pro";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Source Sans Pro Bold Italic"),local(SourceSansPro-BoldItalic),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdi18A.eot?#) format("eot"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdi18I.woff) format("woff");
+}
+@font-face {
+          font-family: "Source Sans Pro";
+          font-style: italic;
+          font-weight: 900;
+          src: local("Source Sans Pro Black Italic"),local(SourceSansPro-BlackItalic),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydi18A.eot?#) format("eot"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklyds18Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydi18I.woff) format("woff");
+}
+@font-face {
+          font-family: "Source Sans Pro";
+          font-style: normal;
+          font-weight: 200;
+          src: local("Source Sans Pro ExtraLight"),local(SourceSansPro-ExtraLight),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmRdq.eot?#) format("eot"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlxdu.woff2) format("woff2"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmRdo.woff) format("woff");
+}
+@font-face {
+          font-family: "Source Sans Pro";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Source Sans Pro Light"),local(SourceSansPro-Light),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRdq.eot?#) format("eot"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdu.woff2) format("woff2"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRdo.woff) format("woff");
+}
+@font-face {
+          font-family: "Source Sans Pro";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Source Sans Pro Regular"),local(SourceSansPro-Regular),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7h.eot?#) format("eot"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2) format("woff2"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7j.woff) format("woff");
+}
+@font-face {
+          font-family: "Source Sans Pro";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Source Sans Pro SemiBold"),local(SourceSansPro-SemiBold),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRdq.eot?#) format("eot"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.woff2) format("woff2"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRdo.woff) format("woff");
+}
+@font-face {
+          font-family: "Source Sans Pro";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Source Sans Pro Bold"),local(SourceSansPro-Bold),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRdq.eot?#) format("eot"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu.woff2) format("woff2"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRdo.woff) format("woff");
+}
+@font-face {
+          font-family: "Source Sans Pro";
+          font-style: normal;
+          font-weight: 900;
+          src: local("Source Sans Pro Black"),local(SourceSansPro-Black),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmRdq.eot?#) format("eot"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwlxdu.woff2) format("woff2"),url(//fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmRdo.woff) format("woff");
+}
+.u-font-source-sans-pro-200 {
+          font-family: 'Source Sans Pro' !important;
+          font-weight: 200 !important;
+}
+.u-font-source-sans-pro-200-italic {
+        font-family: 'Source Sans Pro' !important;
+        font-weight: 200 !important;
+        font-style: italic !important;
+}
+.u-font-source-sans-pro-300 {
+          font-family: 'Source Sans Pro' !important;
+          font-weight: 300 !important;
+}
+.u-font-source-sans-pro-300-italic {
+        font-family: 'Source Sans Pro' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-source-sans-pro-400 {
+          font-family: 'Source Sans Pro' !important;
+          font-weight: 400 !important;
+}
+.u-font-source-sans-pro-400-italic {
+        font-family: 'Source Sans Pro' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-source-sans-pro-600 {
+          font-family: 'Source Sans Pro' !important;
+          font-weight: 600 !important;
+}
+.u-font-source-sans-pro-600-italic {
+        font-family: 'Source Sans Pro' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-source-sans-pro-700 {
+          font-family: 'Source Sans Pro' !important;
+          font-weight: 700 !important;
+}
+.u-font-source-sans-pro-700-italic {
+        font-family: 'Source Sans Pro' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}
+.u-font-source-sans-pro-900 {
+          font-family: 'Source Sans Pro' !important;
+          font-weight: 900 !important;
+}
+.u-font-source-sans-pro-900-italic {
+        font-family: 'Source Sans Pro' !important;
+        font-weight: 900 !important;
+        font-style: italic !important;
+}

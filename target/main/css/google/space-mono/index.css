@@ -1,0 +1,42 @@
+@font-face {
+          font-family: "Space Mono";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Space Mono Italic"),local(SpaceMono-Italic),url(//fonts.gstatic.com/s/spacemono/v6/i7dNIFZifjKcF5UAWdDRYERMSXK7.eot?#) format("eot"),url(//fonts.gstatic.com/s/spacemono/v6/i7dNIFZifjKcF5UAWdDRYERMR3K_.woff2) format("woff2"),url(//fonts.gstatic.com/s/spacemono/v6/i7dNIFZifjKcF5UAWdDRYERMSXK5.woff) format("woff");
+}
+@font-face {
+          font-family: "Space Mono";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Space Mono Bold Italic"),local(SpaceMono-BoldItalic),url(//fonts.gstatic.com/s/spacemono/v6/i7dSIFZifjKcF5UAWdDRYERE_FeqEiSV.eot?#) format("eot"),url(//fonts.gstatic.com/s/spacemono/v6/i7dSIFZifjKcF5UAWdDRYERE_FeqHCSR.woff2) format("woff2"),url(//fonts.gstatic.com/s/spacemono/v6/i7dSIFZifjKcF5UAWdDRYERE_FeqEiSX.woff) format("woff");
+}
+@font-face {
+          font-family: "Space Mono";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Space Mono"),local(SpaceMono-Regular),url(//fonts.gstatic.com/s/spacemono/v6/i7dPIFZifjKcF5UAWdDRYE98QQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/spacemono/v6/i7dPIFZifjKcF5UAWdDRYEF8RQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/spacemono/v6/i7dPIFZifjKcF5UAWdDRYE98Qw.woff) format("woff");
+}
+@font-face {
+          font-family: "Space Mono";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Space Mono Bold"),local(SpaceMono-Bold),url(//fonts.gstatic.com/s/spacemono/v6/i7dMIFZifjKcF5UAWdDRaPpZUFuaGg.eot?#) format("eot"),url(//fonts.gstatic.com/s/spacemono/v6/i7dMIFZifjKcF5UAWdDRaPpZUFWaHg.woff2) format("woff2"),url(//fonts.gstatic.com/s/spacemono/v6/i7dMIFZifjKcF5UAWdDRaPpZUFuaGA.woff) format("woff");
+}
+.u-font-space-mono-400 {
+          font-family: 'Space Mono' !important;
+          font-weight: 400 !important;
+}
+.u-font-space-mono-400-italic {
+        font-family: 'Space Mono' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-space-mono-700 {
+          font-family: 'Space Mono' !important;
+          font-weight: 700 !important;
+}
+.u-font-space-mono-700-italic {
+        font-family: 'Space Mono' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

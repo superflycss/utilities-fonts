@@ -1,0 +1,80 @@
+@font-face {
+          font-family: "Big Shoulders Text";
+          font-style: normal;
+          font-weight: 100;
+          src: local("Big Shoulders Text Thin"),local(BigShouldersText-Thin),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xzezRtP9G3CGPIf49hxc8P0eytUxBU-LZ2aMI.eot?#) format("eot"),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xzezRtP9G3CGPIf49hxc8P0eytUxBU-LZ4aMY.woff2) format("woff2"),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xzezRtP9G3CGPIf49hxc8P0eytUxBU-LZ2aMA.woff) format("woff");
+}
+@font-face {
+          font-family: "Big Shoulders Text";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Big Shoulders Text Light"),local(BigShouldersText-Light),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xyezRtP9G3CGPIf49hxc8P0eytUxBUMKRvQeML.eot?#) format("eot"),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xyezRtP9G3CGPIf49hxc8P0eytUxBUMKRvT-MP.woff2) format("woff2"),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xyezRtP9G3CGPIf49hxc8P0eytUxBUMKRvQeMJ.woff) format("woff");
+}
+@font-face {
+          font-family: "Big Shoulders Text";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Big Shoulders Text Regular"),local(BigShouldersText-Regular),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xxezRtP9G3CGPIf49hxc8P0eytUxBclYZ-.eot?#) format("eot"),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xxezRtP9G3CGPIf49hxc8P0eytUxBcm4Z6.woff2) format("woff2"),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xxezRtP9G3CGPIf49hxc8P0eytUxBclYZ8.woff) format("woff");
+}
+@font-face {
+          font-family: "Big Shoulders Text";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Big Shoulders Text Medium"),local(BigShouldersText-Medium),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xyezRtP9G3CGPIf49hxc8P0eytUxBUaKVvQeML.eot?#) format("eot"),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xyezRtP9G3CGPIf49hxc8P0eytUxBUaKVvT-MP.woff2) format("woff2"),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xyezRtP9G3CGPIf49hxc8P0eytUxBUaKVvQeMJ.woff) format("woff");
+}
+@font-face {
+          font-family: "Big Shoulders Text";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Big Shoulders Text SemiBold"),local(BigShouldersText-SemiBold),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xyezRtP9G3CGPIf49hxc8P0eytUxBURKJvQeML.eot?#) format("eot"),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xyezRtP9G3CGPIf49hxc8P0eytUxBURKJvT-MP.woff2) format("woff2"),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xyezRtP9G3CGPIf49hxc8P0eytUxBURKJvQeMJ.woff) format("woff");
+}
+@font-face {
+          font-family: "Big Shoulders Text";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Big Shoulders Text Bold"),local(BigShouldersText-Bold),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xyezRtP9G3CGPIf49hxc8P0eytUxBUIKNvQeML.eot?#) format("eot"),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xyezRtP9G3CGPIf49hxc8P0eytUxBUIKNvT-MP.woff2) format("woff2"),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xyezRtP9G3CGPIf49hxc8P0eytUxBUIKNvQeMJ.woff) format("woff");
+}
+@font-face {
+          font-family: "Big Shoulders Text";
+          font-style: normal;
+          font-weight: 800;
+          src: local("Big Shoulders Text ExtraBold"),local(BigShouldersText-ExtraBold),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xyezRtP9G3CGPIf49hxc8P0eytUxBUPKBvQeML.eot?#) format("eot"),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xyezRtP9G3CGPIf49hxc8P0eytUxBUPKBvT-MP.woff2) format("woff2"),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xyezRtP9G3CGPIf49hxc8P0eytUxBUPKBvQeMJ.woff) format("woff");
+}
+@font-face {
+          font-family: "Big Shoulders Text";
+          font-style: normal;
+          font-weight: 900;
+          src: local("Big Shoulders Text Black"),local(BigShouldersText-Black),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xyezRtP9G3CGPIf49hxc8P0eytUxBUGKFvQeML.eot?#) format("eot"),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xyezRtP9G3CGPIf49hxc8P0eytUxBUGKFvT-MP.woff2) format("woff2"),url(//fonts.gstatic.com/s/bigshoulderstext/v3/55xyezRtP9G3CGPIf49hxc8P0eytUxBUGKFvQeMJ.woff) format("woff");
+}
+.u-font-big-shoulders-text-100 {
+          font-family: 'Big Shoulders Text' !important;
+          font-weight: 100 !important;
+}
+.u-font-big-shoulders-text-300 {
+          font-family: 'Big Shoulders Text' !important;
+          font-weight: 300 !important;
+}
+.u-font-big-shoulders-text-400 {
+          font-family: 'Big Shoulders Text' !important;
+          font-weight: 400 !important;
+}
+.u-font-big-shoulders-text-500 {
+          font-family: 'Big Shoulders Text' !important;
+          font-weight: 500 !important;
+}
+.u-font-big-shoulders-text-600 {
+          font-family: 'Big Shoulders Text' !important;
+          font-weight: 600 !important;
+}
+.u-font-big-shoulders-text-700 {
+          font-family: 'Big Shoulders Text' !important;
+          font-weight: 700 !important;
+}
+.u-font-big-shoulders-text-800 {
+          font-family: 'Big Shoulders Text' !important;
+          font-weight: 800 !important;
+}
+.u-font-big-shoulders-text-900 {
+          font-family: 'Big Shoulders Text' !important;
+          font-weight: 900 !important;
+}

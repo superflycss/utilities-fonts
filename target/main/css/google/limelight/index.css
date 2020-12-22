@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Limelight;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Limelight),url(//fonts.gstatic.com/s/limelight/v11/XLYkIZL7aopJVbZJHDuoNOlD.eot?#) format("eot"),url(//fonts.gstatic.com/s/limelight/v11/XLYkIZL7aopJVbZJHDuoOulH.woff2) format("woff2"),url(//fonts.gstatic.com/s/limelight/v11/XLYkIZL7aopJVbZJHDuoNOlB.woff) format("woff");
+}
+.u-font-limelight-400 {
+          font-family: 'Limelight' !important;
+          font-weight: 400 !important;
+}

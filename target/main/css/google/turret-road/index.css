@@ -1,0 +1,60 @@
+@font-face {
+          font-family: "Turret Road";
+          font-style: normal;
+          font-weight: 200;
+          src: local("Turret Road ExtraLight"),local(TurretRoad-ExtraLight),url(//fonts.gstatic.com/s/turretroad/v2/pxidypMgpcBFjE84Zv-fE0ONEeeCaEg.eot?#) format("eot"),url(//fonts.gstatic.com/s/turretroad/v2/pxidypMgpcBFjE84Zv-fE0ONEeeMaEw.woff2) format("woff2"),url(//fonts.gstatic.com/s/turretroad/v2/pxidypMgpcBFjE84Zv-fE0ONEeeCaEo.woff) format("woff");
+}
+@font-face {
+          font-family: "Turret Road";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Turret Road Light"),local(TurretRoad-Light),url(//fonts.gstatic.com/s/turretroad/v2/pxidypMgpcBFjE84Zv-fE0PpEueCaEg.eot?#) format("eot"),url(//fonts.gstatic.com/s/turretroad/v2/pxidypMgpcBFjE84Zv-fE0PpEueMaEw.woff2) format("woff2"),url(//fonts.gstatic.com/s/turretroad/v2/pxidypMgpcBFjE84Zv-fE0PpEueCaEo.woff) format("woff");
+}
+@font-face {
+          font-family: "Turret Road";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Turret Road Regular"),local(TurretRoad-Regular),url(//fonts.gstatic.com/s/turretroad/v2/pxiAypMgpcBFjE84Zv-fE0tMMPY.eot?#) format("eot"),url(//fonts.gstatic.com/s/turretroad/v2/pxiAypMgpcBFjE84Zv-fE0tCMPI.woff2) format("woff2"),url(//fonts.gstatic.com/s/turretroad/v2/pxiAypMgpcBFjE84Zv-fE0tMMPQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Turret Road";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Turret Road Medium"),local(TurretRoad-Medium),url(//fonts.gstatic.com/s/turretroad/v2/pxidypMgpcBFjE84Zv-fE0OxE-eCaEg.eot?#) format("eot"),url(//fonts.gstatic.com/s/turretroad/v2/pxidypMgpcBFjE84Zv-fE0OxE-eMaEw.woff2) format("woff2"),url(//fonts.gstatic.com/s/turretroad/v2/pxidypMgpcBFjE84Zv-fE0OxE-eCaEo.woff) format("woff");
+}
+@font-face {
+          font-family: "Turret Road";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Turret Road Bold"),local(TurretRoad-Bold),url(//fonts.gstatic.com/s/turretroad/v2/pxidypMgpcBFjE84Zv-fE0P5FeeCaEg.eot?#) format("eot"),url(//fonts.gstatic.com/s/turretroad/v2/pxidypMgpcBFjE84Zv-fE0P5FeeMaEw.woff2) format("woff2"),url(//fonts.gstatic.com/s/turretroad/v2/pxidypMgpcBFjE84Zv-fE0P5FeeCaEo.woff) format("woff");
+}
+@font-face {
+          font-family: "Turret Road";
+          font-style: normal;
+          font-weight: 800;
+          src: local("Turret Road ExtraBold"),local(TurretRoad-ExtraBold),url(//fonts.gstatic.com/s/turretroad/v2/pxidypMgpcBFjE84Zv-fE0PlFueCaEg.eot?#) format("eot"),url(//fonts.gstatic.com/s/turretroad/v2/pxidypMgpcBFjE84Zv-fE0PlFueMaEw.woff2) format("woff2"),url(//fonts.gstatic.com/s/turretroad/v2/pxidypMgpcBFjE84Zv-fE0PlFueCaEo.woff) format("woff");
+}
+.u-font-turret-road-200 {
+          font-family: 'Turret Road' !important;
+          font-weight: 200 !important;
+}
+.u-font-turret-road-300 {
+          font-family: 'Turret Road' !important;
+          font-weight: 300 !important;
+}
+.u-font-turret-road-400 {
+          font-family: 'Turret Road' !important;
+          font-weight: 400 !important;
+}
+.u-font-turret-road-500 {
+          font-family: 'Turret Road' !important;
+          font-weight: 500 !important;
+}
+.u-font-turret-road-700 {
+          font-family: 'Turret Road' !important;
+          font-weight: 700 !important;
+}
+.u-font-turret-road-800 {
+          font-family: 'Turret Road' !important;
+          font-weight: 800 !important;
+}

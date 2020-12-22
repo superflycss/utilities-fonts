@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Galdeano;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Galdeano Regular"),local(Galdeano-Regular),url(//fonts.gstatic.com/s/galdeano/v10/uU9MCBoQ4YOqOW1boAP2-vU.eot?#) format("eot"),url(//fonts.gstatic.com/s/galdeano/v10/uU9MCBoQ4YOqOW1boAP2-vE.woff2) format("woff2"),url(//fonts.gstatic.com/s/galdeano/v10/uU9MCBoQ4YOqOW1boAP2-vc.woff) format("woff");
+}
+.u-font-galdeano-400 {
+          font-family: 'Galdeano' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Bubbler One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Bubbler One Regular"),local(BubblerOne-Regular),url(//fonts.gstatic.com/s/bubblerone/v9/f0Xy0eqj68ppQV9KBLmAotHO0aY.eot?#) format("eot"),url(//fonts.gstatic.com/s/bubblerone/v9/f0Xy0eqj68ppQV9KBLmAotHA0aI.woff2) format("woff2"),url(//fonts.gstatic.com/s/bubblerone/v9/f0Xy0eqj68ppQV9KBLmAotHO0aQ.woff) format("woff");
+}
+.u-font-bubbler-one-400 {
+          font-family: 'Bubbler One' !important;
+          font-weight: 400 !important;
+}

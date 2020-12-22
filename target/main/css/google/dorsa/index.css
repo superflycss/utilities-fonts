@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Dorsa;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Dorsa),local(Dorsa-Regular),url(//fonts.gstatic.com/s/dorsa/v11/yYLn0hjd0OGwqr4613U.eot?#) format("eot"),url(//fonts.gstatic.com/s/dorsa/v11/yYLn0hjd0OGwqr4613E.woff2) format("woff2"),url(//fonts.gstatic.com/s/dorsa/v11/yYLn0hjd0OGwqr4613c.woff) format("woff");
+}
+.u-font-dorsa-400 {
+          font-family: 'Dorsa' !important;
+          font-weight: 400 !important;
+}

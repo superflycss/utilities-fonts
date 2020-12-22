@@ -1,11 +1,13 @@
 {
   "name": "@superflycss/utilities-fonts",
-  "version": "3.3.6",
+  "version": "3.3.9",
   "description": "Font utilities",
   "main": "index.css",
   "scripts": {
-    "update": "ncu -a && npm i",
-    "dist": "sfc dist && node src/main/js/index.js"
+    "i": "npm i && npm i -g @superflycss/cli && npm install -g @jsdevtools/version-bump-prompt && npm install -g npm-check-updates && npm install -g npm-install-peers",
+    "update": "ncu -u && npm i && npm-install-peers",
+    "pub": "bump patch && npm run update && sfc dist && cd dist && npm publish",
+    "build": "rm -fr src/main/css/google/ && node src/main/js/index.js && sfc b"
   },
   "repository": {
     "type": "git",
@@ -24,22 +26,10 @@
     "url": "https://github.com/superflycss/utilities-fonts/issues"
   },
   "homepage": "https://github.com/superflycss/utilities-fonts#readme",
-  "dependencies": {
-    "@superflycss/variables-fonts": "^3.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "@superflycss/component-body": "^1.0.1",
-    "@superflycss/component-display": "^1.0.2",
-    "@superflycss/component-header": "^2.1.0",
-    "@superflycss/component-link": "^1.0.4",
-    "@superflycss/component-test": "^2.0.32",
-    "@superflycss/foundation": "^2.0.3",
-    "@superflycss/pli": "^2.0.1",
-    "@superflycss/utilities-colors": "^3.0.6",
-    "@superflycss/utilities-format": "^1.1.1",
-    "@superflycss/utilities-layout": "^4.0.1",
-    "@superflycss/variables-colors": "^3.0.4",
-    "mkdirp": "^0.5.1",
-    "npm-check-updates": "^2.14.2"
+    "mkdirp": "^1.0.4",
+    "@superflycss/pli": "^3.0.10",
+    "npm-check-updates": "^10.2.5"
   }
 }

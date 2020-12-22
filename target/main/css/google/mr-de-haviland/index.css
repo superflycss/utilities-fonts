@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Mr De Haviland";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Mr De Haviland Regular"),local(MrDeHaviland-Regular),url(//fonts.gstatic.com/s/mrdehaviland/v9/OpNVnooIhJj96FdB73296ksbOg3L60c.eot?#) format("eot"),url(//fonts.gstatic.com/s/mrdehaviland/v9/OpNVnooIhJj96FdB73296ksbOg3F60M.woff2) format("woff2"),url(//fonts.gstatic.com/s/mrdehaviland/v9/OpNVnooIhJj96FdB73296ksbOg3L60U.woff) format("woff");
+}
+.u-font-mr-de-haviland-400 {
+          font-family: 'Mr De Haviland' !important;
+          font-weight: 400 !important;
+}

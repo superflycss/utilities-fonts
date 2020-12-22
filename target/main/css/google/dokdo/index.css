@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Dokdo;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Dokdo Regular"),local(Dokdo-Regular),url(//fonts.gstatic.com/s/dokdo/v8/esDf315XNuCBLyLv6tM.eot?#) format("eot"),url(//fonts.gstatic.com/s/dokdo/v8/esDf315XNuCBLxLtiMCOm9RpYPXHdpWk0LfhIdThpl4.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/dokdo/v8/esDf315XNuCBLyLv6tE.woff) format("woff");
+}
+.u-font-dokdo-400 {
+          font-family: 'Dokdo' !important;
+          font-weight: 400 !important;
+}

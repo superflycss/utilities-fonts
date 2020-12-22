@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Nova Round";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Nova Round"),local(NovaRound),url(//fonts.gstatic.com/s/novaround/v12/flU9Rqquw5UhEnlwTJYTUYDUfA.eot?#) format("eot"),url(//fonts.gstatic.com/s/novaround/v12/flU9Rqquw5UhEnlwTJYTUYDUeA.woff2) format("woff2"),url(//fonts.gstatic.com/s/novaround/v12/flU9Rqquw5UhEnlwTJYTUYDUfg.woff) format("woff");
+}
+.u-font-nova-round-400 {
+          font-family: 'Nova Round' !important;
+          font-weight: 400 !important;
+}

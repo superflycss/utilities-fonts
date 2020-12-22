@@ -1,0 +1,147 @@
+@font-face {
+          font-family: "Be Vietnam";
+          font-style: italic;
+          font-weight: 100;
+          src: local("Be Vietnam Thin Italic"),local(BeVietnam-ThinItalic),url(//fonts.gstatic.com/s/bevietnam/v2/FBVvdDflz-iPfoPuIC2iIqMfiVdsA2c.eot?#) format("eot"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVvdDflz-iPfoPuIC2iIqMfiVdiA2M.woff2) format("woff2"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVvdDflz-iPfoPuIC2iIqMfiVdsA2U.woff) format("woff");
+}
+@font-face {
+          font-family: "Be Vietnam";
+          font-style: italic;
+          font-weight: 300;
+          src: local("Be Vietnam Light Italic"),local(BeVietnam-LightItalic),url(//fonts.gstatic.com/s/bevietnam/v2/FBVudDflz-iPfoPuIC2iIqMfQUV1KkYq.eot?#) format("eot"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVudDflz-iPfoPuIC2iIqMfQUV1JEYu.woff2) format("woff2"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVudDflz-iPfoPuIC2iIqMfQUV1KkYo.woff) format("woff");
+}
+@font-face {
+          font-family: "Be Vietnam";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Be Vietnam Italic"),local(BeVietnam-Italic),url(//fonts.gstatic.com/s/bevietnam/v2/FBVxdDflz-iPfoPuIC2iIqMX5Gdk.eot?#) format("eot"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVxdDflz-iPfoPuIC2iIqMX6mdg.woff2) format("woff2"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVxdDflz-iPfoPuIC2iIqMX5Gdm.woff) format("woff");
+}
+@font-face {
+          font-family: "Be Vietnam";
+          font-style: italic;
+          font-weight: 500;
+          src: local("Be Vietnam Medium Italic"),local(BeVietnam-MediumItalic),url(//fonts.gstatic.com/s/bevietnam/v2/FBVudDflz-iPfoPuIC2iIqMfGUR1KkYq.eot?#) format("eot"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVudDflz-iPfoPuIC2iIqMfGUR1JEYu.woff2) format("woff2"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVudDflz-iPfoPuIC2iIqMfGUR1KkYo.woff) format("woff");
+}
+@font-face {
+          font-family: "Be Vietnam";
+          font-style: italic;
+          font-weight: 600;
+          src: local("Be Vietnam SemiBold Italic"),local(BeVietnam-SemiBoldItalic),url(//fonts.gstatic.com/s/bevietnam/v2/FBVudDflz-iPfoPuIC2iIqMfNUN1KkYq.eot?#) format("eot"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVudDflz-iPfoPuIC2iIqMfNUN1JEYu.woff2) format("woff2"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVudDflz-iPfoPuIC2iIqMfNUN1KkYo.woff) format("woff");
+}
+@font-face {
+          font-family: "Be Vietnam";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Be Vietnam Bold Italic"),local(BeVietnam-BoldItalic),url(//fonts.gstatic.com/s/bevietnam/v2/FBVudDflz-iPfoPuIC2iIqMfUUJ1KkYq.eot?#) format("eot"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVudDflz-iPfoPuIC2iIqMfUUJ1JEYu.woff2) format("woff2"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVudDflz-iPfoPuIC2iIqMfUUJ1KkYo.woff) format("woff");
+}
+@font-face {
+          font-family: "Be Vietnam";
+          font-style: italic;
+          font-weight: 800;
+          src: local("Be Vietnam ExtraBold Italic"),local(BeVietnam-ExtraBoldItalic),url(//fonts.gstatic.com/s/bevietnam/v2/FBVudDflz-iPfoPuIC2iIqMfTUF1KkYq.eot?#) format("eot"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVudDflz-iPfoPuIC2iIqMfTUF1JEYu.woff2) format("woff2"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVudDflz-iPfoPuIC2iIqMfTUF1KkYo.woff) format("woff");
+}
+@font-face {
+          font-family: "Be Vietnam";
+          font-style: normal;
+          font-weight: 100;
+          src: local("Be Vietnam Thin"),local(BeVietnam-Thin),url(//fonts.gstatic.com/s/bevietnam/v2/FBVxdDflz-iPfoPuIC2iKsUX5Gdk.eot?#) format("eot"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVxdDflz-iPfoPuIC2iKsUX6mdg.woff2) format("woff2"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVxdDflz-iPfoPuIC2iKsUX5Gdm.woff) format("woff");
+}
+@font-face {
+          font-family: "Be Vietnam";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Be Vietnam Light"),local(BeVietnam-Light),url(//fonts.gstatic.com/s/bevietnam/v2/FBVwdDflz-iPfoPuIC2iKg0F_U5FIg.eot?#) format("eot"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVwdDflz-iPfoPuIC2iKg0F_UBFJg.woff2) format("woff2"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVwdDflz-iPfoPuIC2iKg0F_U5FIA.woff) format("woff");
+}
+@font-face {
+          font-family: "Be Vietnam";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Be Vietnam Regular"),local(BeVietnam-Regular),url(//fonts.gstatic.com/s/bevietnam/v2/FBVzdDflz-iPfoPuIC2iIqgn7A.eot?#) format("eot"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVzdDflz-iPfoPuIC2iIqYn6A.woff2) format("woff2"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVzdDflz-iPfoPuIC2iIqgn7g.woff) format("woff");
+}
+@font-face {
+          font-family: "Be Vietnam";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Be Vietnam Medium"),local(BeVietnam-Medium),url(//fonts.gstatic.com/s/bevietnam/v2/FBVwdDflz-iPfoPuIC2iKlUE_U5FIg.eot?#) format("eot"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVwdDflz-iPfoPuIC2iKlUE_UBFJg.woff2) format("woff2"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVwdDflz-iPfoPuIC2iKlUE_U5FIA.woff) format("woff");
+}
+@font-face {
+          font-family: "Be Vietnam";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Be Vietnam SemiBold"),local(BeVietnam-SemiBold),url(//fonts.gstatic.com/s/bevietnam/v2/FBVwdDflz-iPfoPuIC2iKnkD_U5FIg.eot?#) format("eot"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVwdDflz-iPfoPuIC2iKnkD_UBFJg.woff2) format("woff2"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVwdDflz-iPfoPuIC2iKnkD_U5FIA.woff) format("woff");
+}
+@font-face {
+          font-family: "Be Vietnam";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Be Vietnam Bold"),local(BeVietnam-Bold),url(//fonts.gstatic.com/s/bevietnam/v2/FBVwdDflz-iPfoPuIC2iKh0C_U5FIg.eot?#) format("eot"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVwdDflz-iPfoPuIC2iKh0C_UBFJg.woff2) format("woff2"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVwdDflz-iPfoPuIC2iKh0C_U5FIA.woff) format("woff");
+}
+@font-face {
+          font-family: "Be Vietnam";
+          font-style: normal;
+          font-weight: 800;
+          src: local("Be Vietnam ExtraBold"),local(BeVietnam-ExtraBold),url(//fonts.gstatic.com/s/bevietnam/v2/FBVwdDflz-iPfoPuIC2iKgEB_U5FIg.eot?#) format("eot"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVwdDflz-iPfoPuIC2iKgEB_UBFJg.woff2) format("woff2"),url(//fonts.gstatic.com/s/bevietnam/v2/FBVwdDflz-iPfoPuIC2iKgEB_U5FIA.woff) format("woff");
+}
+.u-font-be-vietnam-100 {
+          font-family: 'Be Vietnam' !important;
+          font-weight: 100 !important;
+}
+.u-font-be-vietnam-100-italic {
+        font-family: 'Be Vietnam' !important;
+        font-weight: 100 !important;
+        font-style: italic !important;
+}
+.u-font-be-vietnam-300 {
+          font-family: 'Be Vietnam' !important;
+          font-weight: 300 !important;
+}
+.u-font-be-vietnam-300-italic {
+        font-family: 'Be Vietnam' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-be-vietnam-400 {
+          font-family: 'Be Vietnam' !important;
+          font-weight: 400 !important;
+}
+.u-font-be-vietnam-400-italic {
+        font-family: 'Be Vietnam' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-be-vietnam-500 {
+          font-family: 'Be Vietnam' !important;
+          font-weight: 500 !important;
+}
+.u-font-be-vietnam-500-italic {
+        font-family: 'Be Vietnam' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-be-vietnam-600 {
+          font-family: 'Be Vietnam' !important;
+          font-weight: 600 !important;
+}
+.u-font-be-vietnam-600-italic {
+        font-family: 'Be Vietnam' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-be-vietnam-700 {
+          font-family: 'Be Vietnam' !important;
+          font-weight: 700 !important;
+}
+.u-font-be-vietnam-700-italic {
+        font-family: 'Be Vietnam' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}
+.u-font-be-vietnam-800 {
+          font-family: 'Be Vietnam' !important;
+          font-weight: 800 !important;
+}
+.u-font-be-vietnam-800-italic {
+        font-family: 'Be Vietnam' !important;
+        font-weight: 800 !important;
+        font-style: italic !important;
+}

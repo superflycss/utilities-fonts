@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Michroma;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Michroma),url(//fonts.gstatic.com/s/michroma/v11/PN_zRfy9qWD8fEagAPg9pT0.eot?#) format("eot"),url(//fonts.gstatic.com/s/michroma/v11/PN_zRfy9qWD8fEagAPg9pTk.woff2) format("woff2"),url(//fonts.gstatic.com/s/michroma/v11/PN_zRfy9qWD8fEagAPg9pT8.woff) format("woff");
+}
+.u-font-michroma-400 {
+          font-family: 'Michroma' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Share Tech";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Share Tech Regular"),local(ShareTech-Regular),url(//fonts.gstatic.com/s/sharetech/v10/7cHtv4Uyi5K0OeZ7bohU8H0JnA.eot?#) format("eot"),url(//fonts.gstatic.com/s/sharetech/v10/7cHtv4Uyi5K0OeZ7bohU8H0JmA.woff2) format("woff2"),url(//fonts.gstatic.com/s/sharetech/v10/7cHtv4Uyi5K0OeZ7bohU8H0Jng.woff) format("woff");
+}
+.u-font-share-tech-400 {
+          font-family: 'Share Tech' !important;
+          font-weight: 400 !important;
+}

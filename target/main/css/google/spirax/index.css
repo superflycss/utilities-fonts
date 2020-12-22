@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Spirax;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Spirax-Regular),url(//fonts.gstatic.com/s/spirax/v9/buE3poKgYNLy0F3sWUFo.eot?#) format("eot"),url(//fonts.gstatic.com/s/spirax/v9/buE3poKgYNLy0F3sWUFs.woff2) format("woff2"),url(//fonts.gstatic.com/s/spirax/v9/buE3poKgYNLy0F3sWUFq.woff) format("woff");
+}
+.u-font-spirax-400 {
+          font-family: 'Spirax' !important;
+          font-weight: 400 !important;
+}

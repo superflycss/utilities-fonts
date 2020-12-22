@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Sevillana;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Sevillana),local(Sevillana-Regular),url(//fonts.gstatic.com/s/sevillana/v9/KFOlCnWFscmDt1Bfiy1fChc8.eot?#) format("eot"),url(//fonts.gstatic.com/s/sevillana/v9/KFOlCnWFscmDt1Bfiy1fBBc4.woff2) format("woff2"),url(//fonts.gstatic.com/s/sevillana/v9/KFOlCnWFscmDt1Bfiy1fChc-.woff) format("woff");
+}
+.u-font-sevillana-400 {
+          font-family: 'Sevillana' !important;
+          font-weight: 400 !important;
+}

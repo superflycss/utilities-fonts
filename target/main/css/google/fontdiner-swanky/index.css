@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Fontdiner Swanky";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Fontdiner Swanky Regular"),local(FontdinerSwanky-Regular),url(//fonts.gstatic.com/s/fontdinerswanky/v11/ijwOs4XgRNsiaI5-hcVb4hQgMvCD0uYVLw.eot?#) format("eot"),url(//fonts.gstatic.com/s/fontdinerswanky/v11/ijwOs4XgRNsiaI5-hcVb4hQgMvCD0uYVKw.woff2) format("woff2"),url(//fonts.gstatic.com/s/fontdinerswanky/v11/ijwOs4XgRNsiaI5-hcVb4hQgMvCD0uYVLQ.woff) format("woff");
+}
+.u-font-fontdiner-swanky-400 {
+          font-family: 'Fontdiner Swanky' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Black And White Picture";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Black And White Picture Regular"),local(BlackAndWhitePicture-Regular),url(//fonts.gstatic.com/s/blackandwhitepicture/v8/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5AZ8Y.eot?#) format("eot"),url(//fonts.gstatic.com/s/blackandwhitepicture/v8/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqI5CBdUg9Fb2QAaTaEqO2QRhfGpcWp0.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/blackandwhitepicture/v8/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5AZ8Q.woff) format("woff");
+}
+.u-font-black-and-white-picture-400 {
+          font-family: 'Black And White Picture' !important;
+          font-weight: 400 !important;
+}

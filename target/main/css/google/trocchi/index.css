@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Trocchi;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Trocchi Regular"),local(Trocchi-Regular),url(//fonts.gstatic.com/s/trocchi/v9/qWcqB6WkuIDxDZLcPrJeuQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/trocchi/v9/qWcqB6WkuIDxDZLcPrxevQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/trocchi/v9/qWcqB6WkuIDxDZLcPrJeuw.woff) format("woff");
+}
+.u-font-trocchi-400 {
+          font-family: 'Trocchi' !important;
+          font-weight: 400 !important;
+}

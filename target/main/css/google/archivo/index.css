@@ -1,0 +1,84 @@
+@font-face {
+          font-family: Archivo;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Archivo Italic"),local(Archivo-Italic),url(//fonts.gstatic.com/s/archivo/v7/k3kSo8UDI-1M0wlSfdzYImHA.eot?#) format("eot"),url(//fonts.gstatic.com/s/archivo/v7/k3kSo8UDI-1M0wlSfdzYLGHE.woff2) format("woff2"),url(//fonts.gstatic.com/s/archivo/v7/k3kSo8UDI-1M0wlSfdzYImHC.woff) format("woff");
+}
+@font-face {
+          font-family: Archivo;
+          font-style: italic;
+          font-weight: 500;
+          src: local("Archivo Medium Italic"),local(Archivo-MediumItalic),url(//fonts.gstatic.com/s/archivo/v7/k3kXo8UDI-1M0wlSfdzQ30LRIIKM.eot?#) format("eot"),url(//fonts.gstatic.com/s/archivo/v7/k3kXo8UDI-1M0wlSfdzQ30LRLoKI.woff2) format("woff2"),url(//fonts.gstatic.com/s/archivo/v7/k3kXo8UDI-1M0wlSfdzQ30LRIIKO.woff) format("woff");
+}
+@font-face {
+          font-family: Archivo;
+          font-style: italic;
+          font-weight: 600;
+          src: local("Archivo SemiBold Italic"),local(Archivo-SemiBoldItalic),url(//fonts.gstatic.com/s/archivo/v7/k3kXo8UDI-1M0wlSfdzQ80XRIIKM.eot?#) format("eot"),url(//fonts.gstatic.com/s/archivo/v7/k3kXo8UDI-1M0wlSfdzQ80XRLoKI.woff2) format("woff2"),url(//fonts.gstatic.com/s/archivo/v7/k3kXo8UDI-1M0wlSfdzQ80XRIIKO.woff) format("woff");
+}
+@font-face {
+          font-family: Archivo;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Archivo Bold Italic"),local(Archivo-BoldItalic),url(//fonts.gstatic.com/s/archivo/v7/k3kXo8UDI-1M0wlSfdzQl0TRIIKM.eot?#) format("eot"),url(//fonts.gstatic.com/s/archivo/v7/k3kXo8UDI-1M0wlSfdzQl0TRLoKI.woff2) format("woff2"),url(//fonts.gstatic.com/s/archivo/v7/k3kXo8UDI-1M0wlSfdzQl0TRIIKO.woff) format("woff");
+}
+@font-face {
+          font-family: Archivo;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Archivo Regular"),local(Archivo-Regular),url(//fonts.gstatic.com/s/archivo/v7/k3kQo8UDI-1M0wlSfdfoKg.eot?#) format("eot"),url(//fonts.gstatic.com/s/archivo/v7/k3kQo8UDI-1M0wlSfdnoLg.woff2) format("woff2"),url(//fonts.gstatic.com/s/archivo/v7/k3kQo8UDI-1M0wlSfdfoKA.woff) format("woff");
+}
+@font-face {
+          font-family: Archivo;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Archivo Medium"),local(Archivo-Medium),url(//fonts.gstatic.com/s/archivo/v7/k3kVo8UDI-1M0wlSdSrLO0jhKA.eot?#) format("eot"),url(//fonts.gstatic.com/s/archivo/v7/k3kVo8UDI-1M0wlSdSrLO0bhLA.woff2) format("woff2"),url(//fonts.gstatic.com/s/archivo/v7/k3kVo8UDI-1M0wlSdSrLO0jhKg.woff) format("woff");
+}
+@font-face {
+          font-family: Archivo;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Archivo SemiBold"),local(Archivo-SemiBold),url(//fonts.gstatic.com/s/archivo/v7/k3kVo8UDI-1M0wlSdQbMO0jhKA.eot?#) format("eot"),url(//fonts.gstatic.com/s/archivo/v7/k3kVo8UDI-1M0wlSdQbMO0bhLA.woff2) format("woff2"),url(//fonts.gstatic.com/s/archivo/v7/k3kVo8UDI-1M0wlSdQbMO0jhKg.woff) format("woff");
+}
+@font-face {
+          font-family: Archivo;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Archivo Bold"),local(Archivo-Bold),url(//fonts.gstatic.com/s/archivo/v7/k3kVo8UDI-1M0wlSdWLNO0jhKA.eot?#) format("eot"),url(//fonts.gstatic.com/s/archivo/v7/k3kVo8UDI-1M0wlSdWLNO0bhLA.woff2) format("woff2"),url(//fonts.gstatic.com/s/archivo/v7/k3kVo8UDI-1M0wlSdWLNO0jhKg.woff) format("woff");
+}
+.u-font-archivo-400 {
+          font-family: 'Archivo' !important;
+          font-weight: 400 !important;
+}
+.u-font-archivo-400-italic {
+        font-family: 'Archivo' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-archivo-500 {
+          font-family: 'Archivo' !important;
+          font-weight: 500 !important;
+}
+.u-font-archivo-500-italic {
+        font-family: 'Archivo' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-archivo-600 {
+          font-family: 'Archivo' !important;
+          font-weight: 600 !important;
+}
+.u-font-archivo-600-italic {
+        font-family: 'Archivo' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-archivo-700 {
+          font-family: 'Archivo' !important;
+          font-weight: 700 !important;
+}
+.u-font-archivo-700-italic {
+        font-family: 'Archivo' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

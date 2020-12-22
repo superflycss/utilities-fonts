@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Voces;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Voces Regular"),local(Voces-Regular),url(//fonts.gstatic.com/s/voces/v10/-F6_fjJyLyU8d7PIDms.eot?#) format("eot"),url(//fonts.gstatic.com/s/voces/v10/-F6_fjJyLyU8d7PGDm8.woff2) format("woff2"),url(//fonts.gstatic.com/s/voces/v10/-F6_fjJyLyU8d7PIDmk.woff) format("woff");
+}
+.u-font-voces-400 {
+          font-family: 'Voces' !important;
+          font-weight: 400 !important;
+}

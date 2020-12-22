@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Original Surfer";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Original Surfer"),local(OriginalSurfer-Regular),url(//fonts.gstatic.com/s/originalsurfer/v9/RWmQoKGZ9vIirYntXJ3_MbekzNMSC0Fq.eot?#) format("eot"),url(//fonts.gstatic.com/s/originalsurfer/v9/RWmQoKGZ9vIirYntXJ3_MbekzNMSC0Fu.woff2) format("woff2"),url(//fonts.gstatic.com/s/originalsurfer/v9/RWmQoKGZ9vIirYntXJ3_MbekzNMSC0Fo.woff) format("woff");
+}
+.u-font-original-surfer-400 {
+          font-family: 'Original Surfer' !important;
+          font-weight: 400 !important;
+}

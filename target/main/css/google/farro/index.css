@@ -1,0 +1,40 @@
+@font-face {
+          font-family: Farro;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Farro Light"),local(Farro-Light),url(//fonts.gstatic.com/s/farro/v2/i7dJIFl3byGNHa3hNK63UEc.eot?#) format("eot"),url(//fonts.gstatic.com/s/farro/v2/i7dJIFl3byGNHa3hNK65UEM.woff2) format("woff2"),url(//fonts.gstatic.com/s/farro/v2/i7dJIFl3byGNHa3hNK63UEU.woff) format("woff");
+}
+@font-face {
+          font-family: Farro;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Farro Regular"),local(Farro-Regular),url(//fonts.gstatic.com/s/farro/v2/i7dEIFl3byGNHaVEFr8.eot?#) format("eot"),url(//fonts.gstatic.com/s/farro/v2/i7dEIFl3byGNHaVKFrs.woff2) format("woff2"),url(//fonts.gstatic.com/s/farro/v2/i7dEIFl3byGNHaVEFr0.woff) format("woff");
+}
+@font-face {
+          font-family: Farro;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Farro Medium"),local(Farro-Medium),url(//fonts.gstatic.com/s/farro/v2/i7dJIFl3byGNHa25Na63UEc.eot?#) format("eot"),url(//fonts.gstatic.com/s/farro/v2/i7dJIFl3byGNHa25Na65UEM.woff2) format("woff2"),url(//fonts.gstatic.com/s/farro/v2/i7dJIFl3byGNHa25Na63UEU.woff) format("woff");
+}
+@font-face {
+          font-family: Farro;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Farro Bold"),local(Farro-Bold),url(//fonts.gstatic.com/s/farro/v2/i7dJIFl3byGNHa3xM663UEc.eot?#) format("eot"),url(//fonts.gstatic.com/s/farro/v2/i7dJIFl3byGNHa3xM665UEM.woff2) format("woff2"),url(//fonts.gstatic.com/s/farro/v2/i7dJIFl3byGNHa3xM663UEU.woff) format("woff");
+}
+.u-font-farro-300 {
+          font-family: 'Farro' !important;
+          font-weight: 300 !important;
+}
+.u-font-farro-400 {
+          font-family: 'Farro' !important;
+          font-weight: 400 !important;
+}
+.u-font-farro-500 {
+          font-family: 'Farro' !important;
+          font-weight: 500 !important;
+}
+.u-font-farro-700 {
+          font-family: 'Farro' !important;
+          font-weight: 700 !important;
+}

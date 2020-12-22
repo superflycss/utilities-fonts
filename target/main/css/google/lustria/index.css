@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Lustria;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Lustria),local(Lustria-Regular),url(//fonts.gstatic.com/s/lustria/v8/9oRONYodvDEyjuhOnC8zNw.eot?#) format("eot"),url(//fonts.gstatic.com/s/lustria/v8/9oRONYodvDEyjuhOnC8zMw.woff2) format("woff2"),url(//fonts.gstatic.com/s/lustria/v8/9oRONYodvDEyjuhOnC8zNQ.woff) format("woff");
+}
+.u-font-lustria-400 {
+          font-family: 'Lustria' !important;
+          font-weight: 400 !important;
+}

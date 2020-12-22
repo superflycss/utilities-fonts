@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Lovers Quarrel";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Lovers Quarrel"),local(LoversQuarrel-Regular),url(//fonts.gstatic.com/s/loversquarrel/v8/Yq6N-LSKXTL-5bCy8ksBzpQ_-wAlab8.eot?#) format("eot"),url(//fonts.gstatic.com/s/loversquarrel/v8/Yq6N-LSKXTL-5bCy8ksBzpQ_-wArabs.woff2) format("woff2"),url(//fonts.gstatic.com/s/loversquarrel/v8/Yq6N-LSKXTL-5bCy8ksBzpQ_-wAlab0.woff) format("woff");
+}
+.u-font-lovers-quarrel-400 {
+          font-family: 'Lovers Quarrel' !important;
+          font-weight: 400 !important;
+}

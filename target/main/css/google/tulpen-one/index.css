@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Tulpen One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Tulpen One"),local(TulpenOne-Regular),url(//fonts.gstatic.com/s/tulpenone/v10/dFa6ZfeC474skLgesc0Cajo6-Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/tulpenone/v10/dFa6ZfeC474skLgesc0Cajo6_Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/tulpenone/v10/dFa6ZfeC474skLgesc0Cajo6-w.woff) format("woff");
+}
+.u-font-tulpen-one-400 {
+          font-family: 'Tulpen One' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Rouge Script";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Rouge Script"),local(RougeScript-Regular),url(//fonts.gstatic.com/s/rougescript/v9/LYjFdGbiklMoCIQOw1Ep3S4_U__e.eot?#) format("eot"),url(//fonts.gstatic.com/s/rougescript/v9/LYjFdGbiklMoCIQOw1Ep3S4_U__a.woff2) format("woff2"),url(//fonts.gstatic.com/s/rougescript/v9/LYjFdGbiklMoCIQOw1Ep3S4_U__c.woff) format("woff");
+}
+.u-font-rouge-script-400 {
+          font-family: 'Rouge Script' !important;
+          font-weight: 400 !important;
+}

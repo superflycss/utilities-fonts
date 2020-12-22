@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Liu Jian Mao Cao";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Liu Jian Mao Cao Regular"),local(LiuJianMaoCao-Regular),url(//fonts.gstatic.com/s/liujianmaocao/v5/845DNN84HJrccNonurqXILGpvCOoTe3fLQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/liujianmaocao/v5/845DNN84HJrccNonurqXILGpvCOofe-9Mme3Oefcxbgi2r-bbLzgh8Gp3OSHWJdpLS7qsBBFhA.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/liujianmaocao/v5/845DNN84HJrccNonurqXILGpvCOoTe3fLw.woff) format("woff");
+}
+.u-font-liu-jian-mao-cao-400 {
+          font-family: 'Liu Jian Mao Cao' !important;
+          font-weight: 400 !important;
+}

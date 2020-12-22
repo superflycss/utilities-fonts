@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Lemon;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Lemon Regular"),local(Lemon-Regular),url(//fonts.gstatic.com/s/lemon/v9/HI_EiYEVKqRMq3jGQ5A.eot?#) format("eot"),url(//fonts.gstatic.com/s/lemon/v9/HI_EiYEVKqRMq3jGQ5Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/lemon/v9/HI_EiYEVKqRMq3jGQ5I.woff) format("woff");
+}
+.u-font-lemon-400 {
+          font-family: 'Lemon' !important;
+          font-weight: 400 !important;
+}

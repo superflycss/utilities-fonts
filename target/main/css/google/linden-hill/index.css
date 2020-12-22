@@ -1,0 +1,21 @@
+@font-face {
+          font-family: "Linden Hill";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Linden Hill Italic"),local(LindenHill-Italic),url(//fonts.gstatic.com/s/lindenhill/v10/-F63fjxoKSg9Yc3hZgO8yjFK1i8q0w.eot?#) format("eot"),url(//fonts.gstatic.com/s/lindenhill/v10/-F63fjxoKSg9Yc3hZgO8yjFK1i8q1w.woff2) format("woff2"),url(//fonts.gstatic.com/s/lindenhill/v10/-F63fjxoKSg9Yc3hZgO8yjFK1i8q0Q.woff) format("woff");
+}
+@font-face {
+          font-family: "Linden Hill";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Linden Hill Regular"),local(LindenHill-Regular),url(//fonts.gstatic.com/s/lindenhill/v10/-F61fjxoKSg9Yc3hZgO8yjFP5ik.eot?#) format("eot"),url(//fonts.gstatic.com/s/lindenhill/v10/-F61fjxoKSg9Yc3hZgO8yjFP5i0.woff2) format("woff2"),url(//fonts.gstatic.com/s/lindenhill/v10/-F61fjxoKSg9Yc3hZgO8yjFP5is.woff) format("woff");
+}
+.u-font-linden-hill-400 {
+          font-family: 'Linden Hill' !important;
+          font-weight: 400 !important;
+}
+.u-font-linden-hill-400-italic {
+        font-family: 'Linden Hill' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}

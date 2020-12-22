@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Monofett;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Monofett),url(//fonts.gstatic.com/s/monofett/v10/mFTyWbofw6zc9NtnW73Vsxk.eot?#) format("eot"),url(//fonts.gstatic.com/s/monofett/v10/mFTyWbofw6zc9NtnW73Vsx0.woff2) format("woff2"),url(//fonts.gstatic.com/s/monofett/v10/mFTyWbofw6zc9NtnW73Vsxs.woff) format("woff");
+}
+.u-font-monofett-400 {
+          font-family: 'Monofett' !important;
+          font-weight: 400 !important;
+}

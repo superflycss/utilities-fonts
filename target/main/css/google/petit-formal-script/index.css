@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Petit Formal Script";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Petit Formal Script"),local(PetitFormalScript-Regular),url(//fonts.gstatic.com/s/petitformalscript/v8/B50TF6xQr2TXJBnGOFME6u5OR83oRP5qkHDgOg.eot?#) format("eot"),url(//fonts.gstatic.com/s/petitformalscript/v8/B50TF6xQr2TXJBnGOFME6u5OR83oRP5qkH7gPg.woff2) format("woff2"),url(//fonts.gstatic.com/s/petitformalscript/v8/B50TF6xQr2TXJBnGOFME6u5OR83oRP5qkHDgOA.woff) format("woff");
+}
+.u-font-petit-formal-script-400 {
+          font-family: 'Petit Formal Script' !important;
+          font-weight: 400 !important;
+}

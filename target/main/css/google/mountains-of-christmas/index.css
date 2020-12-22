@@ -1,0 +1,20 @@
+@font-face {
+          font-family: "Mountains of Christmas";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Mountains of Christmas Regular"),local(MountainsofChristmas-Regular),url(//fonts.gstatic.com/s/mountainsofchristmas/v13/3y9w6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eDNGsNQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/mountainsofchristmas/v13/3y9w6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eDNGsMQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/mountainsofchristmas/v13/3y9w6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eDNGsNw.woff) format("woff");
+}
+@font-face {
+          font-family: "Mountains of Christmas";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Mountains of Christmas Bold"),local(MountainsofChristmas-Bold),url(//fonts.gstatic.com/s/mountainsofchristmas/v13/3y9z6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eBGqJJPxIPw.eot?#) format("eot"),url(//fonts.gstatic.com/s/mountainsofchristmas/v13/3y9z6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eBGqJJPxIOw.woff2) format("woff2"),url(//fonts.gstatic.com/s/mountainsofchristmas/v13/3y9z6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eBGqJJPxIPQ.woff) format("woff");
+}
+.u-font-mountains-of-christmas-400 {
+          font-family: 'Mountains of Christmas' !important;
+          font-weight: 400 !important;
+}
+.u-font-mountains-of-christmas-700 {
+          font-family: 'Mountains of Christmas' !important;
+          font-weight: 700 !important;
+}

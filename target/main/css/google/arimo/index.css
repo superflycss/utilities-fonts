@@ -1,0 +1,60 @@
+@font-face {
+          font-family: Arimo;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Arimo Italic"),local(Arimo-Italic),url(//fonts.gstatic.com/s/arimo/v15/P5sCzZCDf9_T_10c9C1kjA.eot?#) format("eot"),url(//fonts.gstatic.com/s/arimo/v15/P5sCzZCDf9_T_10c9CNkiA.woff2) format("woff2"),url(//fonts.gstatic.com/s/arimo/v15/P5sCzZCDf9_T_10c9C1kjg.woff) format("woff");
+}
+@font-face {
+          font-family: Arimo;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Arimo Bold Italic"),local(Arimo-BoldItalic),url(//fonts.gstatic.com/s/arimo/v15/P5sHzZCDf9_T_10c_JhBnZ6P0A.eot?#) format("eot"),url(//fonts.gstatic.com/s/arimo/v15/P5sHzZCDf9_T_10c_JhBnZCP1A.woff2) format("woff2"),url(//fonts.gstatic.com/s/arimo/v15/P5sHzZCDf9_T_10c_JhBnZ6P0g.woff) format("woff");
+}
+@font-face {
+          font-family: Arimo;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Arimo Regular"),local(Arimo-Regular),url(//fonts.gstatic.com/s/arimo/v15/P5sMzZCDf9_T_10XxCU.eot?#) format("eot"),url(//fonts.gstatic.com/s/arimo/v15/P5sMzZCDf9_T_10ZxCE.woff2) format("woff2"),url(//fonts.gstatic.com/s/arimo/v15/P5sMzZCDf9_T_10XxCc.woff) format("woff");
+}
+@font-face {
+          font-family: Arimo;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Arimo Bold"),local(Arimo-Bold),url(//fonts.gstatic.com/s/arimo/v15/P5sBzZCDf9_T_1Wi4TRNrZY.eot?#) format("eot"),url(//fonts.gstatic.com/s/arimo/v15/P5sBzZCDf9_T_1Wi4TRDrZI.woff2) format("woff2"),url(//fonts.gstatic.com/s/arimo/v15/P5sBzZCDf9_T_1Wi4TRNrZQ.woff) format("woff");
+}
+.u-font-arimo-400 {
+          font-family: 'Arimo' !important;
+          font-weight: 400 !important;
+}
+.u-font-arimo-500 {
+          font-family: 'Arimo' !important;
+          font-weight: 500 !important;
+}
+.u-font-arimo-600 {
+          font-family: 'Arimo' !important;
+          font-weight: 600 !important;
+}
+.u-font-arimo-700 {
+          font-family: 'Arimo' !important;
+          font-weight: 700 !important;
+}
+.u-font-arimo-400-italic {
+        font-family: 'Arimo' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-arimo-500-italic {
+        font-family: 'Arimo' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-arimo-600-italic {
+        font-family: 'Arimo' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-arimo-700-italic {
+        font-family: 'Arimo' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

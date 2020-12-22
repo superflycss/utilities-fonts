@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Gravitas One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Gravitas One"),local(GravitasOne),url(//fonts.gstatic.com/s/gravitasone/v10/5h1diZ4hJ3cblKy3LWakKQmqCm5I.eot?#) format("eot"),url(//fonts.gstatic.com/s/gravitasone/v10/5h1diZ4hJ3cblKy3LWakKQmqCm5M.woff2) format("woff2"),url(//fonts.gstatic.com/s/gravitasone/v10/5h1diZ4hJ3cblKy3LWakKQmqCm5K.woff) format("woff");
+}
+.u-font-gravitas-one-400 {
+          font-family: 'Gravitas One' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Emblema One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Emblema One"),local(EmblemaOne-Regular),url(//fonts.gstatic.com/s/emblemaone/v9/nKKT-GQ0F5dSY8vzG0rOELRIFFs.eot?#) format("eot"),url(//fonts.gstatic.com/s/emblemaone/v9/nKKT-GQ0F5dSY8vzG0rOELRGFF8.woff2) format("woff2"),url(//fonts.gstatic.com/s/emblemaone/v9/nKKT-GQ0F5dSY8vzG0rOELRIFFk.woff) format("woff");
+}
+.u-font-emblema-one-400 {
+          font-family: 'Emblema One' !important;
+          font-weight: 400 !important;
+}

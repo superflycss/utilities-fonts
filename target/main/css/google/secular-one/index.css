@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Secular One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Secular One"),local(SecularOne-Regular),url(//fonts.gstatic.com/s/secularone/v5/8QINdiTajsj_87rMuMdKyqDsOOw.eot?#) format("eot"),url(//fonts.gstatic.com/s/secularone/v5/8QINdiTajsj_87rMuMdKyqDiOOg.woff2) format("woff2"),url(//fonts.gstatic.com/s/secularone/v5/8QINdiTajsj_87rMuMdKyqDsOO4.woff) format("woff");
+}
+.u-font-secular-one-400 {
+          font-family: 'Secular One' !important;
+          font-weight: 400 !important;
+}

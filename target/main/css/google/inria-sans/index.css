@@ -1,0 +1,63 @@
+@font-face {
+          font-family: "Inria Sans";
+          font-style: italic;
+          font-weight: 300;
+          src: local("Inria Sans Light Italic"),local(InriaSans-LightItalic),url(//fonts.gstatic.com/s/inriasans/v2/ptRRTiqXYfZMCOiVj9kQ1OzAgQl_pM43.eot?#) format("eot"),url(//fonts.gstatic.com/s/inriasans/v2/ptRRTiqXYfZMCOiVj9kQ1OzAgQl_qs4z.woff2) format("woff2"),url(//fonts.gstatic.com/s/inriasans/v2/ptRRTiqXYfZMCOiVj9kQ1OzAgQl_pM41.woff) format("woff");
+}
+@font-face {
+          font-family: "Inria Sans";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Inria Sans Italic"),local(InriaSans-Italic),url(//fonts.gstatic.com/s/inriasans/v2/ptROTiqXYfZMCOiVj9kQ1OzIJCtu.eot?#) format("eot"),url(//fonts.gstatic.com/s/inriasans/v2/ptROTiqXYfZMCOiVj9kQ1OzIKitq.woff2) format("woff2"),url(//fonts.gstatic.com/s/inriasans/v2/ptROTiqXYfZMCOiVj9kQ1OzIJCts.woff) format("woff");
+}
+@font-face {
+          font-family: "Inria Sans";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Inria Sans Bold Italic"),local(InriaSans-BoldItalic),url(//fonts.gstatic.com/s/inriasans/v2/ptRRTiqXYfZMCOiVj9kQ1OzAkQ5_pM43.eot?#) format("eot"),url(//fonts.gstatic.com/s/inriasans/v2/ptRRTiqXYfZMCOiVj9kQ1OzAkQ5_qs4z.woff2) format("woff2"),url(//fonts.gstatic.com/s/inriasans/v2/ptRRTiqXYfZMCOiVj9kQ1OzAkQ5_pM41.woff) format("woff");
+}
+@font-face {
+          font-family: "Inria Sans";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Inria Sans Light"),local(InriaSans-Light),url(//fonts.gstatic.com/s/inriasans/v2/ptRPTiqXYfZMCOiVj9kQ3ELaPQJPrA.eot?#) format("eot"),url(//fonts.gstatic.com/s/inriasans/v2/ptRPTiqXYfZMCOiVj9kQ3ELaPQxPqA.woff2) format("woff2"),url(//fonts.gstatic.com/s/inriasans/v2/ptRPTiqXYfZMCOiVj9kQ3ELaPQJPrg.woff) format("woff");
+}
+@font-face {
+          font-family: "Inria Sans";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Inria Sans Regular"),local(InriaSans-Regular),url(//fonts.gstatic.com/s/inriasans/v2/ptRMTiqXYfZMCOiVj9kQ1Of4LA.eot?#) format("eot"),url(//fonts.gstatic.com/s/inriasans/v2/ptRMTiqXYfZMCOiVj9kQ1On4KA.woff2) format("woff2"),url(//fonts.gstatic.com/s/inriasans/v2/ptRMTiqXYfZMCOiVj9kQ1Of4Lg.woff) format("woff");
+}
+@font-face {
+          font-family: "Inria Sans";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Inria Sans Bold"),local(InriaSans-Bold),url(//fonts.gstatic.com/s/inriasans/v2/ptRPTiqXYfZMCOiVj9kQ3FLdPQJPrA.eot?#) format("eot"),url(//fonts.gstatic.com/s/inriasans/v2/ptRPTiqXYfZMCOiVj9kQ3FLdPQxPqA.woff2) format("woff2"),url(//fonts.gstatic.com/s/inriasans/v2/ptRPTiqXYfZMCOiVj9kQ3FLdPQJPrg.woff) format("woff");
+}
+.u-font-inria-sans-300 {
+          font-family: 'Inria Sans' !important;
+          font-weight: 300 !important;
+}
+.u-font-inria-sans-300-italic {
+        font-family: 'Inria Sans' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-inria-sans-400 {
+          font-family: 'Inria Sans' !important;
+          font-weight: 400 !important;
+}
+.u-font-inria-sans-400-italic {
+        font-family: 'Inria Sans' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-inria-sans-700 {
+          font-family: 'Inria Sans' !important;
+          font-weight: 700 !important;
+}
+.u-font-inria-sans-700-italic {
+        font-family: 'Inria Sans' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

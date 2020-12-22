@@ -1,0 +1,105 @@
+@font-face {
+          font-family: "Zilla Slab";
+          font-style: italic;
+          font-weight: 300;
+          src: local("Zilla Slab Light Italic"),local(ZillaSlab-LightItalic),url(//fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CVHaZV3Bz.eot?#) format("eot"),url(//fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CVHaZWXB3.woff2) format("woff2"),url(//fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CVHaZV3Bx.woff) format("woff");
+}
+@font-face {
+          font-family: "Zilla Slab";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Zilla Slab Italic"),local(ZillaSlab-Italic),url(//fonts.gstatic.com/s/zillaslab/v6/dFa4ZfeM_74wlPZtksIFaj8K8VSI.eot?#) format("eot"),url(//fonts.gstatic.com/s/zillaslab/v6/dFa4ZfeM_74wlPZtksIFaj8K_1SM.woff2) format("woff2"),url(//fonts.gstatic.com/s/zillaslab/v6/dFa4ZfeM_74wlPZtksIFaj8K8VSK.woff) format("woff");
+}
+@font-face {
+          font-family: "Zilla Slab";
+          font-style: italic;
+          font-weight: 500;
+          src: local("Zilla Slab Medium Italic"),local(ZillaSlab-MediumItalic),url(//fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CDHeZV3Bz.eot?#) format("eot"),url(//fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CDHeZWXB3.woff2) format("woff2"),url(//fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CDHeZV3Bx.woff) format("woff");
+}
+@font-face {
+          font-family: "Zilla Slab";
+          font-style: italic;
+          font-weight: 600;
+          src: local("Zilla Slab SemiBold Italic"),local(ZillaSlab-SemiBoldItalic),url(//fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CIHCZV3Bz.eot?#) format("eot"),url(//fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CIHCZWXB3.woff2) format("woff2"),url(//fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CIHCZV3Bx.woff) format("woff");
+}
+@font-face {
+          font-family: "Zilla Slab";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Zilla Slab Bold Italic"),local(ZillaSlab-BoldItalic),url(//fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CRHGZV3Bz.eot?#) format("eot"),url(//fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CRHGZWXB3.woff2) format("woff2"),url(//fonts.gstatic.com/s/zillaslab/v6/dFanZfeM_74wlPZtksIFaj8CRHGZV3Bx.woff) format("woff");
+}
+@font-face {
+          font-family: "Zilla Slab";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Zilla Slab Light"),local(ZillaSlab-Light),url(//fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYpEY6H2pXw.eot?#) format("eot"),url(//fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYpEY6HOpWw.woff2) format("woff2"),url(//fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYpEY6H2pXQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Zilla Slab";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Zilla Slab"),local(ZillaSlab-Regular),url(//fonts.gstatic.com/s/zillaslab/v6/dFa6ZfeM_74wlPZtksIFajQ6-Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/zillaslab/v6/dFa6ZfeM_74wlPZtksIFajo6_Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/zillaslab/v6/dFa6ZfeM_74wlPZtksIFajQ6-w.woff) format("woff");
+}
+@font-face {
+          font-family: "Zilla Slab";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Zilla Slab Medium"),local(ZillaSlab-Medium),url(//fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYskZ6H2pXw.eot?#) format("eot"),url(//fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYskZ6HOpWw.woff2) format("woff2"),url(//fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYskZ6H2pXQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Zilla Slab";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Zilla Slab SemiBold"),local(ZillaSlab-SemiBold),url(//fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYuUe6H2pXw.eot?#) format("eot"),url(//fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYuUe6HOpWw.woff2) format("woff2"),url(//fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYuUe6H2pXQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Zilla Slab";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Zilla Slab Bold"),local(ZillaSlab-Bold),url(//fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYoEf6H2pXw.eot?#) format("eot"),url(//fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYoEf6HOpWw.woff2) format("woff2"),url(//fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYoEf6H2pXQ.woff) format("woff");
+}
+.u-font-zilla-slab-300 {
+          font-family: 'Zilla Slab' !important;
+          font-weight: 300 !important;
+}
+.u-font-zilla-slab-300-italic {
+        font-family: 'Zilla Slab' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-zilla-slab-400 {
+          font-family: 'Zilla Slab' !important;
+          font-weight: 400 !important;
+}
+.u-font-zilla-slab-400-italic {
+        font-family: 'Zilla Slab' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-zilla-slab-500 {
+          font-family: 'Zilla Slab' !important;
+          font-weight: 500 !important;
+}
+.u-font-zilla-slab-500-italic {
+        font-family: 'Zilla Slab' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-zilla-slab-600 {
+          font-family: 'Zilla Slab' !important;
+          font-weight: 600 !important;
+}
+.u-font-zilla-slab-600-italic {
+        font-family: 'Zilla Slab' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-zilla-slab-700 {
+          font-family: 'Zilla Slab' !important;
+          font-weight: 700 !important;
+}
+.u-font-zilla-slab-700-italic {
+        font-family: 'Zilla Slab' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

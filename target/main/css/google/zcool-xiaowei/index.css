@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "ZCOOL XiaoWei";
+          font-style: normal;
+          font-weight: 400;
+          src: local("ZCOOL XiaoWei Regular"),local(ZCOOLXiaoWei-Regular),url(//fonts.gstatic.com/s/zcoolxiaowei/v5/i7dMIFFrTRywPpUVX9_RJyM1UFWaGg.eot?#) format("eot"),url(//fonts.gstatic.com/s/zcoolxiaowei/v5/i7dMIFFrTRywPpUVX9_RJyM1YFf4BQ6OHB3qE7y2ys6XIzxYv88CVLJlObJGMqmkzaJnjA.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/zcoolxiaowei/v5/i7dMIFFrTRywPpUVX9_RJyM1UFWaGA.woff) format("woff");
+}
+.u-font-zcool-xiaowei-400 {
+          font-family: 'ZCOOL XiaoWei' !important;
+          font-weight: 400 !important;
+}

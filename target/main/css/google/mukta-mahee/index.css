@@ -1,0 +1,70 @@
+@font-face {
+          font-family: "Mukta Mahee";
+          font-style: normal;
+          font-weight: 200;
+          src: local("Mukta Mahee ExtraLight"),local(MuktaMahee-ExtraLight),url(//fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9MFcCoOLHI.eot?#) format("eot"),url(//fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9MFcCoALHY.woff2) format("woff2"),url(//fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9MFcCoOLHA.woff) format("woff");
+}
+@font-face {
+          font-family: "Mukta Mahee";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Mukta Mahee Light"),local(MuktaMahee-Light),url(//fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9NhcyoOLHI.eot?#) format("eot"),url(//fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9NhcyoALHY.woff2) format("woff2"),url(//fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9NhcyoOLHA.woff) format("woff");
+}
+@font-face {
+          font-family: "Mukta Mahee";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Mukta Mahee Regular"),local(MuktaMahee-Regular),url(//fonts.gstatic.com/s/muktamahee/v7/XRXQ3IOIi0hcP8iVU67hA9vEUTs.eot?#) format("eot"),url(//fonts.gstatic.com/s/muktamahee/v7/XRXQ3IOIi0hcP8iVU67hA9vKUT8.woff2) format("woff2"),url(//fonts.gstatic.com/s/muktamahee/v7/XRXQ3IOIi0hcP8iVU67hA9vEUTk.woff) format("woff");
+}
+@font-face {
+          font-family: "Mukta Mahee";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Mukta Mahee Medium"),local(MuktaMahee-Medium),url(//fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9M5cioOLHI.eot?#) format("eot"),url(//fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9M5cioALHY.woff2) format("woff2"),url(//fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9M5cioOLHA.woff) format("woff");
+}
+@font-face {
+          font-family: "Mukta Mahee";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Mukta Mahee SemiBold"),local(MuktaMahee-SemiBold),url(//fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9MVdSoOLHI.eot?#) format("eot"),url(//fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9MVdSoALHY.woff2) format("woff2"),url(//fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9MVdSoOLHA.woff) format("woff");
+}
+@font-face {
+          font-family: "Mukta Mahee";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Mukta Mahee Bold"),local(MuktaMahee-Bold),url(//fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9NxdCoOLHI.eot?#) format("eot"),url(//fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9NxdCoALHY.woff2) format("woff2"),url(//fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9NxdCoOLHA.woff) format("woff");
+}
+@font-face {
+          font-family: "Mukta Mahee";
+          font-style: normal;
+          font-weight: 800;
+          src: local("Mukta Mahee ExtraBold"),local(MuktaMahee-ExtraBold),url(//fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9NtdyoOLHI.eot?#) format("eot"),url(//fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9NtdyoALHY.woff2) format("woff2"),url(//fonts.gstatic.com/s/muktamahee/v7/XRXN3IOIi0hcP8iVU67hA9NtdyoOLHA.woff) format("woff");
+}
+.u-font-mukta-mahee-200 {
+          font-family: 'Mukta Mahee' !important;
+          font-weight: 200 !important;
+}
+.u-font-mukta-mahee-300 {
+          font-family: 'Mukta Mahee' !important;
+          font-weight: 300 !important;
+}
+.u-font-mukta-mahee-400 {
+          font-family: 'Mukta Mahee' !important;
+          font-weight: 400 !important;
+}
+.u-font-mukta-mahee-500 {
+          font-family: 'Mukta Mahee' !important;
+          font-weight: 500 !important;
+}
+.u-font-mukta-mahee-600 {
+          font-family: 'Mukta Mahee' !important;
+          font-weight: 600 !important;
+}
+.u-font-mukta-mahee-700 {
+          font-family: 'Mukta Mahee' !important;
+          font-weight: 700 !important;
+}
+.u-font-mukta-mahee-800 {
+          font-family: 'Mukta Mahee' !important;
+          font-weight: 800 !important;
+}

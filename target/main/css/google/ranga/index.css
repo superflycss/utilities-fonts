@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Ranga;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Ranga Regular"),local(Ranga-Regular),url(//fonts.gstatic.com/s/ranga/v6/C8ct4cYisGb28q6LJjk.eot?#) format("eot"),url(//fonts.gstatic.com/s/ranga/v6/C8ct4cYisGb28q6FJj0.woff2) format("woff2"),url(//fonts.gstatic.com/s/ranga/v6/C8ct4cYisGb28q6LJjs.woff) format("woff");
+}
+@font-face {
+          font-family: Ranga;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Ranga Bold"),local(Ranga-Bold),url(//fonts.gstatic.com/s/ranga/v6/C8cg4cYisGb28qY-AygY43g.eot?#) format("eot"),url(//fonts.gstatic.com/s/ranga/v6/C8cg4cYisGb28qY-AygW43w.woff2) format("woff2"),url(//fonts.gstatic.com/s/ranga/v6/C8cg4cYisGb28qY-AygY43o.woff) format("woff");
+}
+.u-font-ranga-400 {
+          font-family: 'Ranga' !important;
+          font-weight: 400 !important;
+}
+.u-font-ranga-700 {
+          font-family: 'Ranga' !important;
+          font-weight: 700 !important;
+}

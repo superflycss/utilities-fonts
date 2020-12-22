@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Nanum Pen Script";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Nanum Pen"),local(NanumPen),url(//fonts.gstatic.com/s/nanumpenscript/v15/daaDSSYiLGqEal3MvdA_FOL_3FkN6zn0bQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/nanumpenscript/v15/daaDSSYiLGqEal3MvdA_FOL_3FkN2zuWfsNNAlvx8XyriiBoA4Qt-85VRg.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/nanumpenscript/v15/daaDSSYiLGqEal3MvdA_FOL_3FkN6zn0bw.woff) format("woff");
+}
+.u-font-nanum-pen-script-400 {
+          font-family: 'Nanum Pen Script' !important;
+          font-weight: 400 !important;
+}

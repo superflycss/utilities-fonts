@@ -1,0 +1,42 @@
+@font-face {
+          font-family: Caladea;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Caladea Italic"),local(Caladea-Italic),url(//fonts.gstatic.com/s/caladea/v2/kJExBugZ7AAjhybUvR1N9voz.eot?#) format("eot"),url(//fonts.gstatic.com/s/caladea/v2/kJExBugZ7AAjhybUvR1N-Po3.woff2) format("woff2"),url(//fonts.gstatic.com/s/caladea/v2/kJExBugZ7AAjhybUvR1N9vox.woff) format("woff");
+}
+@font-face {
+          font-family: Caladea;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Caladea Bold Italic"),local(Caladea-BoldItalic),url(//fonts.gstatic.com/s/caladea/v2/kJE0BugZ7AAjhybUvR1FQ98ipcZ2.eot?#) format("eot"),url(//fonts.gstatic.com/s/caladea/v2/kJE0BugZ7AAjhybUvR1FQ98iq8Zy.woff2) format("woff2"),url(//fonts.gstatic.com/s/caladea/v2/kJE0BugZ7AAjhybUvR1FQ98ipcZ0.woff) format("woff");
+}
+@font-face {
+          font-family: Caladea;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Caladea Regular"),local(Caladea-Regular),url(//fonts.gstatic.com/s/caladea/v2/kJEzBugZ7AAjhybUvRZ9_g.eot?#) format("eot"),url(//fonts.gstatic.com/s/caladea/v2/kJEzBugZ7AAjhybUvRh9-g.woff2) format("woff2"),url(//fonts.gstatic.com/s/caladea/v2/kJEzBugZ7AAjhybUvRZ9_A.woff) format("woff");
+}
+@font-face {
+          font-family: Caladea;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Caladea Bold"),local(Caladea-Bold),url(//fonts.gstatic.com/s/caladea/v2/kJE2BugZ7AAjhybUtaNY79MSrQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/caladea/v2/kJE2BugZ7AAjhybUtaNY790SqQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/caladea/v2/kJE2BugZ7AAjhybUtaNY79MSrw.woff) format("woff");
+}
+.u-font-caladea-400 {
+          font-family: 'Caladea' !important;
+          font-weight: 400 !important;
+}
+.u-font-caladea-400-italic {
+        font-family: 'Caladea' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-caladea-700 {
+          font-family: 'Caladea' !important;
+          font-weight: 700 !important;
+}
+.u-font-caladea-700-italic {
+        font-family: 'Caladea' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

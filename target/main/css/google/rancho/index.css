@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Rancho;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Rancho Regular"),local(Rancho-Regular),url(//fonts.gstatic.com/s/rancho/v11/46kulbzmXjLaqZRVam_l.eot?#) format("eot"),url(//fonts.gstatic.com/s/rancho/v11/46kulbzmXjLaqZRVam_h.woff2) format("woff2"),url(//fonts.gstatic.com/s/rancho/v11/46kulbzmXjLaqZRVam_n.woff) format("woff");
+}
+.u-font-rancho-400 {
+          font-family: 'Rancho' !important;
+          font-weight: 400 !important;
+}

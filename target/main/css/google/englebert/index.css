@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Englebert;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Englebert),local(Englebert-Regular),url(//fonts.gstatic.com/s/englebert/v8/xn7iYH8w2XGrC8AR4HSBRv3d.eot?#) format("eot"),url(//fonts.gstatic.com/s/englebert/v8/xn7iYH8w2XGrC8AR4HSBSP3Z.woff2) format("woff2"),url(//fonts.gstatic.com/s/englebert/v8/xn7iYH8w2XGrC8AR4HSBRv3f.woff) format("woff");
+}
+.u-font-englebert-400 {
+          font-family: 'Englebert' !important;
+          font-weight: 400 !important;
+}

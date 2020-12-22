@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Sancreek;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Sancreek Regular"),local(Sancreek-Regular),url(//fonts.gstatic.com/s/sancreek/v11/pxiHypAnsdxUm159X4D3V1o.eot?#) format("eot"),url(//fonts.gstatic.com/s/sancreek/v11/pxiHypAnsdxUm159X4D5V14.woff2) format("woff2"),url(//fonts.gstatic.com/s/sancreek/v11/pxiHypAnsdxUm159X4D3V1g.woff) format("woff");
+}
+.u-font-sancreek-400 {
+          font-family: 'Sancreek' !important;
+          font-weight: 400 !important;
+}

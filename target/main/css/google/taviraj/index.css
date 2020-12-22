@@ -1,0 +1,189 @@
+@font-face {
+          font-family: Taviraj;
+          font-style: italic;
+          font-weight: 100;
+          src: local("Taviraj Thin Italic"),local(Taviraj-ThinItalic),url(//fonts.gstatic.com/s/taviraj/v6/ahcdv8Cj3ylylTXzTOwTM_l4pU0.eot?#) format("eot"),url(//fonts.gstatic.com/s/taviraj/v6/ahcdv8Cj3ylylTXzTOwTM_l2pUk.woff2) format("woff2"),url(//fonts.gstatic.com/s/taviraj/v6/ahcdv8Cj3ylylTXzTOwTM_l4pU8.woff) format("woff");
+}
+@font-face {
+          font-family: Taviraj;
+          font-style: italic;
+          font-weight: 200;
+          src: local("Taviraj ExtraLight Italic"),local(Taviraj-ExtraLightItalic),url(//fonts.gstatic.com/s/taviraj/v6/ahcev8Cj3ylylTXzTOwTn-hhjGy5.eot?#) format("eot"),url(//fonts.gstatic.com/s/taviraj/v6/ahcev8Cj3ylylTXzTOwTn-hhgmy9.woff2) format("woff2"),url(//fonts.gstatic.com/s/taviraj/v6/ahcev8Cj3ylylTXzTOwTn-hhjGy7.woff) format("woff");
+}
+@font-face {
+          font-family: Taviraj;
+          font-style: italic;
+          font-weight: 300;
+          src: local("Taviraj Light Italic"),local(Taviraj-LightItalic),url(//fonts.gstatic.com/s/taviraj/v6/ahcev8Cj3ylylTXzTOwT--thjGy5.eot?#) format("eot"),url(//fonts.gstatic.com/s/taviraj/v6/ahcev8Cj3ylylTXzTOwT--thgmy9.woff2) format("woff2"),url(//fonts.gstatic.com/s/taviraj/v6/ahcev8Cj3ylylTXzTOwT--thjGy7.woff) format("woff");
+}
+@font-face {
+          font-family: Taviraj;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Taviraj Italic"),local(Taviraj-Italic),url(//fonts.gstatic.com/s/taviraj/v6/ahcbv8Cj3ylylTXzTOwbXslw.eot?#) format("eot"),url(//fonts.gstatic.com/s/taviraj/v6/ahcbv8Cj3ylylTXzTOwbUMl0.woff2) format("woff2"),url(//fonts.gstatic.com/s/taviraj/v6/ahcbv8Cj3ylylTXzTOwbXsly.woff) format("woff");
+}
+@font-face {
+          font-family: Taviraj;
+          font-style: italic;
+          font-weight: 500;
+          src: local("Taviraj Medium Italic"),local(Taviraj-MediumItalic),url(//fonts.gstatic.com/s/taviraj/v6/ahcev8Cj3ylylTXzTOwTo-phjGy5.eot?#) format("eot"),url(//fonts.gstatic.com/s/taviraj/v6/ahcev8Cj3ylylTXzTOwTo-phgmy9.woff2) format("woff2"),url(//fonts.gstatic.com/s/taviraj/v6/ahcev8Cj3ylylTXzTOwTo-phjGy7.woff) format("woff");
+}
+@font-face {
+          font-family: Taviraj;
+          font-style: italic;
+          font-weight: 600;
+          src: local("Taviraj SemiBold Italic"),local(Taviraj-SemiBoldItalic),url(//fonts.gstatic.com/s/taviraj/v6/ahcev8Cj3ylylTXzTOwTj-1hjGy5.eot?#) format("eot"),url(//fonts.gstatic.com/s/taviraj/v6/ahcev8Cj3ylylTXzTOwTj-1hgmy9.woff2) format("woff2"),url(//fonts.gstatic.com/s/taviraj/v6/ahcev8Cj3ylylTXzTOwTj-1hjGy7.woff) format("woff");
+}
+@font-face {
+          font-family: Taviraj;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Taviraj Bold Italic"),local(Taviraj-BoldItalic),url(//fonts.gstatic.com/s/taviraj/v6/ahcev8Cj3ylylTXzTOwT6-xhjGy5.eot?#) format("eot"),url(//fonts.gstatic.com/s/taviraj/v6/ahcev8Cj3ylylTXzTOwT6-xhgmy9.woff2) format("woff2"),url(//fonts.gstatic.com/s/taviraj/v6/ahcev8Cj3ylylTXzTOwT6-xhjGy7.woff) format("woff");
+}
+@font-face {
+          font-family: Taviraj;
+          font-style: italic;
+          font-weight: 800;
+          src: local("Taviraj ExtraBold Italic"),local(Taviraj-ExtraBoldItalic),url(//fonts.gstatic.com/s/taviraj/v6/ahcev8Cj3ylylTXzTOwT9-9hjGy5.eot?#) format("eot"),url(//fonts.gstatic.com/s/taviraj/v6/ahcev8Cj3ylylTXzTOwT9-9hgmy9.woff2) format("woff2"),url(//fonts.gstatic.com/s/taviraj/v6/ahcev8Cj3ylylTXzTOwT9-9hjGy7.woff) format("woff");
+}
+@font-face {
+          font-family: Taviraj;
+          font-style: italic;
+          font-weight: 900;
+          src: local("Taviraj Black Italic"),local(Taviraj-BlackItalic),url(//fonts.gstatic.com/s/taviraj/v6/ahcev8Cj3ylylTXzTOwT0-5hjGy5.eot?#) format("eot"),url(//fonts.gstatic.com/s/taviraj/v6/ahcev8Cj3ylylTXzTOwT0-5hgmy9.woff2) format("woff2"),url(//fonts.gstatic.com/s/taviraj/v6/ahcev8Cj3ylylTXzTOwT0-5hjGy7.woff) format("woff");
+}
+@font-face {
+          font-family: Taviraj;
+          font-style: normal;
+          font-weight: 100;
+          src: local("Taviraj Thin"),local(Taviraj-Thin),url(//fonts.gstatic.com/s/taviraj/v6/ahcbv8Cj3ylylTXzRIobXslw.eot?#) format("eot"),url(//fonts.gstatic.com/s/taviraj/v6/ahcbv8Cj3ylylTXzRIobUMl0.woff2) format("woff2"),url(//fonts.gstatic.com/s/taviraj/v6/ahcbv8Cj3ylylTXzRIobXsly.woff) format("woff");
+}
+@font-face {
+          font-family: Taviraj;
+          font-style: normal;
+          font-weight: 200;
+          src: local("Taviraj ExtraLight"),local(Taviraj-ExtraLight),url(//fonts.gstatic.com/s/taviraj/v6/ahccv8Cj3ylylTXzRCYKR-BRhA.eot?#) format("eot"),url(//fonts.gstatic.com/s/taviraj/v6/ahccv8Cj3ylylTXzRCYKR-5RgA.woff2) format("woff2"),url(//fonts.gstatic.com/s/taviraj/v6/ahccv8Cj3ylylTXzRCYKR-BRhg.woff) format("woff");
+}
+@font-face {
+          font-family: Taviraj;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Taviraj Light"),local(Taviraj-Light),url(//fonts.gstatic.com/s/taviraj/v6/ahccv8Cj3ylylTXzREIJR-BRhA.eot?#) format("eot"),url(//fonts.gstatic.com/s/taviraj/v6/ahccv8Cj3ylylTXzREIJR-5RgA.woff2) format("woff2"),url(//fonts.gstatic.com/s/taviraj/v6/ahccv8Cj3ylylTXzREIJR-BRhg.woff) format("woff");
+}
+@font-face {
+          font-family: Taviraj;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Taviraj Regular"),local(Taviraj-Regular),url(//fonts.gstatic.com/s/taviraj/v6/ahcZv8Cj3ylylTXzTOcrVg.eot?#) format("eot"),url(//fonts.gstatic.com/s/taviraj/v6/ahcZv8Cj3ylylTXzTOkrUg.woff2) format("woff2"),url(//fonts.gstatic.com/s/taviraj/v6/ahcZv8Cj3ylylTXzTOcrVA.woff) format("woff");
+}
+@font-face {
+          font-family: Taviraj;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Taviraj Medium"),local(Taviraj-Medium),url(//fonts.gstatic.com/s/taviraj/v6/ahccv8Cj3ylylTXzRBoIR-BRhA.eot?#) format("eot"),url(//fonts.gstatic.com/s/taviraj/v6/ahccv8Cj3ylylTXzRBoIR-5RgA.woff2) format("woff2"),url(//fonts.gstatic.com/s/taviraj/v6/ahccv8Cj3ylylTXzRBoIR-BRhg.woff) format("woff");
+}
+@font-face {
+          font-family: Taviraj;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Taviraj SemiBold"),local(Taviraj-SemiBold),url(//fonts.gstatic.com/s/taviraj/v6/ahccv8Cj3ylylTXzRDYPR-BRhA.eot?#) format("eot"),url(//fonts.gstatic.com/s/taviraj/v6/ahccv8Cj3ylylTXzRDYPR-5RgA.woff2) format("woff2"),url(//fonts.gstatic.com/s/taviraj/v6/ahccv8Cj3ylylTXzRDYPR-BRhg.woff) format("woff");
+}
+@font-face {
+          font-family: Taviraj;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Taviraj Bold"),local(Taviraj-Bold),url(//fonts.gstatic.com/s/taviraj/v6/ahccv8Cj3ylylTXzRFIOR-BRhA.eot?#) format("eot"),url(//fonts.gstatic.com/s/taviraj/v6/ahccv8Cj3ylylTXzRFIOR-5RgA.woff2) format("woff2"),url(//fonts.gstatic.com/s/taviraj/v6/ahccv8Cj3ylylTXzRFIOR-BRhg.woff) format("woff");
+}
+@font-face {
+          font-family: Taviraj;
+          font-style: normal;
+          font-weight: 800;
+          src: local("Taviraj ExtraBold"),local(Taviraj-ExtraBold),url(//fonts.gstatic.com/s/taviraj/v6/ahccv8Cj3ylylTXzRE4NR-BRhA.eot?#) format("eot"),url(//fonts.gstatic.com/s/taviraj/v6/ahccv8Cj3ylylTXzRE4NR-5RgA.woff2) format("woff2"),url(//fonts.gstatic.com/s/taviraj/v6/ahccv8Cj3ylylTXzRE4NR-BRhg.woff) format("woff");
+}
+@font-face {
+          font-family: Taviraj;
+          font-style: normal;
+          font-weight: 900;
+          src: local("Taviraj Black"),local(Taviraj-Black),url(//fonts.gstatic.com/s/taviraj/v6/ahccv8Cj3ylylTXzRGoMR-BRhA.eot?#) format("eot"),url(//fonts.gstatic.com/s/taviraj/v6/ahccv8Cj3ylylTXzRGoMR-5RgA.woff2) format("woff2"),url(//fonts.gstatic.com/s/taviraj/v6/ahccv8Cj3ylylTXzRGoMR-BRhg.woff) format("woff");
+}
+.u-font-taviraj-100 {
+          font-family: 'Taviraj' !important;
+          font-weight: 100 !important;
+}
+.u-font-taviraj-100-italic {
+        font-family: 'Taviraj' !important;
+        font-weight: 100 !important;
+        font-style: italic !important;
+}
+.u-font-taviraj-200 {
+          font-family: 'Taviraj' !important;
+          font-weight: 200 !important;
+}
+.u-font-taviraj-200-italic {
+        font-family: 'Taviraj' !important;
+        font-weight: 200 !important;
+        font-style: italic !important;
+}
+.u-font-taviraj-300 {
+          font-family: 'Taviraj' !important;
+          font-weight: 300 !important;
+}
+.u-font-taviraj-300-italic {
+        font-family: 'Taviraj' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-taviraj-400 {
+          font-family: 'Taviraj' !important;
+          font-weight: 400 !important;
+}
+.u-font-taviraj-400-italic {
+        font-family: 'Taviraj' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-taviraj-500 {
+          font-family: 'Taviraj' !important;
+          font-weight: 500 !important;
+}
+.u-font-taviraj-500-italic {
+        font-family: 'Taviraj' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-taviraj-600 {
+          font-family: 'Taviraj' !important;
+          font-weight: 600 !important;
+}
+.u-font-taviraj-600-italic {
+        font-family: 'Taviraj' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-taviraj-700 {
+          font-family: 'Taviraj' !important;
+          font-weight: 700 !important;
+}
+.u-font-taviraj-700-italic {
+        font-family: 'Taviraj' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}
+.u-font-taviraj-800 {
+          font-family: 'Taviraj' !important;
+          font-weight: 800 !important;
+}
+.u-font-taviraj-800-italic {
+        font-family: 'Taviraj' !important;
+        font-weight: 800 !important;
+        font-style: italic !important;
+}
+.u-font-taviraj-900 {
+          font-family: 'Taviraj' !important;
+          font-weight: 900 !important;
+}
+.u-font-taviraj-900-italic {
+        font-family: 'Taviraj' !important;
+        font-weight: 900 !important;
+        font-style: italic !important;
+}

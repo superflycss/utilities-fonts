@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Preahvihear;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Preah Vihear"),local(PreahVihear),url(//fonts.gstatic.com/s/preahvihear/v12/6NUS8F-dNQeEYhzj7uluxswF.eot?#) format("eot"),url(//fonts.gstatic.com/s/preahvihear/v12/6NUS8F-dNQeEYhzj7uluxvwI6dB5fw.woff2) format("woff2"),url(//fonts.gstatic.com/s/preahvihear/v12/6NUS8F-dNQeEYhzj7uluxswH.woff) format("woff");
+}
+.u-font-preahvihear-400 {
+          font-family: 'Preahvihear' !important;
+          font-weight: 400 !important;
+}

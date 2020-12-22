@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Poller One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Poller One"),local(PollerOne-Regular),url(//fonts.gstatic.com/s/pollerone/v10/ahccv82n0TN3gia5E4BuR-5RhA.eot?#) format("eot"),url(//fonts.gstatic.com/s/pollerone/v10/ahccv82n0TN3gia5E4BuR-5RgA.woff2) format("woff2"),url(//fonts.gstatic.com/s/pollerone/v10/ahccv82n0TN3gia5E4BuR-5Rhg.woff) format("woff");
+}
+.u-font-poller-one-400 {
+          font-family: 'Poller One' !important;
+          font-weight: 400 !important;
+}

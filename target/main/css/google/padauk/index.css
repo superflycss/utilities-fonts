@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Padauk;
+          font-style: normal;
+          font-weight: 400;
+          src: local(''),local(Padauk-Regular),url(//fonts.gstatic.com/s/padauk/v6/RrQRboJg-id7OnbxbEXl.eot?#) format("eot"),url(//fonts.gstatic.com/s/padauk/v6/RrQRboJg-id7OnbxbEXh.woff2) format("woff2"),url(//fonts.gstatic.com/s/padauk/v6/RrQRboJg-id7OnbxbEXn.woff) format("woff");
+}
+@font-face {
+          font-family: Padauk;
+          font-style: normal;
+          font-weight: 700;
+          src: local(" "),local(Padauk-Bold),url(//fonts.gstatic.com/s/padauk/v6/RrQSboJg-id7Onb512D005hB.eot?#) format("eot"),url(//fonts.gstatic.com/s/padauk/v6/RrQSboJg-id7Onb512D005hF.woff2) format("woff2"),url(//fonts.gstatic.com/s/padauk/v6/RrQSboJg-id7Onb512D005hD.woff) format("woff");
+}
+.u-font-padauk-400 {
+          font-family: 'Padauk' !important;
+          font-weight: 400 !important;
+}
+.u-font-padauk-700 {
+          font-family: 'Padauk' !important;
+          font-weight: 700 !important;
+}

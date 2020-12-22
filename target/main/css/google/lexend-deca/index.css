@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Lexend Deca";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Lexend Deca Regular"),local(LexendDeca-Regular),url(//fonts.gstatic.com/s/lexenddeca/v3/K2F1fZFYk-dHSE0UPPuwQ5qpJys.eot?#) format("eot"),url(//fonts.gstatic.com/s/lexenddeca/v3/K2F1fZFYk-dHSE0UPPuwQ5qnJy8.woff2) format("woff2"),url(//fonts.gstatic.com/s/lexenddeca/v3/K2F1fZFYk-dHSE0UPPuwQ5qpJyk.woff) format("woff");
+}
+.u-font-lexend-deca-400 {
+          font-family: 'Lexend Deca' !important;
+          font-weight: 400 !important;
+}

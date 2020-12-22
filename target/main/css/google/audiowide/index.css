@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Audiowide;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Audiowide Regular"),local(Audiowide-Regular),url(//fonts.gstatic.com/s/audiowide/v9/l7gdbjpo0cum0ckerWCdmA_K.eot?#) format("eot"),url(//fonts.gstatic.com/s/audiowide/v9/l7gdbjpo0cum0ckerWCdlg_O.woff2) format("woff2"),url(//fonts.gstatic.com/s/audiowide/v9/l7gdbjpo0cum0ckerWCdmA_I.woff) format("woff");
+}
+.u-font-audiowide-400 {
+          font-family: 'Audiowide' !important;
+          font-weight: 400 !important;
+}

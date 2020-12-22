@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Modern Antiqua";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Modern Antiqua Regular"),local(ModernAntiqua-Regular),url(//fonts.gstatic.com/s/modernantiqua/v10/NGStv5TIAUg6Iq_RLNo_2dp1sL1NYW4.eot?#) format("eot"),url(//fonts.gstatic.com/s/modernantiqua/v10/NGStv5TIAUg6Iq_RLNo_2dp1sL1DYWo.woff2) format("woff2"),url(//fonts.gstatic.com/s/modernantiqua/v10/NGStv5TIAUg6Iq_RLNo_2dp1sL1NYWw.woff) format("woff");
+}
+.u-font-modern-antiqua-400 {
+          font-family: 'Modern Antiqua' !important;
+          font-weight: 400 !important;
+}

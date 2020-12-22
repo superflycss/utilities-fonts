@@ -1,0 +1,40 @@
+@font-face {
+          font-family: Domine;
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/domine/v10/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X3LAE1QfFw.eot?#) format("eot"),url(//fonts.gstatic.com/s/domine/v10/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X3LAE1ofEw.woff2) format("woff2"),url(//fonts.gstatic.com/s/domine/v10/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X3LAE1QfFQ.woff) format("woff");
+}
+@font-face {
+          font-family: Domine;
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/domine/v10/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X0DAE1QfFw.eot?#) format("eot"),url(//fonts.gstatic.com/s/domine/v10/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X0DAE1ofEw.woff2) format("woff2"),url(//fonts.gstatic.com/s/domine/v10/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X0DAE1QfFQ.woff) format("woff");
+}
+@font-face {
+          font-family: Domine;
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/domine/v10/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X6zHE1QfFw.eot?#) format("eot"),url(//fonts.gstatic.com/s/domine/v10/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X6zHE1ofEw.woff2) format("woff2"),url(//fonts.gstatic.com/s/domine/v10/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X6zHE1QfFQ.woff) format("woff");
+}
+@font-face {
+          font-family: Domine;
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/domine/v10/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X5XHE1QfFw.eot?#) format("eot"),url(//fonts.gstatic.com/s/domine/v10/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X5XHE1ofEw.woff2) format("woff2"),url(//fonts.gstatic.com/s/domine/v10/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X5XHE1QfFQ.woff) format("woff");
+}
+.u-font-domine-400 {
+          font-family: 'Domine' !important;
+          font-weight: 400 !important;
+}
+.u-font-domine-500 {
+          font-family: 'Domine' !important;
+          font-weight: 500 !important;
+}
+.u-font-domine-600 {
+          font-family: 'Domine' !important;
+          font-weight: 600 !important;
+}
+.u-font-domine-700 {
+          font-family: 'Domine' !important;
+          font-weight: 700 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Gidugu;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Gidugu),url(//fonts.gstatic.com/s/gidugu/v8/L0x8DFMkk1Uf6w3hu_qj.eot?#) format("eot"),url(//fonts.gstatic.com/s/gidugu/v8/L0x8DFMkk1Uf6w3hu_qn.woff2) format("woff2"),url(//fonts.gstatic.com/s/gidugu/v8/L0x8DFMkk1Uf6w3hu_qh.woff) format("woff");
+}
+.u-font-gidugu-400 {
+          font-family: 'Gidugu' !important;
+          font-weight: 400 !important;
+}

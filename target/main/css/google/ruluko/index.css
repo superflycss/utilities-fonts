@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Ruluko;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Ruluko),url(//fonts.gstatic.com/s/ruluko/v8/xMQVuFNZVaODtm0ZAq-2.eot?#) format("eot"),url(//fonts.gstatic.com/s/ruluko/v8/xMQVuFNZVaODtm0ZDK-y.woff2) format("woff2"),url(//fonts.gstatic.com/s/ruluko/v8/xMQVuFNZVaODtm0ZAq-0.woff) format("woff");
+}
+.u-font-ruluko-400 {
+          font-family: 'Ruluko' !important;
+          font-weight: 400 !important;
+}

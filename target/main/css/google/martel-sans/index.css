@@ -1,0 +1,70 @@
+@font-face {
+          font-family: "Martel Sans";
+          font-style: normal;
+          font-weight: 200;
+          src: local("Martel Sans ExtraLight"),local(MartelSans-ExtraLight),url(//fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hAX5vuOH0w.eot?#) format("eot"),url(//fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hAX5vuAH0g.woff2) format("woff2"),url(//fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hAX5vuOH04.woff) format("woff");
+}
+@font-face {
+          font-family: "Martel Sans";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Martel Sans Light"),local(MartelSans-Light),url(//fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hBz5fuOH0w.eot?#) format("eot"),url(//fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hBz5fuAH0g.woff2) format("woff2"),url(//fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hBz5fuOH04.woff) format("woff");
+}
+@font-face {
+          font-family: "Martel Sans";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Martel Sans Regular"),local(MartelSans-Regular),url(//fonts.gstatic.com/s/martelsans/v7/h0GsssGi7VdzDgKjM-4d8hjWx-o.eot?#) format("eot"),url(//fonts.gstatic.com/s/martelsans/v7/h0GsssGi7VdzDgKjM-4d8hjYx-4.woff2) format("woff2"),url(//fonts.gstatic.com/s/martelsans/v7/h0GsssGi7VdzDgKjM-4d8hjWx-g.woff) format("woff");
+}
+@font-face {
+          font-family: "Martel Sans";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Martel Sans SemiBold"),local(MartelSans-SemiBold),url(//fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hAH4_uOH0w.eot?#) format("eot"),url(//fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hAH4_uAH0g.woff2) format("woff2"),url(//fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hAH4_uOH04.woff) format("woff");
+}
+@font-face {
+          font-family: "Martel Sans";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Martel Sans Bold"),local(MartelSans-Bold),url(//fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hBj4vuOH0w.eot?#) format("eot"),url(//fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hBj4vuAH0g.woff2) format("woff2"),url(//fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hBj4vuOH04.woff) format("woff");
+}
+@font-face {
+          font-family: "Martel Sans";
+          font-style: normal;
+          font-weight: 800;
+          src: local("Martel Sans ExtraBold"),local(MartelSans-ExtraBold),url(//fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hB_4fuOH0w.eot?#) format("eot"),url(//fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hB_4fuAH0g.woff2) format("woff2"),url(//fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hB_4fuOH04.woff) format("woff");
+}
+@font-face {
+          font-family: "Martel Sans";
+          font-style: normal;
+          font-weight: 900;
+          src: local("Martel Sans Black"),local(MartelSans-Black),url(//fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hBb4PuOH0w.eot?#) format("eot"),url(//fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hBb4PuAH0g.woff2) format("woff2"),url(//fonts.gstatic.com/s/martelsans/v7/h0GxssGi7VdzDgKjM-4d8hBb4PuOH04.woff) format("woff");
+}
+.u-font-martel-sans-200 {
+          font-family: 'Martel Sans' !important;
+          font-weight: 200 !important;
+}
+.u-font-martel-sans-300 {
+          font-family: 'Martel Sans' !important;
+          font-weight: 300 !important;
+}
+.u-font-martel-sans-400 {
+          font-family: 'Martel Sans' !important;
+          font-weight: 400 !important;
+}
+.u-font-martel-sans-600 {
+          font-family: 'Martel Sans' !important;
+          font-weight: 600 !important;
+}
+.u-font-martel-sans-700 {
+          font-family: 'Martel Sans' !important;
+          font-weight: 700 !important;
+}
+.u-font-martel-sans-800 {
+          font-family: 'Martel Sans' !important;
+          font-weight: 800 !important;
+}
+.u-font-martel-sans-900 {
+          font-family: 'Martel Sans' !important;
+          font-weight: 900 !important;
+}

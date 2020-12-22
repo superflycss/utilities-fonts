@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "La Belle Aurore";
+          font-style: normal;
+          font-weight: 400;
+          src: local("La Belle Aurore"),local(LaBelleAurore),url(//fonts.gstatic.com/s/labelleaurore/v11/RrQIbot8-mNYKnGNDkWlocovHeI4HO2A.eot?#) format("eot"),url(//fonts.gstatic.com/s/labelleaurore/v11/RrQIbot8-mNYKnGNDkWlocovHeI4HO2E.woff2) format("woff2"),url(//fonts.gstatic.com/s/labelleaurore/v11/RrQIbot8-mNYKnGNDkWlocovHeI4HO2C.woff) format("woff");
+}
+.u-font-la-belle-aurore-400 {
+          font-family: 'La Belle Aurore' !important;
+          font-weight: 400 !important;
+}

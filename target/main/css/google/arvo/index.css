@@ -1,0 +1,42 @@
+@font-face {
+          font-family: Arvo;
+          font-style: italic;
+          font-weight: 400;
+          src: local(Arvo-Italic),url(//fonts.gstatic.com/s/arvo/v14/tDbN2oWUg0MKqSIg75Tr.eot?#) format("eot"),url(//fonts.gstatic.com/s/arvo/v14/tDbN2oWUg0MKqSIg75Tv.woff2) format("woff2"),url(//fonts.gstatic.com/s/arvo/v14/tDbN2oWUg0MKqSIg75Tp.woff) format("woff");
+}
+@font-face {
+          font-family: Arvo;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Arvo Bold Italic"),local(Arvo-BoldItalic),url(//fonts.gstatic.com/s/arvo/v14/tDbO2oWUg0MKqSIoVLH68dr7.eot?#) format("eot"),url(//fonts.gstatic.com/s/arvo/v14/tDbO2oWUg0MKqSIoVLH68dr_.woff2) format("woff2"),url(//fonts.gstatic.com/s/arvo/v14/tDbO2oWUg0MKqSIoVLH68dr5.woff) format("woff");
+}
+@font-face {
+          font-family: Arvo;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Arvo),url(//fonts.gstatic.com/s/arvo/v14/tDbD2oWUg0MKqScQ6Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/arvo/v14/tDbD2oWUg0MKqScQ7Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/arvo/v14/tDbD2oWUg0MKqScQ6w.woff) format("woff");
+}
+@font-face {
+          font-family: Arvo;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Arvo Bold"),local(Arvo-Bold),url(//fonts.gstatic.com/s/arvo/v14/tDbM2oWUg0MKoZw1-LPK9w.eot?#) format("eot"),url(//fonts.gstatic.com/s/arvo/v14/tDbM2oWUg0MKoZw1-LPK8w.woff2) format("woff2"),url(//fonts.gstatic.com/s/arvo/v14/tDbM2oWUg0MKoZw1-LPK9Q.woff) format("woff");
+}
+.u-font-arvo-400 {
+          font-family: 'Arvo' !important;
+          font-weight: 400 !important;
+}
+.u-font-arvo-400-italic {
+        font-family: 'Arvo' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-arvo-700 {
+          font-family: 'Arvo' !important;
+          font-weight: 700 !important;
+}
+.u-font-arvo-700-italic {
+        font-family: 'Arvo' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

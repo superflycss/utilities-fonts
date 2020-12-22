@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Pinyon Script";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Pinyon Script"),local(PinyonScript),url(//fonts.gstatic.com/s/pinyonscript/v11/6xKpdSJbL9-e9LuoeQiDRQR8WOXaPg.eot?#) format("eot"),url(//fonts.gstatic.com/s/pinyonscript/v11/6xKpdSJbL9-e9LuoeQiDRQR8WOXaOg.woff2) format("woff2"),url(//fonts.gstatic.com/s/pinyonscript/v11/6xKpdSJbL9-e9LuoeQiDRQR8WOXaPA.woff) format("woff");
+}
+.u-font-pinyon-script-400 {
+          font-family: 'Pinyon Script' !important;
+          font-weight: 400 !important;
+}

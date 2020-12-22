@@ -1,0 +1,10 @@
+@font-face {
+          font-family: UnifrakturCook;
+          font-style: normal;
+          font-weight: 700;
+          src: local(UnifrakturCook),local(UnifrakturCook-Bold),url(//fonts.gstatic.com/s/unifrakturcook/v12/IurA6Yli8YOdcoky-0PTTdkm56n05Xwy1oc.eot?#) format("eot"),url(//fonts.gstatic.com/s/unifrakturcook/v12/IurA6Yli8YOdcoky-0PTTdkm56n05Xwy1oM.woff2) format("woff2"),url(//fonts.gstatic.com/s/unifrakturcook/v12/IurA6Yli8YOdcoky-0PTTdkm56n05Xwy1oU.woff) format("woff");
+}
+.u-font-unifrakturcook-700 {
+          font-family: 'UnifrakturCook' !important;
+          font-weight: 700 !important;
+}

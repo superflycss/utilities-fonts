@@ -1,0 +1,21 @@
+@font-face {
+          font-family: "IM Fell DW Pica";
+          font-style: italic;
+          font-weight: 400;
+          src: local("IM FELL DW Pica Italic"),local(IM_FELL_DW_Pica_Italic),url(//fonts.gstatic.com/s/imfelldwpica/v10/2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXli8.eot?#) format("eot"),url(//fonts.gstatic.com/s/imfelldwpica/v10/2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXlis.woff2) format("woff2"),url(//fonts.gstatic.com/s/imfelldwpica/v10/2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXli0.woff) format("woff");
+}
+@font-face {
+          font-family: "IM Fell DW Pica";
+          font-style: normal;
+          font-weight: 400;
+          src: local("IM FELL DW Pica Roman"),local(IM_FELL_DW_Pica_Roman),url(//fonts.gstatic.com/s/imfelldwpica/v10/2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnR.eot?#) format("eot"),url(//fonts.gstatic.com/s/imfelldwpica/v10/2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnV.woff2) format("woff2"),url(//fonts.gstatic.com/s/imfelldwpica/v10/2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnT.woff) format("woff");
+}
+.u-font-im-fell-dw-pica-400 {
+          font-family: 'IM Fell DW Pica' !important;
+          font-weight: 400 !important;
+}
+.u-font-im-fell-dw-pica-400-italic {
+        font-family: 'IM Fell DW Pica' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}

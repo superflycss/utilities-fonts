@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Beth Ellen";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Beth Ellen Regular"),local(BethEllen-Regular),url(//fonts.gstatic.com/s/bethellen/v3/WwkbxPW2BE-3rb_JNT-qIIcoUQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/bethellen/v3/WwkbxPW2BE-3rb_JNT-qIIcoVQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/bethellen/v3/WwkbxPW2BE-3rb_JNT-qIIcoUw.woff) format("woff");
+}
+.u-font-beth-ellen-400 {
+          font-family: 'Beth Ellen' !important;
+          font-weight: 400 !important;
+}

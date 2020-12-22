@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Milonga;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Milonga),local(Milonga-Regular),url(//fonts.gstatic.com/s/milonga/v8/SZc53FHnIaK9W5kfTzTMlA.eot?#) format("eot"),url(//fonts.gstatic.com/s/milonga/v8/SZc53FHnIaK9W5kfTzrMkA.woff2) format("woff2"),url(//fonts.gstatic.com/s/milonga/v8/SZc53FHnIaK9W5kfTzTMlg.woff) format("woff");
+}
+.u-font-milonga-400 {
+          font-family: 'Milonga' !important;
+          font-weight: 400 !important;
+}

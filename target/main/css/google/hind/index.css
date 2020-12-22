@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Hind;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Hind Light"),local(Hind-Light),url(//fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfMJaERKSiQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfMJaERySjQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfMJaERKSiw.woff) format("woff");
+}
+@font-face {
+          font-family: Hind;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Hind Regular"),local(Hind-Regular),url(//fonts.gstatic.com/s/hind/v11/5aU69_a8oxmIdGd4AA.eot?#) format("eot"),url(//fonts.gstatic.com/s/hind/v11/5aU69_a8oxmIdGl4BA.woff2) format("woff2"),url(//fonts.gstatic.com/s/hind/v11/5aU69_a8oxmIdGd4Ag.woff) format("woff");
+}
+@font-face {
+          font-family: Hind;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Hind Medium"),local(Hind-Medium),url(//fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfJpbERKSiQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfJpbERySjQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfJpbERKSiw.woff) format("woff");
+}
+@font-face {
+          font-family: Hind;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Hind SemiBold"),local(Hind-SemiBold),url(//fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfLZcERKSiQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfLZcERySjQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfLZcERKSiw.woff) format("woff");
+}
+@font-face {
+          font-family: Hind;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Hind Bold"),local(Hind-Bold),url(//fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfNJdERKSiQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfNJdERySjQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfNJdERKSiw.woff) format("woff");
+}
+.u-font-hind-300 {
+          font-family: 'Hind' !important;
+          font-weight: 300 !important;
+}
+.u-font-hind-400 {
+          font-family: 'Hind' !important;
+          font-weight: 400 !important;
+}
+.u-font-hind-500 {
+          font-family: 'Hind' !important;
+          font-weight: 500 !important;
+}
+.u-font-hind-600 {
+          font-family: 'Hind' !important;
+          font-weight: 600 !important;
+}
+.u-font-hind-700 {
+          font-family: 'Hind' !important;
+          font-weight: 700 !important;
+}

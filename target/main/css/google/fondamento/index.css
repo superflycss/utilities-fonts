@@ -1,0 +1,21 @@
+@font-face {
+          font-family: Fondamento;
+          font-style: italic;
+          font-weight: 400;
+          src: local(Fondamento-Italic),url(//fonts.gstatic.com/s/fondamento/v11/4UaFrEJGsxNmFTPDnkaJ96_Z67t1.eot?#) format("eot"),url(//fonts.gstatic.com/s/fondamento/v11/4UaFrEJGsxNmFTPDnkaJ96_Z5btx.woff2) format("woff2"),url(//fonts.gstatic.com/s/fondamento/v11/4UaFrEJGsxNmFTPDnkaJ96_Z67t3.woff) format("woff");
+}
+@font-face {
+          font-family: Fondamento;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Fondamento Regular"),local(Fondamento-Regular),url(//fonts.gstatic.com/s/fondamento/v11/4UaHrEJGsxNmFTPDnkaJ96Tp4w.eot?#) format("eot"),url(//fonts.gstatic.com/s/fondamento/v11/4UaHrEJGsxNmFTPDnkaJ96rp5w.woff2) format("woff2"),url(//fonts.gstatic.com/s/fondamento/v11/4UaHrEJGsxNmFTPDnkaJ96Tp4Q.woff) format("woff");
+}
+.u-font-fondamento-400 {
+          font-family: 'Fondamento' !important;
+          font-weight: 400 !important;
+}
+.u-font-fondamento-400-italic {
+        font-family: 'Fondamento' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}

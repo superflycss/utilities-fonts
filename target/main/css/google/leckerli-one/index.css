@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Leckerli One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Leckerli One"),local(LeckerliOne-Regular),url(//fonts.gstatic.com/s/leckerlione/v11/V8mCoQH8VCsNttEnxnGQ-1idKpZZ.eot?#) format("eot"),url(//fonts.gstatic.com/s/leckerlione/v11/V8mCoQH8VCsNttEnxnGQ-1idKpZd.woff2) format("woff2"),url(//fonts.gstatic.com/s/leckerlione/v11/V8mCoQH8VCsNttEnxnGQ-1idKpZb.woff) format("woff");
+}
+.u-font-leckerli-one-400 {
+          font-family: 'Leckerli One' !important;
+          font-weight: 400 !important;
+}

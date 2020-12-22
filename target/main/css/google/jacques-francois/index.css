@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Jacques Francois";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Jacques Francois"),local(JacquesFrancois-Regular),url(//fonts.gstatic.com/s/jacquesfrancois/v8/ZXu9e04ZvKeOOHIe1TMahbcIU2cgqcTgpA.eot?#) format("eot"),url(//fonts.gstatic.com/s/jacquesfrancois/v8/ZXu9e04ZvKeOOHIe1TMahbcIU2cgqcTgoA.woff2) format("woff2"),url(//fonts.gstatic.com/s/jacquesfrancois/v8/ZXu9e04ZvKeOOHIe1TMahbcIU2cgqcTgpg.woff) format("woff");
+}
+.u-font-jacques-francois-400 {
+          font-family: 'Jacques Francois' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Ceviche One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Ceviche One"),local(CevicheOne-Regular),url(//fonts.gstatic.com/s/cevicheone/v11/gyB4hws1IcA6JzR-GB_JX5zUbY4.eot?#) format("eot"),url(//fonts.gstatic.com/s/cevicheone/v11/gyB4hws1IcA6JzR-GB_JX5zabYo.woff2) format("woff2"),url(//fonts.gstatic.com/s/cevicheone/v11/gyB4hws1IcA6JzR-GB_JX5zUbYw.woff) format("woff");
+}
+.u-font-ceviche-one-400 {
+          font-family: 'Ceviche One' !important;
+          font-weight: 400 !important;
+}

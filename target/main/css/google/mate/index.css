@@ -1,0 +1,21 @@
+@font-face {
+          font-family: Mate;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Mate Italic"),local(Mate-Italic),url(//fonts.gstatic.com/s/mate/v9/m8JTjftRd7WZ6z-GWa3S.eot?#) format("eot"),url(//fonts.gstatic.com/s/mate/v9/m8JTjftRd7WZ6z-GWa3W.woff2) format("woff2"),url(//fonts.gstatic.com/s/mate/v9/m8JTjftRd7WZ6z-GWa3Q.woff) format("woff");
+}
+@font-face {
+          font-family: Mate;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Mate-Regular),url(//fonts.gstatic.com/s/mate/v9/m8JdjftRd7WZ6zq2Xw.eot?#) format("eot"),url(//fonts.gstatic.com/s/mate/v9/m8JdjftRd7WZ6zq2Ww.woff2) format("woff2"),url(//fonts.gstatic.com/s/mate/v9/m8JdjftRd7WZ6zq2XQ.woff) format("woff");
+}
+.u-font-mate-400 {
+          font-family: 'Mate' !important;
+          font-weight: 400 !important;
+}
+.u-font-mate-400-italic {
+        font-family: 'Mate' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}

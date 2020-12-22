@@ -1,0 +1,20 @@
+@font-face {
+          font-family: "News Cycle";
+          font-style: normal;
+          font-weight: 400;
+          src: local("News Cycle"),local(NewsCycle),url(//fonts.gstatic.com/s/newscycle/v17/CSR64z1Qlv-GDxkbKVQ_fO4KSQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/newscycle/v17/CSR64z1Qlv-GDxkbKVQ_fOAKTQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/newscycle/v17/CSR64z1Qlv-GDxkbKVQ_fO4KSw.woff) format("woff");
+}
+@font-face {
+          font-family: "News Cycle";
+          font-style: normal;
+          font-weight: 700;
+          src: local("News Cycle Bold"),local(NewsCycle-Bold),url(//fonts.gstatic.com/s/newscycle/v17/CSR54z1Qlv-GDxkbKVQ_dFsvWNpevQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/newscycle/v17/CSR54z1Qlv-GDxkbKVQ_dFsvWNReuQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/newscycle/v17/CSR54z1Qlv-GDxkbKVQ_dFsvWNpevw.woff) format("woff");
+}
+.u-font-news-cycle-400 {
+          font-family: 'News Cycle' !important;
+          font-weight: 400 !important;
+}
+.u-font-news-cycle-700 {
+          font-family: 'News Cycle' !important;
+          font-weight: 700 !important;
+}

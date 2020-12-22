@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Combo;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Combo),local(Combo-Regular),url(//fonts.gstatic.com/s/combo/v9/BXRlvF3Jh_fIhj0rDOo.eot?#) format("eot"),url(//fonts.gstatic.com/s/combo/v9/BXRlvF3Jh_fIhj0lDO4.woff2) format("woff2"),url(//fonts.gstatic.com/s/combo/v9/BXRlvF3Jh_fIhj0rDOg.woff) format("woff");
+}
+.u-font-combo-400 {
+          font-family: 'Combo' !important;
+          font-weight: 400 !important;
+}

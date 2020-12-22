@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Racing Sans One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Racing Sans One"),local(RacingSansOne-Regular),url(//fonts.gstatic.com/s/racingsansone/v8/sykr-yRtm7EvTrXNxkv5jfKKyDCAJnDj.eot?#) format("eot"),url(//fonts.gstatic.com/s/racingsansone/v8/sykr-yRtm7EvTrXNxkv5jfKKyDCAKHDn.woff2) format("woff2"),url(//fonts.gstatic.com/s/racingsansone/v8/sykr-yRtm7EvTrXNxkv5jfKKyDCAJnDh.woff) format("woff");
+}
+.u-font-racing-sans-one-400 {
+          font-family: 'Racing Sans One' !important;
+          font-weight: 400 !important;
+}

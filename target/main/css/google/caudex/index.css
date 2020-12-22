@@ -1,0 +1,42 @@
+@font-face {
+          font-family: Caudex;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Caudex Italic"),local(Caudex-Italic),url(//fonts.gstatic.com/s/caudex/v10/esDS311QOP6BJUr4yMKNtb4.eot?#) format("eot"),url(//fonts.gstatic.com/s/caudex/v10/esDS311QOP6BJUr4yMKDtbo.woff2) format("woff2"),url(//fonts.gstatic.com/s/caudex/v10/esDS311QOP6BJUr4yMKNtbw.woff) format("woff");
+}
+@font-face {
+          font-family: Caudex;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Caudex Bold Italic"),local(Caudex-BoldItalic),url(//fonts.gstatic.com/s/caudex/v10/esDV311QOP6BJUr4yMo4kK8PMpE.eot?#) format("eot"),url(//fonts.gstatic.com/s/caudex/v10/esDV311QOP6BJUr4yMo4kK8BMpU.woff2) format("woff2"),url(//fonts.gstatic.com/s/caudex/v10/esDV311QOP6BJUr4yMo4kK8PMpM.woff) format("woff");
+}
+@font-face {
+          font-family: Caudex;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Caudex),url(//fonts.gstatic.com/s/caudex/v10/esDQ311QOP6BJUr4w_KF.eot?#) format("eot"),url(//fonts.gstatic.com/s/caudex/v10/esDQ311QOP6BJUr4zfKB.woff2) format("woff2"),url(//fonts.gstatic.com/s/caudex/v10/esDQ311QOP6BJUr4w_KH.woff) format("woff");
+}
+@font-face {
+          font-family: Caudex;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Caudex Bold"),local(Caudex-Bold),url(//fonts.gstatic.com/s/caudex/v10/esDT311QOP6BJUrwdteUnJ8H.eot?#) format("eot"),url(//fonts.gstatic.com/s/caudex/v10/esDT311QOP6BJUrwdteUkp8D.woff2) format("woff2"),url(//fonts.gstatic.com/s/caudex/v10/esDT311QOP6BJUrwdteUnJ8F.woff) format("woff");
+}
+.u-font-caudex-400 {
+          font-family: 'Caudex' !important;
+          font-weight: 400 !important;
+}
+.u-font-caudex-400-italic {
+        font-family: 'Caudex' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-caudex-700 {
+          font-family: 'Caudex' !important;
+          font-weight: 700 !important;
+}
+.u-font-caudex-700-italic {
+        font-family: 'Caudex' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

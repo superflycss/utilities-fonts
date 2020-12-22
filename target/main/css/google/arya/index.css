@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Arya;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Arya Regular"),local(Arya-Regular),url(//fonts.gstatic.com/s/arya/v6/ga6CawNG-HJdxU___A.eot?#) format("eot"),url(//fonts.gstatic.com/s/arya/v6/ga6CawNG-HJdxUH_-A.woff2) format("woff2"),url(//fonts.gstatic.com/s/arya/v6/ga6CawNG-HJdxU___g.woff) format("woff");
+}
+@font-face {
+          font-family: Arya;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Arya Bold"),local(Arya-Bold),url(//fonts.gstatic.com/s/arya/v6/ga6NawNG-HJdzfra7baLbQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/arya/v6/ga6NawNG-HJdzfra7biLaQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/arya/v6/ga6NawNG-HJdzfra7baLbw.woff) format("woff");
+}
+.u-font-arya-400 {
+          font-family: 'Arya' !important;
+          font-weight: 400 !important;
+}
+.u-font-arya-700 {
+          font-family: 'Arya' !important;
+          font-weight: 700 !important;
+}

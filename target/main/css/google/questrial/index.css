@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Questrial;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Questrial Regular"),local(Questrial-Regular),url(//fonts.gstatic.com/s/questrial/v12/QdVUSTchPBm7nuUeVf70sCFh.eot?#) format("eot"),url(//fonts.gstatic.com/s/questrial/v12/QdVUSTchPBm7nuUeVf70viFl.woff2) format("woff2"),url(//fonts.gstatic.com/s/questrial/v12/QdVUSTchPBm7nuUeVf70sCFj.woff) format("woff");
+}
+.u-font-questrial-400 {
+          font-family: 'Questrial' !important;
+          font-weight: 400 !important;
+}

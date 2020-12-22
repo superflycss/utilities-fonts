@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Major Mono Display";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Major Mono Display Regular"),local(MajorMonoDisplay-Regular),url(//fonts.gstatic.com/s/majormonodisplay/v5/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7A3eV.eot?#) format("eot"),url(//fonts.gstatic.com/s/majormonodisplay/v5/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7DXeR.woff2) format("woff2"),url(//fonts.gstatic.com/s/majormonodisplay/v5/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7A3eX.woff) format("woff");
+}
+.u-font-major-mono-display-400 {
+          font-family: 'Major Mono Display' !important;
+          font-weight: 400 !important;
+}

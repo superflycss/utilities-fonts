@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Imprima;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Imprima),local(Imprima-Regular),url(//fonts.gstatic.com/s/imprima/v9/VEMxRoN7sY3yuy-7yoyNzQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/imprima/v9/VEMxRoN7sY3yuy-7yoKNyQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/imprima/v9/VEMxRoN7sY3yuy-7yoyNzw.woff) format("woff");
+}
+.u-font-imprima-400 {
+          font-family: 'Imprima' !important;
+          font-weight: 400 !important;
+}

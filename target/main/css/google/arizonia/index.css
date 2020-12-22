@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Arizonia;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Arizonia Regular"),local(Arizonia-Regular),url(//fonts.gstatic.com/s/arizonia/v11/neIIzCemt4A5qa7mv5WPFqg.eot?#) format("eot"),url(//fonts.gstatic.com/s/arizonia/v11/neIIzCemt4A5qa7mv5WBFqw.woff2) format("woff2"),url(//fonts.gstatic.com/s/arizonia/v11/neIIzCemt4A5qa7mv5WPFqo.woff) format("woff");
+}
+.u-font-arizonia-400 {
+          font-family: 'Arizonia' !important;
+          font-weight: 400 !important;
+}

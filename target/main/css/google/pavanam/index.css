@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Pavanam;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Pavanam),local(Pavanam-Regular),url(//fonts.gstatic.com/s/pavanam/v5/BXRrvF_aiezLh0xPPOJa8A.eot?#) format("eot"),url(//fonts.gstatic.com/s/pavanam/v5/BXRrvF_aiezLh0xPPOxa9A.woff2) format("woff2"),url(//fonts.gstatic.com/s/pavanam/v5/BXRrvF_aiezLh0xPPOJa8g.woff) format("woff");
+}
+.u-font-pavanam-400 {
+          font-family: 'Pavanam' !important;
+          font-weight: 400 !important;
+}

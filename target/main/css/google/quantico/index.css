@@ -1,0 +1,42 @@
+@font-face {
+          font-family: Quantico;
+          font-style: italic;
+          font-weight: 400;
+          src: local(Quantico-Italic),url(//fonts.gstatic.com/s/quantico/v10/rax4HiSdp9cPL3KIF7xuFD96mg.eot?#) format("eot"),url(//fonts.gstatic.com/s/quantico/v10/rax4HiSdp9cPL3KIF7xuFD96ng.woff2) format("woff2"),url(//fonts.gstatic.com/s/quantico/v10/rax4HiSdp9cPL3KIF7xuFD96mA.woff) format("woff");
+}
+@font-face {
+          font-family: Quantico;
+          font-style: italic;
+          font-weight: 700;
+          src: local(Quantico-BoldItalic),url(//fonts.gstatic.com/s/quantico/v10/rax7HiSdp9cPL3KIF7xuHIRfi0348A.eot?#) format("eot"),url(//fonts.gstatic.com/s/quantico/v10/rax7HiSdp9cPL3KIF7xuHIRfi0349A.woff2) format("woff2"),url(//fonts.gstatic.com/s/quantico/v10/rax7HiSdp9cPL3KIF7xuHIRfi0348g.woff) format("woff");
+}
+@font-face {
+          font-family: Quantico;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Quantico),local(Quantico-Regular),url(//fonts.gstatic.com/s/quantico/v10/rax-HiSdp9cPL3KIF7xrJDk.eot?#) format("eot"),url(//fonts.gstatic.com/s/quantico/v10/rax-HiSdp9cPL3KIF7xrJD0.woff2) format("woff2"),url(//fonts.gstatic.com/s/quantico/v10/rax-HiSdp9cPL3KIF7xrJDs.woff) format("woff");
+}
+@font-face {
+          font-family: Quantico;
+          font-style: normal;
+          font-weight: 700;
+          src: local(Quantico-Bold),url(//fonts.gstatic.com/s/quantico/v10/rax5HiSdp9cPL3KIF7TQAShdu0s.eot?#) format("eot"),url(//fonts.gstatic.com/s/quantico/v10/rax5HiSdp9cPL3KIF7TQAShdu08.woff2) format("woff2"),url(//fonts.gstatic.com/s/quantico/v10/rax5HiSdp9cPL3KIF7TQAShdu0k.woff) format("woff");
+}
+.u-font-quantico-400 {
+          font-family: 'Quantico' !important;
+          font-weight: 400 !important;
+}
+.u-font-quantico-400-italic {
+        font-family: 'Quantico' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-quantico-700 {
+          font-family: 'Quantico' !important;
+          font-weight: 700 !important;
+}
+.u-font-quantico-700-italic {
+        font-family: 'Quantico' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Duru Sans";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Duru Sans"),local(DuruSans-Regular),url(//fonts.gstatic.com/s/durusans/v14/xn7iYH8xwmSyTvEV_HOBRv3d.eot?#) format("eot"),url(//fonts.gstatic.com/s/durusans/v14/xn7iYH8xwmSyTvEV_HOBSP3Z.woff2) format("woff2"),url(//fonts.gstatic.com/s/durusans/v14/xn7iYH8xwmSyTvEV_HOBRv3f.woff) format("woff");
+}
+.u-font-duru-sans-400 {
+          font-family: 'Duru Sans' !important;
+          font-weight: 400 !important;
+}

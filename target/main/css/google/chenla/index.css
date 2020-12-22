@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Chenla;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Chenla),url(//fonts.gstatic.com/s/chenla/v13/SZc43FDpIKu8WZ9eXg.eot?#) format("eot"),url(//fonts.gstatic.com/s/chenla/v13/SZc43FDpIKu8WZ9uUx3prUM.woff2) format("woff2"),url(//fonts.gstatic.com/s/chenla/v13/SZc43FDpIKu8WZ9eXA.woff) format("woff");
+}
+.u-font-chenla-400 {
+          font-family: 'Chenla' !important;
+          font-weight: 400 !important;
+}

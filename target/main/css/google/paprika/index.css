@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Paprika;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Paprika),local(Paprika-Regular),url(//fonts.gstatic.com/s/paprika/v8/8QIJdijZitv49rDfiI8Erg.eot?#) format("eot"),url(//fonts.gstatic.com/s/paprika/v8/8QIJdijZitv49rDfiI8Eqg.woff2) format("woff2"),url(//fonts.gstatic.com/s/paprika/v8/8QIJdijZitv49rDfiI8ErA.woff) format("woff");
+}
+.u-font-paprika-400 {
+          font-family: 'Paprika' !important;
+          font-weight: 400 !important;
+}

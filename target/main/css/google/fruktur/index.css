@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Fruktur;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Fruktur),local(Fruktur-Regular),url(//fonts.gstatic.com/s/fruktur/v13/SZc53FHsOru5QYsMTzTMlA.eot?#) format("eot"),url(//fonts.gstatic.com/s/fruktur/v13/SZc53FHsOru5QYsMTzrMkA.woff2) format("woff2"),url(//fonts.gstatic.com/s/fruktur/v13/SZc53FHsOru5QYsMTzTMlg.woff) format("woff");
+}
+.u-font-fruktur-400 {
+          font-family: 'Fruktur' !important;
+          font-weight: 400 !important;
+}

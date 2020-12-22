@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Risque;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Risque),local(Risque-Regular),url(//fonts.gstatic.com/s/risque/v8/VdGfAZUfHosahXxYAEwQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/risque/v8/VdGfAZUfHosahXxYDkwU.woff2) format("woff2"),url(//fonts.gstatic.com/s/risque/v8/VdGfAZUfHosahXxYAEwS.woff) format("woff");
+}
+.u-font-risque-400 {
+          font-family: 'Risque' !important;
+          font-weight: 400 !important;
+}

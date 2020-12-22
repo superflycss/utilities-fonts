@@ -1,0 +1,20 @@
+@font-face {
+          font-family: "Zilla Slab Highlight";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Zilla Slab Highlight"),local(ZillaSlabHighlight-Regular),url(//fonts.gstatic.com/s/zillaslabhighlight/v8/gNMbW2BrTpK8-inLtBJgMMfbm6uNVDvRxitBaWU.eot?#) format("eot"),url(//fonts.gstatic.com/s/zillaslabhighlight/v8/gNMbW2BrTpK8-inLtBJgMMfbm6uNVDvRxitPaWE.woff2) format("woff2"),url(//fonts.gstatic.com/s/zillaslabhighlight/v8/gNMbW2BrTpK8-inLtBJgMMfbm6uNVDvRxitBaWc.woff) format("woff");
+}
+@font-face {
+          font-family: "Zilla Slab Highlight";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Zilla Slab Highlight Bold"),local(ZillaSlabHighlight-Bold),url(//fonts.gstatic.com/s/zillaslabhighlight/v8/gNMUW2BrTpK8-inLtBJgMMfbm6uNVDvRxiP0THTxaGA.eot?#) format("eot"),url(//fonts.gstatic.com/s/zillaslabhighlight/v8/gNMUW2BrTpK8-inLtBJgMMfbm6uNVDvRxiP0THT_aGQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/zillaslabhighlight/v8/gNMUW2BrTpK8-inLtBJgMMfbm6uNVDvRxiP0THTxaGI.woff) format("woff");
+}
+.u-font-zilla-slab-highlight-400 {
+          font-family: 'Zilla Slab Highlight' !important;
+          font-weight: 400 !important;
+}
+.u-font-zilla-slab-highlight-700 {
+          font-family: 'Zilla Slab Highlight' !important;
+          font-weight: 700 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: MedievalSharp;
+          font-style: normal;
+          font-weight: 400;
+          src: local(MedievalSharp),url(//fonts.gstatic.com/s/medievalsharp/v12/EvOJzAlL3oU5AQl2mP5KdgptMqZwNg.eot?#) format("eot"),url(//fonts.gstatic.com/s/medievalsharp/v12/EvOJzAlL3oU5AQl2mP5KdgptMqhwMg.woff2) format("woff2"),url(//fonts.gstatic.com/s/medievalsharp/v12/EvOJzAlL3oU5AQl2mP5KdgptMqZwNA.woff) format("woff");
+}
+.u-font-medievalsharp-400 {
+          font-family: 'MedievalSharp' !important;
+          font-weight: 400 !important;
+}

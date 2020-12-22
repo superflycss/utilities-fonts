@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Felipa;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Felipa),local(Felipa-Regular),url(//fonts.gstatic.com/s/felipa/v7/FwZa7-owz1Eu4F_AQd6B.eot?#) format("eot"),url(//fonts.gstatic.com/s/felipa/v7/FwZa7-owz1Eu4F_AT96F.woff2) format("woff2"),url(//fonts.gstatic.com/s/felipa/v7/FwZa7-owz1Eu4F_AQd6D.woff) format("woff");
+}
+.u-font-felipa-400 {
+          font-family: 'Felipa' !important;
+          font-weight: 400 !important;
+}

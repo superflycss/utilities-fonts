@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Astloch;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Astloch Regular"),local(Astloch-Regular),url(//fonts.gstatic.com/s/astloch/v12/TuGRUVJ8QI5GSeUjm9sbyQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/astloch/v12/TuGRUVJ8QI5GSeUjm9sbzQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/astloch/v12/TuGRUVJ8QI5GSeUjm9sbyw.woff) format("woff");
+}
+@font-face {
+          font-family: Astloch;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Astloch Bold"),local(Astloch-Bold),url(//fonts.gstatic.com/s/astloch/v12/TuGUUVJ8QI5GSeUjk2A-2MRFBg.eot?#) format("eot"),url(//fonts.gstatic.com/s/astloch/v12/TuGUUVJ8QI5GSeUjk2A-2MRFAg.woff2) format("woff2"),url(//fonts.gstatic.com/s/astloch/v12/TuGUUVJ8QI5GSeUjk2A-2MRFBA.woff) format("woff");
+}
+.u-font-astloch-400 {
+          font-family: 'Astloch' !important;
+          font-weight: 400 !important;
+}
+.u-font-astloch-700 {
+          font-family: 'Astloch' !important;
+          font-weight: 700 !important;
+}

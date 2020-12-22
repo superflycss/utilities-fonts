@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Cambo;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Cambo),local(Cambo-Regular),url(//fonts.gstatic.com/s/cambo/v9/IFSqHeNEk8FJk719qEs.eot?#) format("eot"),url(//fonts.gstatic.com/s/cambo/v9/IFSqHeNEk8FJk719qE8.woff2) format("woff2"),url(//fonts.gstatic.com/s/cambo/v9/IFSqHeNEk8FJk719qEk.woff) format("woff");
+}
+.u-font-cambo-400 {
+          font-family: 'Cambo' !important;
+          font-weight: 400 !important;
+}

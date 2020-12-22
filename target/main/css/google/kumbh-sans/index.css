@@ -1,0 +1,30 @@
+@font-face {
+          font-family: "Kumbh Sans";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Kumbh Sans Light"),local(KumbhSans-Light),url(//fonts.gstatic.com/s/kumbhsans/v1/c4mm1n92AsfhuCq6tVsagit_7KufWA.eot?#) format("eot"),url(//fonts.gstatic.com/s/kumbhsans/v1/c4mm1n92AsfhuCq6tVsagit_7KWfXA.woff2) format("woff2"),url(//fonts.gstatic.com/s/kumbhsans/v1/c4mm1n92AsfhuCq6tVsagit_7KufWg.woff) format("woff");
+}
+@font-face {
+          font-family: "Kumbh Sans";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Kumbh Sans Regular"),local(KumbhSans-Regular),url(//fonts.gstatic.com/s/kumbhsans/v1/c4ml1n92AsfhuCq6tVsaio5d_Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/kumbhsans/v1/c4ml1n92AsfhuCq6tVsaioBd-Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/kumbhsans/v1/c4ml1n92AsfhuCq6tVsaio5d_w.woff) format("woff");
+}
+@font-face {
+          font-family: "Kumbh Sans";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Kumbh Sans Bold"),local(KumbhSans-Bold),url(//fonts.gstatic.com/s/kumbhsans/v1/c4mm1n92AsfhuCq6tVsagjt47KufWA.eot?#) format("eot"),url(//fonts.gstatic.com/s/kumbhsans/v1/c4mm1n92AsfhuCq6tVsagjt47KWfXA.woff2) format("woff2"),url(//fonts.gstatic.com/s/kumbhsans/v1/c4mm1n92AsfhuCq6tVsagjt47KufWg.woff) format("woff");
+}
+.u-font-kumbh-sans-300 {
+          font-family: 'Kumbh Sans' !important;
+          font-weight: 300 !important;
+}
+.u-font-kumbh-sans-400 {
+          font-family: 'Kumbh Sans' !important;
+          font-weight: 400 !important;
+}
+.u-font-kumbh-sans-700 {
+          font-family: 'Kumbh Sans' !important;
+          font-weight: 700 !important;
+}

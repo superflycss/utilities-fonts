@@ -1,0 +1,21 @@
+@font-face {
+          font-family: Rosarivo;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Rosarivo Italic"),local(Rosarivo-Italic),url(//fonts.gstatic.com/s/rosarivo/v8/PlI4Fl2lO6N9f8HaNDeA4HVknA.eot?#) format("eot"),url(//fonts.gstatic.com/s/rosarivo/v8/PlI4Fl2lO6N9f8HaNDeA4HtkmA.woff2) format("woff2"),url(//fonts.gstatic.com/s/rosarivo/v8/PlI4Fl2lO6N9f8HaNDeA4HVkng.woff) format("woff");
+}
+@font-face {
+          font-family: Rosarivo;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Rosarivo),local(Rosarivo-Regular),url(//fonts.gstatic.com/s/rosarivo/v8/PlI-Fl2lO6N9f8HaNDeL0H0.eot?#) format("eot"),url(//fonts.gstatic.com/s/rosarivo/v8/PlI-Fl2lO6N9f8HaNDeF0Hk.woff2) format("woff2"),url(//fonts.gstatic.com/s/rosarivo/v8/PlI-Fl2lO6N9f8HaNDeL0H8.woff) format("woff");
+}
+.u-font-rosarivo-400 {
+          font-family: 'Rosarivo' !important;
+          font-weight: 400 !important;
+}
+.u-font-rosarivo-400-italic {
+        font-family: 'Rosarivo' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Freehand;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Freehand),url(//fonts.gstatic.com/s/freehand/v12/cIf-Ma5eqk01VjKTgAmA.eot?#) format("eot"),url(//fonts.gstatic.com/s/freehand/v12/cIf-Ma5eqk01VjKTgDmNRGQ-mQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/freehand/v12/cIf-Ma5eqk01VjKTgAmC.woff) format("woff");
+}
+.u-font-freehand-400 {
+          font-family: 'Freehand' !important;
+          font-weight: 400 !important;
+}

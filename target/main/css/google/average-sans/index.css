@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Average Sans";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Average Sans Regular"),local(AverageSans-Regular),url(//fonts.gstatic.com/s/averagesans/v9/1Ptpg8fLXP2dlAXR-HlJJNJ_DNCf.eot?#) format("eot"),url(//fonts.gstatic.com/s/averagesans/v9/1Ptpg8fLXP2dlAXR-HlJJNJ_AtCb.woff2) format("woff2"),url(//fonts.gstatic.com/s/averagesans/v9/1Ptpg8fLXP2dlAXR-HlJJNJ_DNCd.woff) format("woff");
+}
+.u-font-average-sans-400 {
+          font-family: 'Average Sans' !important;
+          font-weight: 400 !important;
+}

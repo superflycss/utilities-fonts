@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Nova Oval";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Nova Oval"),local(NovaOval),url(//fonts.gstatic.com/s/novaoval/v12/jAnEgHdmANHvPenMaswyNoWk.eot?#) format("eot"),url(//fonts.gstatic.com/s/novaoval/v12/jAnEgHdmANHvPenMaswyNoWg.woff2) format("woff2"),url(//fonts.gstatic.com/s/novaoval/v12/jAnEgHdmANHvPenMaswyNoWm.woff) format("woff");
+}
+.u-font-nova-oval-400 {
+          font-family: 'Nova Oval' !important;
+          font-weight: 400 !important;
+}

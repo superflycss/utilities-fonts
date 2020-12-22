@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Cedarville Cursive";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Cedarville Cursive"),local(Cedarville-Cursive),url(//fonts.gstatic.com/s/cedarvillecursive/v12/yYL00g_a2veiudhUmxjo5VKkoqA-B_nuIrp0.eot?#) format("eot"),url(//fonts.gstatic.com/s/cedarvillecursive/v12/yYL00g_a2veiudhUmxjo5VKkoqA-B_nuIrpw.woff2) format("woff2"),url(//fonts.gstatic.com/s/cedarvillecursive/v12/yYL00g_a2veiudhUmxjo5VKkoqA-B_nuIrp2.woff) format("woff");
+}
+.u-font-cedarville-cursive-400 {
+          font-family: 'Cedarville Cursive' !important;
+          font-weight: 400 !important;
+}

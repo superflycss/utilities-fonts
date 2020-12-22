@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Mallanna;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Mallanna),url(//fonts.gstatic.com/s/mallanna/v8/hv-Vlzx-KEQb84YaDFw0GTE.eot?#) format("eot"),url(//fonts.gstatic.com/s/mallanna/v8/hv-Vlzx-KEQb84YaDFw0GTU.woff2) format("woff2"),url(//fonts.gstatic.com/s/mallanna/v8/hv-Vlzx-KEQb84YaDFw0GTM.woff) format("woff");
+}
+.u-font-mallanna-400 {
+          font-family: 'Mallanna' !important;
+          font-weight: 400 !important;
+}

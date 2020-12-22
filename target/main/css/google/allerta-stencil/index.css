@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Allerta Stencil";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Allerta Stencil Regular"),local(AllertaStencil-Regular),url(//fonts.gstatic.com/s/allertastencil/v11/HTx0L209KT-LmIE9N7OR6eiycOe1_Dby.eot?#) format("eot"),url(//fonts.gstatic.com/s/allertastencil/v11/HTx0L209KT-LmIE9N7OR6eiycOe1_Db2.woff2) format("woff2"),url(//fonts.gstatic.com/s/allertastencil/v11/HTx0L209KT-LmIE9N7OR6eiycOe1_Dbw.woff) format("woff");
+}
+.u-font-allerta-stencil-400 {
+          font-family: 'Allerta Stencil' !important;
+          font-weight: 400 !important;
+}

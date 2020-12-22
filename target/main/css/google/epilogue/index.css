@@ -1,0 +1,189 @@
+@font-face {
+          font-family: Epilogue;
+          font-style: italic;
+          font-weight: 100;
+          src: url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKTq_YogE.eot?#) format("eot"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKTq_WogU.woff2) format("woff2"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKTq_YogM.woff) format("woff");
+}
+@font-face {
+          font-family: Epilogue;
+          font-style: italic;
+          font-weight: 200;
+          src: url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKT6_YogE.eot?#) format("eot"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKT6_WogU.woff2) format("woff2"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKT6_YogM.woff) format("woff");
+}
+@font-face {
+          font-family: Epilogue;
+          font-style: italic;
+          font-weight: 300;
+          src: url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HBUT6_YogE.eot?#) format("eot"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HBUT6_WogU.woff2) format("woff2"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HBUT6_YogM.woff) format("woff");
+}
+@font-face {
+          font-family: Epilogue;
+          font-style: italic;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKT6_YogE.eot?#) format("eot"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKT6_WogU.woff2) format("woff2"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKT6_YogM.woff) format("woff");
+}
+@font-face {
+          font-family: Epilogue;
+          font-style: italic;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HA4T6_YogE.eot?#) format("eot"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HA4T6_WogU.woff2) format("woff2"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HA4T6_YogM.woff) format("woff");
+}
+@font-face {
+          font-family: Epilogue;
+          font-style: italic;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDUSK_YogE.eot?#) format("eot"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDUSK_WogU.woff2) format("woff2"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDUSK_YogM.woff) format("woff");
+}
+@font-face {
+          font-family: Epilogue;
+          font-style: italic;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDtSK_YogE.eot?#) format("eot"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDtSK_WogU.woff2) format("woff2"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDtSK_YogM.woff) format("woff");
+}
+@font-face {
+          font-family: Epilogue;
+          font-style: italic;
+          font-weight: 800;
+          src: url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKSK_YogE.eot?#) format("eot"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKSK_WogU.woff2) format("woff2"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKSK_YogM.woff) format("woff");
+}
+@font-face {
+          font-family: Epilogue;
+          font-style: italic;
+          font-weight: 900;
+          src: url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCjSK_YogE.eot?#) format("eot"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCjSK_WogU.woff2) format("woff2"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCjSK_YogM.woff) format("woff");
+}
+@font-face {
+          font-family: Epilogue;
+          font-style: normal;
+          font-weight: 100;
+          src: url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDLSBZ_Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDLSC5_U.woff2) format("woff2"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDLSBZ_S.woff) format("woff");
+}
+@font-face {
+          font-family: Epilogue;
+          font-style: normal;
+          font-weight: 200;
+          src: url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDPSBZ_Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDPSC5_U.woff2) format("woff2"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDPSBZ_S.woff) format("woff");
+}
+@font-face {
+          font-family: Epilogue;
+          font-style: normal;
+          font-weight: 300;
+          src: url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXbjPSBZ_Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXbjPSC5_U.woff2) format("woff2"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXbjPSBZ_S.woff) format("woff");
+}
+@font-face {
+          font-family: Epilogue;
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPSBZ_Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPSC5_U.woff2) format("woff2"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPSBZ_S.woff) format("woff");
+}
+@font-face {
+          font-family: Epilogue;
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXAjPSBZ_Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXAjPSC5_U.woff2) format("woff2"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXAjPSBZ_S.woff) format("woff");
+}
+@font-face {
+          font-family: Epilogue;
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTSBZ_Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTSC5_U.woff2) format("woff2"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTSBZ_S.woff) format("woff");
+}
+@font-face {
+          font-family: Epilogue;
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTSBZ_Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTSC5_U.woff2) format("woff2"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTSBZ_S.woff) format("woff");
+}
+@font-face {
+          font-family: Epilogue;
+          font-style: normal;
+          font-weight: 800;
+          src: url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDTSBZ_Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDTSC5_U.woff2) format("woff2"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDTSBZ_S.woff) format("woff");
+}
+@font-face {
+          font-family: Epilogue;
+          font-style: normal;
+          font-weight: 900;
+          src: url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXmTTSBZ_Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXmTTSC5_U.woff2) format("woff2"),url(//fonts.gstatic.com/s/epilogue/v2/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXmTTSBZ_S.woff) format("woff");
+}
+.u-font-epilogue-100 {
+          font-family: 'Epilogue' !important;
+          font-weight: 100 !important;
+}
+.u-font-epilogue-200 {
+          font-family: 'Epilogue' !important;
+          font-weight: 200 !important;
+}
+.u-font-epilogue-300 {
+          font-family: 'Epilogue' !important;
+          font-weight: 300 !important;
+}
+.u-font-epilogue-400 {
+          font-family: 'Epilogue' !important;
+          font-weight: 400 !important;
+}
+.u-font-epilogue-500 {
+          font-family: 'Epilogue' !important;
+          font-weight: 500 !important;
+}
+.u-font-epilogue-600 {
+          font-family: 'Epilogue' !important;
+          font-weight: 600 !important;
+}
+.u-font-epilogue-700 {
+          font-family: 'Epilogue' !important;
+          font-weight: 700 !important;
+}
+.u-font-epilogue-800 {
+          font-family: 'Epilogue' !important;
+          font-weight: 800 !important;
+}
+.u-font-epilogue-900 {
+          font-family: 'Epilogue' !important;
+          font-weight: 900 !important;
+}
+.u-font-epilogue-100-italic {
+        font-family: 'Epilogue' !important;
+        font-weight: 100 !important;
+        font-style: italic !important;
+}
+.u-font-epilogue-200-italic {
+        font-family: 'Epilogue' !important;
+        font-weight: 200 !important;
+        font-style: italic !important;
+}
+.u-font-epilogue-300-italic {
+        font-family: 'Epilogue' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-epilogue-400-italic {
+        font-family: 'Epilogue' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-epilogue-500-italic {
+        font-family: 'Epilogue' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-epilogue-600-italic {
+        font-family: 'Epilogue' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-epilogue-700-italic {
+        font-family: 'Epilogue' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}
+.u-font-epilogue-800-italic {
+        font-family: 'Epilogue' !important;
+        font-weight: 800 !important;
+        font-style: italic !important;
+}
+.u-font-epilogue-900-italic {
+        font-family: 'Epilogue' !important;
+        font-weight: 900 !important;
+        font-style: italic !important;
+}

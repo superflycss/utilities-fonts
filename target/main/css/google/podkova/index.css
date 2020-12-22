@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Podkova;
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/podkova/v17/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWtFzfUxGI8.eot?#) format("eot"),url(//fonts.gstatic.com/s/podkova/v17/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWtFzfU_GIs.woff2) format("woff2"),url(//fonts.gstatic.com/s/podkova/v17/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWtFzfUxGI0.woff) format("woff");
+}
+@font-face {
+          font-family: Podkova;
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/podkova/v17/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWt3zfUxGI8.eot?#) format("eot"),url(//fonts.gstatic.com/s/podkova/v17/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWt3zfU_GIs.woff2) format("woff2"),url(//fonts.gstatic.com/s/podkova/v17/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWt3zfUxGI0.woff) format("woff");
+}
+@font-face {
+          font-family: Podkova;
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/podkova/v17/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWubyvUxGI8.eot?#) format("eot"),url(//fonts.gstatic.com/s/podkova/v17/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWubyvU_GIs.woff2) format("woff2"),url(//fonts.gstatic.com/s/podkova/v17/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWubyvUxGI0.woff) format("woff");
+}
+@font-face {
+          font-family: Podkova;
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/podkova/v17/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWuiyvUxGI8.eot?#) format("eot"),url(//fonts.gstatic.com/s/podkova/v17/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWuiyvU_GIs.woff2) format("woff2"),url(//fonts.gstatic.com/s/podkova/v17/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWuiyvUxGI0.woff) format("woff");
+}
+@font-face {
+          font-family: Podkova;
+          font-style: normal;
+          font-weight: 800;
+          src: url(//fonts.gstatic.com/s/podkova/v17/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWvFyvUxGI8.eot?#) format("eot"),url(//fonts.gstatic.com/s/podkova/v17/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWvFyvU_GIs.woff2) format("woff2"),url(//fonts.gstatic.com/s/podkova/v17/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWvFyvUxGI0.woff) format("woff");
+}
+.u-font-podkova-400 {
+          font-family: 'Podkova' !important;
+          font-weight: 400 !important;
+}
+.u-font-podkova-500 {
+          font-family: 'Podkova' !important;
+          font-weight: 500 !important;
+}
+.u-font-podkova-600 {
+          font-family: 'Podkova' !important;
+          font-weight: 600 !important;
+}
+.u-font-podkova-700 {
+          font-family: 'Podkova' !important;
+          font-weight: 700 !important;
+}
+.u-font-podkova-800 {
+          font-family: 'Podkova' !important;
+          font-weight: 800 !important;
+}

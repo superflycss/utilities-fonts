@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Special Elite";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Special Elite Regular"),local(SpecialElite-Regular),url(//fonts.gstatic.com/s/specialelite/v11/XLYgIZbkc4JPUL5CVArUVL0ntnAOTA.eot?#) format("eot"),url(//fonts.gstatic.com/s/specialelite/v11/XLYgIZbkc4JPUL5CVArUVL0ntnAOSA.woff2) format("woff2"),url(//fonts.gstatic.com/s/specialelite/v11/XLYgIZbkc4JPUL5CVArUVL0ntnAOTg.woff) format("woff");
+}
+.u-font-special-elite-400 {
+          font-family: 'Special Elite' !important;
+          font-weight: 400 !important;
+}

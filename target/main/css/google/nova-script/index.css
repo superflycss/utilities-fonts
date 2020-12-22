@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Nova Script";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Nova Script Regular"),local(NovaScript-Regular),url(//fonts.gstatic.com/s/novascript/v13/7Au7p_IpkSWSTWaFWkumvlQKGFg.eot?#) format("eot"),url(//fonts.gstatic.com/s/novascript/v13/7Au7p_IpkSWSTWaFWkumvlQKGFw.woff2) format("woff2"),url(//fonts.gstatic.com/s/novascript/v13/7Au7p_IpkSWSTWaFWkumvlQKGFo.woff) format("woff");
+}
+.u-font-nova-script-400 {
+          font-family: 'Nova Script' !important;
+          font-weight: 400 !important;
+}

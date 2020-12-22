@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Averia Gruesa Libre";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Averia Gruesa Libre Regular"),local(AveriaGruesaLibre-Regular),url(//fonts.gstatic.com/s/averiagruesalibre/v9/NGSov4nEGEktOaDRKsY-1dhh8eEtIx3ZYmCDxg.eot?#) format("eot"),url(//fonts.gstatic.com/s/averiagruesalibre/v9/NGSov4nEGEktOaDRKsY-1dhh8eEtIx3ZYm6Dwg.woff2) format("woff2"),url(//fonts.gstatic.com/s/averiagruesalibre/v9/NGSov4nEGEktOaDRKsY-1dhh8eEtIx3ZYmCDxA.woff) format("woff");
+}
+.u-font-averia-gruesa-libre-400 {
+          font-family: 'Averia Gruesa Libre' !important;
+          font-weight: 400 !important;
+}

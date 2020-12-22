@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Trykker;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Trykker Regular"),local(Trykker-Regular),url(//fonts.gstatic.com/s/trykker/v9/KtktALyWZJXudUPztNDiPA.eot?#) format("eot"),url(//fonts.gstatic.com/s/trykker/v9/KtktALyWZJXudUPztN7iOA.woff2) format("woff2"),url(//fonts.gstatic.com/s/trykker/v9/KtktALyWZJXudUPztNDiPg.woff) format("woff");
+}
+.u-font-trykker-400 {
+          font-family: 'Trykker' !important;
+          font-weight: 400 !important;
+}

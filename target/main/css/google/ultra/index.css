@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Ultra;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Ultra Regular"),local(Ultra-Regular),url(//fonts.gstatic.com/s/ultra/v13/zOLy4prXmrtY-uT9wrY.eot?#) format("eot"),url(//fonts.gstatic.com/s/ultra/v13/zOLy4prXmrtY-uT9wrI.woff2) format("woff2"),url(//fonts.gstatic.com/s/ultra/v13/zOLy4prXmrtY-uT9wrQ.woff) format("woff");
+}
+.u-font-ultra-400 {
+          font-family: 'Ultra' !important;
+          font-weight: 400 !important;
+}

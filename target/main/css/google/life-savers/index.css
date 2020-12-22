@@ -1,0 +1,30 @@
+@font-face {
+          font-family: "Life Savers";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Life Savers Regular"),local(LifeSavers-Regular),url(//fonts.gstatic.com/s/lifesavers/v11/ZXuie1UftKKabUQMgxAal8liHA8.eot?#) format("eot"),url(//fonts.gstatic.com/s/lifesavers/v11/ZXuie1UftKKabUQMgxAal8lsHAs.woff2) format("woff2"),url(//fonts.gstatic.com/s/lifesavers/v11/ZXuie1UftKKabUQMgxAal8liHA0.woff) format("woff");
+}
+@font-face {
+          font-family: "Life Savers";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Life Savers Bold"),local(LifeSavers-Bold),url(//fonts.gstatic.com/s/lifesavers/v11/ZXu_e1UftKKabUQMgxAal8HXOR5amcI.eot?#) format("eot"),url(//fonts.gstatic.com/s/lifesavers/v11/ZXu_e1UftKKabUQMgxAal8HXOR5UmcY.woff2) format("woff2"),url(//fonts.gstatic.com/s/lifesavers/v11/ZXu_e1UftKKabUQMgxAal8HXOR5amcA.woff) format("woff");
+}
+@font-face {
+          font-family: "Life Savers";
+          font-style: normal;
+          font-weight: 800;
+          src: local("Life Savers ExtraBold"),local(LifeSavers-ExtraBold),url(//fonts.gstatic.com/s/lifesavers/v11/ZXu_e1UftKKabUQMgxAal8HLOh5amcI.eot?#) format("eot"),url(//fonts.gstatic.com/s/lifesavers/v11/ZXu_e1UftKKabUQMgxAal8HLOh5UmcY.woff2) format("woff2"),url(//fonts.gstatic.com/s/lifesavers/v11/ZXu_e1UftKKabUQMgxAal8HLOh5amcA.woff) format("woff");
+}
+.u-font-life-savers-400 {
+          font-family: 'Life Savers' !important;
+          font-weight: 400 !important;
+}
+.u-font-life-savers-700 {
+          font-family: 'Life Savers' !important;
+          font-weight: 700 !important;
+}
+.u-font-life-savers-800 {
+          font-family: 'Life Savers' !important;
+          font-weight: 800 !important;
+}

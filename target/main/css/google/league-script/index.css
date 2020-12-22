@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "League Script";
+          font-style: normal;
+          font-weight: 400;
+          src: local("League Script"),local(LeagueScript),url(//fonts.gstatic.com/s/leaguescript/v12/CSR54zpSlumSWj9CGVsoBZdeWNRevQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/leaguescript/v12/CSR54zpSlumSWj9CGVsoBZdeWNReuQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/leaguescript/v12/CSR54zpSlumSWj9CGVsoBZdeWNRevw.woff) format("woff");
+}
+.u-font-league-script-400 {
+          font-family: 'League Script' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Sarina;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Sarina),local(Sarina-Regular),url(//fonts.gstatic.com/s/sarina/v9/-F6wfjF3ITQwasLRJ0rR.eot?#) format("eot"),url(//fonts.gstatic.com/s/sarina/v9/-F6wfjF3ITQwasLRKUrV.woff2) format("woff2"),url(//fonts.gstatic.com/s/sarina/v9/-F6wfjF3ITQwasLRJ0rT.woff) format("woff");
+}
+.u-font-sarina-400 {
+          font-family: 'Sarina' !important;
+          font-weight: 400 !important;
+}

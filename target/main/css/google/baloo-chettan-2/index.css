@@ -1,0 +1,50 @@
+@font-face {
+          font-family: "Baloo Chettan 2";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Baloo Chettan 2 Regular"),local(BalooChettan2-Regular),url(//fonts.gstatic.com/s/baloochettan2/v1/vm8udRbmXEva26PK-NtuX4ynWEzv6fd-.eot?#) format("eot"),url(//fonts.gstatic.com/s/baloochettan2/v1/vm8udRbmXEva26PK-NtuX4ynWEzv5_d6.woff2) format("woff2"),url(//fonts.gstatic.com/s/baloochettan2/v1/vm8udRbmXEva26PK-NtuX4ynWEzv6fd8.woff) format("woff");
+}
+@font-face {
+          font-family: "Baloo Chettan 2";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Baloo Chettan 2 Medium"),local(BalooChettan2-Medium),url(//fonts.gstatic.com/s/baloochettan2/v1/vm8rdRbmXEva26PK-NtuX4ynWEznFNRvO7ca.eot?#) format("eot"),url(//fonts.gstatic.com/s/baloochettan2/v1/vm8rdRbmXEva26PK-NtuX4ynWEznFNRvNbce.woff2) format("woff2"),url(//fonts.gstatic.com/s/baloochettan2/v1/vm8rdRbmXEva26PK-NtuX4ynWEznFNRvO7cY.woff) format("woff");
+}
+@font-face {
+          font-family: "Baloo Chettan 2";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Baloo Chettan 2 SemiBold"),local(BalooChettan2-SemiBold),url(//fonts.gstatic.com/s/baloochettan2/v1/vm8rdRbmXEva26PK-NtuX4ynWEznONNvO7ca.eot?#) format("eot"),url(//fonts.gstatic.com/s/baloochettan2/v1/vm8rdRbmXEva26PK-NtuX4ynWEznONNvNbce.woff2) format("woff2"),url(//fonts.gstatic.com/s/baloochettan2/v1/vm8rdRbmXEva26PK-NtuX4ynWEznONNvO7cY.woff) format("woff");
+}
+@font-face {
+          font-family: "Baloo Chettan 2";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Baloo Chettan 2 Bold"),local(BalooChettan2-Bold),url(//fonts.gstatic.com/s/baloochettan2/v1/vm8rdRbmXEva26PK-NtuX4ynWEznXNJvO7ca.eot?#) format("eot"),url(//fonts.gstatic.com/s/baloochettan2/v1/vm8rdRbmXEva26PK-NtuX4ynWEznXNJvNbce.woff2) format("woff2"),url(//fonts.gstatic.com/s/baloochettan2/v1/vm8rdRbmXEva26PK-NtuX4ynWEznXNJvO7cY.woff) format("woff");
+}
+@font-face {
+          font-family: "Baloo Chettan 2";
+          font-style: normal;
+          font-weight: 800;
+          src: local("Baloo Chettan 2 ExtraBold"),local(BalooChettan2-ExtraBold),url(//fonts.gstatic.com/s/baloochettan2/v1/vm8rdRbmXEva26PK-NtuX4ynWEznQNFvO7ca.eot?#) format("eot"),url(//fonts.gstatic.com/s/baloochettan2/v1/vm8rdRbmXEva26PK-NtuX4ynWEznQNFvNbce.woff2) format("woff2"),url(//fonts.gstatic.com/s/baloochettan2/v1/vm8rdRbmXEva26PK-NtuX4ynWEznQNFvO7cY.woff) format("woff");
+}
+.u-font-baloo-chettan-2-400 {
+          font-family: 'Baloo Chettan 2' !important;
+          font-weight: 400 !important;
+}
+.u-font-baloo-chettan-2-500 {
+          font-family: 'Baloo Chettan 2' !important;
+          font-weight: 500 !important;
+}
+.u-font-baloo-chettan-2-600 {
+          font-family: 'Baloo Chettan 2' !important;
+          font-weight: 600 !important;
+}
+.u-font-baloo-chettan-2-700 {
+          font-family: 'Baloo Chettan 2' !important;
+          font-weight: 700 !important;
+}
+.u-font-baloo-chettan-2-800 {
+          font-family: 'Baloo Chettan 2' !important;
+          font-weight: 800 !important;
+}

@@ -1,0 +1,70 @@
+@font-face {
+          font-family: "Sansita Swashed";
+          font-style: normal;
+          font-weight: 300;
+          src: url(//fonts.gstatic.com/s/sansitaswashed/v1/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSW-ppXTMffw.eot?#) format("eot"),url(//fonts.gstatic.com/s/sansitaswashed/v1/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSW-ppXT0few.woff2) format("woff2"),url(//fonts.gstatic.com/s/sansitaswashed/v1/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSW-ppXTMffQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Sansita Swashed";
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/sansitaswashed/v1/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSW7RpXTMffw.eot?#) format("eot"),url(//fonts.gstatic.com/s/sansitaswashed/v1/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSW7RpXT0few.woff2) format("woff2"),url(//fonts.gstatic.com/s/sansitaswashed/v1/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSW7RpXTMffQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Sansita Swashed";
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/sansitaswashed/v1/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSW4ZpXTMffw.eot?#) format("eot"),url(//fonts.gstatic.com/s/sansitaswashed/v1/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSW4ZpXT0few.woff2) format("woff2"),url(//fonts.gstatic.com/s/sansitaswashed/v1/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSW4ZpXTMffQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Sansita Swashed";
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/sansitaswashed/v1/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSW2puXTMffw.eot?#) format("eot"),url(//fonts.gstatic.com/s/sansitaswashed/v1/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSW2puXT0few.woff2) format("woff2"),url(//fonts.gstatic.com/s/sansitaswashed/v1/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSW2puXTMffQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Sansita Swashed";
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/sansitaswashed/v1/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSW1NuXTMffw.eot?#) format("eot"),url(//fonts.gstatic.com/s/sansitaswashed/v1/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSW1NuXT0few.woff2) format("woff2"),url(//fonts.gstatic.com/s/sansitaswashed/v1/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSW1NuXTMffQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Sansita Swashed";
+          font-style: normal;
+          font-weight: 800;
+          src: url(//fonts.gstatic.com/s/sansitaswashed/v1/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSWzRuXTMffw.eot?#) format("eot"),url(//fonts.gstatic.com/s/sansitaswashed/v1/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSWzRuXT0few.woff2) format("woff2"),url(//fonts.gstatic.com/s/sansitaswashed/v1/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSWzRuXTMffQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Sansita Swashed";
+          font-style: normal;
+          font-weight: 900;
+          src: url(//fonts.gstatic.com/s/sansitaswashed/v1/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSWx1uXTMffw.eot?#) format("eot"),url(//fonts.gstatic.com/s/sansitaswashed/v1/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSWx1uXT0few.woff2) format("woff2"),url(//fonts.gstatic.com/s/sansitaswashed/v1/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSWx1uXTMffQ.woff) format("woff");
+}
+.u-font-sansita-swashed-300 {
+          font-family: 'Sansita Swashed' !important;
+          font-weight: 300 !important;
+}
+.u-font-sansita-swashed-400 {
+          font-family: 'Sansita Swashed' !important;
+          font-weight: 400 !important;
+}
+.u-font-sansita-swashed-500 {
+          font-family: 'Sansita Swashed' !important;
+          font-weight: 500 !important;
+}
+.u-font-sansita-swashed-600 {
+          font-family: 'Sansita Swashed' !important;
+          font-weight: 600 !important;
+}
+.u-font-sansita-swashed-700 {
+          font-family: 'Sansita Swashed' !important;
+          font-weight: 700 !important;
+}
+.u-font-sansita-swashed-800 {
+          font-family: 'Sansita Swashed' !important;
+          font-weight: 800 !important;
+}
+.u-font-sansita-swashed-900 {
+          font-family: 'Sansita Swashed' !important;
+          font-weight: 900 !important;
+}

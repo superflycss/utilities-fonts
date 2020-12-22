@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Kenia;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Kenia),local(Kenia-Regular),url(//fonts.gstatic.com/s/kenia/v12/jizURE5PuHQH9pCJP0Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/kenia/v12/jizURE5PuHQH9pCJP0A.woff2) format("woff2"),url(//fonts.gstatic.com/s/kenia/v12/jizURE5PuHQH9pCJP0Y.woff) format("woff");
+}
+.u-font-kenia-400 {
+          font-family: 'Kenia' !important;
+          font-weight: 400 !important;
+}

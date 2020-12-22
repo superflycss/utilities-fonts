@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Chilanka;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Chilanka Regular"),local(Chilanka-Regular),url(//fonts.gstatic.com/s/chilanka/v6/WWXRlj2DZQiMJYaYRoJXKdQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/chilanka/v6/WWXRlj2DZQiMJYaYRoJXKdA.woff2) format("woff2"),url(//fonts.gstatic.com/s/chilanka/v6/WWXRlj2DZQiMJYaYRoJXKdY.woff) format("woff");
+}
+.u-font-chilanka-400 {
+          font-family: 'Chilanka' !important;
+          font-weight: 400 !important;
+}

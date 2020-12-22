@@ -1,0 +1,84 @@
+@font-face {
+          font-family: "Expletus Sans";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Expletus Sans Italic"),local(ExpletusSans-Italic),url(//fonts.gstatic.com/s/expletussans/v14/RLpnK5v5_bqufTYdnhFzDj2ddfsouIku.eot?#) format("eot"),url(//fonts.gstatic.com/s/expletussans/v14/RLpnK5v5_bqufTYdnhFzDj2ddfsouIkq.woff2) format("woff2"),url(//fonts.gstatic.com/s/expletussans/v14/RLpnK5v5_bqufTYdnhFzDj2ddfsouIks.woff) format("woff");
+}
+@font-face {
+          font-family: "Expletus Sans";
+          font-style: italic;
+          font-weight: 500;
+          src: local("Expletus Sans Medium Italic"),local(ExpletusSans-MediumItalic),url(//fonts.gstatic.com/s/expletussans/v14/RLpiK5v5_bqufTYdnhFzDj2ddfsgS6o_U1vI.eot?#) format("eot"),url(//fonts.gstatic.com/s/expletussans/v14/RLpiK5v5_bqufTYdnhFzDj2ddfsgS6o_U1vM.woff2) format("woff2"),url(//fonts.gstatic.com/s/expletussans/v14/RLpiK5v5_bqufTYdnhFzDj2ddfsgS6o_U1vK.woff) format("woff");
+}
+@font-face {
+          font-family: "Expletus Sans";
+          font-style: italic;
+          font-weight: 600;
+          src: local("Expletus Sans SemiBold Italic"),local(ExpletusSans-SemiBoldItalic),url(//fonts.gstatic.com/s/expletussans/v14/RLpiK5v5_bqufTYdnhFzDj2ddfsgZ60_U1vI.eot?#) format("eot"),url(//fonts.gstatic.com/s/expletussans/v14/RLpiK5v5_bqufTYdnhFzDj2ddfsgZ60_U1vM.woff2) format("woff2"),url(//fonts.gstatic.com/s/expletussans/v14/RLpiK5v5_bqufTYdnhFzDj2ddfsgZ60_U1vK.woff) format("woff");
+}
+@font-face {
+          font-family: "Expletus Sans";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Expletus Sans Bold Italic"),local(ExpletusSans-BoldItalic),url(//fonts.gstatic.com/s/expletussans/v14/RLpiK5v5_bqufTYdnhFzDj2ddfsgA6w_U1vI.eot?#) format("eot"),url(//fonts.gstatic.com/s/expletussans/v14/RLpiK5v5_bqufTYdnhFzDj2ddfsgA6w_U1vM.woff2) format("woff2"),url(//fonts.gstatic.com/s/expletussans/v14/RLpiK5v5_bqufTYdnhFzDj2ddfsgA6w_U1vK.woff) format("woff");
+}
+@font-face {
+          font-family: "Expletus Sans";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Expletus Sans"),local(ExpletusSans),url(//fonts.gstatic.com/s/expletussans/v14/RLp5K5v5_bqufTYdnhFzDj2ddf4Yvg.eot?#) format("eot"),url(//fonts.gstatic.com/s/expletussans/v14/RLp5K5v5_bqufTYdnhFzDj2ddf4Yug.woff2) format("woff2"),url(//fonts.gstatic.com/s/expletussans/v14/RLp5K5v5_bqufTYdnhFzDj2ddf4YvA.woff) format("woff");
+}
+@font-face {
+          font-family: "Expletus Sans";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Expletus Sans Medium"),local(ExpletusSans-Medium),url(//fonts.gstatic.com/s/expletussans/v14/RLpkK5v5_bqufTYdnhFzDj2dfQ07r64PVQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/expletussans/v14/RLpkK5v5_bqufTYdnhFzDj2dfQ07r64PUQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/expletussans/v14/RLpkK5v5_bqufTYdnhFzDj2dfQ07r64PVw.woff) format("woff");
+}
+@font-face {
+          font-family: "Expletus Sans";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Expletus Sans SemiBold"),local(ExpletusSans-SemiBold),url(//fonts.gstatic.com/s/expletussans/v14/RLpkK5v5_bqufTYdnhFzDj2dfSE8r64PVQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/expletussans/v14/RLpkK5v5_bqufTYdnhFzDj2dfSE8r64PUQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/expletussans/v14/RLpkK5v5_bqufTYdnhFzDj2dfSE8r64PVw.woff) format("woff");
+}
+@font-face {
+          font-family: "Expletus Sans";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Expletus Sans Bold"),local(ExpletusSans-Bold),url(//fonts.gstatic.com/s/expletussans/v14/RLpkK5v5_bqufTYdnhFzDj2dfUU9r64PVQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/expletussans/v14/RLpkK5v5_bqufTYdnhFzDj2dfUU9r64PUQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/expletussans/v14/RLpkK5v5_bqufTYdnhFzDj2dfUU9r64PVw.woff) format("woff");
+}
+.u-font-expletus-sans-400 {
+          font-family: 'Expletus Sans' !important;
+          font-weight: 400 !important;
+}
+.u-font-expletus-sans-400-italic {
+        font-family: 'Expletus Sans' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-expletus-sans-500 {
+          font-family: 'Expletus Sans' !important;
+          font-weight: 500 !important;
+}
+.u-font-expletus-sans-500-italic {
+        font-family: 'Expletus Sans' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-expletus-sans-600 {
+          font-family: 'Expletus Sans' !important;
+          font-weight: 600 !important;
+}
+.u-font-expletus-sans-600-italic {
+        font-family: 'Expletus Sans' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-expletus-sans-700 {
+          font-family: 'Expletus Sans' !important;
+          font-weight: 700 !important;
+}
+.u-font-expletus-sans-700-italic {
+        font-family: 'Expletus Sans' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

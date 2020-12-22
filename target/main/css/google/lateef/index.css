@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Lateef;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Lateef),url(//fonts.gstatic.com/s/lateef/v16/hESw6XVnNCxEvkb8oR2B.eot?#) format("eot"),url(//fonts.gstatic.com/s/lateef/v16/hESw6XVnNCxEvkb8oR2F.woff2) format("woff2"),url(//fonts.gstatic.com/s/lateef/v16/hESw6XVnNCxEvkb8oR2D.woff) format("woff");
+}
+.u-font-lateef-400 {
+          font-family: 'Lateef' !important;
+          font-weight: 400 !important;
+}

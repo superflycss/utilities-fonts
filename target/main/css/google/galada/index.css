@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Galada;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Galada Regular"),local(Galada-Regular),url(//fonts.gstatic.com/s/galada/v6/H4cmBXyGmcjXlUXO9SY7.eot?#) format("eot"),url(//fonts.gstatic.com/s/galada/v6/H4cmBXyGmcjXlUXO9SY_.woff2) format("woff2"),url(//fonts.gstatic.com/s/galada/v6/H4cmBXyGmcjXlUXO9SY5.woff) format("woff");
+}
+.u-font-galada-400 {
+          font-family: 'Galada' !important;
+          font-weight: 400 !important;
+}

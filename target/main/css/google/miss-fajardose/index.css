@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Miss Fajardose";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Miss Fajardose Regular"),local(MissFajardose-Regular),url(//fonts.gstatic.com/s/missfajardose/v10/E21-_dn5gvrawDdPFVl-N0Ajb_qmUvM.eot?#) format("eot"),url(//fonts.gstatic.com/s/missfajardose/v10/E21-_dn5gvrawDdPFVl-N0Ajb_qoUvc.woff2) format("woff2"),url(//fonts.gstatic.com/s/missfajardose/v10/E21-_dn5gvrawDdPFVl-N0Ajb_qmUvE.woff) format("woff");
+}
+.u-font-miss-fajardose-400 {
+          font-family: 'Miss Fajardose' !important;
+          font-weight: 400 !important;
+}

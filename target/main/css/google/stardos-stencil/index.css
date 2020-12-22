@@ -1,0 +1,20 @@
+@font-face {
+          font-family: "Stardos Stencil";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Stardos Stencil Regular"),local(StardosStencil-Regular),url(//fonts.gstatic.com/s/stardosstencil/v11/X7n94bcuGPC8hrvEOHXOgaKCc2Th6F5y.eot?#) format("eot"),url(//fonts.gstatic.com/s/stardosstencil/v11/X7n94bcuGPC8hrvEOHXOgaKCc2Th6F52.woff2) format("woff2"),url(//fonts.gstatic.com/s/stardosstencil/v11/X7n94bcuGPC8hrvEOHXOgaKCc2Th6F5w.woff) format("woff");
+}
+@font-face {
+          font-family: "Stardos Stencil";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Stardos Stencil Bold"),local(StardosStencil-Bold),url(//fonts.gstatic.com/s/stardosstencil/v11/X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tjuQWo.eot?#) format("eot"),url(//fonts.gstatic.com/s/stardosstencil/v11/X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tjuQWs.woff2) format("woff2"),url(//fonts.gstatic.com/s/stardosstencil/v11/X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tjuQWq.woff) format("woff");
+}
+.u-font-stardos-stencil-400 {
+          font-family: 'Stardos Stencil' !important;
+          font-weight: 400 !important;
+}
+.u-font-stardos-stencil-700 {
+          font-family: 'Stardos Stencil' !important;
+          font-weight: 700 !important;
+}

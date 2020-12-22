@@ -1,0 +1,21 @@
+@font-face {
+          font-family: Geo;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Geo Oblique"),local(Geo-Oblique),url(//fonts.gstatic.com/s/geo/v12/CSRx4zRZluflLUplajk.eot?#) format("eot"),url(//fonts.gstatic.com/s/geo/v12/CSRx4zRZluflLUplaj0.woff2) format("woff2"),url(//fonts.gstatic.com/s/geo/v12/CSRx4zRZluflLUplajs.woff) format("woff");
+}
+@font-face {
+          font-family: Geo;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Geo),local(Geo-Regular),url(//fonts.gstatic.com/s/geo/v12/CSRz4zRZluflKHpj.eot?#) format("eot"),url(//fonts.gstatic.com/s/geo/v12/CSRz4zRZluflKHpn.woff2) format("woff2"),url(//fonts.gstatic.com/s/geo/v12/CSRz4zRZluflKHph.woff) format("woff");
+}
+.u-font-geo-400 {
+          font-family: 'Geo' !important;
+          font-weight: 400 !important;
+}
+.u-font-geo-400-italic {
+        font-family: 'Geo' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}

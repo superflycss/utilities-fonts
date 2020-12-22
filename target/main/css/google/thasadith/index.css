@@ -1,0 +1,42 @@
+@font-face {
+          font-family: Thasadith;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Thasadith Italic"),local(Thasadith-Italic),url(//fonts.gstatic.com/s/thasadith/v4/mtG-4_1TIqPYrd_f5R1osnMZ-CU.eot?#) format("eot"),url(//fonts.gstatic.com/s/thasadith/v4/mtG-4_1TIqPYrd_f5R1osnMX-CE.woff2) format("woff2"),url(//fonts.gstatic.com/s/thasadith/v4/mtG-4_1TIqPYrd_f5R1osnMZ-Cc.woff) format("woff");
+}
+@font-face {
+          font-family: Thasadith;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Thasadith Bold Italic"),local(Thasadith-BoldItalic),url(//fonts.gstatic.com/s/thasadith/v4/mtGj4_1TIqPYrd_f5R1osnus3TS_Nk8.eot?#) format("eot"),url(//fonts.gstatic.com/s/thasadith/v4/mtGj4_1TIqPYrd_f5R1osnus3TSxNks.woff2) format("woff2"),url(//fonts.gstatic.com/s/thasadith/v4/mtGj4_1TIqPYrd_f5R1osnus3TS_Nk0.woff) format("woff");
+}
+@font-face {
+          font-family: Thasadith;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Thasadith Regular"),local(Thasadith-Regular),url(//fonts.gstatic.com/s/thasadith/v4/mtG44_1TIqPYrd_f5R1ouUMR.eot?#) format("eot"),url(//fonts.gstatic.com/s/thasadith/v4/mtG44_1TIqPYrd_f5R1ot0MV.woff2) format("woff2"),url(//fonts.gstatic.com/s/thasadith/v4/mtG44_1TIqPYrd_f5R1ouUMT.woff) format("woff");
+}
+@font-face {
+          font-family: Thasadith;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Thasadith Bold"),local(Thasadith-Bold),url(//fonts.gstatic.com/s/thasadith/v4/mtG94_1TIqPYrd_f5R1gDGYA0QS3.eot?#) format("eot"),url(//fonts.gstatic.com/s/thasadith/v4/mtG94_1TIqPYrd_f5R1gDGYA3wSz.woff2) format("woff2"),url(//fonts.gstatic.com/s/thasadith/v4/mtG94_1TIqPYrd_f5R1gDGYA0QS1.woff) format("woff");
+}
+.u-font-thasadith-400 {
+          font-family: 'Thasadith' !important;
+          font-weight: 400 !important;
+}
+.u-font-thasadith-400-italic {
+        font-family: 'Thasadith' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-thasadith-700 {
+          font-family: 'Thasadith' !important;
+          font-weight: 700 !important;
+}
+.u-font-thasadith-700-italic {
+        font-family: 'Thasadith' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

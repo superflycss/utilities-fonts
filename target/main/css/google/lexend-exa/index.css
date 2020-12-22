@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Lexend Exa";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Lexend Exa Regular"),local(LexendExa-Regular),url(//fonts.gstatic.com/s/lexendexa/v3/UMBXrPdOoHOnxExyjdBeaiPdBw.eot?#) format("eot"),url(//fonts.gstatic.com/s/lexendexa/v3/UMBXrPdOoHOnxExyjdBeai3dAw.woff2) format("woff2"),url(//fonts.gstatic.com/s/lexendexa/v3/UMBXrPdOoHOnxExyjdBeaiPdBQ.woff) format("woff");
+}
+.u-font-lexend-exa-400 {
+          font-family: 'Lexend Exa' !important;
+          font-weight: 400 !important;
+}

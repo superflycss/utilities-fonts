@@ -1,0 +1,90 @@
+@font-face {
+          font-family: "Gothic A1";
+          font-style: normal;
+          font-weight: 100;
+          src: local("Gothic A1 Thin"),local(GothicA1-Thin),url(//fonts.gstatic.com/s/gothica1/v8/CSR74z5ZnPydRjlCCwlCCPctaNI.eot?#) format("eot"),url(//fonts.gstatic.com/s/gothica1/v8/CSR74z5ZnPydRjlCCwlCCMcvCsF0so9KYQ_JRW9IP3jG6cq7prA.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/gothica1/v8/CSR74z5ZnPydRjlCCwlCCPctaNA.woff) format("woff");
+}
+@font-face {
+          font-family: "Gothic A1";
+          font-style: normal;
+          font-weight: 200;
+          src: local("Gothic A1 ExtraLight"),local(GothicA1-ExtraLight),url(//fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCpOY6T_N_.eot?#) format("eot"),url(//fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCpOYKTZFstupOfBjNSl5zPnvB_dOjwqCu.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCpOY6T_N9.woff) format("woff");
+}
+@font-face {
+          font-family: "Gothic A1";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Gothic A1 Light"),local(GothicA1-Light),url(//fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCwOU6T_N_.eot?#) format("eot"),url(//fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCwOUKTZFstupOfBjNSl5zPnvB_dOjwqCu.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCwOU6T_N9.woff) format("woff");
+}
+@font-face {
+          font-family: "Gothic A1";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Gothic A1 Regular"),local(GothicA1-Regular),url(//fonts.gstatic.com/s/gothica1/v8/CSR94z5ZnPydRjlCCwlKa8cr.eot?#) format("eot"),url(//fonts.gstatic.com/s/gothica1/v8/CSR94z5ZnPydRjlCCwl6aaU4Qt0V05ZAcgT3T1VKO2vL6LbP.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/gothica1/v8/CSR94z5ZnPydRjlCCwlKa8cp.woff) format("woff");
+}
+@font-face {
+          font-family: "Gothic A1";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Gothic A1 Medium"),local(GothicA1-Medium),url(//fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCmOQ6T_N_.eot?#) format("eot"),url(//fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCmOQKTZFstupOfBjNSl5zPnvB_dOjwqCu.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCmOQ6T_N9.woff) format("woff");
+}
+@font-face {
+          font-family: "Gothic A1";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Gothic A1 SemiBold"),local(GothicA1-SemiBold),url(//fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCtOM6T_N_.eot?#) format("eot"),url(//fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCtOMKTZFstupOfBjNSl5zPnvB_dOjwqCu.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCtOM6T_N9.woff) format("woff");
+}
+@font-face {
+          font-family: "Gothic A1";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Gothic A1 Bold"),local(GothicA1-Bold),url(//fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC0OI6T_N_.eot?#) format("eot"),url(//fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC0OIKTZFstupOfBjNSl5zPnvB_dOjwqCu.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC0OI6T_N9.woff) format("woff");
+}
+@font-face {
+          font-family: "Gothic A1";
+          font-style: normal;
+          font-weight: 800;
+          src: local("Gothic A1 ExtraBold"),local(GothicA1-ExtraBold),url(//fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCzOE6T_N_.eot?#) format("eot"),url(//fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCzOEKTZFstupOfBjNSl5zPnvB_dOjwqCu.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCzOE6T_N9.woff) format("woff");
+}
+@font-face {
+          font-family: "Gothic A1";
+          font-style: normal;
+          font-weight: 900;
+          src: local("Gothic A1 Black"),local(GothicA1-Black),url(//fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC6OA6T_N_.eot?#) format("eot"),url(//fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC6OAKTZFstupOfBjNSl5zPnvB_dOjwqCu.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC6OA6T_N9.woff) format("woff");
+}
+.u-font-gothic-a1-100 {
+          font-family: 'Gothic A1' !important;
+          font-weight: 100 !important;
+}
+.u-font-gothic-a1-200 {
+          font-family: 'Gothic A1' !important;
+          font-weight: 200 !important;
+}
+.u-font-gothic-a1-300 {
+          font-family: 'Gothic A1' !important;
+          font-weight: 300 !important;
+}
+.u-font-gothic-a1-400 {
+          font-family: 'Gothic A1' !important;
+          font-weight: 400 !important;
+}
+.u-font-gothic-a1-500 {
+          font-family: 'Gothic A1' !important;
+          font-weight: 500 !important;
+}
+.u-font-gothic-a1-600 {
+          font-family: 'Gothic A1' !important;
+          font-weight: 600 !important;
+}
+.u-font-gothic-a1-700 {
+          font-family: 'Gothic A1' !important;
+          font-weight: 700 !important;
+}
+.u-font-gothic-a1-800 {
+          font-family: 'Gothic A1' !important;
+          font-weight: 800 !important;
+}
+.u-font-gothic-a1-900 {
+          font-family: 'Gothic A1' !important;
+          font-weight: 900 !important;
+}

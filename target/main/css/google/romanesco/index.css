@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Romanesco;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Romanesco),local(Romanesco-Regular),url(//fonts.gstatic.com/s/romanesco/v9/w8gYH2ozQOY7_r_J7mSX1XYO.eot?#) format("eot"),url(//fonts.gstatic.com/s/romanesco/v9/w8gYH2ozQOY7_r_J7mSX23YK.woff2) format("woff2"),url(//fonts.gstatic.com/s/romanesco/v9/w8gYH2ozQOY7_r_J7mSX1XYM.woff) format("woff");
+}
+.u-font-romanesco-400 {
+          font-family: 'Romanesco' !important;
+          font-weight: 400 !important;
+}

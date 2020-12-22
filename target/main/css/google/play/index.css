@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Play;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Play Regular"),local(Play-Regular),url(//fonts.gstatic.com/s/play/v12/6aez4K2oVqwIvts2Gw.eot?#) format("eot"),url(//fonts.gstatic.com/s/play/v12/6aez4K2oVqwIvtU2Hw.woff2) format("woff2"),url(//fonts.gstatic.com/s/play/v12/6aez4K2oVqwIvts2GQ.woff) format("woff");
+}
+@font-face {
+          font-family: Play;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Play Bold"),local(Play-Bold),url(//fonts.gstatic.com/s/play/v12/6ae84K2oVqwItm4TCp4y3g.eot?#) format("eot"),url(//fonts.gstatic.com/s/play/v12/6ae84K2oVqwItm4TCpAy2g.woff2) format("woff2"),url(//fonts.gstatic.com/s/play/v12/6ae84K2oVqwItm4TCp4y3A.woff) format("woff");
+}
+.u-font-play-400 {
+          font-family: 'Play' !important;
+          font-weight: 400 !important;
+}
+.u-font-play-700 {
+          font-family: 'Play' !important;
+          font-weight: 700 !important;
+}

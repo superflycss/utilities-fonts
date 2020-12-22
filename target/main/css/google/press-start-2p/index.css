@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Press Start 2P";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Press Start 2P Regular"),local(PressStart2P-Regular),url(//fonts.gstatic.com/s/pressstart2p/v9/e3t4euO8T-267oIAQAu6jDQyK3nbivc.eot?#) format("eot"),url(//fonts.gstatic.com/s/pressstart2p/v9/e3t4euO8T-267oIAQAu6jDQyK3nVivM.woff2) format("woff2"),url(//fonts.gstatic.com/s/pressstart2p/v9/e3t4euO8T-267oIAQAu6jDQyK3nbivU.woff) format("woff");
+}
+.u-font-press-start-2p-400 {
+          font-family: 'Press Start 2P' !important;
+          font-weight: 400 !important;
+}

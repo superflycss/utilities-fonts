@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Jockey One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Jockey One"),local(JockeyOne-Regular),url(//fonts.gstatic.com/s/jockeyone/v10/HTxpL2g2KjCFj4x8WI6AnI_xGA.eot?#) format("eot"),url(//fonts.gstatic.com/s/jockeyone/v10/HTxpL2g2KjCFj4x8WI6AnIHxHA.woff2) format("woff2"),url(//fonts.gstatic.com/s/jockeyone/v10/HTxpL2g2KjCFj4x8WI6AnI_xGg.woff) format("woff");
+}
+.u-font-jockey-one-400 {
+          font-family: 'Jockey One' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Oxygen Mono";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Oxygen Mono"),local(OxygenMono-Regular),url(//fonts.gstatic.com/s/oxygenmono/v8/h0GsssGg9FxgDgCjLeAd7hjWx-o.eot?#) format("eot"),url(//fonts.gstatic.com/s/oxygenmono/v8/h0GsssGg9FxgDgCjLeAd7hjYx-4.woff2) format("woff2"),url(//fonts.gstatic.com/s/oxygenmono/v8/h0GsssGg9FxgDgCjLeAd7hjWx-g.woff) format("woff");
+}
+.u-font-oxygen-mono-400 {
+          font-family: 'Oxygen Mono' !important;
+          font-weight: 400 !important;
+}

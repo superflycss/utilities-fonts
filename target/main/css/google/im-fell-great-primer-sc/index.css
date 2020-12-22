@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "IM Fell Great Primer SC";
+          font-style: normal;
+          font-weight: 400;
+          src: local("IM FELL Great Primer SC"),local(IM_FELL_Great_Primer_SC),url(//fonts.gstatic.com/s/imfellgreatprimersc/v10/ga6daxBOxyt6sCqz3fjZCTFCTUDMHagsQKdDTIf6D3k.eot?#) format("eot"),url(//fonts.gstatic.com/s/imfellgreatprimersc/v10/ga6daxBOxyt6sCqz3fjZCTFCTUDMHagsQKdDTIf6D30.woff2) format("woff2"),url(//fonts.gstatic.com/s/imfellgreatprimersc/v10/ga6daxBOxyt6sCqz3fjZCTFCTUDMHagsQKdDTIf6D3s.woff) format("woff");
+}
+.u-font-im-fell-great-primer-sc-400 {
+          font-family: 'IM Fell Great Primer SC' !important;
+          font-weight: 400 !important;
+}

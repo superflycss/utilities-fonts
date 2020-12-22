@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Gorditas;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Gorditas),local(Gorditas-Regular),url(//fonts.gstatic.com/s/gorditas/v8/ll8_K2aTVD26DsPEtTDvB6s.eot?#) format("eot"),url(//fonts.gstatic.com/s/gorditas/v8/ll8_K2aTVD26DsPEtTDvB68.woff2) format("woff2"),url(//fonts.gstatic.com/s/gorditas/v8/ll8_K2aTVD26DsPEtTDvB6k.woff) format("woff");
+}
+@font-face {
+          font-family: Gorditas;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Gorditas Bold"),local(Gorditas-Bold),url(//fonts.gstatic.com/s/gorditas/v8/ll84K2aTVD26DsPEtThUIroPtg8.eot?#) format("eot"),url(//fonts.gstatic.com/s/gorditas/v8/ll84K2aTVD26DsPEtThUIroPtgs.woff2) format("woff2"),url(//fonts.gstatic.com/s/gorditas/v8/ll84K2aTVD26DsPEtThUIroPtg0.woff) format("woff");
+}
+.u-font-gorditas-400 {
+          font-family: 'Gorditas' !important;
+          font-weight: 400 !important;
+}
+.u-font-gorditas-700 {
+          font-family: 'Gorditas' !important;
+          font-weight: 700 !important;
+}

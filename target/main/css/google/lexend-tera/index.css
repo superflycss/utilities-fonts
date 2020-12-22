@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Lexend Tera";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Lexend Tera Regular"),local(LexendTera-Regular),url(//fonts.gstatic.com/s/lexendtera/v3/RrQUbo98_jt_IXnBPwCWtahJT4Y.eot?#) format("eot"),url(//fonts.gstatic.com/s/lexendtera/v3/RrQUbo98_jt_IXnBPwCWtahHT4I.woff2) format("woff2"),url(//fonts.gstatic.com/s/lexendtera/v3/RrQUbo98_jt_IXnBPwCWtahJT4Q.woff) format("woff");
+}
+.u-font-lexend-tera-400 {
+          font-family: 'Lexend Tera' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,60 @@
+@font-face {
+          font-family: Maitree;
+          font-style: normal;
+          font-weight: 200;
+          src: local("Maitree ExtraLight"),local(Maitree-ExtraLight),url(//fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklhGNaJiiuQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklhGNaJaivQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklhGNaJiiuw.woff) format("woff");
+}
+@font-face {
+          font-family: Maitree;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Maitree Light"),local(Maitree-Light),url(//fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklnWOaJiiuQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklnWOaJaivQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklnWOaJiiuw.woff) format("woff");
+}
+@font-face {
+          font-family: Maitree;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Maitree),url(//fonts.gstatic.com/s/maitree/v5/MjQGmil5tffhpBrkntCseQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/maitree/v5/MjQGmil5tffhpBrknt6sfQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/maitree/v5/MjQGmil5tffhpBrkntCsew.woff) format("woff");
+}
+@font-face {
+          font-family: Maitree;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Maitree Medium"),local(Maitree-Medium),url(//fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrkli2PaJiiuQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrkli2PaJaivQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrkli2PaJiiuw.woff) format("woff");
+}
+@font-face {
+          font-family: Maitree;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Maitree SemiBold"),local(Maitree-SemiBold),url(//fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklgGIaJiiuQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklgGIaJaivQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklgGIaJiiuw.woff) format("woff");
+}
+@font-face {
+          font-family: Maitree;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Maitree Bold"),local(Maitree-Bold),url(//fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklmWJaJiiuQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklmWJaJaivQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/maitree/v5/MjQDmil5tffhpBrklmWJaJiiuw.woff) format("woff");
+}
+.u-font-maitree-200 {
+          font-family: 'Maitree' !important;
+          font-weight: 200 !important;
+}
+.u-font-maitree-300 {
+          font-family: 'Maitree' !important;
+          font-weight: 300 !important;
+}
+.u-font-maitree-400 {
+          font-family: 'Maitree' !important;
+          font-weight: 400 !important;
+}
+.u-font-maitree-500 {
+          font-family: 'Maitree' !important;
+          font-weight: 500 !important;
+}
+.u-font-maitree-600 {
+          font-family: 'Maitree' !important;
+          font-weight: 600 !important;
+}
+.u-font-maitree-700 {
+          font-family: 'Maitree' !important;
+          font-weight: 700 !important;
+}

@@ -1,0 +1,50 @@
+@font-face {
+          font-family: "Baloo 2";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Baloo 2 Regular"),local(Baloo2-Regular),url(//fonts.gstatic.com/s/baloo2/v1/wXKrE3kTposypRyd51bcBA.eot?#) format("eot"),url(//fonts.gstatic.com/s/baloo2/v1/wXKrE3kTposypRyd51jcAA.woff2) format("woff2"),url(//fonts.gstatic.com/s/baloo2/v1/wXKrE3kTposypRyd51bcBg.woff) format("woff");
+}
+@font-face {
+          font-family: "Baloo 2";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Baloo 2 Medium"),local(Baloo2-Medium),url(//fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd76v_Fe0KnA.eot?#) format("eot"),url(//fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd76v_FeMKmA.woff2) format("woff2"),url(//fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd76v_Fe0Kng.woff) format("woff");
+}
+@font-face {
+          font-family: "Baloo 2";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Baloo 2 SemiBold"),local(Baloo2-SemiBold),url(//fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd74f4Fe0KnA.eot?#) format("eot"),url(//fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd74f4FeMKmA.woff2) format("woff2"),url(//fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd74f4Fe0Kng.woff) format("woff");
+}
+@font-face {
+          font-family: "Baloo 2";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Baloo 2 Bold"),local(Baloo2-Bold),url(//fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd7-P5Fe0KnA.eot?#) format("eot"),url(//fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd7-P5FeMKmA.woff2) format("woff2"),url(//fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd7-P5Fe0Kng.woff) format("woff");
+}
+@font-face {
+          font-family: "Baloo 2";
+          font-style: normal;
+          font-weight: 800;
+          src: local("Baloo 2 ExtraBold"),local(Baloo2-ExtraBold),url(//fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd7__6Fe0KnA.eot?#) format("eot"),url(//fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd7__6FeMKmA.woff2) format("woff2"),url(//fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd7__6Fe0Kng.woff) format("woff");
+}
+.u-font-baloo-2-400 {
+          font-family: 'Baloo 2' !important;
+          font-weight: 400 !important;
+}
+.u-font-baloo-2-500 {
+          font-family: 'Baloo 2' !important;
+          font-weight: 500 !important;
+}
+.u-font-baloo-2-600 {
+          font-family: 'Baloo 2' !important;
+          font-weight: 600 !important;
+}
+.u-font-baloo-2-700 {
+          font-family: 'Baloo 2' !important;
+          font-weight: 700 !important;
+}
+.u-font-baloo-2-800 {
+          font-family: 'Baloo 2' !important;
+          font-weight: 800 !important;
+}

@@ -1,0 +1,126 @@
+@font-face {
+          font-family: "Bai Jamjuree";
+          font-style: italic;
+          font-weight: 200;
+          src: local("Bai Jamjuree ExtraLight Italic"),local(BaiJamjuree-ExtraLightItalic),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIoapSCOBt_aeQQ7ftydoa8W_oGkqo40yg.eot?#) format("eot"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIoapSCOBt_aeQQ7ftydoa8W_oGkqo20yw.woff2) format("woff2"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIoapSCOBt_aeQQ7ftydoa8W_oGkqo40yo.woff) format("woff");
+}
+@font-face {
+          font-family: "Bai Jamjuree";
+          font-style: italic;
+          font-weight: 300;
+          src: local("Bai Jamjuree Light Italic"),local(BaiJamjuree-LightItalic),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIoapSCOBt_aeQQ7ftydoa8W_pikao40yg.eot?#) format("eot"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIoapSCOBt_aeQQ7ftydoa8W_pikao20yw.woff2) format("woff2"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIoapSCOBt_aeQQ7ftydoa8W_pikao40yo.woff) format("woff");
+}
+@font-face {
+          font-family: "Bai Jamjuree";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Bai Jamjuree Italic"),local(BaiJamjuree-Italic),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIrapSCOBt_aeQQ7ftydoa8W_LHs7s.eot?#) format("eot"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIrapSCOBt_aeQQ7ftydoa8W_LJs78.woff2) format("woff2"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIrapSCOBt_aeQQ7ftydoa8W_LHs7k.woff) format("woff");
+}
+@font-face {
+          font-family: "Bai Jamjuree";
+          font-style: italic;
+          font-weight: 500;
+          src: local("Bai Jamjuree Medium Italic"),local(BaiJamjuree-MediumItalic),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIoapSCOBt_aeQQ7ftydoa8W_o6kKo40yg.eot?#) format("eot"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIoapSCOBt_aeQQ7ftydoa8W_o6kKo20yw.woff2) format("woff2"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIoapSCOBt_aeQQ7ftydoa8W_o6kKo40yo.woff) format("woff");
+}
+@font-face {
+          font-family: "Bai Jamjuree";
+          font-style: italic;
+          font-weight: 600;
+          src: local("Bai Jamjuree SemiBold Italic"),local(BaiJamjuree-SemiBoldItalic),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIoapSCOBt_aeQQ7ftydoa8W_oWl6o40yg.eot?#) format("eot"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIoapSCOBt_aeQQ7ftydoa8W_oWl6o20yw.woff2) format("woff2"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIoapSCOBt_aeQQ7ftydoa8W_oWl6o40yo.woff) format("woff");
+}
+@font-face {
+          font-family: "Bai Jamjuree";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Bai Jamjuree Bold Italic"),local(BaiJamjuree-BoldItalic),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIoapSCOBt_aeQQ7ftydoa8W_pylqo40yg.eot?#) format("eot"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIoapSCOBt_aeQQ7ftydoa8W_pylqo20yw.woff2) format("woff2"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIoapSCOBt_aeQQ7ftydoa8W_pylqo40yo.woff) format("woff");
+}
+@font-face {
+          font-family: "Bai Jamjuree";
+          font-style: normal;
+          font-weight: 200;
+          src: local("Bai Jamjuree ExtraLight"),local(BaiJamjuree-ExtraLight),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIqapSCOBt_aeQQ7ftydoa0kePempow.eot?#) format("eot"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIqapSCOBt_aeQQ7ftydoa0kePelJo0.woff2) format("woff2"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIqapSCOBt_aeQQ7ftydoa0kePempoy.woff) format("woff");
+}
+@font-face {
+          font-family: "Bai Jamjuree";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Bai Jamjuree Light"),local(BaiJamjuree-Light),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIqapSCOBt_aeQQ7ftydoa09eDempow.eot?#) format("eot"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIqapSCOBt_aeQQ7ftydoa09eDelJo0.woff2) format("woff2"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIqapSCOBt_aeQQ7ftydoa09eDempoy.woff) format("woff");
+}
+@font-face {
+          font-family: "Bai Jamjuree";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Bai Jamjuree Regular"),local(BaiJamjuree-Regular),url(//fonts.gstatic.com/s/baijamjuree/v4/LDI1apSCOBt_aeQQ7ftydoa8UMLP.eot?#) format("eot"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDI1apSCOBt_aeQQ7ftydoa8XsLL.woff2) format("woff2"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDI1apSCOBt_aeQQ7ftydoa8UMLN.woff) format("woff");
+}
+@font-face {
+          font-family: "Bai Jamjuree";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Bai Jamjuree Medium"),local(BaiJamjuree-Medium),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIqapSCOBt_aeQQ7ftydoa0reHempow.eot?#) format("eot"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIqapSCOBt_aeQQ7ftydoa0reHelJo0.woff2) format("woff2"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIqapSCOBt_aeQQ7ftydoa0reHempoy.woff) format("woff");
+}
+@font-face {
+          font-family: "Bai Jamjuree";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Bai Jamjuree SemiBold"),local(BaiJamjuree-SemiBold),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIqapSCOBt_aeQQ7ftydoa0gebempow.eot?#) format("eot"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIqapSCOBt_aeQQ7ftydoa0gebelJo0.woff2) format("woff2"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIqapSCOBt_aeQQ7ftydoa0gebempoy.woff) format("woff");
+}
+@font-face {
+          font-family: "Bai Jamjuree";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Bai Jamjuree Bold"),local(BaiJamjuree-Bold),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIqapSCOBt_aeQQ7ftydoa05efempow.eot?#) format("eot"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIqapSCOBt_aeQQ7ftydoa05efelJo0.woff2) format("woff2"),url(//fonts.gstatic.com/s/baijamjuree/v4/LDIqapSCOBt_aeQQ7ftydoa05efempoy.woff) format("woff");
+}
+.u-font-bai-jamjuree-200 {
+          font-family: 'Bai Jamjuree' !important;
+          font-weight: 200 !important;
+}
+.u-font-bai-jamjuree-200-italic {
+        font-family: 'Bai Jamjuree' !important;
+        font-weight: 200 !important;
+        font-style: italic !important;
+}
+.u-font-bai-jamjuree-300 {
+          font-family: 'Bai Jamjuree' !important;
+          font-weight: 300 !important;
+}
+.u-font-bai-jamjuree-300-italic {
+        font-family: 'Bai Jamjuree' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-bai-jamjuree-400 {
+          font-family: 'Bai Jamjuree' !important;
+          font-weight: 400 !important;
+}
+.u-font-bai-jamjuree-400-italic {
+        font-family: 'Bai Jamjuree' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-bai-jamjuree-500 {
+          font-family: 'Bai Jamjuree' !important;
+          font-weight: 500 !important;
+}
+.u-font-bai-jamjuree-500-italic {
+        font-family: 'Bai Jamjuree' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-bai-jamjuree-600 {
+          font-family: 'Bai Jamjuree' !important;
+          font-weight: 600 !important;
+}
+.u-font-bai-jamjuree-600-italic {
+        font-family: 'Bai Jamjuree' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-bai-jamjuree-700 {
+          font-family: 'Bai Jamjuree' !important;
+          font-weight: 700 !important;
+}
+.u-font-bai-jamjuree-700-italic {
+        font-family: 'Bai Jamjuree' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

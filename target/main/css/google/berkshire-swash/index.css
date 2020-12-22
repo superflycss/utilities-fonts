@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Berkshire Swash";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Berkshire Swash Regular"),local(BerkshireSwash-Regular),url(//fonts.gstatic.com/s/berkshireswash/v9/ptRRTi-cavZOGqCvnNJDl5m5XmN_pM43.eot?#) format("eot"),url(//fonts.gstatic.com/s/berkshireswash/v9/ptRRTi-cavZOGqCvnNJDl5m5XmN_qs4z.woff2) format("woff2"),url(//fonts.gstatic.com/s/berkshireswash/v9/ptRRTi-cavZOGqCvnNJDl5m5XmN_pM41.woff) format("woff");
+}
+.u-font-berkshire-swash-400 {
+          font-family: 'Berkshire Swash' !important;
+          font-weight: 400 !important;
+}

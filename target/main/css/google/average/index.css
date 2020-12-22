@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Average;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Average Regular"),local(Average-Regular),url(//fonts.gstatic.com/s/average/v9/fC1hPYBHe23MxA7rEet6UA.eot?#) format("eot"),url(//fonts.gstatic.com/s/average/v9/fC1hPYBHe23MxA7rEeV6VA.woff2) format("woff2"),url(//fonts.gstatic.com/s/average/v9/fC1hPYBHe23MxA7rEet6Ug.woff) format("woff");
+}
+.u-font-average-400 {
+          font-family: 'Average' !important;
+          font-weight: 400 !important;
+}

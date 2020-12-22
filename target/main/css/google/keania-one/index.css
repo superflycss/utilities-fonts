@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Keania One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Keania One"),local(KeaniaOne-Regular),url(//fonts.gstatic.com/s/keaniaone/v8/zOL54pXJk65E8pXardnu-c1kug.eot?#) format("eot"),url(//fonts.gstatic.com/s/keaniaone/v8/zOL54pXJk65E8pXardnu-cNkvg.woff2) format("woff2"),url(//fonts.gstatic.com/s/keaniaone/v8/zOL54pXJk65E8pXardnu-c1kuA.woff) format("woff");
+}
+.u-font-keania-one-400 {
+          font-family: 'Keania One' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Fenix;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Fenix),local(Fenix-Regular),url(//fonts.gstatic.com/s/fenix/v8/XoHo2YL_S7-g5rskITU.eot?#) format("eot"),url(//fonts.gstatic.com/s/fenix/v8/XoHo2YL_S7-g5rsqITE.woff2) format("woff2"),url(//fonts.gstatic.com/s/fenix/v8/XoHo2YL_S7-g5rskITc.woff) format("woff");
+}
+.u-font-fenix-400 {
+          font-family: 'Fenix' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Maiden Orange";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Maiden Orange Regular"),local(MaidenOrange-Regular),url(//fonts.gstatic.com/s/maidenorange/v11/kJE1BuIX7AUmhi2V4m08kb1XvOFXDA.eot?#) format("eot"),url(//fonts.gstatic.com/s/maidenorange/v11/kJE1BuIX7AUmhi2V4m08kb1XvOFXCA.woff2) format("woff2"),url(//fonts.gstatic.com/s/maidenorange/v11/kJE1BuIX7AUmhi2V4m08kb1XvOFXDg.woff) format("woff");
+}
+.u-font-maiden-orange-400 {
+          font-family: 'Maiden Orange' !important;
+          font-weight: 400 !important;
+}

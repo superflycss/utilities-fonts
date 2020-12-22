@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "IM Fell Double Pica SC";
+          font-style: normal;
+          font-weight: 400;
+          src: local("IM FELL Double Pica SC"),local(IM_FELL_Double_Pica_SC),url(//fonts.gstatic.com/s/imfelldoublepicasc/v10/neIazDmuiMkFo6zj_sHpQ8teNbWlwBB_hXjJ0YoOfw.eot?#) format("eot"),url(//fonts.gstatic.com/s/imfelldoublepicasc/v10/neIazDmuiMkFo6zj_sHpQ8teNbWlwBB_hXjJ0YoOew.woff2) format("woff2"),url(//fonts.gstatic.com/s/imfelldoublepicasc/v10/neIazDmuiMkFo6zj_sHpQ8teNbWlwBB_hXjJ0YoOfQ.woff) format("woff");
+}
+.u-font-im-fell-double-pica-sc-400 {
+          font-family: 'IM Fell Double Pica SC' !important;
+          font-weight: 400 !important;
+}

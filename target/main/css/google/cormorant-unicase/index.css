@@ -1,0 +1,50 @@
+@font-face {
+          font-family: "Cormorant Unicase";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Cormorant Unicase Light"),local(CormorantUnicase-Light),url(//fonts.gstatic.com/s/cormorantunicase/v10/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9N_ttcm5mk.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantunicase/v10/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9N_ttco5m0.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantunicase/v10/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9N_ttcm5ms.woff) format("woff");
+}
+@font-face {
+          font-family: "Cormorant Unicase";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Cormorant Unicase Regular"),local(CormorantUnicase-Regular),url(//fonts.gstatic.com/s/cormorantunicase/v10/HI_QiZUaILtOqhqgDeXoF_n1_fTGX9valMY.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantunicase/v10/HI_QiZUaILtOqhqgDeXoF_n1_fTGX9vUlMI.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantunicase/v10/HI_QiZUaILtOqhqgDeXoF_n1_fTGX9valMQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Cormorant Unicase";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Cormorant Unicase Medium"),local(CormorantUnicase-Medium),url(//fonts.gstatic.com/s/cormorantunicase/v10/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Mnt9cm5mk.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantunicase/v10/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Mnt9co5m0.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantunicase/v10/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Mnt9cm5ms.woff) format("woff");
+}
+@font-face {
+          font-family: "Cormorant Unicase";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Cormorant Unicase SemiBold"),local(CormorantUnicase-SemiBold),url(//fonts.gstatic.com/s/cormorantunicase/v10/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9MLsNcm5mk.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantunicase/v10/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9MLsNco5m0.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantunicase/v10/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9MLsNcm5ms.woff) format("woff");
+}
+@font-face {
+          font-family: "Cormorant Unicase";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Cormorant Unicase Bold"),local(CormorantUnicase-Bold),url(//fonts.gstatic.com/s/cormorantunicase/v10/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Nvsdcm5mk.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantunicase/v10/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Nvsdco5m0.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantunicase/v10/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Nvsdcm5ms.woff) format("woff");
+}
+.u-font-cormorant-unicase-300 {
+          font-family: 'Cormorant Unicase' !important;
+          font-weight: 300 !important;
+}
+.u-font-cormorant-unicase-400 {
+          font-family: 'Cormorant Unicase' !important;
+          font-weight: 400 !important;
+}
+.u-font-cormorant-unicase-500 {
+          font-family: 'Cormorant Unicase' !important;
+          font-weight: 500 !important;
+}
+.u-font-cormorant-unicase-600 {
+          font-family: 'Cormorant Unicase' !important;
+          font-weight: 600 !important;
+}
+.u-font-cormorant-unicase-700 {
+          font-family: 'Cormorant Unicase' !important;
+          font-weight: 700 !important;
+}

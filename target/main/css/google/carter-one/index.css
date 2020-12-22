@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Carter One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Carter One"),local(CarterOne),url(//fonts.gstatic.com/s/carterone/v12/q5uCsoe5IOB2-pXv9UcNExN8gA.eot?#) format("eot"),url(//fonts.gstatic.com/s/carterone/v12/q5uCsoe5IOB2-pXv9UcNExN8hA.woff2) format("woff2"),url(//fonts.gstatic.com/s/carterone/v12/q5uCsoe5IOB2-pXv9UcNExN8gg.woff) format("woff");
+}
+.u-font-carter-one-400 {
+          font-family: 'Carter One' !important;
+          font-weight: 400 !important;
+}

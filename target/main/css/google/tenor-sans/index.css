@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Tenor Sans";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Tenor Sans"),local(TenorSans),url(//fonts.gstatic.com/s/tenorsans/v12/bx6ANxqUneKx06UkIXISn3t4Dg.eot?#) format("eot"),url(//fonts.gstatic.com/s/tenorsans/v12/bx6ANxqUneKx06UkIXISn3V4Cg.woff2) format("woff2"),url(//fonts.gstatic.com/s/tenorsans/v12/bx6ANxqUneKx06UkIXISn3t4DA.woff) format("woff");
+}
+.u-font-tenor-sans-400 {
+          font-family: 'Tenor Sans' !important;
+          font-weight: 400 !important;
+}

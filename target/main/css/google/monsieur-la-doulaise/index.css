@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Monsieur La Doulaise";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Monsieur La Doulaise Regular"),local(MonsieurLaDoulaise-Regular),url(//fonts.gstatic.com/s/monsieurladoulaise/v9/_Xmz-GY4rjmCbQfc-aPRaa4pqV340p7EZm5XyEQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/monsieurladoulaise/v9/_Xmz-GY4rjmCbQfc-aPRaa4pqV340p7EZm5ZyEA.woff2) format("woff2"),url(//fonts.gstatic.com/s/monsieurladoulaise/v9/_Xmz-GY4rjmCbQfc-aPRaa4pqV340p7EZm5XyEY.woff) format("woff");
+}
+.u-font-monsieur-la-doulaise-400 {
+          font-family: 'Monsieur La Doulaise' !important;
+          font-weight: 400 !important;
+}

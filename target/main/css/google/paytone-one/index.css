@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Paytone One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Paytone One Regular"),local(PaytoneOne-Regular),url(//fonts.gstatic.com/s/paytoneone/v13/0nksC9P7MfYHj2oFtYm2ChTjgP8.eot?#) format("eot"),url(//fonts.gstatic.com/s/paytoneone/v13/0nksC9P7MfYHj2oFtYm2ChTtgPs.woff2) format("woff2"),url(//fonts.gstatic.com/s/paytoneone/v13/0nksC9P7MfYHj2oFtYm2ChTjgP0.woff) format("woff");
+}
+.u-font-paytone-one-400 {
+          font-family: 'Paytone One' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,63 @@
+@font-face {
+          font-family: "DM Sans";
+          font-style: italic;
+          font-weight: 400;
+          src: local("DM Sans Italic"),local(DMSans-Italic),url(//fonts.gstatic.com/s/dmsans/v5/rP2Fp2ywxg089UriCZa4ET-H.eot?#) format("eot"),url(//fonts.gstatic.com/s/dmsans/v5/rP2Fp2ywxg089UriCZa4Hz-D.woff2) format("woff2"),url(//fonts.gstatic.com/s/dmsans/v5/rP2Fp2ywxg089UriCZa4ET-F.woff) format("woff");
+}
+@font-face {
+          font-family: "DM Sans";
+          font-style: italic;
+          font-weight: 500;
+          src: local("DM Sans Medium Italic"),local(DMSans-MediumItalic),url(//fonts.gstatic.com/s/dmsans/v5/rP2Ap2ywxg089UriCZaw7ByWB3wX.eot?#) format("eot"),url(//fonts.gstatic.com/s/dmsans/v5/rP2Ap2ywxg089UriCZaw7ByWCXwT.woff2) format("woff2"),url(//fonts.gstatic.com/s/dmsans/v5/rP2Ap2ywxg089UriCZaw7ByWB3wV.woff) format("woff");
+}
+@font-face {
+          font-family: "DM Sans";
+          font-style: italic;
+          font-weight: 700;
+          src: local("DM Sans Bold Italic"),local(DMSans-BoldItalic),url(//fonts.gstatic.com/s/dmsans/v5/rP2Ap2ywxg089UriCZawpBqWB3wX.eot?#) format("eot"),url(//fonts.gstatic.com/s/dmsans/v5/rP2Ap2ywxg089UriCZawpBqWCXwT.woff2) format("woff2"),url(//fonts.gstatic.com/s/dmsans/v5/rP2Ap2ywxg089UriCZawpBqWB3wV.woff) format("woff");
+}
+@font-face {
+          font-family: "DM Sans";
+          font-style: normal;
+          font-weight: 400;
+          src: local("DM Sans Regular"),local(DMSans-Regular),url(//fonts.gstatic.com/s/dmsans/v5/rP2Hp2ywxg089UriCZ2IGQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/dmsans/v5/rP2Hp2ywxg089UriCZOIHQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/dmsans/v5/rP2Hp2ywxg089UriCZ2IGw.woff) format("woff");
+}
+@font-face {
+          font-family: "DM Sans";
+          font-style: normal;
+          font-weight: 500;
+          src: local("DM Sans Medium"),local(DMSans-Medium),url(//fonts.gstatic.com/s/dmsans/v5/rP2Cp2ywxg089UriAWCrCBamDw.eot?#) format("eot"),url(//fonts.gstatic.com/s/dmsans/v5/rP2Cp2ywxg089UriAWCrCBimCw.woff2) format("woff2"),url(//fonts.gstatic.com/s/dmsans/v5/rP2Cp2ywxg089UriAWCrCBamDQ.woff) format("woff");
+}
+@font-face {
+          font-family: "DM Sans";
+          font-style: normal;
+          font-weight: 700;
+          src: local("DM Sans Bold"),local(DMSans-Bold),url(//fonts.gstatic.com/s/dmsans/v5/rP2Cp2ywxg089UriASitCBamDw.eot?#) format("eot"),url(//fonts.gstatic.com/s/dmsans/v5/rP2Cp2ywxg089UriASitCBimCw.woff2) format("woff2"),url(//fonts.gstatic.com/s/dmsans/v5/rP2Cp2ywxg089UriASitCBamDQ.woff) format("woff");
+}
+.u-font-dm-sans-400 {
+          font-family: 'DM Sans' !important;
+          font-weight: 400 !important;
+}
+.u-font-dm-sans-400-italic {
+        font-family: 'DM Sans' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-dm-sans-500 {
+          font-family: 'DM Sans' !important;
+          font-weight: 500 !important;
+}
+.u-font-dm-sans-500-italic {
+        font-family: 'DM Sans' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-dm-sans-700 {
+          font-family: 'DM Sans' !important;
+          font-weight: 700 !important;
+}
+.u-font-dm-sans-700-italic {
+        font-family: 'DM Sans' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

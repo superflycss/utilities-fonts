@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Loved by the King";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Loved by the King"),local(LovedbytheKing),url(//fonts.gstatic.com/s/lovedbytheking/v10/Gw6gwdP76VDVJNXerebZxUMeRXUF2MiKn3Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/lovedbytheking/v10/Gw6gwdP76VDVJNXerebZxUMeRXUF2MiKn3A.woff2) format("woff2"),url(//fonts.gstatic.com/s/lovedbytheking/v10/Gw6gwdP76VDVJNXerebZxUMeRXUF2MiKn3Y.woff) format("woff");
+}
+.u-font-loved-by-the-king-400 {
+          font-family: 'Loved by the King' !important;
+          font-weight: 400 !important;
+}

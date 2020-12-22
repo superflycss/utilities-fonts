@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Engagement;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Engagement),local(Engagement-Regular),url(//fonts.gstatic.com/s/engagement/v10/x3dlckLDZbqa7RUs9MFVbN0mtg.eot?#) format("eot"),url(//fonts.gstatic.com/s/engagement/v10/x3dlckLDZbqa7RUs9MFVbN0msg.woff2) format("woff2"),url(//fonts.gstatic.com/s/engagement/v10/x3dlckLDZbqa7RUs9MFVbN0mtA.woff) format("woff");
+}
+.u-font-engagement-400 {
+          font-family: 'Engagement' !important;
+          font-weight: 400 !important;
+}

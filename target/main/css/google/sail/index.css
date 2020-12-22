@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Sail;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Sail),local(Sail-Regular),url(//fonts.gstatic.com/s/sail/v11/DPEjYwiBxwYJJB3JBQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/sail/v11/DPEjYwiBxwYJJBPJAQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/sail/v11/DPEjYwiBxwYJJB3JBw.woff) format("woff");
+}
+.u-font-sail-400 {
+          font-family: 'Sail' !important;
+          font-weight: 400 !important;
+}

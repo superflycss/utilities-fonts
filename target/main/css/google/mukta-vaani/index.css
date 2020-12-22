@@ -1,0 +1,70 @@
+@font-face {
+          font-family: "Mukta Vaani";
+          font-style: normal;
+          font-weight: 200;
+          src: local("Mukta Vaani ExtraLight"),local(MuktaVaani-ExtraLight),url(//fonts.gstatic.com/s/muktavaani/v7/3JnkSD_-ynaxmxnEfVHPIGXNV_BK8Oo.eot?#) format("eot"),url(//fonts.gstatic.com/s/muktavaani/v7/3JnkSD_-ynaxmxnEfVHPIGXNV_BE8O4.woff2) format("woff2"),url(//fonts.gstatic.com/s/muktavaani/v7/3JnkSD_-ynaxmxnEfVHPIGXNV_BK8Og.woff) format("woff");
+}
+@font-face {
+          font-family: "Mukta Vaani";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Mukta Vaani Light"),local(MuktaVaani-Light),url(//fonts.gstatic.com/s/muktavaani/v7/3JnkSD_-ynaxmxnEfVHPIGWpVPBK8Oo.eot?#) format("eot"),url(//fonts.gstatic.com/s/muktavaani/v7/3JnkSD_-ynaxmxnEfVHPIGWpVPBE8O4.woff2) format("woff2"),url(//fonts.gstatic.com/s/muktavaani/v7/3JnkSD_-ynaxmxnEfVHPIGWpVPBK8Og.woff) format("woff");
+}
+@font-face {
+          font-family: "Mukta Vaani";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Mukta Vaani Regular"),local(MuktaVaani-Regular),url(//fonts.gstatic.com/s/muktavaani/v7/3Jn5SD_-ynaxmxnEfVHPIG0MduE.eot?#) format("eot"),url(//fonts.gstatic.com/s/muktavaani/v7/3Jn5SD_-ynaxmxnEfVHPIG0CduU.woff2) format("woff2"),url(//fonts.gstatic.com/s/muktavaani/v7/3Jn5SD_-ynaxmxnEfVHPIG0MduM.woff) format("woff");
+}
+@font-face {
+          font-family: "Mukta Vaani";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Mukta Vaani Medium"),local(MuktaVaani-Medium),url(//fonts.gstatic.com/s/muktavaani/v7/3JnkSD_-ynaxmxnEfVHPIGXxVfBK8Oo.eot?#) format("eot"),url(//fonts.gstatic.com/s/muktavaani/v7/3JnkSD_-ynaxmxnEfVHPIGXxVfBE8O4.woff2) format("woff2"),url(//fonts.gstatic.com/s/muktavaani/v7/3JnkSD_-ynaxmxnEfVHPIGXxVfBK8Og.woff) format("woff");
+}
+@font-face {
+          font-family: "Mukta Vaani";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Mukta Vaani SemiBold"),local(MuktaVaani-SemiBold),url(//fonts.gstatic.com/s/muktavaani/v7/3JnkSD_-ynaxmxnEfVHPIGXdUvBK8Oo.eot?#) format("eot"),url(//fonts.gstatic.com/s/muktavaani/v7/3JnkSD_-ynaxmxnEfVHPIGXdUvBE8O4.woff2) format("woff2"),url(//fonts.gstatic.com/s/muktavaani/v7/3JnkSD_-ynaxmxnEfVHPIGXdUvBK8Og.woff) format("woff");
+}
+@font-face {
+          font-family: "Mukta Vaani";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Mukta Vaani Bold"),local(MuktaVaani-Bold),url(//fonts.gstatic.com/s/muktavaani/v7/3JnkSD_-ynaxmxnEfVHPIGW5U_BK8Oo.eot?#) format("eot"),url(//fonts.gstatic.com/s/muktavaani/v7/3JnkSD_-ynaxmxnEfVHPIGW5U_BE8O4.woff2) format("woff2"),url(//fonts.gstatic.com/s/muktavaani/v7/3JnkSD_-ynaxmxnEfVHPIGW5U_BK8Og.woff) format("woff");
+}
+@font-face {
+          font-family: "Mukta Vaani";
+          font-style: normal;
+          font-weight: 800;
+          src: local("Mukta Vaani ExtraBold"),local(MuktaVaani-ExtraBold),url(//fonts.gstatic.com/s/muktavaani/v7/3JnkSD_-ynaxmxnEfVHPIGWlUPBK8Oo.eot?#) format("eot"),url(//fonts.gstatic.com/s/muktavaani/v7/3JnkSD_-ynaxmxnEfVHPIGWlUPBE8O4.woff2) format("woff2"),url(//fonts.gstatic.com/s/muktavaani/v7/3JnkSD_-ynaxmxnEfVHPIGWlUPBK8Og.woff) format("woff");
+}
+.u-font-mukta-vaani-200 {
+          font-family: 'Mukta Vaani' !important;
+          font-weight: 200 !important;
+}
+.u-font-mukta-vaani-300 {
+          font-family: 'Mukta Vaani' !important;
+          font-weight: 300 !important;
+}
+.u-font-mukta-vaani-400 {
+          font-family: 'Mukta Vaani' !important;
+          font-weight: 400 !important;
+}
+.u-font-mukta-vaani-500 {
+          font-family: 'Mukta Vaani' !important;
+          font-weight: 500 !important;
+}
+.u-font-mukta-vaani-600 {
+          font-family: 'Mukta Vaani' !important;
+          font-weight: 600 !important;
+}
+.u-font-mukta-vaani-700 {
+          font-family: 'Mukta Vaani' !important;
+          font-weight: 700 !important;
+}
+.u-font-mukta-vaani-800 {
+          font-family: 'Mukta Vaani' !important;
+          font-weight: 800 !important;
+}

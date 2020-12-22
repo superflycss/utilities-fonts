@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Gloria Hallelujah";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Gloria Hallelujah"),local(GloriaHallelujah),url(//fonts.gstatic.com/s/gloriahallelujah/v12/LYjYdHv3kUk9BMV96EIswT9DIbW-MIS11zc.eot?#) format("eot"),url(//fonts.gstatic.com/s/gloriahallelujah/v12/LYjYdHv3kUk9BMV96EIswT9DIbW-MIS11zM.woff2) format("woff2"),url(//fonts.gstatic.com/s/gloriahallelujah/v12/LYjYdHv3kUk9BMV96EIswT9DIbW-MIS11zU.woff) format("woff");
+}
+.u-font-gloria-hallelujah-400 {
+          font-family: 'Gloria Hallelujah' !important;
+          font-weight: 400 !important;
+}

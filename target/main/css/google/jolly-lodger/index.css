@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Jolly Lodger";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Jolly Lodger"),local(JollyLodger),url(//fonts.gstatic.com/s/jollylodger/v8/BXRsvFTAh_bGkA1uQ48dlB3lUODW.eot?#) format("eot"),url(//fonts.gstatic.com/s/jollylodger/v8/BXRsvFTAh_bGkA1uQ48dlB3lXuDS.woff2) format("woff2"),url(//fonts.gstatic.com/s/jollylodger/v8/BXRsvFTAh_bGkA1uQ48dlB3lUODU.woff) format("woff");
+}
+.u-font-jolly-lodger-400 {
+          font-family: 'Jolly Lodger' !important;
+          font-weight: 400 !important;
+}

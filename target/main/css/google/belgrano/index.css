@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Belgrano;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Belgrano Regular"),local(Belgrano-Regular),url(//fonts.gstatic.com/s/belgrano/v11/55xvey5tM9rwKWrJZfMCgLw.eot?#) format("eot"),url(//fonts.gstatic.com/s/belgrano/v11/55xvey5tM9rwKWrJZfMCgLg.woff2) format("woff2"),url(//fonts.gstatic.com/s/belgrano/v11/55xvey5tM9rwKWrJZfMCgL4.woff) format("woff");
+}
+.u-font-belgrano-400 {
+          font-family: 'Belgrano' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,30 @@
+@font-face {
+          font-family: "Fira Mono";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Fira Mono Regular"),local(FiraMono-Regular),url(//fonts.gstatic.com/s/firamono/v9/N0bX2SlFPv1weGeLZDtgKP7W.eot?#) format("eot"),url(//fonts.gstatic.com/s/firamono/v9/N0bX2SlFPv1weGeLZDtgJv7S.woff2) format("woff2"),url(//fonts.gstatic.com/s/firamono/v9/N0bX2SlFPv1weGeLZDtgKP7U.woff) format("woff");
+}
+@font-face {
+          font-family: "Fira Mono";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Fira Mono Medium"),local(FiraMono-Medium),url(//fonts.gstatic.com/s/firamono/v9/N0bS2SlFPv1weGeLZDto1d3HkPfQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/firamono/v9/N0bS2SlFPv1weGeLZDto1d3HnvfU.woff2) format("woff2"),url(//fonts.gstatic.com/s/firamono/v9/N0bS2SlFPv1weGeLZDto1d3HkPfS.woff) format("woff");
+}
+@font-face {
+          font-family: "Fira Mono";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Fira Mono Bold"),local(FiraMono-Bold),url(//fonts.gstatic.com/s/firamono/v9/N0bS2SlFPv1weGeLZDtondvHkPfQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/firamono/v9/N0bS2SlFPv1weGeLZDtondvHnvfU.woff2) format("woff2"),url(//fonts.gstatic.com/s/firamono/v9/N0bS2SlFPv1weGeLZDtondvHkPfS.woff) format("woff");
+}
+.u-font-fira-mono-400 {
+          font-family: 'Fira Mono' !important;
+          font-weight: 400 !important;
+}
+.u-font-fira-mono-500 {
+          font-family: 'Fira Mono' !important;
+          font-weight: 500 !important;
+}
+.u-font-fira-mono-700 {
+          font-family: 'Fira Mono' !important;
+          font-weight: 700 !important;
+}

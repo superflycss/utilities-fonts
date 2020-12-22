@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Vidaloka;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Vidaloka "),local(Vidaloka-Regular),url(//fonts.gstatic.com/s/vidaloka/v13/7cHrv4c3ipenMKlEavs7wHs.eot?#) format("eot"),url(//fonts.gstatic.com/s/vidaloka/v13/7cHrv4c3ipenMKlEavs7wH8.woff2) format("woff2"),url(//fonts.gstatic.com/s/vidaloka/v13/7cHrv4c3ipenMKlEavs7wHk.woff) format("woff");
+}
+.u-font-vidaloka-400 {
+          font-family: 'Vidaloka' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Rufina;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Rufina),local(Rufina-Regular),url(//fonts.gstatic.com/s/rufina/v8/Yq6V-LyURyLy-aKCqh5h.eot?#) format("eot"),url(//fonts.gstatic.com/s/rufina/v8/Yq6V-LyURyLy-aKCpB5l.woff2) format("woff2"),url(//fonts.gstatic.com/s/rufina/v8/Yq6V-LyURyLy-aKCqh5j.woff) format("woff");
+}
+@font-face {
+          font-family: Rufina;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Rufina Bold"),local(Rufina-Bold),url(//fonts.gstatic.com/s/rufina/v8/Yq6W-LyURyLy-aKKHztwtcZb.eot?#) format("eot"),url(//fonts.gstatic.com/s/rufina/v8/Yq6W-LyURyLy-aKKHztwu8Zf.woff2) format("woff2"),url(//fonts.gstatic.com/s/rufina/v8/Yq6W-LyURyLy-aKKHztwtcZZ.woff) format("woff");
+}
+.u-font-rufina-400 {
+          font-family: 'Rufina' !important;
+          font-weight: 400 !important;
+}
+.u-font-rufina-700 {
+          font-family: 'Rufina' !important;
+          font-weight: 700 !important;
+}

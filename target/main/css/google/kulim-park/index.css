@@ -1,0 +1,105 @@
+@font-face {
+          font-family: "Kulim Park";
+          font-style: italic;
+          font-weight: 200;
+          src: local("Kulim Park ExtraLight Italic"),local(KulimPark-ExtraLightItalic),url(//fonts.gstatic.com/s/kulimpark/v2/fdNm9secq3hflz1Uu3IwhFwUKa9gaJ0v.eot?#) format("eot"),url(//fonts.gstatic.com/s/kulimpark/v2/fdNm9secq3hflz1Uu3IwhFwUKa9gZp0r.woff2) format("woff2"),url(//fonts.gstatic.com/s/kulimpark/v2/fdNm9secq3hflz1Uu3IwhFwUKa9gaJ0t.woff) format("woff");
+}
+@font-face {
+          font-family: "Kulim Park";
+          font-style: italic;
+          font-weight: 300;
+          src: local("Kulim Park Light Italic"),local(KulimPark-LightItalic),url(//fonts.gstatic.com/s/kulimpark/v2/fdNm9secq3hflz1Uu3IwhFwUTaxgaJ0v.eot?#) format("eot"),url(//fonts.gstatic.com/s/kulimpark/v2/fdNm9secq3hflz1Uu3IwhFwUTaxgZp0r.woff2) format("woff2"),url(//fonts.gstatic.com/s/kulimpark/v2/fdNm9secq3hflz1Uu3IwhFwUTaxgaJ0t.woff) format("woff");
+}
+@font-face {
+          font-family: "Kulim Park";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Kulim Park Italic"),local(KulimPark-Italic),url(//fonts.gstatic.com/s/kulimpark/v2/fdN59secq3hflz1Uu3IwhFwc6I5x.eot?#) format("eot"),url(//fonts.gstatic.com/s/kulimpark/v2/fdN59secq3hflz1Uu3IwhFwc5o51.woff2) format("woff2"),url(//fonts.gstatic.com/s/kulimpark/v2/fdN59secq3hflz1Uu3IwhFwc6I5z.woff) format("woff");
+}
+@font-face {
+          font-family: "Kulim Park";
+          font-style: italic;
+          font-weight: 600;
+          src: local("Kulim Park SemiBold Italic"),local(KulimPark-SemiBoldItalic),url(//fonts.gstatic.com/s/kulimpark/v2/fdNm9secq3hflz1Uu3IwhFwUOapgaJ0v.eot?#) format("eot"),url(//fonts.gstatic.com/s/kulimpark/v2/fdNm9secq3hflz1Uu3IwhFwUOapgZp0r.woff2) format("woff2"),url(//fonts.gstatic.com/s/kulimpark/v2/fdNm9secq3hflz1Uu3IwhFwUOapgaJ0t.woff) format("woff");
+}
+@font-face {
+          font-family: "Kulim Park";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Kulim Park Bold Italic"),local(KulimPark-BoldItalic),url(//fonts.gstatic.com/s/kulimpark/v2/fdNm9secq3hflz1Uu3IwhFwUXatgaJ0v.eot?#) format("eot"),url(//fonts.gstatic.com/s/kulimpark/v2/fdNm9secq3hflz1Uu3IwhFwUXatgZp0r.woff2) format("woff2"),url(//fonts.gstatic.com/s/kulimpark/v2/fdNm9secq3hflz1Uu3IwhFwUXatgaJ0t.woff) format("woff");
+}
+@font-face {
+          font-family: "Kulim Park";
+          font-style: normal;
+          font-weight: 200;
+          src: local("Kulim Park ExtraLight"),local(KulimPark-ExtraLight),url(//fonts.gstatic.com/s/kulimpark/v2/fdN49secq3hflz1Uu3IwjJYN8adQYA.eot?#) format("eot"),url(//fonts.gstatic.com/s/kulimpark/v2/fdN49secq3hflz1Uu3IwjJYN8alQZA.woff2) format("woff2"),url(//fonts.gstatic.com/s/kulimpark/v2/fdN49secq3hflz1Uu3IwjJYN8adQYg.woff) format("woff");
+}
+@font-face {
+          font-family: "Kulim Park";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Kulim Park Light"),local(KulimPark-Light),url(//fonts.gstatic.com/s/kulimpark/v2/fdN49secq3hflz1Uu3IwjPIO8adQYA.eot?#) format("eot"),url(//fonts.gstatic.com/s/kulimpark/v2/fdN49secq3hflz1Uu3IwjPIO8alQZA.woff2) format("woff2"),url(//fonts.gstatic.com/s/kulimpark/v2/fdN49secq3hflz1Uu3IwjPIO8adQYg.woff) format("woff");
+}
+@font-face {
+          font-family: "Kulim Park";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Kulim Park Regular"),local(KulimPark-Regular),url(//fonts.gstatic.com/s/kulimpark/v2/fdN79secq3hflz1Uu3IwhFcs4A.eot?#) format("eot"),url(//fonts.gstatic.com/s/kulimpark/v2/fdN79secq3hflz1Uu3IwhFks5A.woff2) format("woff2"),url(//fonts.gstatic.com/s/kulimpark/v2/fdN79secq3hflz1Uu3IwhFcs4g.woff) format("woff");
+}
+@font-face {
+          font-family: "Kulim Park";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Kulim Park SemiBold"),local(KulimPark-SemiBold),url(//fonts.gstatic.com/s/kulimpark/v2/fdN49secq3hflz1Uu3IwjIYI8adQYA.eot?#) format("eot"),url(//fonts.gstatic.com/s/kulimpark/v2/fdN49secq3hflz1Uu3IwjIYI8alQZA.woff2) format("woff2"),url(//fonts.gstatic.com/s/kulimpark/v2/fdN49secq3hflz1Uu3IwjIYI8adQYg.woff) format("woff");
+}
+@font-face {
+          font-family: "Kulim Park";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Kulim Park Bold"),local(KulimPark-Bold),url(//fonts.gstatic.com/s/kulimpark/v2/fdN49secq3hflz1Uu3IwjOIJ8adQYA.eot?#) format("eot"),url(//fonts.gstatic.com/s/kulimpark/v2/fdN49secq3hflz1Uu3IwjOIJ8alQZA.woff2) format("woff2"),url(//fonts.gstatic.com/s/kulimpark/v2/fdN49secq3hflz1Uu3IwjOIJ8adQYg.woff) format("woff");
+}
+.u-font-kulim-park-200 {
+          font-family: 'Kulim Park' !important;
+          font-weight: 200 !important;
+}
+.u-font-kulim-park-200-italic {
+        font-family: 'Kulim Park' !important;
+        font-weight: 200 !important;
+        font-style: italic !important;
+}
+.u-font-kulim-park-300 {
+          font-family: 'Kulim Park' !important;
+          font-weight: 300 !important;
+}
+.u-font-kulim-park-300-italic {
+        font-family: 'Kulim Park' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-kulim-park-400 {
+          font-family: 'Kulim Park' !important;
+          font-weight: 400 !important;
+}
+.u-font-kulim-park-400-italic {
+        font-family: 'Kulim Park' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-kulim-park-600 {
+          font-family: 'Kulim Park' !important;
+          font-weight: 600 !important;
+}
+.u-font-kulim-park-600-italic {
+        font-family: 'Kulim Park' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-kulim-park-700 {
+          font-family: 'Kulim Park' !important;
+          font-weight: 700 !important;
+}
+.u-font-kulim-park-700-italic {
+        font-family: 'Kulim Park' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

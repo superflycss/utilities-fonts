@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Wendy One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Wendy One"),local(WendyOne-Regular),url(//fonts.gstatic.com/s/wendyone/v9/2sDcZGJOipXfgfXV5wgzZmW9.eot?#) format("eot"),url(//fonts.gstatic.com/s/wendyone/v9/2sDcZGJOipXfgfXV5wgzaGW5.woff2) format("woff2"),url(//fonts.gstatic.com/s/wendyone/v9/2sDcZGJOipXfgfXV5wgzZmW_.woff) format("woff");
+}
+.u-font-wendy-one-400 {
+          font-family: 'Wendy One' !important;
+          font-weight: 400 !important;
+}

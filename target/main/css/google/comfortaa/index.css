@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Comfortaa;
+          font-style: normal;
+          font-weight: 300;
+          src: url(//fonts.gstatic.com/s/comfortaa/v29/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4TbMDr0fJA.eot?#) format("eot"),url(//fonts.gstatic.com/s/comfortaa/v29/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4TbMDrMfIA.woff2) format("woff2"),url(//fonts.gstatic.com/s/comfortaa/v29/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4TbMDr0fJg.woff) format("woff");
+}
+@font-face {
+          font-family: Comfortaa;
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/comfortaa/v29/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDr0fJA.eot?#) format("eot"),url(//fonts.gstatic.com/s/comfortaa/v29/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrMfIA.woff2) format("woff2"),url(//fonts.gstatic.com/s/comfortaa/v29/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDr0fJg.woff) format("woff");
+}
+@font-face {
+          font-family: Comfortaa;
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/comfortaa/v29/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4VrMDr0fJA.eot?#) format("eot"),url(//fonts.gstatic.com/s/comfortaa/v29/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4VrMDrMfIA.woff2) format("woff2"),url(//fonts.gstatic.com/s/comfortaa/v29/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4VrMDr0fJg.woff) format("woff");
+}
+@font-face {
+          font-family: Comfortaa;
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/comfortaa/v29/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4bbLDr0fJA.eot?#) format("eot"),url(//fonts.gstatic.com/s/comfortaa/v29/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4bbLDrMfIA.woff2) format("woff2"),url(//fonts.gstatic.com/s/comfortaa/v29/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4bbLDr0fJg.woff) format("woff");
+}
+@font-face {
+          font-family: Comfortaa;
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/comfortaa/v29/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4Y_LDr0fJA.eot?#) format("eot"),url(//fonts.gstatic.com/s/comfortaa/v29/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4Y_LDrMfIA.woff2) format("woff2"),url(//fonts.gstatic.com/s/comfortaa/v29/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4Y_LDr0fJg.woff) format("woff");
+}
+.u-font-comfortaa-300 {
+          font-family: 'Comfortaa' !important;
+          font-weight: 300 !important;
+}
+.u-font-comfortaa-400 {
+          font-family: 'Comfortaa' !important;
+          font-weight: 400 !important;
+}
+.u-font-comfortaa-500 {
+          font-family: 'Comfortaa' !important;
+          font-weight: 500 !important;
+}
+.u-font-comfortaa-600 {
+          font-family: 'Comfortaa' !important;
+          font-weight: 600 !important;
+}
+.u-font-comfortaa-700 {
+          font-family: 'Comfortaa' !important;
+          font-weight: 700 !important;
+}

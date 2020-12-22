@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Kreon;
+          font-style: normal;
+          font-weight: 300;
+          src: url(//fonts.gstatic.com/s/kreon/v23/t5t9IRIUKY-TFF_LW5lnMR3v2DnvPNiWcz8a.eot?#) format("eot"),url(//fonts.gstatic.com/s/kreon/v23/t5t9IRIUKY-TFF_LW5lnMR3v2DnvPNiWfT8e.woff2) format("woff2"),url(//fonts.gstatic.com/s/kreon/v23/t5t9IRIUKY-TFF_LW5lnMR3v2DnvPNiWcz8Y.woff) format("woff");
+}
+@font-face {
+          font-family: Kreon;
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/kreon/v23/t5t9IRIUKY-TFF_LW5lnMR3v2DnvYtiWcz8a.eot?#) format("eot"),url(//fonts.gstatic.com/s/kreon/v23/t5t9IRIUKY-TFF_LW5lnMR3v2DnvYtiWfT8e.woff2) format("woff2"),url(//fonts.gstatic.com/s/kreon/v23/t5t9IRIUKY-TFF_LW5lnMR3v2DnvYtiWcz8Y.woff) format("woff");
+}
+@font-face {
+          font-family: Kreon;
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/kreon/v23/t5t9IRIUKY-TFF_LW5lnMR3v2DnvUNiWcz8a.eot?#) format("eot"),url(//fonts.gstatic.com/s/kreon/v23/t5t9IRIUKY-TFF_LW5lnMR3v2DnvUNiWfT8e.woff2) format("woff2"),url(//fonts.gstatic.com/s/kreon/v23/t5t9IRIUKY-TFF_LW5lnMR3v2DnvUNiWcz8Y.woff) format("woff");
+}
+@font-face {
+          font-family: Kreon;
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/kreon/v23/t5t9IRIUKY-TFF_LW5lnMR3v2DnvvN-Wcz8a.eot?#) format("eot"),url(//fonts.gstatic.com/s/kreon/v23/t5t9IRIUKY-TFF_LW5lnMR3v2DnvvN-WfT8e.woff2) format("woff2"),url(//fonts.gstatic.com/s/kreon/v23/t5t9IRIUKY-TFF_LW5lnMR3v2DnvvN-Wcz8Y.woff) format("woff");
+}
+@font-face {
+          font-family: Kreon;
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/kreon/v23/t5t9IRIUKY-TFF_LW5lnMR3v2Dnvhd-Wcz8a.eot?#) format("eot"),url(//fonts.gstatic.com/s/kreon/v23/t5t9IRIUKY-TFF_LW5lnMR3v2Dnvhd-WfT8e.woff2) format("woff2"),url(//fonts.gstatic.com/s/kreon/v23/t5t9IRIUKY-TFF_LW5lnMR3v2Dnvhd-Wcz8Y.woff) format("woff");
+}
+.u-font-kreon-300 {
+          font-family: 'Kreon' !important;
+          font-weight: 300 !important;
+}
+.u-font-kreon-400 {
+          font-family: 'Kreon' !important;
+          font-weight: 400 !important;
+}
+.u-font-kreon-500 {
+          font-family: 'Kreon' !important;
+          font-weight: 500 !important;
+}
+.u-font-kreon-600 {
+          font-family: 'Kreon' !important;
+          font-weight: 600 !important;
+}
+.u-font-kreon-700 {
+          font-family: 'Kreon' !important;
+          font-weight: 700 !important;
+}

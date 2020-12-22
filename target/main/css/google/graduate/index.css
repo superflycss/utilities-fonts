@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Graduate;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Graduate),local(Graduate-Regular),url(//fonts.gstatic.com/s/graduate/v8/C8cg4cs3o2n15t_2YygW43g.eot?#) format("eot"),url(//fonts.gstatic.com/s/graduate/v8/C8cg4cs3o2n15t_2YygW43w.woff2) format("woff2"),url(//fonts.gstatic.com/s/graduate/v8/C8cg4cs3o2n15t_2YygW43o.woff) format("woff");
+}
+.u-font-graduate-400 {
+          font-family: 'Graduate' !important;
+          font-weight: 400 !important;
+}

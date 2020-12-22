@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Rozha One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Rozha One Regular"),local(RozhaOne-Regular),url(//fonts.gstatic.com/s/rozhaone/v8/AlZy_zVFtYP12Zncg2kRfH39.eot?#) format("eot"),url(//fonts.gstatic.com/s/rozhaone/v8/AlZy_zVFtYP12Zncg2kRcn35.woff2) format("woff2"),url(//fonts.gstatic.com/s/rozhaone/v8/AlZy_zVFtYP12Zncg2kRfH3_.woff) format("woff");
+}
+.u-font-rozha-one-400 {
+          font-family: 'Rozha One' !important;
+          font-weight: 400 !important;
+}

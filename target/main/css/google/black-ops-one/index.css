@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Black Ops One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Black Ops One Regular"),local(BlackOpsOne-Regular),url(//fonts.gstatic.com/s/blackopsone/v12/qWcsB6-ypo7xBdr6Xshe96H3aDXbsw.eot?#) format("eot"),url(//fonts.gstatic.com/s/blackopsone/v12/qWcsB6-ypo7xBdr6Xshe96H3aDvbtw.woff2) format("woff2"),url(//fonts.gstatic.com/s/blackopsone/v12/qWcsB6-ypo7xBdr6Xshe96H3aDXbsQ.woff) format("woff");
+}
+.u-font-black-ops-one-400 {
+          font-family: 'Black Ops One' !important;
+          font-weight: 400 !important;
+}

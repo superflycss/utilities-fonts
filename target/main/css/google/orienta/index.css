@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Orienta;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Orienta),local(Orienta-Regular),url(//fonts.gstatic.com/s/orienta/v8/PlI9FlK4Jrl5Y9zNSy6i8Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/orienta/v8/PlI9FlK4Jrl5Y9zNSyCi9Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/orienta/v8/PlI9FlK4Jrl5Y9zNSy6i8w.woff) format("woff");
+}
+.u-font-orienta-400 {
+          font-family: 'Orienta' !important;
+          font-weight: 400 !important;
+}

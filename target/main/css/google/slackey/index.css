@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Slackey;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Slackey Regular"),local(Slackey-Regular),url(//fonts.gstatic.com/s/slackey/v11/N0bV2SdQO-5yM0-dGlNQIA.eot?#) format("eot"),url(//fonts.gstatic.com/s/slackey/v11/N0bV2SdQO-5yM0-dGlNQJA.woff2) format("woff2"),url(//fonts.gstatic.com/s/slackey/v11/N0bV2SdQO-5yM0-dGlNQIg.woff) format("woff");
+}
+.u-font-slackey-400 {
+          font-family: 'Slackey' !important;
+          font-weight: 400 !important;
+}

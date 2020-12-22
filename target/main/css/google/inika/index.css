@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Inika;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Inika),url(//fonts.gstatic.com/s/inika/v9/rnCm-x5X3QP-piTOT8I.eot?#) format("eot"),url(//fonts.gstatic.com/s/inika/v9/rnCm-x5X3QP-piTAT8Y.woff2) format("woff2"),url(//fonts.gstatic.com/s/inika/v9/rnCm-x5X3QP-piTOT8A.woff) format("woff");
+}
+@font-face {
+          font-family: Inika;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Inika Bold"),local(Inika-Bold),url(//fonts.gstatic.com/s/inika/v9/rnCr-x5X3QP-pix7atM3knw.eot?#) format("eot"),url(//fonts.gstatic.com/s/inika/v9/rnCr-x5X3QP-pix7atM5kng.woff2) format("woff2"),url(//fonts.gstatic.com/s/inika/v9/rnCr-x5X3QP-pix7atM3kn4.woff) format("woff");
+}
+.u-font-inika-400 {
+          font-family: 'Inika' !important;
+          font-weight: 400 !important;
+}
+.u-font-inika-700 {
+          font-family: 'Inika' !important;
+          font-weight: 700 !important;
+}

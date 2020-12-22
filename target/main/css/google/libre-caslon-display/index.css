@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Libre Caslon Display";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Libre Caslon Display Regular"),local(LibreCaslonDisplay-Regular),url(//fonts.gstatic.com/s/librecaslondisplay/v2/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lYfx0.eot?#) format("eot"),url(//fonts.gstatic.com/s/librecaslondisplay/v2/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lWfxk.woff2) format("woff2"),url(//fonts.gstatic.com/s/librecaslondisplay/v2/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lYfx8.woff) format("woff");
+}
+.u-font-libre-caslon-display-400 {
+          font-family: 'Libre Caslon Display' !important;
+          font-weight: 400 !important;
+}

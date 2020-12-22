@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Fresca;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Fresca-Regular),url(//fonts.gstatic.com/s/fresca/v9/6ae94K--SKgCzbMGE7cT.eot?#) format("eot"),url(//fonts.gstatic.com/s/fresca/v9/6ae94K--SKgCzbMGHbcX.woff2) format("woff2"),url(//fonts.gstatic.com/s/fresca/v9/6ae94K--SKgCzbMGE7cR.woff) format("woff");
+}
+.u-font-fresca-400 {
+          font-family: 'Fresca' !important;
+          font-weight: 400 !important;
+}

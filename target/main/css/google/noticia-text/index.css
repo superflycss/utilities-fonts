@@ -1,0 +1,42 @@
+@font-face {
+          font-family: "Noticia Text";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Noticia Text Italic"),local(NoticiaText-Italic),url(//fonts.gstatic.com/s/noticiatext/v10/VuJodNDF2Yv9qppOePKYRP12YwtUn0o.eot?#) format("eot"),url(//fonts.gstatic.com/s/noticiatext/v10/VuJodNDF2Yv9qppOePKYRP12Ywtan04.woff2) format("woff2"),url(//fonts.gstatic.com/s/noticiatext/v10/VuJodNDF2Yv9qppOePKYRP12YwtUn0g.woff) format("woff");
+}
+@font-face {
+          font-family: "Noticia Text";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Noticia Text Bold Italic"),local(NoticiaText-BoldItalic),url(//fonts.gstatic.com/s/noticiatext/v10/VuJrdNDF2Yv9qppOePKYRP12YwPhulvchDE.eot?#) format("eot"),url(//fonts.gstatic.com/s/noticiatext/v10/VuJrdNDF2Yv9qppOePKYRP12YwPhulvShDU.woff2) format("woff2"),url(//fonts.gstatic.com/s/noticiatext/v10/VuJrdNDF2Yv9qppOePKYRP12YwPhulvchDM.woff) format("woff");
+}
+@font-face {
+          font-family: "Noticia Text";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Noticia Text"),local(NoticiaText-Regular),url(//fonts.gstatic.com/s/noticiatext/v10/VuJ2dNDF2Yv9qppOePKYRP12aDtc.eot?#) format("eot"),url(//fonts.gstatic.com/s/noticiatext/v10/VuJ2dNDF2Yv9qppOePKYRP12ZjtY.woff2) format("woff2"),url(//fonts.gstatic.com/s/noticiatext/v10/VuJ2dNDF2Yv9qppOePKYRP12aDte.woff) format("woff");
+}
+@font-face {
+          font-family: "Noticia Text";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Noticia Text Bold"),local(NoticiaText-Bold),url(//fonts.gstatic.com/s/noticiatext/v10/VuJpdNDF2Yv9qppOePKYRP1-3R5NtmvU.eot?#) format("eot"),url(//fonts.gstatic.com/s/noticiatext/v10/VuJpdNDF2Yv9qppOePKYRP1-3R5NuGvQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/noticiatext/v10/VuJpdNDF2Yv9qppOePKYRP1-3R5NtmvW.woff) format("woff");
+}
+.u-font-noticia-text-400 {
+          font-family: 'Noticia Text' !important;
+          font-weight: 400 !important;
+}
+.u-font-noticia-text-400-italic {
+        font-family: 'Noticia Text' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-noticia-text-700 {
+          font-family: 'Noticia Text' !important;
+          font-weight: 700 !important;
+}
+.u-font-noticia-text-700-italic {
+        font-family: 'Noticia Text' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

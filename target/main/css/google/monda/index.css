@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Monda;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Monda Regular"),local(Monda-Regular),url(//fonts.gstatic.com/s/monda/v10/TK3tWkYFABsmjspvPh4.eot?#) format("eot"),url(//fonts.gstatic.com/s/monda/v10/TK3tWkYFABsmjsphPho.woff2) format("woff2"),url(//fonts.gstatic.com/s/monda/v10/TK3tWkYFABsmjspvPhw.woff) format("woff");
+}
+@font-face {
+          font-family: Monda;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Monda Bold"),local(Monda-Bold),url(//fonts.gstatic.com/s/monda/v10/TK3gWkYFABsmjsLaGw8Kne4.eot?#) format("eot"),url(//fonts.gstatic.com/s/monda/v10/TK3gWkYFABsmjsLaGw8Eneo.woff2) format("woff2"),url(//fonts.gstatic.com/s/monda/v10/TK3gWkYFABsmjsLaGw8Knew.woff) format("woff");
+}
+.u-font-monda-400 {
+          font-family: 'Monda' !important;
+          font-weight: 400 !important;
+}
+.u-font-monda-700 {
+          font-family: 'Monda' !important;
+          font-weight: 700 !important;
+}

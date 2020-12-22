@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Angkor;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Angkor Regular"),local(Angkor-Regular),url(//fonts.gstatic.com/s/angkor/v13/H4cmBXyAlsPdnlb-8w.eot?#) format("eot"),url(//fonts.gstatic.com/s/angkor/v13/H4cmBXyAlsPdnlbO_iY_0Lo.woff2) format("woff2"),url(//fonts.gstatic.com/s/angkor/v13/H4cmBXyAlsPdnlb-8Q.woff) format("woff");
+}
+.u-font-angkor-400 {
+          font-family: 'Angkor' !important;
+          font-weight: 400 !important;
+}

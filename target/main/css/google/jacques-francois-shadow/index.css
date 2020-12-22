@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Jacques Francois Shadow";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Jacques Francois Shadow"),local(JacquesFrancoisShadow-Regular),url(//fonts.gstatic.com/s/jacquesfrancoisshadow/v9/KR1FBtOz8PKTMk-kqdkLVrvR0ECFrB6Pin-2_p8Sun4.eot?#) format("eot"),url(//fonts.gstatic.com/s/jacquesfrancoisshadow/v9/KR1FBtOz8PKTMk-kqdkLVrvR0ECFrB6Pin-2_p8Suno.woff2) format("woff2"),url(//fonts.gstatic.com/s/jacquesfrancoisshadow/v9/KR1FBtOz8PKTMk-kqdkLVrvR0ECFrB6Pin-2_p8Sunw.woff) format("woff");
+}
+.u-font-jacques-francois-shadow-400 {
+          font-family: 'Jacques Francois Shadow' !important;
+          font-weight: 400 !important;
+}

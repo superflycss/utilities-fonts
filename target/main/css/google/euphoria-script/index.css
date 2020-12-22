@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Euphoria Script";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Euphoria Script"),local(EuphoriaScript-Regular),url(//fonts.gstatic.com/s/euphoriascript/v9/mFTpWb0X2bLb_cx6To2B8GpKoD5qmvxW.eot?#) format("eot"),url(//fonts.gstatic.com/s/euphoriascript/v9/mFTpWb0X2bLb_cx6To2B8GpKoD5qlPxS.woff2) format("woff2"),url(//fonts.gstatic.com/s/euphoriascript/v9/mFTpWb0X2bLb_cx6To2B8GpKoD5qmvxU.woff) format("woff");
+}
+.u-font-euphoria-script-400 {
+          font-family: 'Euphoria Script' !important;
+          font-weight: 400 !important;
+}

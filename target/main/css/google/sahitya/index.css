@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Sahitya;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Sahitya),local(Sahitya-Regular),url(//fonts.gstatic.com/s/sahitya/v5/6qLAKZkOuhnuqlJAWSAPOg.eot?#) format("eot"),url(//fonts.gstatic.com/s/sahitya/v5/6qLAKZkOuhnuqlJAWSAPPg.woff2) format("woff2"),url(//fonts.gstatic.com/s/sahitya/v5/6qLAKZkOuhnuqlJAWSAPOA.woff) format("woff");
+}
+@font-face {
+          font-family: Sahitya;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Sahitya Bold"),local(Sahitya-Bold),url(//fonts.gstatic.com/s/sahitya/v5/6qLFKZkOuhnuqlJAUZsqKyMlFw.eot?#) format("eot"),url(//fonts.gstatic.com/s/sahitya/v5/6qLFKZkOuhnuqlJAUZsqKyMlEw.woff2) format("woff2"),url(//fonts.gstatic.com/s/sahitya/v5/6qLFKZkOuhnuqlJAUZsqKyMlFQ.woff) format("woff");
+}
+.u-font-sahitya-400 {
+          font-family: 'Sahitya' !important;
+          font-weight: 400 !important;
+}
+.u-font-sahitya-700 {
+          font-family: 'Sahitya' !important;
+          font-weight: 700 !important;
+}

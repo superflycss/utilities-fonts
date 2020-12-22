@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Rasa;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Rasa Light"),local(Rasa-Light),url(//fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdg52ggmxTg.eot?#) format("eot"),url(//fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdg52ggexSg.woff2) format("woff2"),url(//fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdg52ggmxTA.woff) format("woff");
+}
+@font-face {
+          font-family: Rasa;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Rasa Regular"),local(Rasa-Regular),url(//fonts.gstatic.com/s/rasa/v6/xn7vYHIn1mWmfqtUkw.eot?#) format("eot"),url(//fonts.gstatic.com/s/rasa/v6/xn7vYHIn1mWmfqVUlw.woff2) format("woff2"),url(//fonts.gstatic.com/s/rasa/v6/xn7vYHIn1mWmfqtUkQ.woff) format("woff");
+}
+@font-face {
+          font-family: Rasa;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Rasa Medium"),local(Rasa-Medium),url(//fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdlZ3ggmxTg.eot?#) format("eot"),url(//fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdlZ3ggexSg.woff2) format("woff2"),url(//fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdlZ3ggmxTA.woff) format("woff");
+}
+@font-face {
+          font-family: Rasa;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Rasa SemiBold"),local(Rasa-SemiBold),url(//fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdnpwggmxTg.eot?#) format("eot"),url(//fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdnpwggexSg.woff2) format("woff2"),url(//fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdnpwggmxTA.woff) format("woff");
+}
+@font-face {
+          font-family: Rasa;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Rasa Bold"),local(Rasa-Bold),url(//fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdh5xggmxTg.eot?#) format("eot"),url(//fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdh5xggexSg.woff2) format("woff2"),url(//fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdh5xggmxTA.woff) format("woff");
+}
+.u-font-rasa-300 {
+          font-family: 'Rasa' !important;
+          font-weight: 300 !important;
+}
+.u-font-rasa-400 {
+          font-family: 'Rasa' !important;
+          font-weight: 400 !important;
+}
+.u-font-rasa-500 {
+          font-family: 'Rasa' !important;
+          font-weight: 500 !important;
+}
+.u-font-rasa-600 {
+          font-family: 'Rasa' !important;
+          font-weight: 600 !important;
+}
+.u-font-rasa-700 {
+          font-family: 'Rasa' !important;
+          font-weight: 700 !important;
+}

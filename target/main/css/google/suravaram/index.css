@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Suravaram;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Suravaram),url(//fonts.gstatic.com/s/suravaram/v8/_gP61R_usiY7SCym4xIwjGSw.eot?#) format("eot"),url(//fonts.gstatic.com/s/suravaram/v8/_gP61R_usiY7SCym4xIwjGS0.woff2) format("woff2"),url(//fonts.gstatic.com/s/suravaram/v8/_gP61R_usiY7SCym4xIwjGSy.woff) format("woff");
+}
+.u-font-suravaram-400 {
+          font-family: 'Suravaram' !important;
+          font-weight: 400 !important;
+}

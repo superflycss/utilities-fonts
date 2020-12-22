@@ -1,0 +1,30 @@
+@font-face {
+          font-family: Gayathri;
+          font-style: normal;
+          font-weight: 100;
+          src: local("Gayathri Thin"),local(Gayathri-Thin),url(//fonts.gstatic.com/s/gayathri/v2/MCoWzAb429DbBilWLLhcypzYBg.eot?#) format("eot"),url(//fonts.gstatic.com/s/gayathri/v2/MCoWzAb429DbBilWLLhcypzYAg.woff2) format("woff2"),url(//fonts.gstatic.com/s/gayathri/v2/MCoWzAb429DbBilWLLhcypzYBA.woff) format("woff");
+}
+@font-face {
+          font-family: Gayathri;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Gayathri Regular"),local(Gayathri-Regular),url(//fonts.gstatic.com/s/gayathri/v2/MCoQzAb429DbBilWLLA_-po.eot?#) format("eot"),url(//fonts.gstatic.com/s/gayathri/v2/MCoQzAb429DbBilWLLA_-p4.woff2) format("woff2"),url(//fonts.gstatic.com/s/gayathri/v2/MCoQzAb429DbBilWLLA_-pg.woff) format("woff");
+}
+@font-face {
+          font-family: Gayathri;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Gayathri Bold"),local(Gayathri-Bold),url(//fonts.gstatic.com/s/gayathri/v2/MCoXzAb429DbBilWLLiE34v_J_E.eot?#) format("eot"),url(//fonts.gstatic.com/s/gayathri/v2/MCoXzAb429DbBilWLLiE34v_J_U.woff2) format("woff2"),url(//fonts.gstatic.com/s/gayathri/v2/MCoXzAb429DbBilWLLiE34v_J_M.woff) format("woff");
+}
+.u-font-gayathri-100 {
+          font-family: 'Gayathri' !important;
+          font-weight: 100 !important;
+}
+.u-font-gayathri-400 {
+          font-family: 'Gayathri' !important;
+          font-weight: 400 !important;
+}
+.u-font-gayathri-700 {
+          font-family: 'Gayathri' !important;
+          font-weight: 700 !important;
+}

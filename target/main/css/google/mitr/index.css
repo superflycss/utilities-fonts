@@ -1,0 +1,60 @@
+@font-face {
+          font-family: Mitr;
+          font-style: normal;
+          font-weight: 200;
+          src: local("Mitr ExtraLight"),local(Mitr-ExtraLight),url(//fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8fMZJJnedg.eot?#) format("eot"),url(//fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8fMZJJfecg.woff2) format("woff2"),url(//fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8fMZJJnedA.woff) format("woff");
+}
+@font-face {
+          font-family: Mitr;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Mitr Light"),local(Mitr-Light),url(//fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8ZcaJJnedg.eot?#) format("eot"),url(//fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8ZcaJJfecg.woff2) format("woff2"),url(//fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8ZcaJJnedA.woff) format("woff");
+}
+@font-face {
+          font-family: Mitr;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Mitr Regular"),local(Mitr-Regular),url(//fonts.gstatic.com/s/mitr/v5/pxiLypw5ucZF-TI4NQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/mitr/v5/pxiLypw5ucZF-Tw4MQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/mitr/v5/pxiLypw5ucZF-TI4Nw.woff) format("woff");
+}
+@font-face {
+          font-family: Mitr;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Mitr Medium"),local(Mitr-Medium),url(//fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8c8bJJnedg.eot?#) format("eot"),url(//fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8c8bJJfecg.woff2) format("woff2"),url(//fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8c8bJJnedA.woff) format("woff");
+}
+@font-face {
+          font-family: Mitr;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Mitr SemiBold"),local(Mitr-SemiBold),url(//fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8eMcJJnedg.eot?#) format("eot"),url(//fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8eMcJJfecg.woff2) format("woff2"),url(//fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8eMcJJnedA.woff) format("woff");
+}
+@font-face {
+          font-family: Mitr;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Mitr Bold"),local(Mitr-Bold),url(//fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8YcdJJnedg.eot?#) format("eot"),url(//fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8YcdJJfecg.woff2) format("woff2"),url(//fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8YcdJJnedA.woff) format("woff");
+}
+.u-font-mitr-200 {
+          font-family: 'Mitr' !important;
+          font-weight: 200 !important;
+}
+.u-font-mitr-300 {
+          font-family: 'Mitr' !important;
+          font-weight: 300 !important;
+}
+.u-font-mitr-400 {
+          font-family: 'Mitr' !important;
+          font-weight: 400 !important;
+}
+.u-font-mitr-500 {
+          font-family: 'Mitr' !important;
+          font-weight: 500 !important;
+}
+.u-font-mitr-600 {
+          font-family: 'Mitr' !important;
+          font-weight: 600 !important;
+}
+.u-font-mitr-700 {
+          font-family: 'Mitr' !important;
+          font-weight: 700 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Fjord One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Fjord One"),local(Fjord-One),url(//fonts.gstatic.com/s/fjordone/v9/zOL-4pbEnKBY_9S1jNKb7uRF.eot?#) format("eot"),url(//fonts.gstatic.com/s/fjordone/v9/zOL-4pbEnKBY_9S1jNKb7uRB.woff2) format("woff2"),url(//fonts.gstatic.com/s/fjordone/v9/zOL-4pbEnKBY_9S1jNKb7uRH.woff) format("woff");
+}
+.u-font-fjord-one-400 {
+          font-family: 'Fjord One' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Shanti;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Shanti),url(//fonts.gstatic.com/s/shanti/v12/t5thIREMM4uSDgzQVE22.eot?#) format("eot"),url(//fonts.gstatic.com/s/shanti/v12/t5thIREMM4uSDgzQVE2y.woff2) format("woff2"),url(//fonts.gstatic.com/s/shanti/v12/t5thIREMM4uSDgzQVE20.woff) format("woff");
+}
+.u-font-shanti-400 {
+          font-family: 'Shanti' !important;
+          font-weight: 400 !important;
+}

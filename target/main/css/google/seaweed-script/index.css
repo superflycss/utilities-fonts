@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Seaweed Script";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Seaweed Script"),local(SeaweedScript-Regular),url(//fonts.gstatic.com/s/seaweedscript/v8/bx6cNx6Tne2pxOATYE8C_Rsoe3WA8qI.eot?#) format("eot"),url(//fonts.gstatic.com/s/seaweedscript/v8/bx6cNx6Tne2pxOATYE8C_Rsoe3WO8qY.woff2) format("woff2"),url(//fonts.gstatic.com/s/seaweedscript/v8/bx6cNx6Tne2pxOATYE8C_Rsoe3WA8qA.woff) format("woff");
+}
+.u-font-seaweed-script-400 {
+          font-family: 'Seaweed Script' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Adamina;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Adamina Regular"),local(Adamina-Regular),url(//fonts.gstatic.com/s/adamina/v14/j8_r6-DH1bjoc-dwi-3UFA.eot?#) format("eot"),url(//fonts.gstatic.com/s/adamina/v14/j8_r6-DH1bjoc-dwi-3UEA.woff2) format("woff2"),url(//fonts.gstatic.com/s/adamina/v14/j8_r6-DH1bjoc-dwi-3UFg.woff) format("woff");
+}
+.u-font-adamina-400 {
+          font-family: 'Adamina' !important;
+          font-weight: 400 !important;
+}

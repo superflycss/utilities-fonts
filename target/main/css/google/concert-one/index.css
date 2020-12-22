@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Concert One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Concert One"),local(ConcertOne-Regular),url(//fonts.gstatic.com/s/concertone/v11/VEM1Ro9xs5PjtzCu-srDqSTsjPo.eot?#) format("eot"),url(//fonts.gstatic.com/s/concertone/v11/VEM1Ro9xs5PjtzCu-srDqSTijP4.woff2) format("woff2"),url(//fonts.gstatic.com/s/concertone/v11/VEM1Ro9xs5PjtzCu-srDqSTsjPg.woff) format("woff");
+}
+.u-font-concert-one-400 {
+          font-family: 'Concert One' !important;
+          font-weight: 400 !important;
+}

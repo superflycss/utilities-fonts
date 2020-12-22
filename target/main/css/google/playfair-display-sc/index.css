@@ -1,0 +1,63 @@
+@font-face {
+          font-family: "Playfair Display SC";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Playfair Display SC Italic"),local(PlayfairDisplaySC-Italic),url(//fonts.gstatic.com/s/playfairdisplaysc/v10/ke87OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw8HOs2.eot?#) format("eot"),url(//fonts.gstatic.com/s/playfairdisplaysc/v10/ke87OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw8Eusy.woff2) format("woff2"),url(//fonts.gstatic.com/s/playfairdisplaysc/v10/ke87OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw8HOs0.woff) format("woff");
+}
+@font-face {
+          font-family: "Playfair Display SC";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Playfair Display SC Bold Italic"),local(PlayfairDisplaySC-BoldItalic),url(//fonts.gstatic.com/s/playfairdisplaysc/v10/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0qc4nIqoU.eot?#) format("eot"),url(//fonts.gstatic.com/s/playfairdisplaysc/v10/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0qc4nLKoQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/playfairdisplaysc/v10/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0qc4nIqoW.woff) format("woff");
+}
+@font-face {
+          font-family: "Playfair Display SC";
+          font-style: italic;
+          font-weight: 900;
+          src: local("Playfair Display SC Black Italic"),local(PlayfairDisplaySC-BlackItalic),url(//fonts.gstatic.com/s/playfairdisplaysc/v10/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0kcwnIqoU.eot?#) format("eot"),url(//fonts.gstatic.com/s/playfairdisplaysc/v10/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0kcwnLKoQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/playfairdisplaysc/v10/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0kcwnIqoW.woff) format("woff");
+}
+@font-face {
+          font-family: "Playfair Display SC";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Playfair Display SC Regular"),local(PlayfairDisplaySC-Regular),url(//fonts.gstatic.com/s/playfairdisplaysc/v10/ke85OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbcMFA.eot?#) format("eot"),url(//fonts.gstatic.com/s/playfairdisplaysc/v10/ke85OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbkMEA.woff2) format("woff2"),url(//fonts.gstatic.com/s/playfairdisplaysc/v10/ke85OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbcMFg.woff) format("woff");
+}
+@font-face {
+          font-family: "Playfair Display SC";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Playfair Display SC Bold"),local(PlayfairDisplaySC-Bold),url(//fonts.gstatic.com/s/playfairdisplaysc/v10/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nQIpBcIXKg.eot?#) format("eot"),url(//fonts.gstatic.com/s/playfairdisplaysc/v10/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nQIpBcwXLg.woff2) format("woff2"),url(//fonts.gstatic.com/s/playfairdisplaysc/v10/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nQIpBcIXKA.woff) format("woff");
+}
+@font-face {
+          font-family: "Playfair Display SC";
+          font-style: normal;
+          font-weight: 900;
+          src: local("Playfair Display SC Black"),local(PlayfairDisplaySC-Black),url(//fonts.gstatic.com/s/playfairdisplaysc/v10/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nTorBcIXKg.eot?#) format("eot"),url(//fonts.gstatic.com/s/playfairdisplaysc/v10/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nTorBcwXLg.woff2) format("woff2"),url(//fonts.gstatic.com/s/playfairdisplaysc/v10/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nTorBcIXKA.woff) format("woff");
+}
+.u-font-playfair-display-sc-400 {
+          font-family: 'Playfair Display SC' !important;
+          font-weight: 400 !important;
+}
+.u-font-playfair-display-sc-400-italic {
+        font-family: 'Playfair Display SC' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-playfair-display-sc-700 {
+          font-family: 'Playfair Display SC' !important;
+          font-weight: 700 !important;
+}
+.u-font-playfair-display-sc-700-italic {
+        font-family: 'Playfair Display SC' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}
+.u-font-playfair-display-sc-900 {
+          font-family: 'Playfair Display SC' !important;
+          font-weight: 900 !important;
+}
+.u-font-playfair-display-sc-900-italic {
+        font-family: 'Playfair Display SC' !important;
+        font-weight: 900 !important;
+        font-style: italic !important;
+}

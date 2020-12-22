@@ -1,0 +1,42 @@
+@font-face {
+          font-family: "Balsamiq Sans";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Balsamiq Sans Italic"),local(BalsamiqSans-Italic),url(//fonts.gstatic.com/s/balsamiqsans/v2/P5sazZiAbNrN8SB3lQQX7PncwdsnLK9N.eot?#) format("eot"),url(//fonts.gstatic.com/s/balsamiqsans/v2/P5sazZiAbNrN8SB3lQQX7PncwdsnIq9J.woff2) format("woff2"),url(//fonts.gstatic.com/s/balsamiqsans/v2/P5sazZiAbNrN8SB3lQQX7PncwdsnLK9P.woff) format("woff");
+}
+@font-face {
+          font-family: "Balsamiq Sans";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Balsamiq Sans Bold Italic"),local(BalsamiqSans-BoldItalic),url(//fonts.gstatic.com/s/balsamiqsans/v2/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcDhrF.eot?#) format("eot"),url(//fonts.gstatic.com/s/balsamiqsans/v2/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcABrB.woff2) format("woff2"),url(//fonts.gstatic.com/s/balsamiqsans/v2/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcDhrH.woff) format("woff");
+}
+@font-face {
+          font-family: "Balsamiq Sans";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Balsamiq Sans Regular"),local(BalsamiqSans-Regular),url(//fonts.gstatic.com/s/balsamiqsans/v2/P5sEzZiAbNrN8SB3lQQX7PncwdAXJA.eot?#) format("eot"),url(//fonts.gstatic.com/s/balsamiqsans/v2/P5sEzZiAbNrN8SB3lQQX7Pncwd4XIA.woff2) format("woff2"),url(//fonts.gstatic.com/s/balsamiqsans/v2/P5sEzZiAbNrN8SB3lQQX7PncwdAXJg.woff) format("woff");
+}
+@font-face {
+          font-family: "Balsamiq Sans";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Balsamiq Sans Bold"),local(BalsamiqSans-Bold),url(//fonts.gstatic.com/s/balsamiqsans/v2/P5sZzZiAbNrN8SB3lQQX7PncyWUyNYZsBg.eot?#) format("eot"),url(//fonts.gstatic.com/s/balsamiqsans/v2/P5sZzZiAbNrN8SB3lQQX7PncyWUyNYhsAg.woff2) format("woff2"),url(//fonts.gstatic.com/s/balsamiqsans/v2/P5sZzZiAbNrN8SB3lQQX7PncyWUyNYZsBA.woff) format("woff");
+}
+.u-font-balsamiq-sans-400 {
+          font-family: 'Balsamiq Sans' !important;
+          font-weight: 400 !important;
+}
+.u-font-balsamiq-sans-400-italic {
+        font-family: 'Balsamiq Sans' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-balsamiq-sans-700 {
+          font-family: 'Balsamiq Sans' !important;
+          font-weight: 700 !important;
+}
+.u-font-balsamiq-sans-700-italic {
+        font-family: 'Balsamiq Sans' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

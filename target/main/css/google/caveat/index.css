@@ -1,0 +1,28 @@
+@font-face {
+          font-family: Caveat;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Caveat Regular"),local(Caveat-Regular),url(//fonts.gstatic.com/s/caveat/v8/Wnz6HAc5bAfYB2Q7aDYc.eot?#) format("eot"),url(//fonts.gstatic.com/s/caveat/v8/Wnz6HAc5bAfYB2Q7ZjYY.woff2) format("woff2"),url(//fonts.gstatic.com/s/caveat/v8/Wnz6HAc5bAfYB2Q7aDYe.woff) format("woff");
+}
+@font-face {
+          font-family: Caveat;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Caveat Bold"),local(Caveat-Bold),url(//fonts.gstatic.com/s/caveat/v8/Wnz5HAc5bAfYB2Qz3RMNqy7V.eot?#) format("eot"),url(//fonts.gstatic.com/s/caveat/v8/Wnz5HAc5bAfYB2Qz3RMNpS7R.woff2) format("woff2"),url(//fonts.gstatic.com/s/caveat/v8/Wnz5HAc5bAfYB2Qz3RMNqy7X.woff) format("woff");
+}
+.u-font-caveat-400 {
+          font-family: 'Caveat' !important;
+          font-weight: 400 !important;
+}
+.u-font-caveat-500 {
+          font-family: 'Caveat' !important;
+          font-weight: 500 !important;
+}
+.u-font-caveat-600 {
+          font-family: 'Caveat' !important;
+          font-weight: 600 !important;
+}
+.u-font-caveat-700 {
+          font-family: 'Caveat' !important;
+          font-weight: 700 !important;
+}

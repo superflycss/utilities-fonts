@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Qwigley;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Qwigley),local(Qwigley-Regular),url(//fonts.gstatic.com/s/qwigley/v10/1cXzaU3UGJb5tGoCiVVmjg.eot?#) format("eot"),url(//fonts.gstatic.com/s/qwigley/v10/1cXzaU3UGJb5tGoCiVtmig.woff2) format("woff2"),url(//fonts.gstatic.com/s/qwigley/v10/1cXzaU3UGJb5tGoCiVVmjA.woff) format("woff");
+}
+.u-font-qwigley-400 {
+          font-family: 'Qwigley' !important;
+          font-weight: 400 !important;
+}

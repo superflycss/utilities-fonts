@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "GFS Didot";
+          font-style: normal;
+          font-weight: 400;
+          src: local("GFS Didot Regular"),local(GFSDidot-Regular),url(//fonts.gstatic.com/s/gfsdidot/v10/Jqzh5TybZ9vZMWFssvwiFg.eot?#) format("eot"),url(//fonts.gstatic.com/s/gfsdidot/v10/Jqzh5TybZ9vZMWFssvwSE-3HJSA.woff2) format("woff2"),url(//fonts.gstatic.com/s/gfsdidot/v10/Jqzh5TybZ9vZMWFssvwiFA.woff) format("woff");
+}
+.u-font-gfs-didot-400 {
+          font-family: 'GFS Didot' !important;
+          font-weight: 400 !important;
+}

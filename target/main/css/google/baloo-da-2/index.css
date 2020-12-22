@@ -1,0 +1,50 @@
+@font-face {
+          font-family: "Baloo Da 2";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Baloo Da 2 Regular"),local(BalooDa2-Regular),url(//fonts.gstatic.com/s/balooda2/v1/2-ci9J9j0IaUMQZwAJyJQufdpA.eot?#) format("eot"),url(//fonts.gstatic.com/s/balooda2/v1/2-ci9J9j0IaUMQZwAJyJQundoA.woff2) format("woff2"),url(//fonts.gstatic.com/s/balooda2/v1/2-ci9J9j0IaUMQZwAJyJQufdpg.woff) format("woff");
+}
+@font-face {
+          font-family: "Baloo Da 2";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Baloo Da 2 Medium"),local(BalooDa2-Medium),url(//fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJShr-tZBiZg.eot?#) format("eot"),url(//fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJShr-tZ5iYg.woff2) format("woff2"),url(//fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJShr-tZBiZA.woff) format("woff");
+}
+@font-face {
+          font-family: "Baloo Da 2";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Baloo Da 2 SemiBold"),local(BalooDa2-SemiBold),url(//fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJSjb5tZBiZg.eot?#) format("eot"),url(//fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJSjb5tZ5iYg.woff2) format("woff2"),url(//fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJSjb5tZBiZA.woff) format("woff");
+}
+@font-face {
+          font-family: "Baloo Da 2";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Baloo Da 2 Bold"),local(BalooDa2-Bold),url(//fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJSlL4tZBiZg.eot?#) format("eot"),url(//fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJSlL4tZ5iYg.woff2) format("woff2"),url(//fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJSlL4tZBiZA.woff) format("woff");
+}
+@font-face {
+          font-family: "Baloo Da 2";
+          font-style: normal;
+          font-weight: 800;
+          src: local("Baloo Da 2 ExtraBold"),local(BalooDa2-ExtraBold),url(//fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJSk77tZBiZg.eot?#) format("eot"),url(//fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJSk77tZ5iYg.woff2) format("woff2"),url(//fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJSk77tZBiZA.woff) format("woff");
+}
+.u-font-baloo-da-2-400 {
+          font-family: 'Baloo Da 2' !important;
+          font-weight: 400 !important;
+}
+.u-font-baloo-da-2-500 {
+          font-family: 'Baloo Da 2' !important;
+          font-weight: 500 !important;
+}
+.u-font-baloo-da-2-600 {
+          font-family: 'Baloo Da 2' !important;
+          font-weight: 600 !important;
+}
+.u-font-baloo-da-2-700 {
+          font-family: 'Baloo Da 2' !important;
+          font-weight: 700 !important;
+}
+.u-font-baloo-da-2-800 {
+          font-family: 'Baloo Da 2' !important;
+          font-weight: 800 !important;
+}

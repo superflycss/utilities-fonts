@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Itim;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Itim),local(Itim-Regular),url(//fonts.gstatic.com/s/itim/v4/0nknC9ziJOYe8A1AlA.eot?#) format("eot"),url(//fonts.gstatic.com/s/itim/v4/0nknC9ziJOYe8ANAkA.woff2) format("woff2"),url(//fonts.gstatic.com/s/itim/v4/0nknC9ziJOYe8A1Alg.woff) format("woff");
+}
+.u-font-itim-400 {
+          font-family: 'Itim' !important;
+          font-weight: 400 !important;
+}

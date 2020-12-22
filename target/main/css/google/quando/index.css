@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Quando;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Quando-Regular),url(//fonts.gstatic.com/s/quando/v9/xMQVuFNaVa6YuW0ZAq-2.eot?#) format("eot"),url(//fonts.gstatic.com/s/quando/v9/xMQVuFNaVa6YuW0ZDK-y.woff2) format("woff2"),url(//fonts.gstatic.com/s/quando/v9/xMQVuFNaVa6YuW0ZAq-0.woff) format("woff");
+}
+.u-font-quando-400 {
+          font-family: 'Quando' !important;
+          font-weight: 400 !important;
+}

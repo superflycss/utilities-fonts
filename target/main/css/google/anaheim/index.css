@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Anaheim;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Anaheim),local(Anaheim-Regular),url(//fonts.gstatic.com/s/anaheim/v8/8vII7w042Wp87g4G4U3eFQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/anaheim/v8/8vII7w042Wp87g4G4UPeEQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/anaheim/v8/8vII7w042Wp87g4G4U3eFw.woff) format("woff");
+}
+.u-font-anaheim-400 {
+          font-family: 'Anaheim' !important;
+          font-weight: 400 !important;
+}

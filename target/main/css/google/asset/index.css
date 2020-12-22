@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Asset;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Asset Regular"),local(Asset-Regular),url(//fonts.gstatic.com/s/asset/v10/SLXGc1na-mM4cVIhTp8.eot?#) format("eot"),url(//fonts.gstatic.com/s/asset/v10/SLXGc1na-mM4cVIhTps.woff2) format("woff2"),url(//fonts.gstatic.com/s/asset/v10/SLXGc1na-mM4cVIhTp0.woff) format("woff");
+}
+.u-font-asset-400 {
+          font-family: 'Asset' !important;
+          font-weight: 400 !important;
+}

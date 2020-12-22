@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Black Han Sans";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Black Han Sans Regular"),local(BlackHanSans-Regular),url(//fonts.gstatic.com/s/blackhansans/v8/ea8Aad44WunzF9a-dL6toA8r8kqSK3E.eot?#) format("eot"),url(//fonts.gstatic.com/s/blackhansans/v8/ea8Aad44WunzF9a-dL6toA8r8nqQSWKmEJKy1nK6J8sYUGdTBHS2osQ.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/blackhansans/v8/ea8Aad44WunzF9a-dL6toA8r8kqSK3M.woff) format("woff");
+}
+.u-font-black-han-sans-400 {
+          font-family: 'Black Han Sans' !important;
+          font-weight: 400 !important;
+}

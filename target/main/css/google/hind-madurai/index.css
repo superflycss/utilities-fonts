@@ -1,0 +1,50 @@
+@font-face {
+          font-family: "Hind Madurai";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Hind Madurai Light"),local(HindMadurai-Light),url(//fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfXaUXcMEt.eot?#) format("eot"),url(//fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfXaUXfsEp.woff2) format("woff2"),url(//fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfXaUXcMEv.woff) format("woff");
+}
+@font-face {
+          font-family: "Hind Madurai";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Hind Madurai Regular"),local(HindMadurai-Regular),url(//fonts.gstatic.com/s/hindmadurai/v6/f0Xx0e2p98ZvDXdZQIOcpqjX-IcG.eot?#) format("eot"),url(//fonts.gstatic.com/s/hindmadurai/v6/f0Xx0e2p98ZvDXdZQIOcpqjX9ocC.woff2) format("woff2"),url(//fonts.gstatic.com/s/hindmadurai/v6/f0Xx0e2p98ZvDXdZQIOcpqjX-IcE.woff) format("woff");
+}
+@font-face {
+          font-family: "Hind Madurai";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Hind Madurai Medium"),local(HindMadurai-Medium),url(//fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfBaQXcMEt.eot?#) format("eot"),url(//fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfBaQXfsEp.woff2) format("woff2"),url(//fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfBaQXcMEv.woff) format("woff");
+}
+@font-face {
+          font-family: "Hind Madurai";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Hind Madurai SemiBold"),local(HindMadurai-SemiBold),url(//fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfKaMXcMEt.eot?#) format("eot"),url(//fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfKaMXfsEp.woff2) format("woff2"),url(//fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfKaMXcMEv.woff) format("woff");
+}
+@font-face {
+          font-family: "Hind Madurai";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Hind Madurai Bold"),local(HindMadurai-Bold),url(//fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfTaIXcMEt.eot?#) format("eot"),url(//fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfTaIXfsEp.woff2) format("woff2"),url(//fonts.gstatic.com/s/hindmadurai/v6/f0Xu0e2p98ZvDXdZQIOcpqjfTaIXcMEv.woff) format("woff");
+}
+.u-font-hind-madurai-300 {
+          font-family: 'Hind Madurai' !important;
+          font-weight: 300 !important;
+}
+.u-font-hind-madurai-400 {
+          font-family: 'Hind Madurai' !important;
+          font-weight: 400 !important;
+}
+.u-font-hind-madurai-500 {
+          font-family: 'Hind Madurai' !important;
+          font-weight: 500 !important;
+}
+.u-font-hind-madurai-600 {
+          font-family: 'Hind Madurai' !important;
+          font-weight: 600 !important;
+}
+.u-font-hind-madurai-700 {
+          font-family: 'Hind Madurai' !important;
+          font-weight: 700 !important;
+}

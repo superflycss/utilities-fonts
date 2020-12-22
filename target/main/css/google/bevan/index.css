@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Bevan;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Bevan Regular"),local(Bevan-Regular),url(//fonts.gstatic.com/s/bevan/v12/4iCj6KZ0a9NXjG8TWC8.eot?#) format("eot"),url(//fonts.gstatic.com/s/bevan/v12/4iCj6KZ0a9NXjG8dWCs.woff2) format("woff2"),url(//fonts.gstatic.com/s/bevan/v12/4iCj6KZ0a9NXjG8TWC0.woff) format("woff");
+}
+.u-font-bevan-400 {
+          font-family: 'Bevan' !important;
+          font-weight: 400 !important;
+}

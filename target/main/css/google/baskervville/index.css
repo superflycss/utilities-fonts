@@ -1,0 +1,21 @@
+@font-face {
+          font-family: Baskervville;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Baskervville Italic"),local(Baskervville-Italic),url(//fonts.gstatic.com/s/baskervville/v4/YA9Kr0yU4l_XOrogbkun3kQQtamlrvY.eot?#) format("eot"),url(//fonts.gstatic.com/s/baskervville/v4/YA9Kr0yU4l_XOrogbkun3kQQtamrrvI.woff2) format("woff2"),url(//fonts.gstatic.com/s/baskervville/v4/YA9Kr0yU4l_XOrogbkun3kQQtamlrvQ.woff) format("woff");
+}
+@font-face {
+          font-family: Baskervville;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Baskervville Regular"),local(Baskervville-Regular),url(//fonts.gstatic.com/s/baskervville/v4/YA9Ur0yU4l_XOrogbkun3kQQvpmt.eot?#) format("eot"),url(//fonts.gstatic.com/s/baskervville/v4/YA9Ur0yU4l_XOrogbkun3kQQsJmp.woff2) format("woff2"),url(//fonts.gstatic.com/s/baskervville/v4/YA9Ur0yU4l_XOrogbkun3kQQvpmv.woff) format("woff");
+}
+.u-font-baskervville-400 {
+          font-family: 'Baskervville' !important;
+          font-weight: 400 !important;
+}
+.u-font-baskervville-400-italic {
+        font-family: 'Baskervville' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}

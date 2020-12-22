@@ -1,0 +1,20 @@
+@font-face {
+          font-family: "Elsie Swash Caps";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Elsie Swash Caps Regular"),local(ElsieSwashCaps-Regular),url(//fonts.gstatic.com/s/elsieswashcaps/v9/845DNN8xGZyVX5MVo_upKf7KnjK0TePfLQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/elsieswashcaps/v9/845DNN8xGZyVX5MVo_upKf7KnjK0Te3fKQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/elsieswashcaps/v9/845DNN8xGZyVX5MVo_upKf7KnjK0TePfLw.woff) format("woff");
+}
+@font-face {
+          font-family: "Elsie Swash Caps";
+          font-style: normal;
+          font-weight: 900;
+          src: local("Elsie Swash Caps Black"),local(ElsieSwashCaps-Black),url(//fonts.gstatic.com/s/elsieswashcaps/v9/845ENN8xGZyVX5MVo_upKf7KnjK0RW74PGSNSw.eot?#) format("eot"),url(//fonts.gstatic.com/s/elsieswashcaps/v9/845ENN8xGZyVX5MVo_upKf7KnjK0RW74PGqNTw.woff2) format("woff2"),url(//fonts.gstatic.com/s/elsieswashcaps/v9/845ENN8xGZyVX5MVo_upKf7KnjK0RW74PGSNSQ.woff) format("woff");
+}
+.u-font-elsie-swash-caps-400 {
+          font-family: 'Elsie Swash Caps' !important;
+          font-weight: 400 !important;
+}
+.u-font-elsie-swash-caps-900 {
+          font-family: 'Elsie Swash Caps' !important;
+          font-weight: 900 !important;
+}

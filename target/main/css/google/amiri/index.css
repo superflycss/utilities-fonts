@@ -1,0 +1,42 @@
+@font-face {
+          font-family: Amiri;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Amiri Italic"),local(Amiri-Italic),url(//fonts.gstatic.com/s/amiri/v16/J7afnpd8CGxBHpUrhL8Y7w.eot?#) format("eot"),url(//fonts.gstatic.com/s/amiri/v16/J7afnpd8CGxBHpUrhLEY6w.woff2) format("woff2"),url(//fonts.gstatic.com/s/amiri/v16/J7afnpd8CGxBHpUrhL8Y7Q.woff) format("woff");
+}
+@font-face {
+          font-family: Amiri;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Amiri Bold Italic"),local(Amiri-BoldItalic),url(//fonts.gstatic.com/s/amiri/v16/J7aanpd8CGxBHpUrjAo9_pJqGw.eot?#) format("eot"),url(//fonts.gstatic.com/s/amiri/v16/J7aanpd8CGxBHpUrjAo9_pxqHw.woff2) format("woff2"),url(//fonts.gstatic.com/s/amiri/v16/J7aanpd8CGxBHpUrjAo9_pJqGQ.woff) format("woff");
+}
+@font-face {
+          font-family: Amiri;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Amiri Regular"),local(Amiri-Regular),url(//fonts.gstatic.com/s/amiri/v16/J7aRnpd8CGxBHpUgtLc.eot?#) format("eot"),url(//fonts.gstatic.com/s/amiri/v16/J7aRnpd8CGxBHpUutLM.woff2) format("woff2"),url(//fonts.gstatic.com/s/amiri/v16/J7aRnpd8CGxBHpUgtLU.woff) format("woff");
+}
+@font-face {
+          font-family: Amiri;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Amiri Bold"),local(Amiri-Bold),url(//fonts.gstatic.com/s/amiri/v16/J7acnpd8CGxBHp2VkaYxzpo.eot?#) format("eot"),url(//fonts.gstatic.com/s/amiri/v16/J7acnpd8CGxBHp2VkaY_zp4.woff2) format("woff2"),url(//fonts.gstatic.com/s/amiri/v16/J7acnpd8CGxBHp2VkaYxzpg.woff) format("woff");
+}
+.u-font-amiri-400 {
+          font-family: 'Amiri' !important;
+          font-weight: 400 !important;
+}
+.u-font-amiri-400-italic {
+        font-family: 'Amiri' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-amiri-700 {
+          font-family: 'Amiri' !important;
+          font-weight: 700 !important;
+}
+.u-font-amiri-700-italic {
+        font-family: 'Amiri' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Boogaloo;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Boogaloo Regular"),local(Boogaloo-Regular),url(//fonts.gstatic.com/s/boogaloo/v12/kmK-Zq45GAvOdnaW6y1C9y8.eot?#) format("eot"),url(//fonts.gstatic.com/s/boogaloo/v12/kmK-Zq45GAvOdnaW6y1C9ys.woff2) format("woff2"),url(//fonts.gstatic.com/s/boogaloo/v12/kmK-Zq45GAvOdnaW6y1C9y0.woff) format("woff");
+}
+.u-font-boogaloo-400 {
+          font-family: 'Boogaloo' !important;
+          font-weight: 400 !important;
+}

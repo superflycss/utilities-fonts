@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Halant;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Halant Light"),local(Halant-Light),url(//fonts.gstatic.com/s/halant/v8/u-490qaujRI2Pbsvc_pykgxv.eot?#) format("eot"),url(//fonts.gstatic.com/s/halant/v8/u-490qaujRI2Pbsvc_pynAxr.woff2) format("woff2"),url(//fonts.gstatic.com/s/halant/v8/u-490qaujRI2Pbsvc_pykgxt.woff) format("woff");
+}
+@font-face {
+          font-family: Halant;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Halant Regular"),local(Halant-Regular),url(//fonts.gstatic.com/s/halant/v8/u-4-0qaujRI2Pbsn1thj.eot?#) format("eot"),url(//fonts.gstatic.com/s/halant/v8/u-4-0qaujRI2Pbsn2Nhn.woff2) format("woff2"),url(//fonts.gstatic.com/s/halant/v8/u-4-0qaujRI2Pbsn1thh.woff) format("woff");
+}
+@font-face {
+          font-family: Halant;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Halant Medium"),local(Halant-Medium),url(//fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvK_tykgxv.eot?#) format("eot"),url(//fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvK_tynAxr.woff2) format("woff2"),url(//fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvK_tykgxt.woff) format("woff");
+}
+@font-face {
+          font-family: Halant;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Halant SemiBold"),local(Halant-SemiBold),url(//fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvB_xykgxv.eot?#) format("eot"),url(//fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvB_xynAxr.woff2) format("woff2"),url(//fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvB_xykgxt.woff) format("woff");
+}
+@font-face {
+          font-family: Halant;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Halant Bold"),local(Halant-Bold),url(//fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvY_1ykgxv.eot?#) format("eot"),url(//fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvY_1ynAxr.woff2) format("woff2"),url(//fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvY_1ykgxt.woff) format("woff");
+}
+.u-font-halant-300 {
+          font-family: 'Halant' !important;
+          font-weight: 300 !important;
+}
+.u-font-halant-400 {
+          font-family: 'Halant' !important;
+          font-weight: 400 !important;
+}
+.u-font-halant-500 {
+          font-family: 'Halant' !important;
+          font-weight: 500 !important;
+}
+.u-font-halant-600 {
+          font-family: 'Halant' !important;
+          font-weight: 600 !important;
+}
+.u-font-halant-700 {
+          font-family: 'Halant' !important;
+          font-weight: 700 !important;
+}

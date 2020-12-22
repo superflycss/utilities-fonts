@@ -1,0 +1,50 @@
+@font-face {
+          font-family: "Baloo Paaji 2";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Baloo Paaji 2 Regular"),local(BalooPaaji2-Regular),url(//fonts.gstatic.com/s/baloopaaji2/v1/i7dMIFFzbz-QHZUdV9_UGWZuUFuaGg.eot?#) format("eot"),url(//fonts.gstatic.com/s/baloopaaji2/v1/i7dMIFFzbz-QHZUdV9_UGWZuUFWaHg.woff2) format("woff2"),url(//fonts.gstatic.com/s/baloopaaji2/v1/i7dMIFFzbz-QHZUdV9_UGWZuUFuaGA.woff) format("woff");
+}
+@font-face {
+          font-family: "Baloo Paaji 2";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Baloo Paaji 2 Medium"),local(BalooPaaji2-Medium),url(//fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWKa5Cw20bg.eot?#) format("eot"),url(//fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWKa5CwO0ag.woff2) format("woff2"),url(//fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWKa5Cw20bA.woff) format("woff");
+}
+@font-face {
+          font-family: "Baloo Paaji 2";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Baloo Paaji 2 SemiBold"),local(BalooPaaji2-SemiBold),url(//fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWIq-Cw20bg.eot?#) format("eot"),url(//fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWIq-CwO0ag.woff2) format("woff2"),url(//fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWIq-Cw20bA.woff) format("woff");
+}
+@font-face {
+          font-family: "Baloo Paaji 2";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Baloo Paaji 2 Bold"),local(BalooPaaji2-Bold),url(//fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWO6_Cw20bg.eot?#) format("eot"),url(//fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWO6_CwO0ag.woff2) format("woff2"),url(//fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWO6_Cw20bA.woff) format("woff");
+}
+@font-face {
+          font-family: "Baloo Paaji 2";
+          font-style: normal;
+          font-weight: 800;
+          src: local("Baloo Paaji 2 ExtraBold"),local(BalooPaaji2-ExtraBold),url(//fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWPK8Cw20bg.eot?#) format("eot"),url(//fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWPK8CwO0ag.woff2) format("woff2"),url(//fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWPK8Cw20bA.woff) format("woff");
+}
+.u-font-baloo-paaji-2-400 {
+          font-family: 'Baloo Paaji 2' !important;
+          font-weight: 400 !important;
+}
+.u-font-baloo-paaji-2-500 {
+          font-family: 'Baloo Paaji 2' !important;
+          font-weight: 500 !important;
+}
+.u-font-baloo-paaji-2-600 {
+          font-family: 'Baloo Paaji 2' !important;
+          font-weight: 600 !important;
+}
+.u-font-baloo-paaji-2-700 {
+          font-family: 'Baloo Paaji 2' !important;
+          font-weight: 700 !important;
+}
+.u-font-baloo-paaji-2-800 {
+          font-family: 'Baloo Paaji 2' !important;
+          font-weight: 800 !important;
+}

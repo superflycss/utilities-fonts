@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Charmonman;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Charmonman Regular"),local(Charmonman-Regular),url(//fonts.gstatic.com/s/charmonman/v5/MjQDmiR3vP_nuxDv47jiaJiiuQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/charmonman/v5/MjQDmiR3vP_nuxDv47jiaJaivQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/charmonman/v5/MjQDmiR3vP_nuxDv47jiaJiiuw.woff) format("woff");
+}
+@font-face {
+          font-family: Charmonman;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Charmonman Bold"),local(Charmonman-Bold),url(//fonts.gstatic.com/s/charmonman/v5/MjQAmiR3vP_nuxDv47jiYC2HqLZA8Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/charmonman/v5/MjQAmiR3vP_nuxDv47jiYC2HqLhA9Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/charmonman/v5/MjQAmiR3vP_nuxDv47jiYC2HqLZA8w.woff) format("woff");
+}
+.u-font-charmonman-400 {
+          font-family: 'Charmonman' !important;
+          font-weight: 400 !important;
+}
+.u-font-charmonman-700 {
+          font-family: 'Charmonman' !important;
+          font-weight: 700 !important;
+}

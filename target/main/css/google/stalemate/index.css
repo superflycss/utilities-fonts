@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Stalemate;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Stalemate),local(Stalemate-Regular),url(//fonts.gstatic.com/s/stalemate/v8/taiIGmZ_EJq97-UfkZRZs66p.eot?#) format("eot"),url(//fonts.gstatic.com/s/stalemate/v8/taiIGmZ_EJq97-UfkZRZva6t.woff2) format("woff2"),url(//fonts.gstatic.com/s/stalemate/v8/taiIGmZ_EJq97-UfkZRZs66r.woff) format("woff");
+}
+.u-font-stalemate-400 {
+          font-family: 'Stalemate' !important;
+          font-weight: 400 !important;
+}

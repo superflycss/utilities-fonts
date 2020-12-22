@@ -1,0 +1,60 @@
+@font-face {
+          font-family: "Noto Sans JP";
+          font-style: normal;
+          font-weight: 100;
+          src: local("Noto Sans Japanese Thin"),local(NotoSansJapanese-Thin),url(//fonts.gstatic.com/s/notosansjp/v27/-F6ofjtqLzI2JPCgQBnw7HFQojgN8lY.eot?#) format("eot"),url(//fonts.gstatic.com/s/notosansjp/v27/-F6ofjtqLzI2JPCgQBnw7HFQoggPkENvl4B0ZLgOquiXidBa3qHiDcp2RQ.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notosansjp/v27/-F6ofjtqLzI2JPCgQBnw7HFQojgN8lQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Sans JP";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Noto Sans Japanese Light"),local(NotoSansJapanese-Light),url(//fonts.gstatic.com/s/notosansjp/v27/-F6pfjtqLzI2JPCgQBnw7HFQaioa1Xdk.eot?#) format("eot"),url(//fonts.gstatic.com/s/notosansjp/v27/-F6pfjtqLzI2JPCgQBnw7HFQaioq1xVxjfp_dakBof6Bs-tb3ab2FNISVac.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notosansjp/v27/-F6pfjtqLzI2JPCgQBnw7HFQaioa1Xdm.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Sans JP";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Noto Sans Japanese Regular"),local(NotoSansJapanese-Regular),url(//fonts.gstatic.com/s/notosansjp/v27/-F62fjtqLzI2JPCgQBnw7HFYwQgL.eot?#) format("eot"),url(//fonts.gstatic.com/s/notosansjp/v27/-F62fjtqLzI2JPCgQBnw7HFow2oe2EcP5pp0erwTqsSWs9Jezazjcb4.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notosansjp/v27/-F62fjtqLzI2JPCgQBnw7HFYwQgJ.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Sans JP";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Noto Sans Japanese Medium"),local(NotoSansJapanese-Medium),url(//fonts.gstatic.com/s/notosansjp/v27/-F6pfjtqLzI2JPCgQBnw7HFQMisa1Xdk.eot?#) format("eot"),url(//fonts.gstatic.com/s/notosansjp/v27/-F6pfjtqLzI2JPCgQBnw7HFQMisq1xVxjfp_dakBof6Bs-tb3ab2FNISVac.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notosansjp/v27/-F6pfjtqLzI2JPCgQBnw7HFQMisa1Xdm.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Sans JP";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Noto Sans Japanese Bold"),local(NotoSansJapanese-Bold),url(//fonts.gstatic.com/s/notosansjp/v27/-F6pfjtqLzI2JPCgQBnw7HFQei0a1Xdk.eot?#) format("eot"),url(//fonts.gstatic.com/s/notosansjp/v27/-F6pfjtqLzI2JPCgQBnw7HFQei0q1xVxjfp_dakBof6Bs-tb3ab2FNISVac.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notosansjp/v27/-F6pfjtqLzI2JPCgQBnw7HFQei0a1Xdm.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Sans JP";
+          font-style: normal;
+          font-weight: 900;
+          src: local("Noto Sans Japanese Black"),local(NotoSansJapanese-Black),url(//fonts.gstatic.com/s/notosansjp/v27/-F6pfjtqLzI2JPCgQBnw7HFQQi8a1Xdk.eot?#) format("eot"),url(//fonts.gstatic.com/s/notosansjp/v27/-F6pfjtqLzI2JPCgQBnw7HFQQi8q1xVxjfp_dakBof6Bs-tb3ab2FNISVac.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notosansjp/v27/-F6pfjtqLzI2JPCgQBnw7HFQQi8a1Xdm.woff) format("woff");
+}
+.u-font-noto-sans-jp-100 {
+          font-family: 'Noto Sans JP' !important;
+          font-weight: 100 !important;
+}
+.u-font-noto-sans-jp-300 {
+          font-family: 'Noto Sans JP' !important;
+          font-weight: 300 !important;
+}
+.u-font-noto-sans-jp-400 {
+          font-family: 'Noto Sans JP' !important;
+          font-weight: 400 !important;
+}
+.u-font-noto-sans-jp-500 {
+          font-family: 'Noto Sans JP' !important;
+          font-weight: 500 !important;
+}
+.u-font-noto-sans-jp-700 {
+          font-family: 'Noto Sans JP' !important;
+          font-weight: 700 !important;
+}
+.u-font-noto-sans-jp-900 {
+          font-family: 'Noto Sans JP' !important;
+          font-weight: 900 !important;
+}

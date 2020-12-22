@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Shadows Into Light";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Shadows Into Light"),local(ShadowsIntoLight),url(//fonts.gstatic.com/s/shadowsintolight/v10/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQzdcD9.eot?#) format("eot"),url(//fonts.gstatic.com/s/shadowsintolight/v10/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQzdcD5.woff2) format("woff2"),url(//fonts.gstatic.com/s/shadowsintolight/v10/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQzdcD_.woff) format("woff");
+}
+.u-font-shadows-into-light-400 {
+          font-family: 'Shadows Into Light' !important;
+          font-weight: 400 !important;
+}

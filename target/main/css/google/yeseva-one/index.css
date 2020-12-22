@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Yeseva One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Yeseva One Regular"),local(YesevaOne-Regular),url(//fonts.gstatic.com/s/yesevaone/v15/OpNJno4ck8vc-xYpwWWxliNVXw.eot?#) format("eot"),url(//fonts.gstatic.com/s/yesevaone/v15/OpNJno4ck8vc-xYpwWWxli1VWw.woff2) format("woff2"),url(//fonts.gstatic.com/s/yesevaone/v15/OpNJno4ck8vc-xYpwWWxliNVXQ.woff) format("woff");
+}
+.u-font-yeseva-one-400 {
+          font-family: 'Yeseva One' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Bebas Neue";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Bebas Neue Regular"),local(BebasNeue-Regular),url(//fonts.gstatic.com/s/bebasneue/v2/JTUSjIg69CK48gW7PXoo9Wdhzw.eot?#) format("eot"),url(//fonts.gstatic.com/s/bebasneue/v2/JTUSjIg69CK48gW7PXoo9Wlhyw.woff2) format("woff2"),url(//fonts.gstatic.com/s/bebasneue/v2/JTUSjIg69CK48gW7PXoo9WdhzQ.woff) format("woff");
+}
+.u-font-bebas-neue-400 {
+          font-family: 'Bebas Neue' !important;
+          font-weight: 400 !important;
+}

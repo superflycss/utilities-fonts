@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "PT Mono";
+          font-style: normal;
+          font-weight: 400;
+          src: local("PT Mono"),local(PTMono-Regular),url(//fonts.gstatic.com/s/ptmono/v8/9oRONYoBnWILk-9AnCEzNw.eot?#) format("eot"),url(//fonts.gstatic.com/s/ptmono/v8/9oRONYoBnWILk-9AnC8zMw.woff2) format("woff2"),url(//fonts.gstatic.com/s/ptmono/v8/9oRONYoBnWILk-9AnCEzNQ.woff) format("woff");
+}
+.u-font-pt-mono-400 {
+          font-family: 'PT Mono' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Miltonian;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Miltonian),local(Miltonian-Regular),url(//fonts.gstatic.com/s/miltonian/v14/zOL-4pbPn6Ne9JqTg9mb7uRF.eot?#) format("eot"),url(//fonts.gstatic.com/s/miltonian/v14/zOL-4pbPn6Ne9JqTg9mb7uRB.woff2) format("woff2"),url(//fonts.gstatic.com/s/miltonian/v14/zOL-4pbPn6Ne9JqTg9mb7uRH.woff) format("woff");
+}
+.u-font-miltonian-400 {
+          font-family: 'Miltonian' !important;
+          font-weight: 400 !important;
+}

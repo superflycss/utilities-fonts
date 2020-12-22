@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Monoton;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Monoton),local(Monoton-Regular),url(//fonts.gstatic.com/s/monoton/v10/5h1aiZUrOngCibe4TkHLRg.eot?#) format("eot"),url(//fonts.gstatic.com/s/monoton/v10/5h1aiZUrOngCibe4TkHLQg.woff2) format("woff2"),url(//fonts.gstatic.com/s/monoton/v10/5h1aiZUrOngCibe4TkHLRA.woff) format("woff");
+}
+.u-font-monoton-400 {
+          font-family: 'Monoton' !important;
+          font-weight: 400 !important;
+}

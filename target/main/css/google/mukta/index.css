@@ -1,0 +1,70 @@
+@font-face {
+          font-family: Mukta;
+          font-style: normal;
+          font-weight: 200;
+          src: local("Mukta ExtraLight"),local(Mukta-ExtraLight),url(//fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEOjGmT8WQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEOjGmd8WA.woff2) format("woff2"),url(//fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEOjGmT8WY.woff) format("woff");
+}
+@font-face {
+          font-family: Mukta;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Mukta Light"),local(Mukta-Light),url(//fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFqj2mT8WQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFqj2md8WA.woff2) format("woff2"),url(//fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFqj2mT8WY.woff) format("woff");
+}
+@font-face {
+          font-family: Mukta;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Mukta Regular"),local(Mukta-Regular),url(//fonts.gstatic.com/s/mukta/v7/iJWKBXyXfDDVXbnPrXg.eot?#) format("eot"),url(//fonts.gstatic.com/s/mukta/v7/iJWKBXyXfDDVXbnBrXw.woff2) format("woff2"),url(//fonts.gstatic.com/s/mukta/v7/iJWKBXyXfDDVXbnPrXo.woff) format("woff");
+}
+@font-face {
+          font-family: Mukta;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Mukta Medium"),local(Mukta-Medium),url(//fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEyjmmT8WQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEyjmmd8WA.woff2) format("woff2"),url(//fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEyjmmT8WY.woff) format("woff");
+}
+@font-face {
+          font-family: Mukta;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Mukta SemiBold"),local(Mukta-SemiBold),url(//fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEeiWmT8WQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEeiWmd8WA.woff2) format("woff2"),url(//fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEeiWmT8WY.woff) format("woff");
+}
+@font-face {
+          font-family: Mukta;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Mukta Bold"),local(Mukta-Bold),url(//fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbF6iGmT8WQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbF6iGmd8WA.woff2) format("woff2"),url(//fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbF6iGmT8WY.woff) format("woff");
+}
+@font-face {
+          font-family: Mukta;
+          font-style: normal;
+          font-weight: 800;
+          src: local("Mukta ExtraBold"),local(Mukta-ExtraBold),url(//fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFmi2mT8WQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFmi2md8WA.woff2) format("woff2"),url(//fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFmi2mT8WY.woff) format("woff");
+}
+.u-font-mukta-200 {
+          font-family: 'Mukta' !important;
+          font-weight: 200 !important;
+}
+.u-font-mukta-300 {
+          font-family: 'Mukta' !important;
+          font-weight: 300 !important;
+}
+.u-font-mukta-400 {
+          font-family: 'Mukta' !important;
+          font-weight: 400 !important;
+}
+.u-font-mukta-500 {
+          font-family: 'Mukta' !important;
+          font-weight: 500 !important;
+}
+.u-font-mukta-600 {
+          font-family: 'Mukta' !important;
+          font-weight: 600 !important;
+}
+.u-font-mukta-700 {
+          font-family: 'Mukta' !important;
+          font-weight: 700 !important;
+}
+.u-font-mukta-800 {
+          font-family: 'Mukta' !important;
+          font-weight: 800 !important;
+}

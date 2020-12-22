@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Magra;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Magra),url(//fonts.gstatic.com/s/magra/v9/uK_94ruaZus72n54KjY.eot?#) format("eot"),url(//fonts.gstatic.com/s/magra/v9/uK_94ruaZus72n52KjI.woff2) format("woff2"),url(//fonts.gstatic.com/s/magra/v9/uK_94ruaZus72n54KjQ.woff) format("woff");
+}
+@font-face {
+          font-family: Magra;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Magra Bold"),local(Magra-Bold),url(//fonts.gstatic.com/s/magra/v9/uK_w4ruaZus72nbNDyceGv4.eot?#) format("eot"),url(//fonts.gstatic.com/s/magra/v9/uK_w4ruaZus72nbNDycQGvo.woff2) format("woff2"),url(//fonts.gstatic.com/s/magra/v9/uK_w4ruaZus72nbNDyceGvw.woff) format("woff");
+}
+.u-font-magra-400 {
+          font-family: 'Magra' !important;
+          font-weight: 400 !important;
+}
+.u-font-magra-700 {
+          font-family: 'Magra' !important;
+          font-weight: 700 !important;
+}

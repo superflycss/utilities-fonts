@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Kavivanar;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Kavivanar Regular"),local(Kavivanar-Regular),url(//fonts.gstatic.com/s/kavivanar/v6/o-0IIpQgyXYSwhxP7_Jr6zRE.eot?#) format("eot"),url(//fonts.gstatic.com/s/kavivanar/v6/o-0IIpQgyXYSwhxP7_Jr5TRA.woff2) format("woff2"),url(//fonts.gstatic.com/s/kavivanar/v6/o-0IIpQgyXYSwhxP7_Jr6zRG.woff) format("woff");
+}
+.u-font-kavivanar-400 {
+          font-family: 'Kavivanar' !important;
+          font-weight: 400 !important;
+}

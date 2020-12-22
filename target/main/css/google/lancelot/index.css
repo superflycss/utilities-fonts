@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Lancelot;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Lancelot),url(//fonts.gstatic.com/s/lancelot/v10/J7acnppxBGtQEulG4KYxzpo.eot?#) format("eot"),url(//fonts.gstatic.com/s/lancelot/v10/J7acnppxBGtQEulG4KY_zp4.woff2) format("woff2"),url(//fonts.gstatic.com/s/lancelot/v10/J7acnppxBGtQEulG4KYxzpg.woff) format("woff");
+}
+.u-font-lancelot-400 {
+          font-family: 'Lancelot' !important;
+          font-weight: 400 !important;
+}

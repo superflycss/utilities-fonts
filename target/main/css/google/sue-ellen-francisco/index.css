@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Sue Ellen Francisco";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Sue Ellen Francisco "),local(SueEllenFrancisco),url(//fonts.gstatic.com/s/sueellenfrancisco/v11/wXK3E20CsoJ9j1DDkjHcQ5ZL8xRaxru9no1P3w.eot?#) format("eot"),url(//fonts.gstatic.com/s/sueellenfrancisco/v11/wXK3E20CsoJ9j1DDkjHcQ5ZL8xRaxru9no1P2w.woff2) format("woff2"),url(//fonts.gstatic.com/s/sueellenfrancisco/v11/wXK3E20CsoJ9j1DDkjHcQ5ZL8xRaxru9no1P3Q.woff) format("woff");
+}
+.u-font-sue-ellen-francisco-400 {
+          font-family: 'Sue Ellen Francisco' !important;
+          font-weight: 400 !important;
+}

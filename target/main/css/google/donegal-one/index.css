@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Donegal One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Donegal One"),local(DonegalOne-Regular),url(//fonts.gstatic.com/s/donegalone/v8/m8JWjfRYea-ZnFz6fsK9FaRMTmo.eot?#) format("eot"),url(//fonts.gstatic.com/s/donegalone/v8/m8JWjfRYea-ZnFz6fsK9FaRCTm4.woff2) format("woff2"),url(//fonts.gstatic.com/s/donegalone/v8/m8JWjfRYea-ZnFz6fsK9FaRMTmg.woff) format("woff");
+}
+.u-font-donegal-one-400 {
+          font-family: 'Donegal One' !important;
+          font-weight: 400 !important;
+}

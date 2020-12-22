@@ -1,0 +1,147 @@
+@font-face {
+          font-family: Spectral;
+          font-style: italic;
+          font-weight: 200;
+          src: local("Spectral ExtraLight Italic"),local(Spectral-ExtraLightItalic),url(//fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qrXHWfqFWQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qrXHWfSFXQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qrXHWfqFWw.woff) format("woff");
+}
+@font-face {
+          font-family: Spectral;
+          font-style: italic;
+          font-weight: 300;
+          src: local("Spectral Light Italic"),local(Spectral-LightItalic),url(//fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qtHEWfqFWQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qtHEWfSFXQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qtHEWfqFWw.woff) format("woff");
+}
+@font-face {
+          font-family: Spectral;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Spectral Italic"),local(Spectral-Italic),url(//fonts.gstatic.com/s/spectral/v6/rnCt-xNNww_2s0amA9M8onTmSA.eot?#) format("eot"),url(//fonts.gstatic.com/s/spectral/v6/rnCt-xNNww_2s0amA9M8onrmTA.woff2) format("woff2"),url(//fonts.gstatic.com/s/spectral/v6/rnCt-xNNww_2s0amA9M8onTmSg.woff) format("woff");
+}
+@font-face {
+          font-family: Spectral;
+          font-style: italic;
+          font-weight: 500;
+          src: local("Spectral Medium Italic"),local(Spectral-MediumItalic),url(//fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qonFWfqFWQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qonFWfSFXQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qonFWfqFWw.woff) format("woff");
+}
+@font-face {
+          font-family: Spectral;
+          font-style: italic;
+          font-weight: 600;
+          src: local("Spectral SemiBold Italic"),local(Spectral-SemiBoldItalic),url(//fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qqXCWfqFWQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qqXCWfSFXQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qqXCWfqFWw.woff) format("woff");
+}
+@font-face {
+          font-family: Spectral;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Spectral Bold Italic"),local(Spectral-BoldItalic),url(//fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qsHDWfqFWQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qsHDWfSFXQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qsHDWfqFWw.woff) format("woff");
+}
+@font-face {
+          font-family: Spectral;
+          font-style: italic;
+          font-weight: 800;
+          src: local("Spectral ExtraBold Italic"),local(Spectral-ExtraBoldItalic),url(//fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qt3AWfqFWQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qt3AWfSFXQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qt3AWfqFWw.woff) format("woff");
+}
+@font-face {
+          font-family: Spectral;
+          font-style: normal;
+          font-weight: 200;
+          src: local("Spectral ExtraLight"),local(Spectral-ExtraLight),url(//fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9v2s23PafI.eot?#) format("eot"),url(//fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9v2s23BafY.woff2) format("woff2"),url(//fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9v2s23PafA.woff) format("woff");
+}
+@font-face {
+          font-family: Spectral;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Spectral Light"),local(Spectral-Light),url(//fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9uSsG3PafI.eot?#) format("eot"),url(//fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9uSsG3BafY.woff2) format("woff2"),url(//fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9uSsG3PafA.woff) format("woff");
+}
+@font-face {
+          font-family: Spectral;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Spectral Regular"),local(Spectral-Regular),url(//fonts.gstatic.com/s/spectral/v6/rnCr-xNNww_2s0amA9M3knw.eot?#) format("eot"),url(//fonts.gstatic.com/s/spectral/v6/rnCr-xNNww_2s0amA9M5kng.woff2) format("woff2"),url(//fonts.gstatic.com/s/spectral/v6/rnCr-xNNww_2s0amA9M3kn4.woff) format("woff");
+}
+@font-face {
+          font-family: Spectral;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Spectral Medium"),local(Spectral-Medium),url(//fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9vKsW3PafI.eot?#) format("eot"),url(//fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9vKsW3BafY.woff2) format("woff2"),url(//fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9vKsW3PafA.woff) format("woff");
+}
+@font-face {
+          font-family: Spectral;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Spectral SemiBold"),local(Spectral-SemiBold),url(//fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9vmtm3PafI.eot?#) format("eot"),url(//fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9vmtm3BafY.woff2) format("woff2"),url(//fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9vmtm3PafA.woff) format("woff");
+}
+@font-face {
+          font-family: Spectral;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Spectral Bold"),local(Spectral-Bold),url(//fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9uCt23PafI.eot?#) format("eot"),url(//fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9uCt23BafY.woff2) format("woff2"),url(//fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9uCt23PafA.woff) format("woff");
+}
+@font-face {
+          font-family: Spectral;
+          font-style: normal;
+          font-weight: 800;
+          src: local("Spectral ExtraBold"),local(Spectral-ExtraBold),url(//fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9uetG3PafI.eot?#) format("eot"),url(//fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9uetG3BafY.woff2) format("woff2"),url(//fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9uetG3PafA.woff) format("woff");
+}
+.u-font-spectral-200 {
+          font-family: 'Spectral' !important;
+          font-weight: 200 !important;
+}
+.u-font-spectral-200-italic {
+        font-family: 'Spectral' !important;
+        font-weight: 200 !important;
+        font-style: italic !important;
+}
+.u-font-spectral-300 {
+          font-family: 'Spectral' !important;
+          font-weight: 300 !important;
+}
+.u-font-spectral-300-italic {
+        font-family: 'Spectral' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-spectral-400 {
+          font-family: 'Spectral' !important;
+          font-weight: 400 !important;
+}
+.u-font-spectral-400-italic {
+        font-family: 'Spectral' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-spectral-500 {
+          font-family: 'Spectral' !important;
+          font-weight: 500 !important;
+}
+.u-font-spectral-500-italic {
+        font-family: 'Spectral' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-spectral-600 {
+          font-family: 'Spectral' !important;
+          font-weight: 600 !important;
+}
+.u-font-spectral-600-italic {
+        font-family: 'Spectral' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-spectral-700 {
+          font-family: 'Spectral' !important;
+          font-weight: 700 !important;
+}
+.u-font-spectral-700-italic {
+        font-family: 'Spectral' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}
+.u-font-spectral-800 {
+          font-family: 'Spectral' !important;
+          font-weight: 800 !important;
+}
+.u-font-spectral-800-italic {
+        font-family: 'Spectral' !important;
+        font-weight: 800 !important;
+        font-style: italic !important;
+}

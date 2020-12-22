@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Princess Sofia";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Princess Sofia"),local(PrincessSofia),url(//fonts.gstatic.com/s/princesssofia/v9/qWczB6yguIb8DZ_GXZst16n7GSzykjA.eot?#) format("eot"),url(//fonts.gstatic.com/s/princesssofia/v9/qWczB6yguIb8DZ_GXZst16n7GSz8kjQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/princesssofia/v9/qWczB6yguIb8DZ_GXZst16n7GSzykjI.woff) format("woff");
+}
+.u-font-princess-sofia-400 {
+          font-family: 'Princess Sofia' !important;
+          font-weight: 400 !important;
+}

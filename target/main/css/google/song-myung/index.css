@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Song Myung";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Song Myung Regular"),local(SongMyung-Regular),url(//fonts.gstatic.com/s/songmyung/v8/1cX2aUDWAJH5-EIC7DIhn1aggA.eot?#) format("eot"),url(//fonts.gstatic.com/s/songmyung/v8/1cX2aUDWAJH5-EIC7DIhr1TCk8qivo10xPFih_f6G0tP6mooOg.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/songmyung/v8/1cX2aUDWAJH5-EIC7DIhn1aggg.woff) format("woff");
+}
+.u-font-song-myung-400 {
+          font-family: 'Song Myung' !important;
+          font-weight: 400 !important;
+}

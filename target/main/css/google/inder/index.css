@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Inder;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Inder),local(Inder-Regular),url(//fonts.gstatic.com/s/inder/v9/w8gUH2YoQe8_4sqzrQo.eot?#) format("eot"),url(//fonts.gstatic.com/s/inder/v9/w8gUH2YoQe8_4sq9rQ4.woff2) format("woff2"),url(//fonts.gstatic.com/s/inder/v9/w8gUH2YoQe8_4sqzrQg.woff) format("woff");
+}
+.u-font-inder-400 {
+          font-family: 'Inder' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Yellowtail;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Yellowtail Regular"),local(Yellowtail-Regular),url(//fonts.gstatic.com/s/yellowtail/v11/OZpGg_pnoDtINPfRIlLohlvHxQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/yellowtail/v11/OZpGg_pnoDtINPfRIlLohlvHwQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/yellowtail/v11/OZpGg_pnoDtINPfRIlLohlvHxw.woff) format("woff");
+}
+.u-font-yellowtail-400 {
+          font-family: 'Yellowtail' !important;
+          font-weight: 400 !important;
+}

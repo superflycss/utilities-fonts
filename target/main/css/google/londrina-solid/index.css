@@ -1,0 +1,40 @@
+@font-face {
+          font-family: "Londrina Solid";
+          font-style: normal;
+          font-weight: 100;
+          src: local("Londrina Solid Thin"),local(LondrinaSolid-Thin),url(//fonts.gstatic.com/s/londrinasolid/v10/flUjRq6sw40kQEJxWNgkLuudGfs9GBEUtA.eot?#) format("eot"),url(//fonts.gstatic.com/s/londrinasolid/v10/flUjRq6sw40kQEJxWNgkLuudGfs9GBEUsA.woff2) format("woff2"),url(//fonts.gstatic.com/s/londrinasolid/v10/flUjRq6sw40kQEJxWNgkLuudGfs9GBEUtg.woff) format("woff");
+}
+@font-face {
+          font-family: "Londrina Solid";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Londrina Solid Light"),local(LondrinaSolid-Light),url(//fonts.gstatic.com/s/londrinasolid/v10/flUiRq6sw40kQEJxWNgkLuudGfv1CgYzlZg.eot?#) format("eot"),url(//fonts.gstatic.com/s/londrinasolid/v10/flUiRq6sw40kQEJxWNgkLuudGfv1CgYzlZw.woff2) format("woff2"),url(//fonts.gstatic.com/s/londrinasolid/v10/flUiRq6sw40kQEJxWNgkLuudGfv1CgYzlZo.woff) format("woff");
+}
+@font-face {
+          font-family: "Londrina Solid";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Londrina Solid Regular"),local(LondrinaSolid-Regular),url(//fonts.gstatic.com/s/londrinasolid/v10/flUhRq6sw40kQEJxWNgkLuudGfNeKBc.eot?#) format("eot"),url(//fonts.gstatic.com/s/londrinasolid/v10/flUhRq6sw40kQEJxWNgkLuudGfNeKBM.woff2) format("woff2"),url(//fonts.gstatic.com/s/londrinasolid/v10/flUhRq6sw40kQEJxWNgkLuudGfNeKBU.woff) format("woff");
+}
+@font-face {
+          font-family: "Londrina Solid";
+          font-style: normal;
+          font-weight: 900;
+          src: local("Londrina Solid Black"),local(LondrinaSolid-Black),url(//fonts.gstatic.com/s/londrinasolid/v10/flUiRq6sw40kQEJxWNgkLuudGfvdDwYzlZg.eot?#) format("eot"),url(//fonts.gstatic.com/s/londrinasolid/v10/flUiRq6sw40kQEJxWNgkLuudGfvdDwYzlZw.woff2) format("woff2"),url(//fonts.gstatic.com/s/londrinasolid/v10/flUiRq6sw40kQEJxWNgkLuudGfvdDwYzlZo.woff) format("woff");
+}
+.u-font-londrina-solid-100 {
+          font-family: 'Londrina Solid' !important;
+          font-weight: 100 !important;
+}
+.u-font-londrina-solid-300 {
+          font-family: 'Londrina Solid' !important;
+          font-weight: 300 !important;
+}
+.u-font-londrina-solid-400 {
+          font-family: 'Londrina Solid' !important;
+          font-weight: 400 !important;
+}
+.u-font-londrina-solid-900 {
+          font-family: 'Londrina Solid' !important;
+          font-weight: 900 !important;
+}

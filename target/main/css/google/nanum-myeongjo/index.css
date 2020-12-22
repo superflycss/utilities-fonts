@@ -1,0 +1,30 @@
+@font-face {
+          font-family: "Nanum Myeongjo";
+          font-style: normal;
+          font-weight: 400;
+          src: local(NanumMyeongjo),url(//fonts.gstatic.com/s/nanummyeongjo/v15/9Btx3DZF0dXLMZlywRbVRNhxy2LscnE.eot?#) format("eot"),url(//fonts.gstatic.com/s/nanummyeongjo/v15/9Btx3DZF0dXLMZlywRbVRNhxy1LuEGI-gZ_Ll9dMHVruCTvHYAnNT2g.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/nanummyeongjo/v15/9Btx3DZF0dXLMZlywRbVRNhxy2LscnM.woff) format("woff");
+}
+@font-face {
+          font-family: "Nanum Myeongjo";
+          font-style: normal;
+          font-weight: 700;
+          src: local("NanumMyeongjo Bold"),local(NanumMyeongjoBold),url(//fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pXV2Azr_U.eot?#) format("eot"),url(//fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pXV1Axzeau69lCAWDrAgLCcAPYKgRK4K8.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pXV2Azr_c.woff) format("woff");
+}
+@font-face {
+          font-family: "Nanum Myeongjo";
+          font-style: normal;
+          font-weight: 800;
+          src: local("NanumMyeongjo ExtraBold"),local(NanumMyeongjoExtraBold),url(//fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pLVGAzr_U.eot?#) format("eot"),url(//fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pLVFAxzeau69lCAWDrAgLCcAPYKgRK4K8.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pLVGAzr_c.woff) format("woff");
+}
+.u-font-nanum-myeongjo-400 {
+          font-family: 'Nanum Myeongjo' !important;
+          font-weight: 400 !important;
+}
+.u-font-nanum-myeongjo-700 {
+          font-family: 'Nanum Myeongjo' !important;
+          font-weight: 700 !important;
+}
+.u-font-nanum-myeongjo-800 {
+          font-family: 'Nanum Myeongjo' !important;
+          font-weight: 800 !important;
+}

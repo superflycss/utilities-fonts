@@ -1,0 +1,50 @@
+@font-face {
+          font-family: "Baloo Thambi 2";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Baloo Thambi 2 Regular"),local(BalooThambi2-Regular),url(//fonts.gstatic.com/s/baloothambi2/v1/cY9cfjeOW0NHpmOQXranrbDyu7hODpY.eot?#) format("eot"),url(//fonts.gstatic.com/s/baloothambi2/v1/cY9cfjeOW0NHpmOQXranrbDyu7hADpI.woff2) format("woff2"),url(//fonts.gstatic.com/s/baloothambi2/v1/cY9cfjeOW0NHpmOQXranrbDyu7hODpQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Baloo Thambi 2";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Baloo Thambi 2 Medium"),local(BalooThambi2-Medium),url(//fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7CzLYewRBo.eot?#) format("eot"),url(//fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7CzLYe-RB4.woff2) format("woff2"),url(//fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7CzLYewRBg.woff) format("woff");
+}
+@font-face {
+          font-family: "Baloo Thambi 2";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Baloo Thambi 2 SemiBold"),local(BalooThambi2-SemiBold),url(//fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7CfKoewRBo.eot?#) format("eot"),url(//fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7CfKoe-RB4.woff2) format("woff2"),url(//fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7CfKoewRBg.woff) format("woff");
+}
+@font-face {
+          font-family: "Baloo Thambi 2";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Baloo Thambi 2 Bold"),local(BalooThambi2-Bold),url(//fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7D7K4ewRBo.eot?#) format("eot"),url(//fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7D7K4e-RB4.woff2) format("woff2"),url(//fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7D7K4ewRBg.woff) format("woff");
+}
+@font-face {
+          font-family: "Baloo Thambi 2";
+          font-style: normal;
+          font-weight: 800;
+          src: local("Baloo Thambi 2 ExtraBold"),local(BalooThambi2-ExtraBold),url(//fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7DnKIewRBo.eot?#) format("eot"),url(//fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7DnKIe-RB4.woff2) format("woff2"),url(//fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7DnKIewRBg.woff) format("woff");
+}
+.u-font-baloo-thambi-2-400 {
+          font-family: 'Baloo Thambi 2' !important;
+          font-weight: 400 !important;
+}
+.u-font-baloo-thambi-2-500 {
+          font-family: 'Baloo Thambi 2' !important;
+          font-weight: 500 !important;
+}
+.u-font-baloo-thambi-2-600 {
+          font-family: 'Baloo Thambi 2' !important;
+          font-weight: 600 !important;
+}
+.u-font-baloo-thambi-2-700 {
+          font-family: 'Baloo Thambi 2' !important;
+          font-weight: 700 !important;
+}
+.u-font-baloo-thambi-2-800 {
+          font-family: 'Baloo Thambi 2' !important;
+          font-weight: 800 !important;
+}

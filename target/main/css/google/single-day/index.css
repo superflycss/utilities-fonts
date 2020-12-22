@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Single Day";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Single Day Regular"),local(SingleDay-Regular),url(//fonts.gstatic.com/s/singleday/v2/LYjHdGDjlEgoAcF95EI5jVs.eot?#) format("eot"),url(//fonts.gstatic.com/s/singleday/v2/LYjHdGDjlEgoAcF95EI5vVcPUefe.woff2) format("woff2"),url(//fonts.gstatic.com/s/singleday/v2/LYjHdGDjlEgoAcF95EI5jVk.woff) format("woff");
+}
+.u-font-single-day-400 {
+          font-family: 'Single Day' !important;
+          font-weight: 400 !important;
+}

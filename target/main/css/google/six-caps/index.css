@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Six Caps";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Six Caps"),local(SixCaps),url(//fonts.gstatic.com/s/sixcaps/v11/6ae_4KGrU7VR7bNmaYcV_3A.eot?#) format("eot"),url(//fonts.gstatic.com/s/sixcaps/v11/6ae_4KGrU7VR7bNmaYcV_3Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/sixcaps/v11/6ae_4KGrU7VR7bNmaYcV_3I.woff) format("woff");
+}
+.u-font-six-caps-400 {
+          font-family: 'Six Caps' !important;
+          font-weight: 400 !important;
+}

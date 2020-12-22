@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Londrina Sketch";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Londrina Sketch Regular"),local(LondrinaSketch-Regular),url(//fonts.gstatic.com/s/londrinasketch/v9/c4m41npxGMTnomOHtRU68eIJn8qvXmP8.eot?#) format("eot"),url(//fonts.gstatic.com/s/londrinasketch/v9/c4m41npxGMTnomOHtRU68eIJn8qvXmP4.woff2) format("woff2"),url(//fonts.gstatic.com/s/londrinasketch/v9/c4m41npxGMTnomOHtRU68eIJn8qvXmP-.woff) format("woff");
+}
+.u-font-londrina-sketch-400 {
+          font-family: 'Londrina Sketch' !important;
+          font-weight: 400 !important;
+}

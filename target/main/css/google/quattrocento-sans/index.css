@@ -1,0 +1,42 @@
+@font-face {
+          font-family: "Quattrocento Sans";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Quattrocento Sans Italic"),local(QuattrocentoSans-Italic),url(//fonts.gstatic.com/s/quattrocentosans/v13/va9a4lja2NVIDdIAAoMR5MfuElaRB0zMh0P2HA.eot?#) format("eot"),url(//fonts.gstatic.com/s/quattrocentosans/v13/va9a4lja2NVIDdIAAoMR5MfuElaRB0zMh032GA.woff2) format("woff2"),url(//fonts.gstatic.com/s/quattrocentosans/v13/va9a4lja2NVIDdIAAoMR5MfuElaRB0zMh0P2Hg.woff) format("woff");
+}
+@font-face {
+          font-family: "Quattrocento Sans";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Quattrocento Sans Bold Italic"),local(QuattrocentoSans-BoldItalic),url(//fonts.gstatic.com/s/quattrocentosans/v13/va9X4lja2NVIDdIAAoMR5MfuElaRB0zMj_bTDXDoiQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/quattrocentosans/v13/va9X4lja2NVIDdIAAoMR5MfuElaRB0zMj_bTDX7ojQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/quattrocentosans/v13/va9X4lja2NVIDdIAAoMR5MfuElaRB0zMj_bTDXDoiw.woff) format("woff");
+}
+@font-face {
+          font-family: "Quattrocento Sans";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Quattrocento Sans"),local(QuattrocentoSans),url(//fonts.gstatic.com/s/quattrocentosans/v13/va9c4lja2NVIDdIAAoMR5MfuElaRB0zHt0s.eot?#) format("eot"),url(//fonts.gstatic.com/s/quattrocentosans/v13/va9c4lja2NVIDdIAAoMR5MfuElaRB0zJt08.woff2) format("woff2"),url(//fonts.gstatic.com/s/quattrocentosans/v13/va9c4lja2NVIDdIAAoMR5MfuElaRB0zHt0k.woff) format("woff");
+}
+@font-face {
+          font-family: "Quattrocento Sans";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Quattrocento Sans Bold"),local(QuattrocentoSans-Bold),url(//fonts.gstatic.com/s/quattrocentosans/v13/va9Z4lja2NVIDdIAAoMR5MfuElaRB0RyklrfPXg.eot?#) format("eot"),url(//fonts.gstatic.com/s/quattrocentosans/v13/va9Z4lja2NVIDdIAAoMR5MfuElaRB0RyklrRPXw.woff2) format("woff2"),url(//fonts.gstatic.com/s/quattrocentosans/v13/va9Z4lja2NVIDdIAAoMR5MfuElaRB0RyklrfPXo.woff) format("woff");
+}
+.u-font-quattrocento-sans-400 {
+          font-family: 'Quattrocento Sans' !important;
+          font-weight: 400 !important;
+}
+.u-font-quattrocento-sans-400-italic {
+        font-family: 'Quattrocento Sans' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-quattrocento-sans-700 {
+          font-family: 'Quattrocento Sans' !important;
+          font-weight: 700 !important;
+}
+.u-font-quattrocento-sans-700-italic {
+        font-family: 'Quattrocento Sans' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

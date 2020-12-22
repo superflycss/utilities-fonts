@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Purple Purse";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Purple Purse"),local(PurplePurse-Regular),url(//fonts.gstatic.com/s/purplepurse/v9/qWctB66gv53iAp-Vfs4My6qCcRz6.eot?#) format("eot"),url(//fonts.gstatic.com/s/purplepurse/v9/qWctB66gv53iAp-Vfs4My6qCfxz-.woff2) format("woff2"),url(//fonts.gstatic.com/s/purplepurse/v9/qWctB66gv53iAp-Vfs4My6qCcRz4.woff) format("woff");
+}
+.u-font-purple-purse-400 {
+          font-family: 'Purple Purse' !important;
+          font-weight: 400 !important;
+}

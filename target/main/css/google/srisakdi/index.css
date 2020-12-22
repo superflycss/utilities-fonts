@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Srisakdi;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Srisakdi Regular"),local(Srisakdi-Regular),url(//fonts.gstatic.com/s/srisakdi/v4/yMJRMIlvdpDbkB0A-gq1dyk.eot?#) format("eot"),url(//fonts.gstatic.com/s/srisakdi/v4/yMJRMIlvdpDbkB0A-gq7dy0.woff2) format("woff2"),url(//fonts.gstatic.com/s/srisakdi/v4/yMJRMIlvdpDbkB0A-gq1dys.woff) format("woff");
+}
+@font-face {
+          font-family: Srisakdi;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Srisakdi Bold"),local(Srisakdi-Bold),url(//fonts.gstatic.com/s/srisakdi/v4/yMJWMIlvdpDbkB0A-gIAUjh4qtQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/srisakdi/v4/yMJWMIlvdpDbkB0A-gIAUjh2qtA.woff2) format("woff2"),url(//fonts.gstatic.com/s/srisakdi/v4/yMJWMIlvdpDbkB0A-gIAUjh4qtY.woff) format("woff");
+}
+.u-font-srisakdi-400 {
+          font-family: 'Srisakdi' !important;
+          font-weight: 400 !important;
+}
+.u-font-srisakdi-700 {
+          font-family: 'Srisakdi' !important;
+          font-weight: 700 !important;
+}

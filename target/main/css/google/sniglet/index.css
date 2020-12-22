@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Sniglet;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Sniglet Regular"),local(Sniglet-Regular),url(//fonts.gstatic.com/s/sniglet/v12/cIf9MaFLtkE3UjaJ9CChZQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/sniglet/v12/cIf9MaFLtkE3UjaJ9C6hYQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/sniglet/v12/cIf9MaFLtkE3UjaJ9CChZw.woff) format("woff");
+}
+@font-face {
+          font-family: Sniglet;
+          font-style: normal;
+          font-weight: 800;
+          src: local("Sniglet ExtraBold"),local(Sniglet-ExtraBold),url(//fonts.gstatic.com/s/sniglet/v12/cIf4MaFLtkE3UjaJ_ImHdGgmmQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/sniglet/v12/cIf4MaFLtkE3UjaJ_ImHdGYmnQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/sniglet/v12/cIf4MaFLtkE3UjaJ_ImHdGgmmw.woff) format("woff");
+}
+.u-font-sniglet-400 {
+          font-family: 'Sniglet' !important;
+          font-weight: 400 !important;
+}
+.u-font-sniglet-800 {
+          font-family: 'Sniglet' !important;
+          font-weight: 800 !important;
+}

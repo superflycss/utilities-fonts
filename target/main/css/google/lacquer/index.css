@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Lacquer;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Lacquer Regular"),local(Lacquer-Regular),url(//fonts.gstatic.com/s/lacquer/v3/EYqzma1QwqpG4_BBN7iKWw.eot?#) format("eot"),url(//fonts.gstatic.com/s/lacquer/v3/EYqzma1QwqpG4_BBN7iKXw.woff2) format("woff2"),url(//fonts.gstatic.com/s/lacquer/v3/EYqzma1QwqpG4_BBN7iKWQ.woff) format("woff");
+}
+.u-font-lacquer-400 {
+          font-family: 'Lacquer' !important;
+          font-weight: 400 !important;
+}

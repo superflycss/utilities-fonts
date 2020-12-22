@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Amethysta;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Amethysta Regular"),local(Amethysta-Regular),url(//fonts.gstatic.com/s/amethysta/v9/rP2Fp2K15kgb_F3ibfW4Hz-H.eot?#) format("eot"),url(//fonts.gstatic.com/s/amethysta/v9/rP2Fp2K15kgb_F3ibfW4Hz-D.woff2) format("woff2"),url(//fonts.gstatic.com/s/amethysta/v9/rP2Fp2K15kgb_F3ibfW4Hz-F.woff) format("woff");
+}
+.u-font-amethysta-400 {
+          font-family: 'Amethysta' !important;
+          font-weight: 400 !important;
+}

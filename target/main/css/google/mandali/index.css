@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Mandali;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Mandali),url(//fonts.gstatic.com/s/mandali/v9/LhWlMVbYOfASNfNUZF4_YQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/mandali/v9/LhWlMVbYOfASNfNUZF4_ZQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/mandali/v9/LhWlMVbYOfASNfNUZF4_Yw.woff) format("woff");
+}
+.u-font-mandali-400 {
+          font-family: 'Mandali' !important;
+          font-weight: 400 !important;
+}

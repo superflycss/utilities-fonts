@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Aldrich;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Aldrich Regular"),local(Aldrich-Regular),url(//fonts.gstatic.com/s/aldrich/v11/MCoTzAn-1s3IGyJMVacY2w.eot?#) format("eot"),url(//fonts.gstatic.com/s/aldrich/v11/MCoTzAn-1s3IGyJMVacY3w.woff2) format("woff2"),url(//fonts.gstatic.com/s/aldrich/v11/MCoTzAn-1s3IGyJMVacY2Q.woff) format("woff");
+}
+.u-font-aldrich-400 {
+          font-family: 'Aldrich' !important;
+          font-weight: 400 !important;
+}

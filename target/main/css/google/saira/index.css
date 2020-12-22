@@ -1,0 +1,90 @@
+@font-face {
+          font-family: Saira;
+          font-style: normal;
+          font-weight: 100;
+          src: local("Saira Thin"),local(Saira-Thin),url(//fonts.gstatic.com/s/saira/v5/mem-Ya2wxmKQyNFEfZ81Uw.eot?#) format("eot"),url(//fonts.gstatic.com/s/saira/v5/mem-Ya2wxmKQyNFEfZE1Vw.woff2) format("woff2"),url(//fonts.gstatic.com/s/saira/v5/mem-Ya2wxmKQyNFEfZ81UQ.woff) format("woff");
+}
+@font-face {
+          font-family: Saira;
+          font-style: normal;
+          font-weight: 200;
+          src: local("Saira ExtraLight"),local(Saira-ExtraLight),url(//fonts.gstatic.com/s/saira/v5/mem9Ya2wxmKQyNHobIYccrw.eot?#) format("eot"),url(//fonts.gstatic.com/s/saira/v5/mem9Ya2wxmKQyNHobIYScrg.woff2) format("woff2"),url(//fonts.gstatic.com/s/saira/v5/mem9Ya2wxmKQyNHobIYccr4.woff) format("woff");
+}
+@font-face {
+          font-family: Saira;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Saira Light"),local(Saira-Light),url(//fonts.gstatic.com/s/saira/v5/mem9Ya2wxmKQyNGMb4Yccrw.eot?#) format("eot"),url(//fonts.gstatic.com/s/saira/v5/mem9Ya2wxmKQyNGMb4YScrg.woff2) format("woff2"),url(//fonts.gstatic.com/s/saira/v5/mem9Ya2wxmKQyNGMb4Yccr4.woff) format("woff");
+}
+@font-face {
+          font-family: Saira;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Saira Regular"),local(Saira-Regular),url(//fonts.gstatic.com/s/saira/v5/memwYa2wxmKQyNkpTZc.eot?#) format("eot"),url(//fonts.gstatic.com/s/saira/v5/memwYa2wxmKQyNknTZM.woff2) format("woff2"),url(//fonts.gstatic.com/s/saira/v5/memwYa2wxmKQyNkpTZU.woff) format("woff");
+}
+@font-face {
+          font-family: Saira;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Saira Medium"),local(Saira-Medium),url(//fonts.gstatic.com/s/saira/v5/mem9Ya2wxmKQyNHUboYccrw.eot?#) format("eot"),url(//fonts.gstatic.com/s/saira/v5/mem9Ya2wxmKQyNHUboYScrg.woff2) format("woff2"),url(//fonts.gstatic.com/s/saira/v5/mem9Ya2wxmKQyNHUboYccr4.woff) format("woff");
+}
+@font-face {
+          font-family: Saira;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Saira SemiBold"),local(Saira-SemiBold),url(//fonts.gstatic.com/s/saira/v5/mem9Ya2wxmKQyNH4aYYccrw.eot?#) format("eot"),url(//fonts.gstatic.com/s/saira/v5/mem9Ya2wxmKQyNH4aYYScrg.woff2) format("woff2"),url(//fonts.gstatic.com/s/saira/v5/mem9Ya2wxmKQyNH4aYYccr4.woff) format("woff");
+}
+@font-face {
+          font-family: Saira;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Saira Bold"),local(Saira-Bold),url(//fonts.gstatic.com/s/saira/v5/mem9Ya2wxmKQyNGcaIYccrw.eot?#) format("eot"),url(//fonts.gstatic.com/s/saira/v5/mem9Ya2wxmKQyNGcaIYScrg.woff2) format("woff2"),url(//fonts.gstatic.com/s/saira/v5/mem9Ya2wxmKQyNGcaIYccr4.woff) format("woff");
+}
+@font-face {
+          font-family: Saira;
+          font-style: normal;
+          font-weight: 800;
+          src: local("Saira ExtraBold"),local(Saira-ExtraBold),url(//fonts.gstatic.com/s/saira/v5/mem9Ya2wxmKQyNGAa4Yccrw.eot?#) format("eot"),url(//fonts.gstatic.com/s/saira/v5/mem9Ya2wxmKQyNGAa4YScrg.woff2) format("woff2"),url(//fonts.gstatic.com/s/saira/v5/mem9Ya2wxmKQyNGAa4Yccr4.woff) format("woff");
+}
+@font-face {
+          font-family: Saira;
+          font-style: normal;
+          font-weight: 900;
+          src: local("Saira Black"),local(Saira-Black),url(//fonts.gstatic.com/s/saira/v5/mem9Ya2wxmKQyNGkaoYccrw.eot?#) format("eot"),url(//fonts.gstatic.com/s/saira/v5/mem9Ya2wxmKQyNGkaoYScrg.woff2) format("woff2"),url(//fonts.gstatic.com/s/saira/v5/mem9Ya2wxmKQyNGkaoYccr4.woff) format("woff");
+}
+.u-font-saira-100 {
+          font-family: 'Saira' !important;
+          font-weight: 100 !important;
+}
+.u-font-saira-200 {
+          font-family: 'Saira' !important;
+          font-weight: 200 !important;
+}
+.u-font-saira-300 {
+          font-family: 'Saira' !important;
+          font-weight: 300 !important;
+}
+.u-font-saira-400 {
+          font-family: 'Saira' !important;
+          font-weight: 400 !important;
+}
+.u-font-saira-500 {
+          font-family: 'Saira' !important;
+          font-weight: 500 !important;
+}
+.u-font-saira-600 {
+          font-family: 'Saira' !important;
+          font-weight: 600 !important;
+}
+.u-font-saira-700 {
+          font-family: 'Saira' !important;
+          font-weight: 700 !important;
+}
+.u-font-saira-800 {
+          font-family: 'Saira' !important;
+          font-weight: 800 !important;
+}
+.u-font-saira-900 {
+          font-family: 'Saira' !important;
+          font-weight: 900 !important;
+}

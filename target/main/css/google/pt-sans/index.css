@@ -1,0 +1,42 @@
+@font-face {
+          font-family: "PT Sans";
+          font-style: italic;
+          font-weight: 400;
+          src: local("PT Sans Italic"),local(PTSans-Italic),url(//fonts.gstatic.com/s/ptsans/v12/jizYRExUiTo99u79D0e0ycmM.eot?#) format("eot"),url(//fonts.gstatic.com/s/ptsans/v12/jizYRExUiTo99u79D0e0x8mI.woff2) format("woff2"),url(//fonts.gstatic.com/s/ptsans/v12/jizYRExUiTo99u79D0e0ycmO.woff) format("woff");
+}
+@font-face {
+          font-family: "PT Sans";
+          font-style: italic;
+          font-weight: 700;
+          src: local("PT Sans Bold Italic"),local(PTSans-BoldItalic),url(//fonts.gstatic.com/s/ptsans/v12/jizdRExUiTo99u79D0e8fOydIRUZ.eot?#) format("eot"),url(//fonts.gstatic.com/s/ptsans/v12/jizdRExUiTo99u79D0e8fOydLxUd.woff2) format("woff2"),url(//fonts.gstatic.com/s/ptsans/v12/jizdRExUiTo99u79D0e8fOydIRUb.woff) format("woff");
+}
+@font-face {
+          font-family: "PT Sans";
+          font-style: normal;
+          font-weight: 400;
+          src: local("PT Sans"),local(PTSans-Regular),url(//fonts.gstatic.com/s/ptsans/v12/jizaRExUiTo99u79D0yEwQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/ptsans/v12/jizaRExUiTo99u79D0KExQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/ptsans/v12/jizaRExUiTo99u79D0yEww.woff) format("woff");
+}
+@font-face {
+          font-family: "PT Sans";
+          font-style: normal;
+          font-weight: 700;
+          src: local("PT Sans Bold"),local(PTSans-Bold),url(//fonts.gstatic.com/s/ptsans/v12/jizfRExUiTo99u79B_mh0OCtKQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/ptsans/v12/jizfRExUiTo99u79B_mh0O6tLQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/ptsans/v12/jizfRExUiTo99u79B_mh0OCtKw.woff) format("woff");
+}
+.u-font-pt-sans-400 {
+          font-family: 'PT Sans' !important;
+          font-weight: 400 !important;
+}
+.u-font-pt-sans-400-italic {
+        font-family: 'PT Sans' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-pt-sans-700 {
+          font-family: 'PT Sans' !important;
+          font-weight: 700 !important;
+}
+.u-font-pt-sans-700-italic {
+        font-family: 'PT Sans' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

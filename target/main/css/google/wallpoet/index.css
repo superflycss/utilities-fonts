@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Wallpoet;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Wallpoet),url(//fonts.gstatic.com/s/wallpoet/v12/f0X10em2_8RnXVVdUObp58A.eot?#) format("eot"),url(//fonts.gstatic.com/s/wallpoet/v12/f0X10em2_8RnXVVdUObp58Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/wallpoet/v12/f0X10em2_8RnXVVdUObp58I.woff) format("woff");
+}
+.u-font-wallpoet-400 {
+          font-family: 'Wallpoet' !important;
+          font-weight: 400 !important;
+}

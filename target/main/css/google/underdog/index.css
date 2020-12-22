@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Underdog;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Underdog),local(Underdog-Regular),url(//fonts.gstatic.com/s/underdog/v9/CHygV-jCElj7diMroWSrWVs.eot?#) format("eot"),url(//fonts.gstatic.com/s/underdog/v9/CHygV-jCElj7diMroWSlWV8.woff2) format("woff2"),url(//fonts.gstatic.com/s/underdog/v9/CHygV-jCElj7diMroWSrWVk.woff) format("woff");
+}
+.u-font-underdog-400 {
+          font-family: 'Underdog' !important;
+          font-weight: 400 !important;
+}

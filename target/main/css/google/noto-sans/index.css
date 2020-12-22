@@ -1,0 +1,42 @@
+@font-face {
+          font-family: "Noto Sans";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Noto Sans Italic"),local(NotoSans-Italic),url(//fonts.gstatic.com/s/notosans/v11/o-0OIpQlx3QUlC5A4PNr4ARMQ_0.eot?#) format("eot"),url(//fonts.gstatic.com/s/notosans/v11/o-0OIpQlx3QUlC5A4PNr4ARCQ_k.woff2) format("woff2"),url(//fonts.gstatic.com/s/notosans/v11/o-0OIpQlx3QUlC5A4PNr4ARMQ_8.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Sans";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Noto Sans Bold Italic"),local(NotoSans-BoldItalic),url(//fonts.gstatic.com/s/notosans/v11/o-0TIpQlx3QUlC5A4PNr4Az5ZuyNzWk.eot?#) format("eot"),url(//fonts.gstatic.com/s/notosans/v11/o-0TIpQlx3QUlC5A4PNr4Az5ZuyDzW0.woff2) format("woff2"),url(//fonts.gstatic.com/s/notosans/v11/o-0TIpQlx3QUlC5A4PNr4Az5ZuyNzWs.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Sans";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Noto Sans"),local(NotoSans),url(//fonts.gstatic.com/s/notosans/v11/o-0IIpQlx3QUlC5A4PNr6zRE.eot?#) format("eot"),url(//fonts.gstatic.com/s/notosans/v11/o-0IIpQlx3QUlC5A4PNr5TRA.woff2) format("woff2"),url(//fonts.gstatic.com/s/notosans/v11/o-0IIpQlx3QUlC5A4PNr6zRG.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Sans";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Noto Sans Bold"),local(NotoSans-Bold),url(//fonts.gstatic.com/s/notosans/v11/o-0NIpQlx3QUlC5A4PNjXhFVatyF.eot?#) format("eot"),url(//fonts.gstatic.com/s/notosans/v11/o-0NIpQlx3QUlC5A4PNjXhFVZNyB.woff2) format("woff2"),url(//fonts.gstatic.com/s/notosans/v11/o-0NIpQlx3QUlC5A4PNjXhFVatyH.woff) format("woff");
+}
+.u-font-noto-sans-400 {
+          font-family: 'Noto Sans' !important;
+          font-weight: 400 !important;
+}
+.u-font-noto-sans-400-italic {
+        font-family: 'Noto Sans' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-noto-sans-700 {
+          font-family: 'Noto Sans' !important;
+          font-weight: 700 !important;
+}
+.u-font-noto-sans-700-italic {
+        font-family: 'Noto Sans' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

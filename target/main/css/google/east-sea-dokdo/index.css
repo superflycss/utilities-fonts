@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "East Sea Dokdo";
+          font-style: normal;
+          font-weight: 400;
+          src: local("East Sea Dokdo Regular"),local(EastSeaDokdo-Regular),url(//fonts.gstatic.com/s/eastseadokdo/v8/xfuo0Wn2V2_KanASqXSZp22m06_dE64.eot?#) format("eot"),url(//fonts.gstatic.com/s/eastseadokdo/v8/xfuo0Wn2V2_KanASqXSZp22m05_fcb3aRCxcL4dOVHJm4ii0w2TJ0q8.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/eastseadokdo/v8/xfuo0Wn2V2_KanASqXSZp22m06_dE6w.woff) format("woff");
+}
+.u-font-east-sea-dokdo-400 {
+          font-family: 'East Sea Dokdo' !important;
+          font-weight: 400 !important;
+}

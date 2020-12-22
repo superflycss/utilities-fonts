@@ -1,0 +1,40 @@
+@font-face {
+          font-family: Enriqueta;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Enriqueta Regular"),local(Enriqueta-Regular),url(//fonts.gstatic.com/s/enriqueta/v10/goksH6L7AUFrRvV44HVjQkqm.eot?#) format("eot"),url(//fonts.gstatic.com/s/enriqueta/v10/goksH6L7AUFrRvV44HVjTEqi.woff2) format("woff2"),url(//fonts.gstatic.com/s/enriqueta/v10/goksH6L7AUFrRvV44HVjQkqk.woff) format("woff");
+}
+@font-face {
+          font-family: Enriqueta;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Enriqueta Medium"),local(Enriqueta-Medium),url(//fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVrv2m3kdxB.eot?#) format("eot"),url(//fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVrv2m3n9xF.woff2) format("woff2"),url(//fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVrv2m3kdxD.woff) format("woff");
+}
+@font-face {
+          font-family: Enriqueta;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Enriqueta SemiBold"),local(Enriqueta-SemiBold),url(//fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVrk263kdxB.eot?#) format("eot"),url(//fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVrk263n9xF.woff2) format("woff2"),url(//fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVrk263kdxD.woff) format("woff");
+}
+@font-face {
+          font-family: Enriqueta;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Enriqueta Bold"),local(Enriqueta-Bold),url(//fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVr92-3kdxB.eot?#) format("eot"),url(//fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVr92-3n9xF.woff2) format("woff2"),url(//fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVr92-3kdxD.woff) format("woff");
+}
+.u-font-enriqueta-400 {
+          font-family: 'Enriqueta' !important;
+          font-weight: 400 !important;
+}
+.u-font-enriqueta-500 {
+          font-family: 'Enriqueta' !important;
+          font-weight: 500 !important;
+}
+.u-font-enriqueta-600 {
+          font-family: 'Enriqueta' !important;
+          font-weight: 600 !important;
+}
+.u-font-enriqueta-700 {
+          font-family: 'Enriqueta' !important;
+          font-weight: 700 !important;
+}

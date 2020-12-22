@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Montaga;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Montaga),local(Montaga-Regular),url(//fonts.gstatic.com/s/montaga/v8/H4cnBX2Ml8rCkEO_4gEa6Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/montaga/v8/H4cnBX2Ml8rCkEO_4gEa7Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/montaga/v8/H4cnBX2Ml8rCkEO_4gEa6w.woff) format("woff");
+}
+.u-font-montaga-400 {
+          font-family: 'Montaga' !important;
+          font-weight: 400 !important;
+}

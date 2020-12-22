@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Della Respira";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Della Respira"),local(DellaRespira-Regular),url(//fonts.gstatic.com/s/dellarespira/v8/RLp5K5v44KaueWI6iEJQBiGPdf4Yvg.eot?#) format("eot"),url(//fonts.gstatic.com/s/dellarespira/v8/RLp5K5v44KaueWI6iEJQBiGPdf4Yug.woff2) format("woff2"),url(//fonts.gstatic.com/s/dellarespira/v8/RLp5K5v44KaueWI6iEJQBiGPdf4YvA.woff) format("woff");
+}
+.u-font-della-respira-400 {
+          font-family: 'Della Respira' !important;
+          font-weight: 400 !important;
+}

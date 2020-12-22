@@ -1,0 +1,60 @@
+@font-face {
+          font-family: Pridi;
+          font-style: normal;
+          font-weight: 200;
+          src: local("Pridi ExtraLight"),local(Pridi-ExtraLight),url(//fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc1SiH0qT0Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc1SiH0kT0A.woff2) format("woff2"),url(//fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc1SiH0qT0Y.woff) format("woff");
+}
+@font-face {
+          font-family: Pridi;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Pridi Light"),local(Pridi-Light),url(//fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc02i30qT0Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc02i30kT0A.woff2) format("woff2"),url(//fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc02i30qT0Y.woff) format("woff");
+}
+@font-face {
+          font-family: Pridi;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Pridi Regular"),local(Pridi-Regular),url(//fonts.gstatic.com/s/pridi/v6/2sDQZG5JnZLfkcWTqWw.eot?#) format("eot"),url(//fonts.gstatic.com/s/pridi/v6/2sDQZG5JnZLfkcWdqWg.woff2) format("woff2"),url(//fonts.gstatic.com/s/pridi/v6/2sDQZG5JnZLfkcWTqW4.woff) format("woff");
+}
+@font-face {
+          font-family: Pridi;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Pridi Medium"),local(Pridi-Medium),url(//fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc1uin0qT0Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc1uin0kT0A.woff2) format("woff2"),url(//fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc1uin0qT0Y.woff) format("woff");
+}
+@font-face {
+          font-family: Pridi;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Pridi SemiBold"),local(Pridi-SemiBold),url(//fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc1CjX0qT0Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc1CjX0kT0A.woff2) format("woff2"),url(//fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc1CjX0qT0Y.woff) format("woff");
+}
+@font-face {
+          font-family: Pridi;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Pridi Bold"),local(Pridi-Bold),url(//fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc0mjH0qT0Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc0mjH0kT0A.woff2) format("woff2"),url(//fonts.gstatic.com/s/pridi/v6/2sDdZG5JnZLfkc0mjH0qT0Y.woff) format("woff");
+}
+.u-font-pridi-200 {
+          font-family: 'Pridi' !important;
+          font-weight: 200 !important;
+}
+.u-font-pridi-300 {
+          font-family: 'Pridi' !important;
+          font-weight: 300 !important;
+}
+.u-font-pridi-400 {
+          font-family: 'Pridi' !important;
+          font-weight: 400 !important;
+}
+.u-font-pridi-500 {
+          font-family: 'Pridi' !important;
+          font-weight: 500 !important;
+}
+.u-font-pridi-600 {
+          font-family: 'Pridi' !important;
+          font-weight: 600 !important;
+}
+.u-font-pridi-700 {
+          font-family: 'Pridi' !important;
+          font-weight: 700 !important;
+}

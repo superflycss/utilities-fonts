@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Modak;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Modak),url(//fonts.gstatic.com/s/modak/v5/EJRYQgs1XtIEskMO-hA.eot?#) format("eot"),url(//fonts.gstatic.com/s/modak/v5/EJRYQgs1XtIEskMA-hQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/modak/v5/EJRYQgs1XtIEskMO-hI.woff) format("woff");
+}
+.u-font-modak-400 {
+          font-family: 'Modak' !important;
+          font-weight: 400 !important;
+}

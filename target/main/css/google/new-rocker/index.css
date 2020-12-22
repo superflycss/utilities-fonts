@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "New Rocker";
+          font-style: normal;
+          font-weight: 400;
+          src: local("New Rocker"),local(NewRocker-Regular),url(//fonts.gstatic.com/s/newrocker/v9/MwQzbhjp3-HImzcCU_cJoGofjA.eot?#) format("eot"),url(//fonts.gstatic.com/s/newrocker/v9/MwQzbhjp3-HImzcCU_cJoGQfiA.woff2) format("woff2"),url(//fonts.gstatic.com/s/newrocker/v9/MwQzbhjp3-HImzcCU_cJoGofjg.woff) format("woff");
+}
+.u-font-new-rocker-400 {
+          font-family: 'New Rocker' !important;
+          font-weight: 400 !important;
+}

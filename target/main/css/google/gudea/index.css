@@ -1,0 +1,31 @@
+@font-face {
+          font-family: Gudea;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Gudea Italic"),local(Gudea-Italic),url(//fonts.gstatic.com/s/gudea/v10/neILzCqgsI0mp9CNzoymNw.eot?#) format("eot"),url(//fonts.gstatic.com/s/gudea/v10/neILzCqgsI0mp9CNzoKmMw.woff2) format("woff2"),url(//fonts.gstatic.com/s/gudea/v10/neILzCqgsI0mp9CNzoymNQ.woff) format("woff");
+}
+@font-face {
+          font-family: Gudea;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Gudea),url(//fonts.gstatic.com/s/gudea/v10/neIFzCqgsI0mp9CG_oQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/gudea/v10/neIFzCqgsI0mp9CI_oA.woff2) format("woff2"),url(//fonts.gstatic.com/s/gudea/v10/neIFzCqgsI0mp9CG_oY.woff) format("woff");
+}
+@font-face {
+          font-family: Gudea;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Gudea Bold"),local(Gudea-Bold),url(//fonts.gstatic.com/s/gudea/v10/neIIzCqgsI0mp9gz25WPFqg.eot?#) format("eot"),url(//fonts.gstatic.com/s/gudea/v10/neIIzCqgsI0mp9gz25WBFqw.woff2) format("woff2"),url(//fonts.gstatic.com/s/gudea/v10/neIIzCqgsI0mp9gz25WPFqo.woff) format("woff");
+}
+.u-font-gudea-400 {
+          font-family: 'Gudea' !important;
+          font-weight: 400 !important;
+}
+.u-font-gudea-400-italic {
+        font-family: 'Gudea' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-gudea-700 {
+          font-family: 'Gudea' !important;
+          font-weight: 700 !important;
+}

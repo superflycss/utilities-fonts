@@ -1,0 +1,60 @@
+@font-face {
+          font-family: Cuprum;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Cuprum Italic"),local(Cuprum-Italic),url(//fonts.gstatic.com/s/cuprum/v12/dg4m_pLmvrkcOkBNI9tOr70.eot?#) format("eot"),url(//fonts.gstatic.com/s/cuprum/v12/dg4m_pLmvrkcOkBNI9tAr7k.woff2) format("woff2"),url(//fonts.gstatic.com/s/cuprum/v12/dg4m_pLmvrkcOkBNI9tOr78.woff) format("woff");
+}
+@font-face {
+          font-family: Cuprum;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Cuprum Bold Italic"),local(Cuprum-BoldItalic),url(//fonts.gstatic.com/s/cuprum/v12/dg4h_pLmvrkcOkBNI9P7iqwkawM.eot?#) format("eot"),url(//fonts.gstatic.com/s/cuprum/v12/dg4h_pLmvrkcOkBNI9P7iqwqawc.woff2) format("woff2"),url(//fonts.gstatic.com/s/cuprum/v12/dg4h_pLmvrkcOkBNI9P7iqwkawE.woff) format("woff");
+}
+@font-face {
+          font-family: Cuprum;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Cuprum Regular"),local(Cuprum-Regular),url(//fonts.gstatic.com/s/cuprum/v12/dg4k_pLmvrkcOkBNKOtG.eot?#) format("eot"),url(//fonts.gstatic.com/s/cuprum/v12/dg4k_pLmvrkcOkBNJutC.woff2) format("woff2"),url(//fonts.gstatic.com/s/cuprum/v12/dg4k_pLmvrkcOkBNKOtE.woff) format("woff");
+}
+@font-face {
+          font-family: Cuprum;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Cuprum Bold"),local(Cuprum-Bold),url(//fonts.gstatic.com/s/cuprum/v12/dg4n_pLmvrkcOkBFnc5Xhpws.eot?#) format("eot"),url(//fonts.gstatic.com/s/cuprum/v12/dg4n_pLmvrkcOkBFnc5XiJwo.woff2) format("woff2"),url(//fonts.gstatic.com/s/cuprum/v12/dg4n_pLmvrkcOkBFnc5Xhpwu.woff) format("woff");
+}
+.u-font-cuprum-400 {
+          font-family: 'Cuprum' !important;
+          font-weight: 400 !important;
+}
+.u-font-cuprum-500 {
+          font-family: 'Cuprum' !important;
+          font-weight: 500 !important;
+}
+.u-font-cuprum-600 {
+          font-family: 'Cuprum' !important;
+          font-weight: 600 !important;
+}
+.u-font-cuprum-700 {
+          font-family: 'Cuprum' !important;
+          font-weight: 700 !important;
+}
+.u-font-cuprum-400-italic {
+        font-family: 'Cuprum' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-cuprum-500-italic {
+        font-family: 'Cuprum' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-cuprum-600-italic {
+        font-family: 'Cuprum' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-cuprum-700-italic {
+        font-family: 'Cuprum' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

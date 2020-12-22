@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Gabriela;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Gabriela Regular"),local(Gabriela-Regular),url(//fonts.gstatic.com/s/gabriela/v9/qkBWXvsO6sreR8E-b8m5xL8.eot?#) format("eot"),url(//fonts.gstatic.com/s/gabriela/v9/qkBWXvsO6sreR8E-b8m5xLs.woff2) format("woff2"),url(//fonts.gstatic.com/s/gabriela/v9/qkBWXvsO6sreR8E-b8m5xL0.woff) format("woff");
+}
+.u-font-gabriela-400 {
+          font-family: 'Gabriela' !important;
+          font-weight: 400 !important;
+}

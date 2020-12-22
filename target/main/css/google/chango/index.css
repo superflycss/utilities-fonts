@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Chango;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Chango Regular"),local(Chango-Regular),url(//fonts.gstatic.com/s/chango/v9/2V0cKI0OB5U7WaJCxne9.eot?#) format("eot"),url(//fonts.gstatic.com/s/chango/v9/2V0cKI0OB5U7WaJCyHe5.woff2) format("woff2"),url(//fonts.gstatic.com/s/chango/v9/2V0cKI0OB5U7WaJCxne_.woff) format("woff");
+}
+.u-font-chango-400 {
+          font-family: 'Chango' !important;
+          font-weight: 400 !important;
+}

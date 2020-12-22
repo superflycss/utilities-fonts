@@ -1,0 +1,42 @@
+@font-face {
+          font-family: "PT Serif";
+          font-style: italic;
+          font-weight: 400;
+          src: local("PT Serif Italic"),local(PTSerif-Italic),url(//fonts.gstatic.com/s/ptserif/v12/EJRTQgYoZZY2vCFuvAFT_rO1dg.eot?#) format("eot"),url(//fonts.gstatic.com/s/ptserif/v12/EJRTQgYoZZY2vCFuvAFT_r21cg.woff2) format("woff2"),url(//fonts.gstatic.com/s/ptserif/v12/EJRTQgYoZZY2vCFuvAFT_rO1dA.woff) format("woff");
+}
+@font-face {
+          font-family: "PT Serif";
+          font-style: italic;
+          font-weight: 700;
+          src: local("PT Serif Bold Italic"),local(PTSerif-BoldItalic),url(//fonts.gstatic.com/s/ptserif/v12/EJRQQgYoZZY2vCFuvAFT9gaQZyffpA.eot?#) format("eot"),url(//fonts.gstatic.com/s/ptserif/v12/EJRQQgYoZZY2vCFuvAFT9gaQZynfoA.woff2) format("woff2"),url(//fonts.gstatic.com/s/ptserif/v12/EJRQQgYoZZY2vCFuvAFT9gaQZyffpg.woff) format("woff");
+}
+@font-face {
+          font-family: "PT Serif";
+          font-style: normal;
+          font-weight: 400;
+          src: local("PT Serif"),local(PTSerif-Regular),url(//fonts.gstatic.com/s/ptserif/v12/EJRVQgYoZZY2vCFuvAFYzrs.eot?#) format("eot"),url(//fonts.gstatic.com/s/ptserif/v12/EJRVQgYoZZY2vCFuvAFWzr8.woff2) format("woff2"),url(//fonts.gstatic.com/s/ptserif/v12/EJRVQgYoZZY2vCFuvAFYzrk.woff) format("woff");
+}
+@font-face {
+          font-family: "PT Serif";
+          font-style: normal;
+          font-weight: 700;
+          src: local("PT Serif Bold"),local(PTSerif-Bold),url(//fonts.gstatic.com/s/ptserif/v12/EJRSQgYoZZY2vCFuvAnt66qcVy8.eot?#) format("eot"),url(//fonts.gstatic.com/s/ptserif/v12/EJRSQgYoZZY2vCFuvAnt66qSVys.woff2) format("woff2"),url(//fonts.gstatic.com/s/ptserif/v12/EJRSQgYoZZY2vCFuvAnt66qcVy0.woff) format("woff");
+}
+.u-font-pt-serif-400 {
+          font-family: 'PT Serif' !important;
+          font-weight: 400 !important;
+}
+.u-font-pt-serif-400-italic {
+        font-family: 'PT Serif' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-pt-serif-700 {
+          font-family: 'PT Serif' !important;
+          font-weight: 700 !important;
+}
+.u-font-pt-serif-700-italic {
+        font-family: 'PT Serif' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Ruslan Display";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Ruslan Display"),local(RuslanDisplay),url(//fonts.gstatic.com/s/ruslandisplay/v11/Gw6jwczl81XcIZuckK_e3Upfdwxin9k.eot?#) format("eot"),url(//fonts.gstatic.com/s/ruslandisplay/v11/Gw6jwczl81XcIZuckK_e3Upfdwxsn90.woff2) format("woff2"),url(//fonts.gstatic.com/s/ruslandisplay/v11/Gw6jwczl81XcIZuckK_e3Upfdwxin9s.woff) format("woff");
+}
+.u-font-ruslan-display-400 {
+          font-family: 'Ruslan Display' !important;
+          font-weight: 400 !important;
+}

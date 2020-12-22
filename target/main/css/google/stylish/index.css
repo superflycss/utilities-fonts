@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Stylish;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Stylish Regular"),local(Stylish-Regular),url(//fonts.gstatic.com/s/stylish/v8/m8JSjfhPYriQkk7-TorzcQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/stylish/v8/m8JSjfhPYriQkk7-foiRYr5LBQTwuLLyUZJAC6M3P8sGXg.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/stylish/v8/m8JSjfhPYriQkk7-Torzcw.woff) format("woff");
+}
+.u-font-stylish-400 {
+          font-family: 'Stylish' !important;
+          font-weight: 400 !important;
+}

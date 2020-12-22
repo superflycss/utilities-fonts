@@ -1,0 +1,60 @@
+@font-face {
+          font-family: Yantramanav;
+          font-style: normal;
+          font-weight: 100;
+          src: local("Yantramanav Thin"),local(Yantramanav-Thin),url(//fonts.gstatic.com/s/yantramanav/v6/flU-Rqu5zY00QEpyWJYWN5-Qbep5CQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/yantramanav/v6/flU-Rqu5zY00QEpyWJYWN5-QbeR5DQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/yantramanav/v6/flU-Rqu5zY00QEpyWJYWN5-Qbep5Cw.woff) format("woff");
+}
+@font-face {
+          font-family: Yantramanav;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Yantramanav Light"),local(Yantramanav-Light),url(//fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN59Yf_NQKBc.eot?#) format("eot"),url(//fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN59Yf_NeKBM.woff2) format("woff2"),url(//fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN59Yf_NQKBU.woff) format("woff");
+}
+@font-face {
+          font-family: Yantramanav;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Yantramanav Regular"),local(Yantramanav-Regular),url(//fonts.gstatic.com/s/yantramanav/v6/flU8Rqu5zY00QEpyWJYWN5f9XeI.eot?#) format("eot"),url(//fonts.gstatic.com/s/yantramanav/v6/flU8Rqu5zY00QEpyWJYWN5fzXeY.woff2) format("woff2"),url(//fonts.gstatic.com/s/yantramanav/v6/flU8Rqu5zY00QEpyWJYWN5f9XeA.woff) format("woff");
+}
+@font-face {
+          font-family: Yantramanav;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Yantramanav Medium"),local(Yantramanav-Medium),url(//fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN58AfvNQKBc.eot?#) format("eot"),url(//fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN58AfvNeKBM.woff2) format("woff2"),url(//fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN58AfvNQKBU.woff) format("woff");
+}
+@font-face {
+          font-family: Yantramanav;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Yantramanav Bold"),local(Yantramanav-Bold),url(//fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN59IePNQKBc.eot?#) format("eot"),url(//fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN59IePNeKBM.woff2) format("woff2"),url(//fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN59IePNQKBU.woff) format("woff");
+}
+@font-face {
+          font-family: Yantramanav;
+          font-style: normal;
+          font-weight: 900;
+          src: local("Yantramanav Black"),local(Yantramanav-Black),url(//fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN59wevNQKBc.eot?#) format("eot"),url(//fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN59wevNeKBM.woff2) format("woff2"),url(//fonts.gstatic.com/s/yantramanav/v6/flUhRqu5zY00QEpyWJYWN59wevNQKBU.woff) format("woff");
+}
+.u-font-yantramanav-100 {
+          font-family: 'Yantramanav' !important;
+          font-weight: 100 !important;
+}
+.u-font-yantramanav-300 {
+          font-family: 'Yantramanav' !important;
+          font-weight: 300 !important;
+}
+.u-font-yantramanav-400 {
+          font-family: 'Yantramanav' !important;
+          font-weight: 400 !important;
+}
+.u-font-yantramanav-500 {
+          font-family: 'Yantramanav' !important;
+          font-weight: 500 !important;
+}
+.u-font-yantramanav-700 {
+          font-family: 'Yantramanav' !important;
+          font-weight: 700 !important;
+}
+.u-font-yantramanav-900 {
+          font-family: 'Yantramanav' !important;
+          font-weight: 900 !important;
+}

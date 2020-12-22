@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Belleza;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Belleza Regular"),local(Belleza-Regular),url(//fonts.gstatic.com/s/belleza/v9/0nkoC9_pNeMfhX4Bhc_4bg.eot?#) format("eot"),url(//fonts.gstatic.com/s/belleza/v9/0nkoC9_pNeMfhX4BhcH4ag.woff2) format("woff2"),url(//fonts.gstatic.com/s/belleza/v9/0nkoC9_pNeMfhX4Bhc_4bA.woff) format("woff");
+}
+.u-font-belleza-400 {
+          font-family: 'Belleza' !important;
+          font-weight: 400 !important;
+}

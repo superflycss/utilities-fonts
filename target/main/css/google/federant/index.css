@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Federant;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Federant),local(Federant-Regular),url(//fonts.gstatic.com/s/federant/v13/2sDdZGNfip_eirT0_X0kT0Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/federant/v13/2sDdZGNfip_eirT0_X0kT0A.woff2) format("woff2"),url(//fonts.gstatic.com/s/federant/v13/2sDdZGNfip_eirT0_X0kT0Y.woff) format("woff");
+}
+.u-font-federant-400 {
+          font-family: 'Federant' !important;
+          font-weight: 400 !important;
+}

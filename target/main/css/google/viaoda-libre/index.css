@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Viaoda Libre";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Viaoda Libre Regular"),local(ViaodaLibre-Regular),url(//fonts.gstatic.com/s/viaodalibre/v3/vEFW2_lWCgoR6OKuRz9kcRV5Zmgd.eot?#) format("eot"),url(//fonts.gstatic.com/s/viaodalibre/v3/vEFW2_lWCgoR6OKuRz9kcRV5aGgZ.woff2) format("woff2"),url(//fonts.gstatic.com/s/viaodalibre/v3/vEFW2_lWCgoR6OKuRz9kcRV5Zmgf.woff) format("woff");
+}
+.u-font-viaoda-libre-400 {
+          font-family: 'Viaoda Libre' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Alike Angular";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Alike Angular Regular"),local(AlikeAngular-Regular),url(//fonts.gstatic.com/s/alikeangular/v11/3qTrojWunjGQtEBlIcwMbSoI7kQwaQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/alikeangular/v11/3qTrojWunjGQtEBlIcwMbSoI7kQwbQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/alikeangular/v11/3qTrojWunjGQtEBlIcwMbSoI7kQwaw.woff) format("woff");
+}
+.u-font-alike-angular-400 {
+          font-family: 'Alike Angular' !important;
+          font-weight: 400 !important;
+}

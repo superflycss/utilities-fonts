@@ -1,0 +1,30 @@
+@font-face {
+          font-family: Sen;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Sen Regular"),local(Sen-Regular),url(//fonts.gstatic.com/s/sen/v2/6xKjdSxYI9_3kvWJ.eot?#) format("eot"),url(//fonts.gstatic.com/s/sen/v2/6xKjdSxYI9_3nPWN.woff2) format("woff2"),url(//fonts.gstatic.com/s/sen/v2/6xKjdSxYI9_3kvWL.woff) format("woff");
+}
+@font-face {
+          font-family: Sen;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Sen Bold"),local(Sen-Bold),url(//fonts.gstatic.com/s/sen/v2/6xKudSxYI9__J9CYI0vw.eot?#) format("eot"),url(//fonts.gstatic.com/s/sen/v2/6xKudSxYI9__J9CYLUv0.woff2) format("woff2"),url(//fonts.gstatic.com/s/sen/v2/6xKudSxYI9__J9CYI0vy.woff) format("woff");
+}
+@font-face {
+          font-family: Sen;
+          font-style: normal;
+          font-weight: 800;
+          src: local("Sen ExtraBold"),local(Sen-ExtraBold),url(//fonts.gstatic.com/s/sen/v2/6xKudSxYI9__O9OYI0vw.eot?#) format("eot"),url(//fonts.gstatic.com/s/sen/v2/6xKudSxYI9__O9OYLUv0.woff2) format("woff2"),url(//fonts.gstatic.com/s/sen/v2/6xKudSxYI9__O9OYI0vy.woff) format("woff");
+}
+.u-font-sen-400 {
+          font-family: 'Sen' !important;
+          font-weight: 400 !important;
+}
+.u-font-sen-700 {
+          font-family: 'Sen' !important;
+          font-weight: 700 !important;
+}
+.u-font-sen-800 {
+          font-family: 'Sen' !important;
+          font-weight: 800 !important;
+}

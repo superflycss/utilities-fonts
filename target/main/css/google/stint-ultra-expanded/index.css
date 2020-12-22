@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Stint Ultra Expanded";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Stint Ultra Expanded"),local(StintUltraExpanded-Regular),url(//fonts.gstatic.com/s/stintultraexpanded/v8/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qhCzE.eot?#) format("eot"),url(//fonts.gstatic.com/s/stintultraexpanded/v8/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzU.woff2) format("woff2"),url(//fonts.gstatic.com/s/stintultraexpanded/v8/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qhCzM.woff) format("woff");
+}
+.u-font-stint-ultra-expanded-400 {
+          font-family: 'Stint Ultra Expanded' !important;
+          font-weight: 400 !important;
+}

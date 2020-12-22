@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Wire One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Wire One"),local(WireOne),url(//fonts.gstatic.com/s/wireone/v11/qFdH35Wah5htUhV75VGlU98.eot?#) format("eot"),url(//fonts.gstatic.com/s/wireone/v11/qFdH35Wah5htUhV75VGlU9s.woff2) format("woff2"),url(//fonts.gstatic.com/s/wireone/v11/qFdH35Wah5htUhV75VGlU90.woff) format("woff");
+}
+.u-font-wire-one-400 {
+          font-family: 'Wire One' !important;
+          font-weight: 400 !important;
+}

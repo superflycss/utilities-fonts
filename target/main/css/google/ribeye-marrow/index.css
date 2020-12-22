@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Ribeye Marrow";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Ribeye Marrow"),local(RibeyeMarrow-Regular),url(//fonts.gstatic.com/s/ribeyemarrow/v10/GFDsWApshnqMRO2JdtRZ2d0vIAUZUA.eot?#) format("eot"),url(//fonts.gstatic.com/s/ribeyemarrow/v10/GFDsWApshnqMRO2JdtRZ2d0vIAsZVA.woff2) format("woff2"),url(//fonts.gstatic.com/s/ribeyemarrow/v10/GFDsWApshnqMRO2JdtRZ2d0vIAUZUg.woff) format("woff");
+}
+.u-font-ribeye-marrow-400 {
+          font-family: 'Ribeye Marrow' !important;
+          font-weight: 400 !important;
+}

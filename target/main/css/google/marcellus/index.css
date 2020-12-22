@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Marcellus;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Marcellus),local(Marcellus-Regular),url(//fonts.gstatic.com/s/marcellus/v8/wEO_EBrOk8hQLDvIAF81WPoO.eot?#) format("eot"),url(//fonts.gstatic.com/s/marcellus/v8/wEO_EBrOk8hQLDvIAF81VvoK.woff2) format("woff2"),url(//fonts.gstatic.com/s/marcellus/v8/wEO_EBrOk8hQLDvIAF81WPoM.woff) format("woff");
+}
+.u-font-marcellus-400 {
+          font-family: 'Marcellus' !important;
+          font-weight: 400 !important;
+}

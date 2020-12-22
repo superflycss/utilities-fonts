@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Contrail One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Contrail One"),local(ContrailOne-Regular),url(//fonts.gstatic.com/s/contrailone/v10/eLGbP-j_JA-kG0_Zo51noaftYkHo.eot?#) format("eot"),url(//fonts.gstatic.com/s/contrailone/v10/eLGbP-j_JA-kG0_Zo51noaftYkHs.woff2) format("woff2"),url(//fonts.gstatic.com/s/contrailone/v10/eLGbP-j_JA-kG0_Zo51noaftYkHq.woff) format("woff");
+}
+.u-font-contrail-one-400 {
+          font-family: 'Contrail One' !important;
+          font-weight: 400 !important;
+}

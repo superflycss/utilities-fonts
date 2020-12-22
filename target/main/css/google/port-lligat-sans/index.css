@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Port Lligat Sans";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Port Lligat Sans"),local(PortLligatSans-Regular),url(//fonts.gstatic.com/s/portlligatsans/v9/kmKmZrYrGBbdN1aV7Vokow6Lw4s4p7R-Sg.eot?#) format("eot"),url(//fonts.gstatic.com/s/portlligatsans/v9/kmKmZrYrGBbdN1aV7Vokow6Lw4s4p7R-Tg.woff2) format("woff2"),url(//fonts.gstatic.com/s/portlligatsans/v9/kmKmZrYrGBbdN1aV7Vokow6Lw4s4p7R-SA.woff) format("woff");
+}
+.u-font-port-lligat-sans-400 {
+          font-family: 'Port Lligat Sans' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Reenie Beanie";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Reenie Beanie"),local(ReenieBeanie),url(//fonts.gstatic.com/s/reeniebeanie/v11/z7NSdR76eDkaJKZJFkkjuvWxXPq1rw.eot?#) format("eot"),url(//fonts.gstatic.com/s/reeniebeanie/v11/z7NSdR76eDkaJKZJFkkjuvWxXPq1qw.woff2) format("woff2"),url(//fonts.gstatic.com/s/reeniebeanie/v11/z7NSdR76eDkaJKZJFkkjuvWxXPq1rQ.woff) format("woff");
+}
+.u-font-reenie-beanie-400 {
+          font-family: 'Reenie Beanie' !important;
+          font-weight: 400 !important;
+}

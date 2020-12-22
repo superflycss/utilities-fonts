@@ -1,0 +1,60 @@
+@font-face {
+          font-family: Cairo;
+          font-style: normal;
+          font-weight: 200;
+          src: local("Cairo ExtraLight"),local(Cairo-ExtraLight),url(//fonts.gstatic.com/s/cairo/v9/SLXLc1nY6Hkvalrub46F59I.eot?#) format("eot"),url(//fonts.gstatic.com/s/cairo/v9/SLXLc1nY6Hkvalrub46L59Y.woff2) format("woff2"),url(//fonts.gstatic.com/s/cairo/v9/SLXLc1nY6Hkvalrub46F59A.woff) format("woff");
+}
+@font-face {
+          font-family: Cairo;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Cairo Light"),local(Cairo-Light),url(//fonts.gstatic.com/s/cairo/v9/SLXLc1nY6HkvalqKbI6F59I.eot?#) format("eot"),url(//fonts.gstatic.com/s/cairo/v9/SLXLc1nY6HkvalqKbI6L59Y.woff2) format("woff2"),url(//fonts.gstatic.com/s/cairo/v9/SLXLc1nY6HkvalqKbI6F59A.woff) format("woff");
+}
+@font-face {
+          font-family: Cairo;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Cairo Regular"),local(Cairo-Regular),url(//fonts.gstatic.com/s/cairo/v9/SLXGc1nY6HkvalIvTp8.eot?#) format("eot"),url(//fonts.gstatic.com/s/cairo/v9/SLXGc1nY6HkvalIhTps.woff2) format("woff2"),url(//fonts.gstatic.com/s/cairo/v9/SLXGc1nY6HkvalIvTp0.woff) format("woff");
+}
+@font-face {
+          font-family: Cairo;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Cairo SemiBold"),local(Cairo-SemiBold),url(//fonts.gstatic.com/s/cairo/v9/SLXLc1nY6Hkvalr-ao6F59I.eot?#) format("eot"),url(//fonts.gstatic.com/s/cairo/v9/SLXLc1nY6Hkvalr-ao6L59Y.woff2) format("woff2"),url(//fonts.gstatic.com/s/cairo/v9/SLXLc1nY6Hkvalr-ao6F59A.woff) format("woff");
+}
+@font-face {
+          font-family: Cairo;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Cairo Bold"),local(Cairo-Bold),url(//fonts.gstatic.com/s/cairo/v9/SLXLc1nY6Hkvalqaa46F59I.eot?#) format("eot"),url(//fonts.gstatic.com/s/cairo/v9/SLXLc1nY6Hkvalqaa46L59Y.woff2) format("woff2"),url(//fonts.gstatic.com/s/cairo/v9/SLXLc1nY6Hkvalqaa46F59A.woff) format("woff");
+}
+@font-face {
+          font-family: Cairo;
+          font-style: normal;
+          font-weight: 900;
+          src: local("Cairo Black"),local(Cairo-Black),url(//fonts.gstatic.com/s/cairo/v9/SLXLc1nY6HkvalqiaY6F59I.eot?#) format("eot"),url(//fonts.gstatic.com/s/cairo/v9/SLXLc1nY6HkvalqiaY6L59Y.woff2) format("woff2"),url(//fonts.gstatic.com/s/cairo/v9/SLXLc1nY6HkvalqiaY6F59A.woff) format("woff");
+}
+.u-font-cairo-200 {
+          font-family: 'Cairo' !important;
+          font-weight: 200 !important;
+}
+.u-font-cairo-300 {
+          font-family: 'Cairo' !important;
+          font-weight: 300 !important;
+}
+.u-font-cairo-400 {
+          font-family: 'Cairo' !important;
+          font-weight: 400 !important;
+}
+.u-font-cairo-600 {
+          font-family: 'Cairo' !important;
+          font-weight: 600 !important;
+}
+.u-font-cairo-700 {
+          font-family: 'Cairo' !important;
+          font-weight: 700 !important;
+}
+.u-font-cairo-900 {
+          font-family: 'Cairo' !important;
+          font-weight: 900 !important;
+}

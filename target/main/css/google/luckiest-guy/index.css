@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Luckiest Guy";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Luckiest Guy Regular"),local(LuckiestGuy-Regular),url(//fonts.gstatic.com/s/luckiestguy/v11/_gP_1RrxsjcxVyin9l9n_j2hTd5y.eot?#) format("eot"),url(//fonts.gstatic.com/s/luckiestguy/v11/_gP_1RrxsjcxVyin9l9n_j2hTd52.woff2) format("woff2"),url(//fonts.gstatic.com/s/luckiestguy/v11/_gP_1RrxsjcxVyin9l9n_j2hTd5w.woff) format("woff");
+}
+.u-font-luckiest-guy-400 {
+          font-family: 'Luckiest Guy' !important;
+          font-weight: 400 !important;
+}

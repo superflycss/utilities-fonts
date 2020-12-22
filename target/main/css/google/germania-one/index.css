@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Germania One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Germania One"),local(GermaniaOne-Regular),url(//fonts.gstatic.com/s/germaniaone/v8/Fh4yPjrqIyv2ucM2qzBjeS3uywhL.eot?#) format("eot"),url(//fonts.gstatic.com/s/germaniaone/v8/Fh4yPjrqIyv2ucM2qzBjeS3uywhP.woff2) format("woff2"),url(//fonts.gstatic.com/s/germaniaone/v8/Fh4yPjrqIyv2ucM2qzBjeS3uywhJ.woff) format("woff");
+}
+.u-font-germania-one-400 {
+          font-family: 'Germania One' !important;
+          font-weight: 400 !important;
+}

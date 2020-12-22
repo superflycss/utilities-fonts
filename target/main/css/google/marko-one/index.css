@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Marko One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Marko One"),local(MarkoOne-Regular),url(//fonts.gstatic.com/s/markoone/v10/9Btq3DFG0cnVM5lw1haqLZ8a.eot?#) format("eot"),url(//fonts.gstatic.com/s/markoone/v10/9Btq3DFG0cnVM5lw1haqLZ8e.woff2) format("woff2"),url(//fonts.gstatic.com/s/markoone/v10/9Btq3DFG0cnVM5lw1haqLZ8Y.woff) format("woff");
+}
+.u-font-marko-one-400 {
+          font-family: 'Marko One' !important;
+          font-weight: 400 !important;
+}

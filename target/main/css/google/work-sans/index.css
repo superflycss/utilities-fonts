@@ -1,0 +1,189 @@
+@font-face {
+          font-family: "Work Sans";
+          font-style: italic;
+          font-weight: 100;
+          src: url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3mo5qofc.eot?#) format("eot"),url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3mo5pIfY.woff2) format("woff2"),url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3mo5qofe.woff) format("woff");
+}
+@font-face {
+          font-family: "Work Sans";
+          font-style: italic;
+          font-weight: 200;
+          src: url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXms5qofc.eot?#) format("eot"),url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXms5pIfY.woff2) format("woff2"),url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXms5qofe.woff) format("woff");
+}
+@font-face {
+          font-family: "Work Sans";
+          font-style: italic;
+          font-weight: 300;
+          src: url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUgGs5qofc.eot?#) format("eot"),url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUgGs5pIfY.woff2) format("woff2"),url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUgGs5qofe.woff) format("woff");
+}
+@font-face {
+          font-family: "Work Sans";
+          font-style: italic;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3ms5qofc.eot?#) format("eot"),url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3ms5pIfY.woff2) format("woff2"),url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3ms5qofe.woff) format("woff");
+}
+@font-face {
+          font-family: "Work Sans";
+          font-style: italic;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU7Gs5qofc.eot?#) format("eot"),url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU7Gs5pIfY.woff2) format("woff2"),url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU7Gs5qofe.woff) format("woff");
+}
+@font-face {
+          font-family: "Work Sans";
+          font-style: italic;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUAGw5qofc.eot?#) format("eot"),url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUAGw5pIfY.woff2) format("woff2"),url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUAGw5qofe.woff) format("woff");
+}
+@font-face {
+          font-family: "Work Sans";
+          font-style: italic;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUOWw5qofc.eot?#) format("eot"),url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUOWw5pIfY.woff2) format("woff2"),url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUOWw5qofe.woff) format("woff");
+}
+@font-face {
+          font-family: "Work Sans";
+          font-style: italic;
+          font-weight: 800;
+          src: url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXmw5qofc.eot?#) format("eot"),url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXmw5pIfY.woff2) format("woff2"),url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXmw5qofe.woff) format("woff");
+}
+@font-face {
+          font-family: "Work Sans";
+          font-style: italic;
+          font-weight: 900;
+          src: url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUd2w5qofc.eot?#) format("eot"),url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUd2w5pIfY.woff2) format("woff2"),url(//fonts.gstatic.com/s/worksans/v8/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUd2w5qofe.woff) format("woff");
+}
+@font-face {
+          font-family: "Work Sans";
+          font-style: normal;
+          font-weight: 100;
+          src: url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nWBiEJog.eot?#) format("eot"),url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nWBi8Jpg.woff2) format("woff2"),url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nWBiEJoA.woff) format("woff");
+}
+@font-face {
+          font-family: "Work Sans";
+          font-style: normal;
+          font-weight: 200;
+          src: url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXBiEJog.eot?#) format("eot"),url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXBi8Jpg.woff2) format("woff2"),url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXBiEJoA.woff) format("woff");
+}
+@font-face {
+          font-family: "Work Sans";
+          font-style: normal;
+          font-weight: 300;
+          src: url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBiEJog.eot?#) format("eot"),url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBi8Jpg.woff2) format("woff2"),url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBiEJoA.woff) format("woff");
+}
+@font-face {
+          font-family: "Work Sans";
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBiEJog.eot?#) format("eot"),url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBi8Jpg.woff2) format("woff2"),url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBiEJoA.woff) format("woff");
+}
+@font-face {
+          font-family: "Work Sans";
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBiEJog.eot?#) format("eot"),url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBi8Jpg.woff2) format("woff2"),url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBiEJoA.woff) format("woff");
+}
+@font-face {
+          font-family: "Work Sans";
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBiEJog.eot?#) format("eot"),url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBi8Jpg.woff2) format("woff2"),url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBiEJoA.woff) format("woff");
+}
+@font-face {
+          font-family: "Work Sans";
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBiEJog.eot?#) format("eot"),url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBi8Jpg.woff2) format("woff2"),url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBiEJoA.woff) format("woff");
+}
+@font-face {
+          font-family: "Work Sans";
+          font-style: normal;
+          font-weight: 800;
+          src: url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQBiEJog.eot?#) format("eot"),url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQBi8Jpg.woff2) format("woff2"),url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQBiEJoA.woff) format("woff");
+}
+@font-face {
+          font-family: "Work Sans";
+          font-style: normal;
+          font-weight: 900;
+          src: url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQBiEJog.eot?#) format("eot"),url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQBi8Jpg.woff2) format("woff2"),url(//fonts.gstatic.com/s/worksans/v8/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQBiEJoA.woff) format("woff");
+}
+.u-font-work-sans-100 {
+          font-family: 'Work Sans' !important;
+          font-weight: 100 !important;
+}
+.u-font-work-sans-200 {
+          font-family: 'Work Sans' !important;
+          font-weight: 200 !important;
+}
+.u-font-work-sans-300 {
+          font-family: 'Work Sans' !important;
+          font-weight: 300 !important;
+}
+.u-font-work-sans-400 {
+          font-family: 'Work Sans' !important;
+          font-weight: 400 !important;
+}
+.u-font-work-sans-500 {
+          font-family: 'Work Sans' !important;
+          font-weight: 500 !important;
+}
+.u-font-work-sans-600 {
+          font-family: 'Work Sans' !important;
+          font-weight: 600 !important;
+}
+.u-font-work-sans-700 {
+          font-family: 'Work Sans' !important;
+          font-weight: 700 !important;
+}
+.u-font-work-sans-800 {
+          font-family: 'Work Sans' !important;
+          font-weight: 800 !important;
+}
+.u-font-work-sans-900 {
+          font-family: 'Work Sans' !important;
+          font-weight: 900 !important;
+}
+.u-font-work-sans-100-italic {
+        font-family: 'Work Sans' !important;
+        font-weight: 100 !important;
+        font-style: italic !important;
+}
+.u-font-work-sans-200-italic {
+        font-family: 'Work Sans' !important;
+        font-weight: 200 !important;
+        font-style: italic !important;
+}
+.u-font-work-sans-300-italic {
+        font-family: 'Work Sans' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-work-sans-400-italic {
+        font-family: 'Work Sans' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-work-sans-500-italic {
+        font-family: 'Work Sans' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-work-sans-600-italic {
+        font-family: 'Work Sans' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-work-sans-700-italic {
+        font-family: 'Work Sans' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}
+.u-font-work-sans-800-italic {
+        font-family: 'Work Sans' !important;
+        font-weight: 800 !important;
+        font-style: italic !important;
+}
+.u-font-work-sans-900-italic {
+        font-family: 'Work Sans' !important;
+        font-weight: 900 !important;
+        font-style: italic !important;
+}

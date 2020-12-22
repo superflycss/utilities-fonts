@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Smokum;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Smokum Regular"),local(Smokum-Regular),url(//fonts.gstatic.com/s/smokum/v11/TK3iWkUbAhopmrd2GT8C.eot?#) format("eot"),url(//fonts.gstatic.com/s/smokum/v11/TK3iWkUbAhopmrd2GT8G.woff2) format("woff2"),url(//fonts.gstatic.com/s/smokum/v11/TK3iWkUbAhopmrd2GT8A.woff) format("woff");
+}
+.u-font-smokum-400 {
+          font-family: 'Smokum' !important;
+          font-weight: 400 !important;
+}

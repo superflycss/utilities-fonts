@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Italianno;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Italianno),local(Italianno-Regular),url(//fonts.gstatic.com/s/italianno/v10/dg4n_p3sv6gCJkwzT6RXhpws.eot?#) format("eot"),url(//fonts.gstatic.com/s/italianno/v10/dg4n_p3sv6gCJkwzT6RXiJwo.woff2) format("woff2"),url(//fonts.gstatic.com/s/italianno/v10/dg4n_p3sv6gCJkwzT6RXhpwu.woff) format("woff");
+}
+.u-font-italianno-400 {
+          font-family: 'Italianno' !important;
+          font-weight: 400 !important;
+}

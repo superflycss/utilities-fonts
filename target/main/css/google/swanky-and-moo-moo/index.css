@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Swanky and Moo Moo";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Swanky and Moo Moo"),local(SwankyandMooMoo),url(//fonts.gstatic.com/s/swankyandmoomoo/v10/flUlRrKz24IuWVI_WJYTYcqbEsMUZ3kksrnh.eot?#) format("eot"),url(//fonts.gstatic.com/s/swankyandmoomoo/v10/flUlRrKz24IuWVI_WJYTYcqbEsMUZ3kksrnl.woff2) format("woff2"),url(//fonts.gstatic.com/s/swankyandmoomoo/v10/flUlRrKz24IuWVI_WJYTYcqbEsMUZ3kksrnj.woff) format("woff");
+}
+.u-font-swanky-and-moo-moo-400 {
+          font-family: 'Swanky and Moo Moo' !important;
+          font-weight: 400 !important;
+}

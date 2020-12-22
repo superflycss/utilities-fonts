@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Kranky;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Kranky Regular"),local(Kranky-Regular),url(//fonts.gstatic.com/s/kranky/v11/hESw6XVgJzlPsFn8oR2B.eot?#) format("eot"),url(//fonts.gstatic.com/s/kranky/v11/hESw6XVgJzlPsFn8oR2F.woff2) format("woff2"),url(//fonts.gstatic.com/s/kranky/v11/hESw6XVgJzlPsFn8oR2D.woff) format("woff");
+}
+.u-font-kranky-400 {
+          font-family: 'Kranky' !important;
+          font-weight: 400 !important;
+}

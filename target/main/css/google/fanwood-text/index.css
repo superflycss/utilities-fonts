@@ -1,0 +1,21 @@
+@font-face {
+          font-family: "Fanwood Text";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Fanwood Text Italic"),local(FanwoodText-Italic),url(//fonts.gstatic.com/s/fanwoodtext/v10/3XFzErwl05Ad_vSCF6Fq7xX2R-zb_P0.eot?#) format("eot"),url(//fonts.gstatic.com/s/fanwoodtext/v10/3XFzErwl05Ad_vSCF6Fq7xX2R-zb_Pk.woff2) format("woff2"),url(//fonts.gstatic.com/s/fanwoodtext/v10/3XFzErwl05Ad_vSCF6Fq7xX2R-zb_P8.woff) format("woff");
+}
+@font-face {
+          font-family: "Fanwood Text";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Fanwood Text"),local(FanwoodText-Regular),url(//fonts.gstatic.com/s/fanwoodtext/v10/3XFtErwl05Ad_vSCF6Fq7xX2Qtzd.eot?#) format("eot"),url(//fonts.gstatic.com/s/fanwoodtext/v10/3XFtErwl05Ad_vSCF6Fq7xX2QtzZ.woff2) format("woff2"),url(//fonts.gstatic.com/s/fanwoodtext/v10/3XFtErwl05Ad_vSCF6Fq7xX2Qtzf.woff) format("woff");
+}
+.u-font-fanwood-text-400 {
+          font-family: 'Fanwood Text' !important;
+          font-weight: 400 !important;
+}
+.u-font-fanwood-text-400-italic {
+        font-family: 'Fanwood Text' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Warnes;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Warnes),local(Warnes-Regular),url(//fonts.gstatic.com/s/warnes/v10/pONn1hc0GsW6sW5-ryqz.eot?#) format("eot"),url(//fonts.gstatic.com/s/warnes/v10/pONn1hc0GsW6sW5-oSq3.woff2) format("woff2"),url(//fonts.gstatic.com/s/warnes/v10/pONn1hc0GsW6sW5-ryqx.woff) format("woff");
+}
+.u-font-warnes-400 {
+          font-family: 'Warnes' !important;
+          font-weight: 400 !important;
+}

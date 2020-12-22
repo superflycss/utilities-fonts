@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Prosto One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Prosto One"),local(ProstoOne-Regular),url(//fonts.gstatic.com/s/prostoone/v9/OpNJno4VhNfK-RgpwWWxliNVXw.eot?#) format("eot"),url(//fonts.gstatic.com/s/prostoone/v9/OpNJno4VhNfK-RgpwWWxli1VWw.woff2) format("woff2"),url(//fonts.gstatic.com/s/prostoone/v9/OpNJno4VhNfK-RgpwWWxliNVXQ.woff) format("woff");
+}
+.u-font-prosto-one-400 {
+          font-family: 'Prosto One' !important;
+          font-weight: 400 !important;
+}

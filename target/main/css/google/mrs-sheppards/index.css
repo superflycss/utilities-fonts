@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Mrs Sheppards";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Mrs Sheppards Regular"),local(MrsSheppards-Regular),url(//fonts.gstatic.com/s/mrssheppards/v9/PN_2Rfm9snC0XUGoEZhb91ig7vH7zw.eot?#) format("eot"),url(//fonts.gstatic.com/s/mrssheppards/v9/PN_2Rfm9snC0XUGoEZhb91ig7v_7yw.woff2) format("woff2"),url(//fonts.gstatic.com/s/mrssheppards/v9/PN_2Rfm9snC0XUGoEZhb91ig7vH7zQ.woff) format("woff");
+}
+.u-font-mrs-sheppards-400 {
+          font-family: 'Mrs Sheppards' !important;
+          font-weight: 400 !important;
+}

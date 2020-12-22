@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Shadows Into Light Two";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Shadows Into Light Two"),local(ShadowsIntoLightTwo-Regular),url(//fonts.gstatic.com/s/shadowsintolighttwo/v8/4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmpALHHQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/shadowsintolighttwo/v8/4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmpAzHGQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/shadowsintolighttwo/v8/4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmpALHHw.woff) format("woff");
+}
+.u-font-shadows-into-light-two-400 {
+          font-family: 'Shadows Into Light Two' !important;
+          font-weight: 400 !important;
+}

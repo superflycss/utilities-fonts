@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Barrio;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Barrio Regular"),local(Barrio-Regular),url(//fonts.gstatic.com/s/barrio/v5/wEO8EBXBk8hBIDi0fAwk.eot?#) format("eot"),url(//fonts.gstatic.com/s/barrio/v5/wEO8EBXBk8hBIDi0cgwg.woff2) format("woff2"),url(//fonts.gstatic.com/s/barrio/v5/wEO8EBXBk8hBIDi0fAwm.woff) format("woff");
+}
+.u-font-barrio-400 {
+          font-family: 'Barrio' !important;
+          font-weight: 400 !important;
+}

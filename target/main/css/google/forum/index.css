@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Forum;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Forum),url(//fonts.gstatic.com/s/forum/v11/6aey4Ky-Vb8Ew8IfOpY.eot?#) format("eot"),url(//fonts.gstatic.com/s/forum/v11/6aey4Ky-Vb8Ew8IROpI.woff2) format("woff2"),url(//fonts.gstatic.com/s/forum/v11/6aey4Ky-Vb8Ew8IfOpQ.woff) format("woff");
+}
+.u-font-forum-400 {
+          font-family: 'Forum' !important;
+          font-weight: 400 !important;
+}

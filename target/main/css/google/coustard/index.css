@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Coustard;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Coustard Regular"),local(Coustard-Regular),url(//fonts.gstatic.com/s/coustard/v11/3XFpErgg3YsZ5fqUU-UIt2A.eot?#) format("eot"),url(//fonts.gstatic.com/s/coustard/v11/3XFpErgg3YsZ5fqUU-UIt2Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/coustard/v11/3XFpErgg3YsZ5fqUU-UIt2I.woff) format("woff");
+}
+@font-face {
+          font-family: Coustard;
+          font-style: normal;
+          font-weight: 900;
+          src: local("Coustard Black"),local(Coustard-Black),url(//fonts.gstatic.com/s/coustard/v11/3XFuErgg3YsZ5fqUU-2LkHHhZf0.eot?#) format("eot"),url(//fonts.gstatic.com/s/coustard/v11/3XFuErgg3YsZ5fqUU-2LkHHhZfk.woff2) format("woff2"),url(//fonts.gstatic.com/s/coustard/v11/3XFuErgg3YsZ5fqUU-2LkHHhZf8.woff) format("woff");
+}
+.u-font-coustard-400 {
+          font-family: 'Coustard' !important;
+          font-weight: 400 !important;
+}
+.u-font-coustard-900 {
+          font-family: 'Coustard' !important;
+          font-weight: 900 !important;
+}

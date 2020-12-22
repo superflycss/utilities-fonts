@@ -1,0 +1,42 @@
+@font-face {
+          font-family: Puritan;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Puritan Italic"),local(Puritan-Italic),url(//fonts.gstatic.com/s/puritan/v12/845aNMgkAJ2VTtIoxJjKRv6I.eot?#) format("eot"),url(//fonts.gstatic.com/s/puritan/v12/845aNMgkAJ2VTtIoxJjKRv6M.woff2) format("woff2"),url(//fonts.gstatic.com/s/puritan/v12/845aNMgkAJ2VTtIoxJjKRv6K.woff) format("woff");
+}
+@font-face {
+          font-family: Puritan;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Puritan Bold Italic"),local(Puritan-BoldItalic),url(//fonts.gstatic.com/s/puritan/v12/845fNMgkAJ2VTtIoxJjC_duZ-GLG.eot?#) format("eot"),url(//fonts.gstatic.com/s/puritan/v12/845fNMgkAJ2VTtIoxJjC_duZ-GLC.woff2) format("woff2"),url(//fonts.gstatic.com/s/puritan/v12/845fNMgkAJ2VTtIoxJjC_duZ-GLE.woff) format("woff");
+}
+@font-face {
+          font-family: Puritan;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Puritan Regular"),local(Puritan-Regular),url(//fonts.gstatic.com/s/puritan/v12/845YNMgkAJ2VTtIoxJ36QA.eot?#) format("eot"),url(//fonts.gstatic.com/s/puritan/v12/845YNMgkAJ2VTtIoxJ36RA.woff2) format("woff2"),url(//fonts.gstatic.com/s/puritan/v12/845YNMgkAJ2VTtIoxJ36Qg.woff) format("woff");
+}
+@font-face {
+          font-family: Puritan;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Puritan Bold"),local(Puritan-Bold),url(//fonts.gstatic.com/s/puritan/v12/845dNMgkAJ2VTtIozCbfUdmp_g.eot?#) format("eot"),url(//fonts.gstatic.com/s/puritan/v12/845dNMgkAJ2VTtIozCbfUdmp-g.woff2) format("woff2"),url(//fonts.gstatic.com/s/puritan/v12/845dNMgkAJ2VTtIozCbfUdmp_A.woff) format("woff");
+}
+.u-font-puritan-400 {
+          font-family: 'Puritan' !important;
+          font-weight: 400 !important;
+}
+.u-font-puritan-400-italic {
+        font-family: 'Puritan' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-puritan-700 {
+          font-family: 'Puritan' !important;
+          font-weight: 700 !important;
+}
+.u-font-puritan-700-italic {
+        font-family: 'Puritan' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

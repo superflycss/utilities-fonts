@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Julee;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Julee-Regular),url(//fonts.gstatic.com/s/julee/v10/TuGfUVB3RpZPQ5ZMq90.eot?#) format("eot"),url(//fonts.gstatic.com/s/julee/v10/TuGfUVB3RpZPQ5ZMq9k.woff2) format("woff2"),url(//fonts.gstatic.com/s/julee/v10/TuGfUVB3RpZPQ5ZMq98.woff) format("woff");
+}
+.u-font-julee-400 {
+          font-family: 'Julee' !important;
+          font-weight: 400 !important;
+}

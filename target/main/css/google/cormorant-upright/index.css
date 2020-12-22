@@ -1,0 +1,50 @@
+@font-face {
+          font-family: "Cormorant Upright";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Cormorant Upright Light"),local(CormorantUpright-Light),url(//fonts.gstatic.com/s/cormorantupright/v8/VuJudM3I2Y35poFONtLdafkUCHw1y1N5piDlWdA.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantupright/v8/VuJudM3I2Y35poFONtLdafkUCHw1y1N5piDrWdQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantupright/v8/VuJudM3I2Y35poFONtLdafkUCHw1y1N5piDlWdI.woff) format("woff");
+}
+@font-face {
+          font-family: "Cormorant Upright";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Cormorant Upright Regular"),local(CormorantUpright-Regular),url(//fonts.gstatic.com/s/cormorantupright/v8/VuJrdM3I2Y35poFONtLdafkUCHw1y1vchDE.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantupright/v8/VuJrdM3I2Y35poFONtLdafkUCHw1y1vShDU.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantupright/v8/VuJrdM3I2Y35poFONtLdafkUCHw1y1vchDM.woff) format("woff");
+}
+@font-face {
+          font-family: "Cormorant Upright";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Cormorant Upright Medium"),local(CormorantUpright-Medium),url(//fonts.gstatic.com/s/cormorantupright/v8/VuJudM3I2Y35poFONtLdafkUCHw1y1MhpyDlWdA.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantupright/v8/VuJudM3I2Y35poFONtLdafkUCHw1y1MhpyDrWdQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantupright/v8/VuJudM3I2Y35poFONtLdafkUCHw1y1MhpyDlWdI.woff) format("woff");
+}
+@font-face {
+          font-family: "Cormorant Upright";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Cormorant Upright SemiBold"),local(CormorantUpright-SemiBold),url(//fonts.gstatic.com/s/cormorantupright/v8/VuJudM3I2Y35poFONtLdafkUCHw1y1MNoCDlWdA.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantupright/v8/VuJudM3I2Y35poFONtLdafkUCHw1y1MNoCDrWdQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantupright/v8/VuJudM3I2Y35poFONtLdafkUCHw1y1MNoCDlWdI.woff) format("woff");
+}
+@font-face {
+          font-family: "Cormorant Upright";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Cormorant Upright Bold"),local(CormorantUpright-Bold),url(//fonts.gstatic.com/s/cormorantupright/v8/VuJudM3I2Y35poFONtLdafkUCHw1y1NpoSDlWdA.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantupright/v8/VuJudM3I2Y35poFONtLdafkUCHw1y1NpoSDrWdQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantupright/v8/VuJudM3I2Y35poFONtLdafkUCHw1y1NpoSDlWdI.woff) format("woff");
+}
+.u-font-cormorant-upright-300 {
+          font-family: 'Cormorant Upright' !important;
+          font-weight: 300 !important;
+}
+.u-font-cormorant-upright-400 {
+          font-family: 'Cormorant Upright' !important;
+          font-weight: 400 !important;
+}
+.u-font-cormorant-upright-500 {
+          font-family: 'Cormorant Upright' !important;
+          font-weight: 500 !important;
+}
+.u-font-cormorant-upright-600 {
+          font-family: 'Cormorant Upright' !important;
+          font-weight: 600 !important;
+}
+.u-font-cormorant-upright-700 {
+          font-family: 'Cormorant Upright' !important;
+          font-weight: 700 !important;
+}

@@ -1,0 +1,63 @@
+@font-face {
+          font-family: "Averia Libre";
+          font-style: italic;
+          font-weight: 300;
+          src: local("Averia Libre Light Italic"),local(AveriaLibre-LightItalic),url(//fonts.gstatic.com/s/averialibre/v9/2V0HKIcMGZEnV6xygz7eNjESAJFhbXTu0pQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/averialibre/v9/2V0HKIcMGZEnV6xygz7eNjESAJFhbXTu0pA.woff2) format("woff2"),url(//fonts.gstatic.com/s/averialibre/v9/2V0HKIcMGZEnV6xygz7eNjESAJFhbXTu0pY.woff) format("woff");
+}
+@font-face {
+          font-family: "Averia Libre";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Averia Libre Italic"),local(AveriaLibre-Italic),url(//fonts.gstatic.com/s/averialibre/v9/2V0EKIcMGZEnV6xygz7eNjESAJnKT2U.eot?#) format("eot"),url(//fonts.gstatic.com/s/averialibre/v9/2V0EKIcMGZEnV6xygz7eNjESAJnKT2E.woff2) format("woff2"),url(//fonts.gstatic.com/s/averialibre/v9/2V0EKIcMGZEnV6xygz7eNjESAJnKT2c.woff) format("woff");
+}
+@font-face {
+          font-family: "Averia Libre";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Averia Libre Bold Italic"),local(AveriaLibre-BoldItalic),url(//fonts.gstatic.com/s/averialibre/v9/2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/averialibre/v9/2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pA.woff2) format("woff2"),url(//fonts.gstatic.com/s/averialibre/v9/2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pY.woff) format("woff");
+}
+@font-face {
+          font-family: "Averia Libre";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Averia Libre Light"),local(AveriaLibre-Light),url(//fonts.gstatic.com/s/averialibre/v9/2V0FKIcMGZEnV6xygz7eNjEarovdaETo.eot?#) format("eot"),url(//fonts.gstatic.com/s/averialibre/v9/2V0FKIcMGZEnV6xygz7eNjEarovdaETs.woff2) format("woff2"),url(//fonts.gstatic.com/s/averialibre/v9/2V0FKIcMGZEnV6xygz7eNjEarovdaETq.woff) format("woff");
+}
+@font-face {
+          font-family: "Averia Libre";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Averia Libre Regular"),local(AveriaLibre-Regular),url(//fonts.gstatic.com/s/averialibre/v9/2V0aKIcMGZEnV6xygz7eNjESBanM.eot?#) format("eot"),url(//fonts.gstatic.com/s/averialibre/v9/2V0aKIcMGZEnV6xygz7eNjESBanI.woff2) format("woff2"),url(//fonts.gstatic.com/s/averialibre/v9/2V0aKIcMGZEnV6xygz7eNjESBanO.woff) format("woff");
+}
+@font-face {
+          font-family: "Averia Libre";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Averia Libre Bold"),local(AveriaLibre-Bold),url(//fonts.gstatic.com/s/averialibre/v9/2V0FKIcMGZEnV6xygz7eNjEavozdaETo.eot?#) format("eot"),url(//fonts.gstatic.com/s/averialibre/v9/2V0FKIcMGZEnV6xygz7eNjEavozdaETs.woff2) format("woff2"),url(//fonts.gstatic.com/s/averialibre/v9/2V0FKIcMGZEnV6xygz7eNjEavozdaETq.woff) format("woff");
+}
+.u-font-averia-libre-300 {
+          font-family: 'Averia Libre' !important;
+          font-weight: 300 !important;
+}
+.u-font-averia-libre-300-italic {
+        font-family: 'Averia Libre' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-averia-libre-400 {
+          font-family: 'Averia Libre' !important;
+          font-weight: 400 !important;
+}
+.u-font-averia-libre-400-italic {
+        font-family: 'Averia Libre' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-averia-libre-700 {
+          font-family: 'Averia Libre' !important;
+          font-weight: 700 !important;
+}
+.u-font-averia-libre-700-italic {
+        font-family: 'Averia Libre' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

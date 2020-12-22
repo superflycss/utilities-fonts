@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Patua One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Patua One"),local(PatuaOne-Regular),url(//fonts.gstatic.com/s/patuaone/v11/ZXuke1cDvLCKLDcimxB44_lq.eot?#) format("eot"),url(//fonts.gstatic.com/s/patuaone/v11/ZXuke1cDvLCKLDcimxB44_lu.woff2) format("woff2"),url(//fonts.gstatic.com/s/patuaone/v11/ZXuke1cDvLCKLDcimxB44_lo.woff) format("woff");
+}
+.u-font-patua-one-400 {
+          font-family: 'Patua One' !important;
+          font-weight: 400 !important;
+}

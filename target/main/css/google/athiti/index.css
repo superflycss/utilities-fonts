@@ -1,0 +1,60 @@
+@font-face {
+          font-family: Athiti;
+          font-style: normal;
+          font-weight: 200;
+          src: local("Athiti ExtraLight"),local(Athiti-ExtraLight),url(//fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wAxDNCC_e7.eot?#) format("eot"),url(//fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wAxDNCBfe_.woff2) format("woff2"),url(//fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wAxDNCC_e5.woff) format("woff");
+}
+@font-face {
+          font-family: Athiti;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Athiti Light"),local(Athiti-Light),url(//fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wAoDBCC_e7.eot?#) format("eot"),url(//fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wAoDBCBfe_.woff2) format("woff2"),url(//fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wAoDBCC_e5.woff) format("woff");
+}
+@font-face {
+          font-family: Athiti;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Athiti),local(Athiti-Regular),url(//fonts.gstatic.com/s/athiti/v5/pe0vMISdLIZIv1wIBRJT.eot?#) format("eot"),url(//fonts.gstatic.com/s/athiti/v5/pe0vMISdLIZIv1wICxJX.woff2) format("woff2"),url(//fonts.gstatic.com/s/athiti/v5/pe0vMISdLIZIv1wIBRJR.woff) format("woff");
+}
+@font-face {
+          font-family: Athiti;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Athiti Medium"),local(Athiti-Medium),url(//fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wA-DFCC_e7.eot?#) format("eot"),url(//fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wA-DFCBfe_.woff2) format("woff2"),url(//fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wA-DFCC_e5.woff) format("woff");
+}
+@font-face {
+          font-family: Athiti;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Athiti SemiBold"),local(Athiti-SemiBold),url(//fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wA1DZCC_e7.eot?#) format("eot"),url(//fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wA1DZCBfe_.woff2) format("woff2"),url(//fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wA1DZCC_e5.woff) format("woff");
+}
+@font-face {
+          font-family: Athiti;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Athiti Bold"),local(Athiti-Bold),url(//fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wAsDdCC_e7.eot?#) format("eot"),url(//fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wAsDdCBfe_.woff2) format("woff2"),url(//fonts.gstatic.com/s/athiti/v5/pe0sMISdLIZIv1wAsDdCC_e5.woff) format("woff");
+}
+.u-font-athiti-200 {
+          font-family: 'Athiti' !important;
+          font-weight: 200 !important;
+}
+.u-font-athiti-300 {
+          font-family: 'Athiti' !important;
+          font-weight: 300 !important;
+}
+.u-font-athiti-400 {
+          font-family: 'Athiti' !important;
+          font-weight: 400 !important;
+}
+.u-font-athiti-500 {
+          font-family: 'Athiti' !important;
+          font-weight: 500 !important;
+}
+.u-font-athiti-600 {
+          font-family: 'Athiti' !important;
+          font-weight: 600 !important;
+}
+.u-font-athiti-700 {
+          font-family: 'Athiti' !important;
+          font-weight: 700 !important;
+}

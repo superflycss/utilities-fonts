@@ -1,0 +1,63 @@
+@font-face {
+          font-family: "Averia Serif Libre";
+          font-style: italic;
+          font-weight: 300;
+          src: local("Averia Serif Libre Light Italic"),local(AveriaSerifLibre-LightItalic),url(//fonts.gstatic.com/s/averiaseriflibre/v10/neIbzD2ms4wxr6GvjeD0X88SHPyX2xYOpzMmw50pXrI.eot?#) format("eot"),url(//fonts.gstatic.com/s/averiaseriflibre/v10/neIbzD2ms4wxr6GvjeD0X88SHPyX2xYOpzMmw50pXrY.woff2) format("woff2"),url(//fonts.gstatic.com/s/averiaseriflibre/v10/neIbzD2ms4wxr6GvjeD0X88SHPyX2xYOpzMmw50pXrA.woff) format("woff");
+}
+@font-face {
+          font-family: "Averia Serif Libre";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Averia Serif Libre Italic"),local(AveriaSerifLibre-Italic),url(//fonts.gstatic.com/s/averiaseriflibre/v10/neIUzD2ms4wxr6GvjeD0X88SHPyX2xYOpzuN4Yw.eot?#) format("eot"),url(//fonts.gstatic.com/s/averiaseriflibre/v10/neIUzD2ms4wxr6GvjeD0X88SHPyX2xYOpzuN4Yg.woff2) format("woff2"),url(//fonts.gstatic.com/s/averiaseriflibre/v10/neIUzD2ms4wxr6GvjeD0X88SHPyX2xYOpzuN4Y4.woff) format("woff");
+}
+@font-face {
+          font-family: "Averia Serif Libre";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Averia Serif Libre Bold Italic"),local(AveriaSerifLibre-BoldItalic),url(//fonts.gstatic.com/s/averiaseriflibre/v10/neIbzD2ms4wxr6GvjeD0X88SHPyX2xYOpzM2xJ0pXrI.eot?#) format("eot"),url(//fonts.gstatic.com/s/averiaseriflibre/v10/neIbzD2ms4wxr6GvjeD0X88SHPyX2xYOpzM2xJ0pXrY.woff2) format("woff2"),url(//fonts.gstatic.com/s/averiaseriflibre/v10/neIbzD2ms4wxr6GvjeD0X88SHPyX2xYOpzM2xJ0pXrA.woff) format("woff");
+}
+@font-face {
+          font-family: "Averia Serif Libre";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Averia Serif Libre Light"),local(AveriaSerifLibre-Light),url(//fonts.gstatic.com/s/averiaseriflibre/v10/neIVzD2ms4wxr6GvjeD0X88SHPyX2xYGCSmaxq0v.eot?#) format("eot"),url(//fonts.gstatic.com/s/averiaseriflibre/v10/neIVzD2ms4wxr6GvjeD0X88SHPyX2xYGCSmaxq0r.woff2) format("woff2"),url(//fonts.gstatic.com/s/averiaseriflibre/v10/neIVzD2ms4wxr6GvjeD0X88SHPyX2xYGCSmaxq0t.woff) format("woff");
+}
+@font-face {
+          font-family: "Averia Serif Libre";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Averia Serif Libre Regular"),local(AveriaSerifLibre-Regular),url(//fonts.gstatic.com/s/averiaseriflibre/v10/neIWzD2ms4wxr6GvjeD0X88SHPyX2xYOoguL.eot?#) format("eot"),url(//fonts.gstatic.com/s/averiaseriflibre/v10/neIWzD2ms4wxr6GvjeD0X88SHPyX2xYOoguP.woff2) format("woff2"),url(//fonts.gstatic.com/s/averiaseriflibre/v10/neIWzD2ms4wxr6GvjeD0X88SHPyX2xYOoguJ.woff) format("woff");
+}
+@font-face {
+          font-family: "Averia Serif Libre";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Averia Serif Libre Bold"),local(AveriaSerifLibre-Bold),url(//fonts.gstatic.com/s/averiaseriflibre/v10/neIVzD2ms4wxr6GvjeD0X88SHPyX2xYGGS6axq0v.eot?#) format("eot"),url(//fonts.gstatic.com/s/averiaseriflibre/v10/neIVzD2ms4wxr6GvjeD0X88SHPyX2xYGGS6axq0r.woff2) format("woff2"),url(//fonts.gstatic.com/s/averiaseriflibre/v10/neIVzD2ms4wxr6GvjeD0X88SHPyX2xYGGS6axq0t.woff) format("woff");
+}
+.u-font-averia-serif-libre-300 {
+          font-family: 'Averia Serif Libre' !important;
+          font-weight: 300 !important;
+}
+.u-font-averia-serif-libre-300-italic {
+        font-family: 'Averia Serif Libre' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-averia-serif-libre-400 {
+          font-family: 'Averia Serif Libre' !important;
+          font-weight: 400 !important;
+}
+.u-font-averia-serif-libre-400-italic {
+        font-family: 'Averia Serif Libre' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-averia-serif-libre-700 {
+          font-family: 'Averia Serif Libre' !important;
+          font-weight: 700 !important;
+}
+.u-font-averia-serif-libre-700-italic {
+        font-family: 'Averia Serif Libre' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "The Girl Next Door";
+          font-style: normal;
+          font-weight: 400;
+          src: local("The Girl Next Door"),local(TheGirlNextDoor),url(//fonts.gstatic.com/s/thegirlnextdoor/v11/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCY4ULF-.eot?#) format("eot"),url(//fonts.gstatic.com/s/thegirlnextdoor/v11/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCY4ULF6.woff2) format("woff2"),url(//fonts.gstatic.com/s/thegirlnextdoor/v11/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCY4ULF8.woff) format("woff");
+}
+.u-font-the-girl-next-door-400 {
+          font-family: 'The Girl Next Door' !important;
+          font-weight: 400 !important;
+}

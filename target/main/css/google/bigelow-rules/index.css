@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Bigelow Rules";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Bigelow Rules Regular"),local(BigelowRules-Regular),url(//fonts.gstatic.com/s/bigelowrules/v9/RrQWboly8iR_I3KWSzeRuN0zf44IGg.eot?#) format("eot"),url(//fonts.gstatic.com/s/bigelowrules/v9/RrQWboly8iR_I3KWSzeRuN0zf4AIHg.woff2) format("woff2"),url(//fonts.gstatic.com/s/bigelowrules/v9/RrQWboly8iR_I3KWSzeRuN0zf44IGA.woff) format("woff");
+}
+.u-font-bigelow-rules-400 {
+          font-family: 'Bigelow Rules' !important;
+          font-weight: 400 !important;
+}

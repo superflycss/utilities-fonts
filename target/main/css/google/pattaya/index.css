@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Pattaya;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Pattaya),local(Pattaya-Regular),url(//fonts.gstatic.com/s/pattaya/v6/ea8ZadcqV_zkHY-XBdmt8g.eot?#) format("eot"),url(//fonts.gstatic.com/s/pattaya/v6/ea8ZadcqV_zkHY-XBdet9g.woff2) format("woff2"),url(//fonts.gstatic.com/s/pattaya/v6/ea8ZadcqV_zkHY-XBdmt8A.woff) format("woff");
+}
+.u-font-pattaya-400 {
+          font-family: 'Pattaya' !important;
+          font-weight: 400 !important;
+}

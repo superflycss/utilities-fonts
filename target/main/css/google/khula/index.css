@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Khula;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Khula Light"),local(Khula-Light),url(//fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G-ljBvdpis.eot?#) format("eot"),url(//fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G-ljBvTpi8.woff2) format("woff2"),url(//fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G-ljBvdpik.woff) format("woff");
+}
+@font-face {
+          font-family: Khula;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Khula Regular"),local(Khula-Regular),url(//fonts.gstatic.com/s/khula/v6/OpNCnoEOns3V7GcArgo.eot?#) format("eot"),url(//fonts.gstatic.com/s/khula/v6/OpNCnoEOns3V7GcOrg4.woff2) format("woff2"),url(//fonts.gstatic.com/s/khula/v6/OpNCnoEOns3V7GcArgg.woff) format("woff");
+}
+@font-face {
+          font-family: Khula;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Khula SemiBold"),local(Khula-SemiBold),url(//fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G_Rihvdpis.eot?#) format("eot"),url(//fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G_RihvTpi8.woff2) format("woff2"),url(//fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G_Rihvdpik.woff) format("woff");
+}
+@font-face {
+          font-family: Khula;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Khula Bold"),local(Khula-Bold),url(//fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G-1ixvdpis.eot?#) format("eot"),url(//fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G-1ixvTpi8.woff2) format("woff2"),url(//fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G-1ixvdpik.woff) format("woff");
+}
+@font-face {
+          font-family: Khula;
+          font-style: normal;
+          font-weight: 800;
+          src: local("Khula ExtraBold"),local(Khula-ExtraBold),url(//fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G-piBvdpis.eot?#) format("eot"),url(//fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G-piBvTpi8.woff2) format("woff2"),url(//fonts.gstatic.com/s/khula/v6/OpNPnoEOns3V7G-piBvdpik.woff) format("woff");
+}
+.u-font-khula-300 {
+          font-family: 'Khula' !important;
+          font-weight: 300 !important;
+}
+.u-font-khula-400 {
+          font-family: 'Khula' !important;
+          font-weight: 400 !important;
+}
+.u-font-khula-600 {
+          font-family: 'Khula' !important;
+          font-weight: 600 !important;
+}
+.u-font-khula-700 {
+          font-family: 'Khula' !important;
+          font-weight: 700 !important;
+}
+.u-font-khula-800 {
+          font-family: 'Khula' !important;
+          font-weight: 800 !important;
+}

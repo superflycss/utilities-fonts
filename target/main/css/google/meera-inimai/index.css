@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Meera Inimai";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Meera Inimai"),local(MeeraInimai-Regular),url(//fonts.gstatic.com/s/meerainimai/v5/845fNMM5EIqOW5MPuvO3ILeZ-GLG.eot?#) format("eot"),url(//fonts.gstatic.com/s/meerainimai/v5/845fNMM5EIqOW5MPuvO3ILeZ-GLC.woff2) format("woff2"),url(//fonts.gstatic.com/s/meerainimai/v5/845fNMM5EIqOW5MPuvO3ILeZ-GLE.woff) format("woff");
+}
+.u-font-meera-inimai-400 {
+          font-family: 'Meera Inimai' !important;
+          font-weight: 400 !important;
+}

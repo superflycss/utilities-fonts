@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Cagliostro;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Cagliostro Regular"),local(Cagliostro-Regular),url(//fonts.gstatic.com/s/cagliostro/v9/ZgNWjP5HM73BV5amnX-TvGLONg.eot?#) format("eot"),url(//fonts.gstatic.com/s/cagliostro/v9/ZgNWjP5HM73BV5amnX-TvGLOMg.woff2) format("woff2"),url(//fonts.gstatic.com/s/cagliostro/v9/ZgNWjP5HM73BV5amnX-TvGLONA.woff) format("woff");
+}
+.u-font-cagliostro-400 {
+          font-family: 'Cagliostro' !important;
+          font-weight: 400 !important;
+}

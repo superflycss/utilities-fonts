@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Miniver;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Miniver),url(//fonts.gstatic.com/s/miniver/v9/eLGcP-PxIg-5H0vC37oIzg.eot?#) format("eot"),url(//fonts.gstatic.com/s/miniver/v9/eLGcP-PxIg-5H0vC37oIyg.woff2) format("woff2"),url(//fonts.gstatic.com/s/miniver/v9/eLGcP-PxIg-5H0vC37oIzA.woff) format("woff");
+}
+.u-font-miniver-400 {
+          font-family: 'Miniver' !important;
+          font-weight: 400 !important;
+}

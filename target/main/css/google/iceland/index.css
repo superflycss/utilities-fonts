@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Iceland;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Iceland),local(Iceland-Regular),url(//fonts.gstatic.com/s/iceland/v9/rax9HiuFsdMNOnWPaKtMBQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/iceland/v9/rax9HiuFsdMNOnWPaKtMAQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/iceland/v9/rax9HiuFsdMNOnWPaKtMBw.woff) format("woff");
+}
+.u-font-iceland-400 {
+          font-family: 'Iceland' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Krona One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Krona One"),local(KronaOne-Regular),url(//fonts.gstatic.com/s/kronaone/v9/jAnEgHdjHcjgfIb1ZcUyOIWk.eot?#) format("eot"),url(//fonts.gstatic.com/s/kronaone/v9/jAnEgHdjHcjgfIb1ZcUyNoWg.woff2) format("woff2"),url(//fonts.gstatic.com/s/kronaone/v9/jAnEgHdjHcjgfIb1ZcUyOIWm.woff) format("woff");
+}
+.u-font-krona-one-400 {
+          font-family: 'Krona One' !important;
+          font-weight: 400 !important;
+}

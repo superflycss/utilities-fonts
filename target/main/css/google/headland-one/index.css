@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Headland One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Headland One"),local(HeadlandOne-Regular),url(//fonts.gstatic.com/s/headlandone/v8/yYLu0hHR2vKnp89Tk1TCq3TB2fNW.eot?#) format("eot"),url(//fonts.gstatic.com/s/headlandone/v8/yYLu0hHR2vKnp89Tk1TCq3TB1_NS.woff2) format("woff2"),url(//fonts.gstatic.com/s/headlandone/v8/yYLu0hHR2vKnp89Tk1TCq3TB2fNU.woff) format("woff");
+}
+.u-font-headland-one-400 {
+          font-family: 'Headland One' !important;
+          font-weight: 400 !important;
+}

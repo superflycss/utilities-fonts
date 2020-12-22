@@ -1,0 +1,60 @@
+@font-face {
+          font-family: Cinzel;
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfYPlCQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfY3lDQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfYPlCw.woff) format("woff");
+}
+@font-face {
+          font-family: Cinzel;
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnfYPlCQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnfY3lDQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnfYPlCw.woff) format("woff");
+}
+@font-face {
+          font-family: Cinzel;
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfYPlCQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfY3lDQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfYPlCw.woff) format("woff");
+}
+@font-face {
+          font-family: Cinzel;
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgfYPlCQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgfY3lDQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgfYPlCw.woff) format("woff");
+}
+@font-face {
+          font-family: Cinzel;
+          font-style: normal;
+          font-weight: 800;
+          src: url(//fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgfYPlCQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgfY3lDQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgfYPlCw.woff) format("woff");
+}
+@font-face {
+          font-family: Cinzel;
+          font-style: normal;
+          font-weight: 900;
+          src: url(//fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gfYPlCQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gfY3lDQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gfYPlCw.woff) format("woff");
+}
+.u-font-cinzel-400 {
+          font-family: 'Cinzel' !important;
+          font-weight: 400 !important;
+}
+.u-font-cinzel-500 {
+          font-family: 'Cinzel' !important;
+          font-weight: 500 !important;
+}
+.u-font-cinzel-600 {
+          font-family: 'Cinzel' !important;
+          font-weight: 600 !important;
+}
+.u-font-cinzel-700 {
+          font-family: 'Cinzel' !important;
+          font-weight: 700 !important;
+}
+.u-font-cinzel-800 {
+          font-family: 'Cinzel' !important;
+          font-weight: 800 !important;
+}
+.u-font-cinzel-900 {
+          font-family: 'Cinzel' !important;
+          font-weight: 900 !important;
+}

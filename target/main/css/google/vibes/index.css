@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Vibes;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Vibes Regular"),local(Vibes-Regular),url(//fonts.gstatic.com/s/vibes/v3/QdVYSTsmIB6tmYdwFJM.eot?#) format("eot"),url(//fonts.gstatic.com/s/vibes/v3/QdVYSTsmIB6tmYdwFJc.woff2) format("woff2"),url(//fonts.gstatic.com/s/vibes/v3/QdVYSTsmIB6tmYdwFJE.woff) format("woff");
+}
+.u-font-vibes-400 {
+          font-family: 'Vibes' !important;
+          font-weight: 400 !important;
+}

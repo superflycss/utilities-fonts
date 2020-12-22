@@ -1,0 +1,70 @@
+@font-face {
+          font-family: Biryani;
+          font-style: normal;
+          font-weight: 200;
+          src: local("Biryani ExtraLight"),local(Biryani-ExtraLight),url(//fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddYQyKTlYVg.eot?#) format("eot"),url(//fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddYQyKTdYUg.woff2) format("woff2"),url(//fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddYQyKTlYVA.woff) format("woff");
+}
+@font-face {
+          font-family: Biryani;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Biryani Light"),local(Biryani-Light),url(//fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddeAxKTlYVg.eot?#) format("eot"),url(//fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddeAxKTdYUg.woff2) format("woff2"),url(//fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddeAxKTlYVA.woff) format("woff");
+}
+@font-face {
+          font-family: Biryani;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Biryani Regular"),local(Biryani-Regular),url(//fonts.gstatic.com/s/biryani/v6/hv-WlzNxIFoO84YdfUUTOA.eot?#) format("eot"),url(//fonts.gstatic.com/s/biryani/v6/hv-WlzNxIFoO84YdfUsTPA.woff2) format("woff2"),url(//fonts.gstatic.com/s/biryani/v6/hv-WlzNxIFoO84YdfUUTOg.woff) format("woff");
+}
+@font-face {
+          font-family: Biryani;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Biryani SemiBold"),local(Biryani-SemiBold),url(//fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddZQ3KTlYVg.eot?#) format("eot"),url(//fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddZQ3KTdYUg.woff2) format("woff2"),url(//fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddZQ3KTlYVA.woff) format("woff");
+}
+@font-face {
+          font-family: Biryani;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Biryani Bold"),local(Biryani-Bold),url(//fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddfA2KTlYVg.eot?#) format("eot"),url(//fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddfA2KTdYUg.woff2) format("woff2"),url(//fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84YddfA2KTlYVA.woff) format("woff");
+}
+@font-face {
+          font-family: Biryani;
+          font-style: normal;
+          font-weight: 800;
+          src: local("Biryani ExtraBold"),local(Biryani-ExtraBold),url(//fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84Yddew1KTlYVg.eot?#) format("eot"),url(//fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84Yddew1KTdYUg.woff2) format("woff2"),url(//fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84Yddew1KTlYVA.woff) format("woff");
+}
+@font-face {
+          font-family: Biryani;
+          font-style: normal;
+          font-weight: 900;
+          src: local("Biryani Black"),local(Biryani-Black),url(//fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84Yddcg0KTlYVg.eot?#) format("eot"),url(//fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84Yddcg0KTdYUg.woff2) format("woff2"),url(//fonts.gstatic.com/s/biryani/v6/hv-TlzNxIFoO84Yddcg0KTlYVA.woff) format("woff");
+}
+.u-font-biryani-200 {
+          font-family: 'Biryani' !important;
+          font-weight: 200 !important;
+}
+.u-font-biryani-300 {
+          font-family: 'Biryani' !important;
+          font-weight: 300 !important;
+}
+.u-font-biryani-400 {
+          font-family: 'Biryani' !important;
+          font-weight: 400 !important;
+}
+.u-font-biryani-600 {
+          font-family: 'Biryani' !important;
+          font-weight: 600 !important;
+}
+.u-font-biryani-700 {
+          font-family: 'Biryani' !important;
+          font-weight: 700 !important;
+}
+.u-font-biryani-800 {
+          font-family: 'Biryani' !important;
+          font-weight: 800 !important;
+}
+.u-font-biryani-900 {
+          font-family: 'Biryani' !important;
+          font-weight: 900 !important;
+}

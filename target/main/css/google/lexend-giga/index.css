@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Lexend Giga";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Lexend Giga Regular"),local(LexendGiga-Regular),url(//fonts.gstatic.com/s/lexendgiga/v3/PlI5Fl67Mah5Y8yMHE7lkWxNvcU.eot?#) format("eot"),url(//fonts.gstatic.com/s/lexendgiga/v3/PlI5Fl67Mah5Y8yMHE7lkWxDvcE.woff2) format("woff2"),url(//fonts.gstatic.com/s/lexendgiga/v3/PlI5Fl67Mah5Y8yMHE7lkWxNvcc.woff) format("woff");
+}
+.u-font-lexend-giga-400 {
+          font-family: 'Lexend Giga' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Ubuntu Condensed";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Ubuntu Condensed"),local(UbuntuCondensed-Regular),url(//fonts.gstatic.com/s/ubuntucondensed/v11/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-7frw.eot?#) format("eot"),url(//fonts.gstatic.com/s/ubuntucondensed/v11/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-Dfqw.woff2) format("woff2"),url(//fonts.gstatic.com/s/ubuntucondensed/v11/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-7frQ.woff) format("woff");
+}
+.u-font-ubuntu-condensed-400 {
+          font-family: 'Ubuntu Condensed' !important;
+          font-weight: 400 !important;
+}

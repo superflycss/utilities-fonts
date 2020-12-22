@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Overlock SC";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Overlock SC"),local(OverlockSC-Regular),url(//fonts.gstatic.com/s/overlocksc/v9/1cX3aUHKGZrstGAY8nwVzEGJocE.eot?#) format("eot"),url(//fonts.gstatic.com/s/overlocksc/v9/1cX3aUHKGZrstGAY8nwVzEGHocU.woff2) format("woff2"),url(//fonts.gstatic.com/s/overlocksc/v9/1cX3aUHKGZrstGAY8nwVzEGJocM.woff) format("woff");
+}
+.u-font-overlock-sc-400 {
+          font-family: 'Overlock SC' !important;
+          font-weight: 400 !important;
+}

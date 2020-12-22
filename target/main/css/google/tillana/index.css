@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Tillana;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Tillana Regular"),local(Tillana-Regular),url(//fonts.gstatic.com/s/tillana/v6/VuJxdNvf35P4qJ1OSK_dPQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/tillana/v6/VuJxdNvf35P4qJ1OSKHdOQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/tillana/v6/VuJxdNvf35P4qJ1OSK_dPw.woff) format("woff");
+}
+@font-face {
+          font-family: Tillana;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Tillana Medium"),local(Tillana-Medium),url(//fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQFL-LIBGYA.eot?#) format("eot"),url(//fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQFL-LI5GZA.woff2) format("woff2"),url(//fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQFL-LIBGYg.woff) format("woff");
+}
+@font-face {
+          font-family: Tillana;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Tillana SemiBold"),local(Tillana-SemiBold),url(//fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQH75LIBGYA.eot?#) format("eot"),url(//fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQH75LI5GZA.woff2) format("woff2"),url(//fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQH75LIBGYg.woff) format("woff");
+}
+@font-face {
+          font-family: Tillana;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Tillana Bold"),local(Tillana-Bold),url(//fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQBr4LIBGYA.eot?#) format("eot"),url(//fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQBr4LI5GZA.woff2) format("woff2"),url(//fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQBr4LIBGYg.woff) format("woff");
+}
+@font-face {
+          font-family: Tillana;
+          font-style: normal;
+          font-weight: 800;
+          src: local("Tillana ExtraBold"),local(Tillana-ExtraBold),url(//fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQAb7LIBGYA.eot?#) format("eot"),url(//fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQAb7LI5GZA.woff2) format("woff2"),url(//fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQAb7LIBGYg.woff) format("woff");
+}
+.u-font-tillana-400 {
+          font-family: 'Tillana' !important;
+          font-weight: 400 !important;
+}
+.u-font-tillana-500 {
+          font-family: 'Tillana' !important;
+          font-weight: 500 !important;
+}
+.u-font-tillana-600 {
+          font-family: 'Tillana' !important;
+          font-weight: 600 !important;
+}
+.u-font-tillana-700 {
+          font-family: 'Tillana' !important;
+          font-weight: 700 !important;
+}
+.u-font-tillana-800 {
+          font-family: 'Tillana' !important;
+          font-weight: 800 !important;
+}

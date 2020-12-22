@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Freckle Face";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Freckle Face"),local(FreckleFace-Regular),url(//fonts.gstatic.com/s/freckleface/v9/AMOWz4SXrmKHCvXTohxY-YIEWliz.eot?#) format("eot"),url(//fonts.gstatic.com/s/freckleface/v9/AMOWz4SXrmKHCvXTohxY-YIEVFi3.woff2) format("woff2"),url(//fonts.gstatic.com/s/freckleface/v9/AMOWz4SXrmKHCvXTohxY-YIEWlix.woff) format("woff");
+}
+.u-font-freckle-face-400 {
+          font-family: 'Freckle Face' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Antic Slab";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Antic Slab Regular"),local(AnticSlab-Regular),url(//fonts.gstatic.com/s/anticslab/v9/bWt97fPFfRzkCa9Jlp6IacVcWA.eot?#) format("eot"),url(//fonts.gstatic.com/s/anticslab/v9/bWt97fPFfRzkCa9Jlp6IacVcXA.woff2) format("woff2"),url(//fonts.gstatic.com/s/anticslab/v9/bWt97fPFfRzkCa9Jlp6IacVcWg.woff) format("woff");
+}
+.u-font-antic-slab-400 {
+          font-family: 'Antic Slab' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,42 @@
+@font-face {
+          font-family: Marvel;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Marvel Italic"),local(Marvel-Italic),url(//fonts.gstatic.com/s/marvel/v10/nwpXtKeoNgBV0qa4k2THJ34.eot?#) format("eot"),url(//fonts.gstatic.com/s/marvel/v10/nwpXtKeoNgBV0qa4k2THJ3o.woff2) format("woff2"),url(//fonts.gstatic.com/s/marvel/v10/nwpXtKeoNgBV0qa4k2THJ3w.woff) format("woff");
+}
+@font-face {
+          font-family: Marvel;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Marvel Bold Italic"),local(Marvel-BoldItalic),url(//fonts.gstatic.com/s/marvel/v10/nwpQtKeoNgBV0qa4k2x8Am-l7wk.eot?#) format("eot"),url(//fonts.gstatic.com/s/marvel/v10/nwpQtKeoNgBV0qa4k2x8Am-l7w0.woff2) format("woff2"),url(//fonts.gstatic.com/s/marvel/v10/nwpQtKeoNgBV0qa4k2x8Am-l7ws.woff) format("woff");
+}
+@font-face {
+          font-family: Marvel;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Marvel),local(Marvel-Regular),url(//fonts.gstatic.com/s/marvel/v10/nwpVtKeoNgBV0qa4llTB.eot?#) format("eot"),url(//fonts.gstatic.com/s/marvel/v10/nwpVtKeoNgBV0qa4llTF.woff2) format("woff2"),url(//fonts.gstatic.com/s/marvel/v10/nwpVtKeoNgBV0qa4llTD.woff) format("woff");
+}
+@font-face {
+          font-family: Marvel;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Marvel Bold"),local(Marvel-Bold),url(//fonts.gstatic.com/s/marvel/v10/nwpWtKeoNgBV0qawLXHQAF-j.eot?#) format("eot"),url(//fonts.gstatic.com/s/marvel/v10/nwpWtKeoNgBV0qawLXHQAF-n.woff2) format("woff2"),url(//fonts.gstatic.com/s/marvel/v10/nwpWtKeoNgBV0qawLXHQAF-h.woff) format("woff");
+}
+.u-font-marvel-400 {
+          font-family: 'Marvel' !important;
+          font-weight: 400 !important;
+}
+.u-font-marvel-400-italic {
+        font-family: 'Marvel' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-marvel-700 {
+          font-family: 'Marvel' !important;
+          font-weight: 700 !important;
+}
+.u-font-marvel-700-italic {
+        font-family: 'Marvel' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

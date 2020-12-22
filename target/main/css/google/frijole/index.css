@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Frijole;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Frijole),url(//fonts.gstatic.com/s/frijole/v9/uU9PCBUR8oakM2BQ3xTR2w.eot?#) format("eot"),url(//fonts.gstatic.com/s/frijole/v9/uU9PCBUR8oakM2BQ3xTR3w.woff2) format("woff2"),url(//fonts.gstatic.com/s/frijole/v9/uU9PCBUR8oakM2BQ3xTR2Q.woff) format("woff");
+}
+.u-font-frijole-400 {
+          font-family: 'Frijole' !important;
+          font-weight: 400 !important;
+}

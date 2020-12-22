@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Habibi;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Habibi),local(Habibi-Regular),url(//fonts.gstatic.com/s/habibi/v9/CSR-4zFWkuqcTTNyQxhb.eot?#) format("eot"),url(//fonts.gstatic.com/s/habibi/v9/CSR-4zFWkuqcTTNyTRhf.woff2) format("woff2"),url(//fonts.gstatic.com/s/habibi/v9/CSR-4zFWkuqcTTNyQxhZ.woff) format("woff");
+}
+.u-font-habibi-400 {
+          font-family: 'Habibi' !important;
+          font-weight: 400 !important;
+}

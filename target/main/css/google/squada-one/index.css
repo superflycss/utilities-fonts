@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Squada One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Squada One"),local(SquadaOne-Regular),url(//fonts.gstatic.com/s/squadaone/v9/BCasqZ8XsOrx4mcOk6Mtaac2XQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/squadaone/v9/BCasqZ8XsOrx4mcOk6Mtaac2WQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/squadaone/v9/BCasqZ8XsOrx4mcOk6Mtaac2Xw.woff) format("woff");
+}
+.u-font-squada-one-400 {
+          font-family: 'Squada One' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Mouse Memoirs";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Mouse Memoirs"),local(MouseMemoirs-Regular),url(//fonts.gstatic.com/s/mousememoirs/v8/t5tmIRoSNJ-PH0WNNgDYxdSb3TDPqw.eot?#) format("eot"),url(//fonts.gstatic.com/s/mousememoirs/v8/t5tmIRoSNJ-PH0WNNgDYxdSb3T7Prw.woff2) format("woff2"),url(//fonts.gstatic.com/s/mousememoirs/v8/t5tmIRoSNJ-PH0WNNgDYxdSb3TDPqQ.woff) format("woff");
+}
+.u-font-mouse-memoirs-400 {
+          font-family: 'Mouse Memoirs' !important;
+          font-weight: 400 !important;
+}

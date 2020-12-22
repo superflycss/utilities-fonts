@@ -1,0 +1,20 @@
+@font-face {
+          font-family: "Delius Unicase";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Delius Unicase"),local(DeliusUnicase-Regular),url(//fonts.gstatic.com/s/deliusunicase/v14/845BNMEwEIOVT8BmgfSzIr_6mlLAfes.eot?#) format("eot"),url(//fonts.gstatic.com/s/deliusunicase/v14/845BNMEwEIOVT8BmgfSzIr_6mlLAfe8.woff2) format("woff2"),url(//fonts.gstatic.com/s/deliusunicase/v14/845BNMEwEIOVT8BmgfSzIr_6mlLAfek.woff) format("woff");
+}
+@font-face {
+          font-family: "Delius Unicase";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Delius Unicase Bold"),local(DeliusUnicase-Bold),url(//fonts.gstatic.com/s/deliusunicase/v14/845CNMEwEIOVT8BmgfSzIr_6mlp7WPr4DGw.eot?#) format("eot"),url(//fonts.gstatic.com/s/deliusunicase/v14/845CNMEwEIOVT8BmgfSzIr_6mlp7WPr4DGg.woff2) format("woff2"),url(//fonts.gstatic.com/s/deliusunicase/v14/845CNMEwEIOVT8BmgfSzIr_6mlp7WPr4DG4.woff) format("woff");
+}
+.u-font-delius-unicase-400 {
+          font-family: 'Delius Unicase' !important;
+          font-weight: 400 !important;
+}
+.u-font-delius-unicase-700 {
+          font-family: 'Delius Unicase' !important;
+          font-weight: 700 !important;
+}

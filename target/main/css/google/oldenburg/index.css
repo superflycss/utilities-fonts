@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Oldenburg;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Oldenburg),local(Oldenburg-Regular),url(//fonts.gstatic.com/s/oldenburg/v8/fC1jPY5JYWzbywv7c4VKWESt.eot?#) format("eot"),url(//fonts.gstatic.com/s/oldenburg/v8/fC1jPY5JYWzbywv7c4VKVkSp.woff2) format("woff2"),url(//fonts.gstatic.com/s/oldenburg/v8/fC1jPY5JYWzbywv7c4VKWESv.woff) format("woff");
+}
+.u-font-oldenburg-400 {
+          font-family: 'Oldenburg' !important;
+          font-weight: 400 !important;
+}

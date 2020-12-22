@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Coming Soon";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Coming Soon Regular"),local(ComingSoon-Regular),url(//fonts.gstatic.com/s/comingsoon/v12/qWcuB6mzpYL7AJ2VfdQR1t-VWD0.eot?#) format("eot"),url(//fonts.gstatic.com/s/comingsoon/v12/qWcuB6mzpYL7AJ2VfdQR1t-VWDk.woff2) format("woff2"),url(//fonts.gstatic.com/s/comingsoon/v12/qWcuB6mzpYL7AJ2VfdQR1t-VWD8.woff) format("woff");
+}
+.u-font-coming-soon-400 {
+          font-family: 'Coming Soon' !important;
+          font-weight: 400 !important;
+}

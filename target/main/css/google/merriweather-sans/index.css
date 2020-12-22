@@ -1,0 +1,126 @@
+@font-face {
+          font-family: "Merriweather Sans";
+          font-style: italic;
+          font-weight: 300;
+          src: url(//fonts.gstatic.com/s/merriweathersans/v13/2-cM9IRs1JiJN1FRAMjTN5zd9vgsFHXwWDvLBsPDdpWMaq2TzdsLxxE.eot?#) format("eot"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cM9IRs1JiJN1FRAMjTN5zd9vgsFHXwWDvLBsPDdpWMaq2TzdsFxxU.woff2) format("woff2"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cM9IRs1JiJN1FRAMjTN5zd9vgsFHXwWDvLBsPDdpWMaq2TzdsLxxM.woff) format("woff");
+}
+@font-face {
+          font-family: "Merriweather Sans";
+          font-style: italic;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/merriweathersans/v13/2-cM9IRs1JiJN1FRAMjTN5zd9vgsFHXwWDvLBsPDdpWMaq3NzdsLxxE.eot?#) format("eot"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cM9IRs1JiJN1FRAMjTN5zd9vgsFHXwWDvLBsPDdpWMaq3NzdsFxxU.woff2) format("woff2"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cM9IRs1JiJN1FRAMjTN5zd9vgsFHXwWDvLBsPDdpWMaq3NzdsLxxM.woff) format("woff");
+}
+@font-face {
+          font-family: "Merriweather Sans";
+          font-style: italic;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/merriweathersans/v13/2-cM9IRs1JiJN1FRAMjTN5zd9vgsFHXwWDvLBsPDdpWMaq3_zdsLxxE.eot?#) format("eot"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cM9IRs1JiJN1FRAMjTN5zd9vgsFHXwWDvLBsPDdpWMaq3_zdsFxxU.woff2) format("woff2"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cM9IRs1JiJN1FRAMjTN5zd9vgsFHXwWDvLBsPDdpWMaq3_zdsLxxM.woff) format("woff");
+}
+@font-face {
+          font-family: "Merriweather Sans";
+          font-style: italic;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/merriweathersans/v13/2-cM9IRs1JiJN1FRAMjTN5zd9vgsFHXwWDvLBsPDdpWMaq0TytsLxxE.eot?#) format("eot"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cM9IRs1JiJN1FRAMjTN5zd9vgsFHXwWDvLBsPDdpWMaq0TytsFxxU.woff2) format("woff2"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cM9IRs1JiJN1FRAMjTN5zd9vgsFHXwWDvLBsPDdpWMaq0TytsLxxM.woff) format("woff");
+}
+@font-face {
+          font-family: "Merriweather Sans";
+          font-style: italic;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/merriweathersans/v13/2-cM9IRs1JiJN1FRAMjTN5zd9vgsFHXwWDvLBsPDdpWMaq0qytsLxxE.eot?#) format("eot"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cM9IRs1JiJN1FRAMjTN5zd9vgsFHXwWDvLBsPDdpWMaq0qytsFxxU.woff2) format("woff2"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cM9IRs1JiJN1FRAMjTN5zd9vgsFHXwWDvLBsPDdpWMaq0qytsLxxM.woff) format("woff");
+}
+@font-face {
+          font-family: "Merriweather Sans";
+          font-style: italic;
+          font-weight: 800;
+          src: url(//fonts.gstatic.com/s/merriweathersans/v13/2-cM9IRs1JiJN1FRAMjTN5zd9vgsFHXwWDvLBsPDdpWMaq1NytsLxxE.eot?#) format("eot"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cM9IRs1JiJN1FRAMjTN5zd9vgsFHXwWDvLBsPDdpWMaq1NytsFxxU.woff2) format("woff2"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cM9IRs1JiJN1FRAMjTN5zd9vgsFHXwWDvLBsPDdpWMaq1NytsLxxM.woff) format("woff");
+}
+@font-face {
+          font-family: "Merriweather Sans";
+          font-style: normal;
+          font-weight: 300;
+          src: url(//fonts.gstatic.com/s/merriweathersans/v13/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZ_O4Vh-sD.eot?#) format("eot"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZ_O4ViesH.woff2) format("woff2"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZ_O4Vh-sB.woff) format("woff");
+}
+@font-face {
+          font-family: "Merriweather Sans";
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/merriweathersans/v13/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZou4Vh-sD.eot?#) format("eot"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZou4ViesH.woff2) format("woff2"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZou4Vh-sB.woff) format("woff");
+}
+@font-face {
+          font-family: "Merriweather Sans";
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/merriweathersans/v13/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZkO4Vh-sD.eot?#) format("eot"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZkO4ViesH.woff2) format("woff2"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZkO4Vh-sB.woff) format("woff");
+}
+@font-face {
+          font-family: "Merriweather Sans";
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/merriweathersans/v13/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZfOkVh-sD.eot?#) format("eot"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZfOkViesH.woff2) format("woff2"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZfOkVh-sB.woff) format("woff");
+}
+@font-face {
+          font-family: "Merriweather Sans";
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/merriweathersans/v13/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZRekVh-sD.eot?#) format("eot"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZRekViesH.woff2) format("woff2"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZRekVh-sB.woff) format("woff");
+}
+@font-face {
+          font-family: "Merriweather Sans";
+          font-style: normal;
+          font-weight: 800;
+          src: url(//fonts.gstatic.com/s/merriweathersans/v13/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZIukVh-sD.eot?#) format("eot"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZIukViesH.woff2) format("woff2"),url(//fonts.gstatic.com/s/merriweathersans/v13/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZIukVh-sB.woff) format("woff");
+}
+.u-font-merriweather-sans-300 {
+          font-family: 'Merriweather Sans' !important;
+          font-weight: 300 !important;
+}
+.u-font-merriweather-sans-400 {
+          font-family: 'Merriweather Sans' !important;
+          font-weight: 400 !important;
+}
+.u-font-merriweather-sans-500 {
+          font-family: 'Merriweather Sans' !important;
+          font-weight: 500 !important;
+}
+.u-font-merriweather-sans-600 {
+          font-family: 'Merriweather Sans' !important;
+          font-weight: 600 !important;
+}
+.u-font-merriweather-sans-700 {
+          font-family: 'Merriweather Sans' !important;
+          font-weight: 700 !important;
+}
+.u-font-merriweather-sans-800 {
+          font-family: 'Merriweather Sans' !important;
+          font-weight: 800 !important;
+}
+.u-font-merriweather-sans-300-italic {
+        font-family: 'Merriweather Sans' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-merriweather-sans-400-italic {
+        font-family: 'Merriweather Sans' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-merriweather-sans-500-italic {
+        font-family: 'Merriweather Sans' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-merriweather-sans-600-italic {
+        font-family: 'Merriweather Sans' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-merriweather-sans-700-italic {
+        font-family: 'Merriweather Sans' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}
+.u-font-merriweather-sans-800-italic {
+        font-family: 'Merriweather Sans' !important;
+        font-weight: 800 !important;
+        font-style: italic !important;
+}

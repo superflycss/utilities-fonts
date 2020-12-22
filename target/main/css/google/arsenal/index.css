@@ -1,0 +1,42 @@
+@font-face {
+          font-family: Arsenal;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Arsenal Italic"),local(Arsenal-Italic),url(//fonts.gstatic.com/s/arsenal/v5/wXKpE3kQtZQ4pF3D513sDMQr.eot?#) format("eot"),url(//fonts.gstatic.com/s/arsenal/v5/wXKpE3kQtZQ4pF3D513sAsQv.woff2) format("woff2"),url(//fonts.gstatic.com/s/arsenal/v5/wXKpE3kQtZQ4pF3D513sDMQp.woff) format("woff");
+}
+@font-face {
+          font-family: Arsenal;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Arsenal Bold Italic"),local(Arsenal-BoldItalic),url(//fonts.gstatic.com/s/arsenal/v5/wXKsE3kQtZQ4pF3D513kueE6lFcy.eot?#) format("eot"),url(//fonts.gstatic.com/s/arsenal/v5/wXKsE3kQtZQ4pF3D513kueE6mlc2.woff2) format("woff2"),url(//fonts.gstatic.com/s/arsenal/v5/wXKsE3kQtZQ4pF3D513kueE6lFcw.woff) format("woff");
+}
+@font-face {
+          font-family: Arsenal;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Arsenal Regular"),local(Arsenal-Regular),url(//fonts.gstatic.com/s/arsenal/v5/wXKrE3kQtZQ4pF3D51bcBA.eot?#) format("eot"),url(//fonts.gstatic.com/s/arsenal/v5/wXKrE3kQtZQ4pF3D51jcAA.woff2) format("woff2"),url(//fonts.gstatic.com/s/arsenal/v5/wXKrE3kQtZQ4pF3D51bcBg.woff) format("woff");
+}
+@font-face {
+          font-family: Arsenal;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Arsenal Bold"),local(Arsenal-Bold),url(//fonts.gstatic.com/s/arsenal/v5/wXKuE3kQtZQ4pF3D7-P5Fe0KnA.eot?#) format("eot"),url(//fonts.gstatic.com/s/arsenal/v5/wXKuE3kQtZQ4pF3D7-P5FeMKmA.woff2) format("woff2"),url(//fonts.gstatic.com/s/arsenal/v5/wXKuE3kQtZQ4pF3D7-P5Fe0Kng.woff) format("woff");
+}
+.u-font-arsenal-400 {
+          font-family: 'Arsenal' !important;
+          font-weight: 400 !important;
+}
+.u-font-arsenal-400-italic {
+        font-family: 'Arsenal' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-arsenal-700 {
+          font-family: 'Arsenal' !important;
+          font-weight: 700 !important;
+}
+.u-font-arsenal-700-italic {
+        font-family: 'Arsenal' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

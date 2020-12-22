@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Bigshot One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Bigshot One Regular"),local(BigshotOne-Regular),url(//fonts.gstatic.com/s/bigshotone/v11/u-470qukhRkkO6BD_7cM_jxpWwc.eot?#) format("eot"),url(//fonts.gstatic.com/s/bigshotone/v11/u-470qukhRkkO6BD_7cM_jxpWwM.woff2) format("woff2"),url(//fonts.gstatic.com/s/bigshotone/v11/u-470qukhRkkO6BD_7cM_jxpWwU.woff) format("woff");
+}
+.u-font-bigshot-one-400 {
+          font-family: 'Bigshot One' !important;
+          font-weight: 400 !important;
+}

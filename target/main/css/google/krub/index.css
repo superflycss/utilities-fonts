@@ -1,0 +1,126 @@
+@font-face {
+          font-family: Krub;
+          font-style: italic;
+          font-weight: 200;
+          src: local("Krub ExtraLight Italic"),local(Krub-ExtraLightItalic),url(//fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQiwLBCSoAW.eot?#) format("eot"),url(//fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQiwLBCRIAS.woff2) format("woff2"),url(//fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQiwLBCSoAU.woff) format("woff");
+}
+@font-face {
+          font-family: Krub;
+          font-style: italic;
+          font-weight: 300;
+          src: local("Krub Light Italic"),local(Krub-LightItalic),url(//fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQipLNCSoAW.eot?#) format("eot"),url(//fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQipLNCRIAS.woff2) format("woff2"),url(//fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQipLNCSoAU.woff) format("woff");
+}
+@font-face {
+          font-family: Krub;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Krub Italic"),local(Krub-Italic),url(//fonts.gstatic.com/s/krub/v4/sZlFdRyC6CRYbkQqAZFT.eot?#) format("eot"),url(//fonts.gstatic.com/s/krub/v4/sZlFdRyC6CRYbkQqD5FX.woff2) format("woff2"),url(//fonts.gstatic.com/s/krub/v4/sZlFdRyC6CRYbkQqAZFR.woff) format("woff");
+}
+@font-face {
+          font-family: Krub;
+          font-style: italic;
+          font-weight: 500;
+          src: local("Krub Medium Italic"),local(Krub-MediumItalic),url(//fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQi_LJCSoAW.eot?#) format("eot"),url(//fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQi_LJCRIAS.woff2) format("woff2"),url(//fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQi_LJCSoAU.woff) format("woff");
+}
+@font-face {
+          font-family: Krub;
+          font-style: italic;
+          font-weight: 600;
+          src: local("Krub SemiBold Italic"),local(Krub-SemiBoldItalic),url(//fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQi0LVCSoAW.eot?#) format("eot"),url(//fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQi0LVCRIAS.woff2) format("woff2"),url(//fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQi0LVCSoAU.woff) format("woff");
+}
+@font-face {
+          font-family: Krub;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Krub Bold Italic"),local(Krub-BoldItalic),url(//fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQitLRCSoAW.eot?#) format("eot"),url(//fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQitLRCRIAS.woff2) format("woff2"),url(//fonts.gstatic.com/s/krub/v4/sZlGdRyC6CRYbkQitLRCSoAU.woff) format("woff");
+}
+@font-face {
+          font-family: Krub;
+          font-style: normal;
+          font-weight: 200;
+          src: local("Krub ExtraLight"),local(Krub-ExtraLight),url(//fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZo47GLhyQg.eot?#) format("eot"),url(//fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZo47GLZyRg.woff2) format("woff2"),url(//fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZo47GLhyQA.woff) format("woff");
+}
+@font-face {
+          font-family: Krub;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Krub Light"),local(Krub-Light),url(//fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZuo4GLhyQg.eot?#) format("eot"),url(//fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZuo4GLZyRg.woff2) format("woff2"),url(//fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZuo4GLhyQA.woff) format("woff");
+}
+@font-face {
+          font-family: Krub;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Krub Regular"),local(Krub-Regular),url(//fonts.gstatic.com/s/krub/v4/sZlLdRyC6CRYbk8aCQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/krub/v4/sZlLdRyC6CRYbkEaDQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/krub/v4/sZlLdRyC6CRYbk8aCw.woff) format("woff");
+}
+@font-face {
+          font-family: Krub;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Krub Medium"),local(Krub-Medium),url(//fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZrI5GLhyQg.eot?#) format("eot"),url(//fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZrI5GLZyRg.woff2) format("woff2"),url(//fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZrI5GLhyQA.woff) format("woff");
+}
+@font-face {
+          font-family: Krub;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Krub SemiBold"),local(Krub-SemiBold),url(//fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZp4-GLhyQg.eot?#) format("eot"),url(//fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZp4-GLZyRg.woff2) format("woff2"),url(//fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZp4-GLhyQA.woff) format("woff");
+}
+@font-face {
+          font-family: Krub;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Krub Bold"),local(Krub-Bold),url(//fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZvo_GLhyQg.eot?#) format("eot"),url(//fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZvo_GLZyRg.woff2) format("woff2"),url(//fonts.gstatic.com/s/krub/v4/sZlEdRyC6CRYZvo_GLhyQA.woff) format("woff");
+}
+.u-font-krub-200 {
+          font-family: 'Krub' !important;
+          font-weight: 200 !important;
+}
+.u-font-krub-200-italic {
+        font-family: 'Krub' !important;
+        font-weight: 200 !important;
+        font-style: italic !important;
+}
+.u-font-krub-300 {
+          font-family: 'Krub' !important;
+          font-weight: 300 !important;
+}
+.u-font-krub-300-italic {
+        font-family: 'Krub' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-krub-400 {
+          font-family: 'Krub' !important;
+          font-weight: 400 !important;
+}
+.u-font-krub-400-italic {
+        font-family: 'Krub' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-krub-500 {
+          font-family: 'Krub' !important;
+          font-weight: 500 !important;
+}
+.u-font-krub-500-italic {
+        font-family: 'Krub' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-krub-600 {
+          font-family: 'Krub' !important;
+          font-weight: 600 !important;
+}
+.u-font-krub-600-italic {
+        font-family: 'Krub' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-krub-700 {
+          font-family: 'Krub' !important;
+          font-weight: 700 !important;
+}
+.u-font-krub-700-italic {
+        font-family: 'Krub' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

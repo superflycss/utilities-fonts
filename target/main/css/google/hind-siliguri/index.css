@@ -1,0 +1,50 @@
+@font-face {
+          font-family: "Hind Siliguri";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Hind Siliguri Light"),local(HindSiliguri-Light),url(//fonts.gstatic.com/s/hindsiliguri/v7/ijwOs5juQtsyLLR5jN4cxBEoRDf40ugVLw.eot?#) format("eot"),url(//fonts.gstatic.com/s/hindsiliguri/v7/ijwOs5juQtsyLLR5jN4cxBEoRDf40uYVKw.woff2) format("woff2"),url(//fonts.gstatic.com/s/hindsiliguri/v7/ijwOs5juQtsyLLR5jN4cxBEoRDf40ugVLQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Hind Siliguri";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Hind Siliguri Regular"),local(HindSiliguri-Regular),url(//fonts.gstatic.com/s/hindsiliguri/v7/ijwTs5juQtsyLLR5jN4cxBEoTJLaww.eot?#) format("eot"),url(//fonts.gstatic.com/s/hindsiliguri/v7/ijwTs5juQtsyLLR5jN4cxBEoTJzaxw.woff2) format("woff2"),url(//fonts.gstatic.com/s/hindsiliguri/v7/ijwTs5juQtsyLLR5jN4cxBEoTJLawQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Hind Siliguri";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Hind Siliguri Medium"),local(HindSiliguri-Medium),url(//fonts.gstatic.com/s/hindsiliguri/v7/ijwOs5juQtsyLLR5jN4cxBEoRG_50ugVLw.eot?#) format("eot"),url(//fonts.gstatic.com/s/hindsiliguri/v7/ijwOs5juQtsyLLR5jN4cxBEoRG_50uYVKw.woff2) format("woff2"),url(//fonts.gstatic.com/s/hindsiliguri/v7/ijwOs5juQtsyLLR5jN4cxBEoRG_50ugVLQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Hind Siliguri";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Hind Siliguri SemiBold"),local(HindSiliguri-SemiBold),url(//fonts.gstatic.com/s/hindsiliguri/v7/ijwOs5juQtsyLLR5jN4cxBEoREP-0ugVLw.eot?#) format("eot"),url(//fonts.gstatic.com/s/hindsiliguri/v7/ijwOs5juQtsyLLR5jN4cxBEoREP-0uYVKw.woff2) format("woff2"),url(//fonts.gstatic.com/s/hindsiliguri/v7/ijwOs5juQtsyLLR5jN4cxBEoREP-0ugVLQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Hind Siliguri";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Hind Siliguri Bold"),local(HindSiliguri-Bold),url(//fonts.gstatic.com/s/hindsiliguri/v7/ijwOs5juQtsyLLR5jN4cxBEoRCf_0ugVLw.eot?#) format("eot"),url(//fonts.gstatic.com/s/hindsiliguri/v7/ijwOs5juQtsyLLR5jN4cxBEoRCf_0uYVKw.woff2) format("woff2"),url(//fonts.gstatic.com/s/hindsiliguri/v7/ijwOs5juQtsyLLR5jN4cxBEoRCf_0ugVLQ.woff) format("woff");
+}
+.u-font-hind-siliguri-300 {
+          font-family: 'Hind Siliguri' !important;
+          font-weight: 300 !important;
+}
+.u-font-hind-siliguri-400 {
+          font-family: 'Hind Siliguri' !important;
+          font-weight: 400 !important;
+}
+.u-font-hind-siliguri-500 {
+          font-family: 'Hind Siliguri' !important;
+          font-weight: 500 !important;
+}
+.u-font-hind-siliguri-600 {
+          font-family: 'Hind Siliguri' !important;
+          font-weight: 600 !important;
+}
+.u-font-hind-siliguri-700 {
+          font-family: 'Hind Siliguri' !important;
+          font-weight: 700 !important;
+}

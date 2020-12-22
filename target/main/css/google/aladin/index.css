@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Aladin;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Aladin Regular"),local(Aladin-Regular),url(//fonts.gstatic.com/s/aladin/v9/ZgNSjPJFPrvJV5fF4C39.eot?#) format("eot"),url(//fonts.gstatic.com/s/aladin/v9/ZgNSjPJFPrvJV5fF7i35.woff2) format("woff2"),url(//fonts.gstatic.com/s/aladin/v9/ZgNSjPJFPrvJV5fF4C3_.woff) format("woff");
+}
+.u-font-aladin-400 {
+          font-family: 'Aladin' !important;
+          font-weight: 400 !important;
+}

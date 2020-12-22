@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Alef;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Alef Regular"),local(Alef-Regular),url(//fonts.gstatic.com/s/alef/v12/FeVfS0NQpLYgnjVRDg.eot?#) format("eot"),url(//fonts.gstatic.com/s/alef/v12/FeVfS0NQpLYgnjVRCg.woff2) format("woff2"),url(//fonts.gstatic.com/s/alef/v12/FeVfS0NQpLYgnjVRDA.woff) format("woff");
+}
+@font-face {
+          font-family: Alef;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Alef Bold"),local(Alef-Bold),url(//fonts.gstatic.com/s/alef/v12/FeVQS0NQpLYglo50H55Q3A.eot?#) format("eot"),url(//fonts.gstatic.com/s/alef/v12/FeVQS0NQpLYglo50H55Q2A.woff2) format("woff2"),url(//fonts.gstatic.com/s/alef/v12/FeVQS0NQpLYglo50H55Q3g.woff) format("woff");
+}
+.u-font-alef-400 {
+          font-family: 'Alef' !important;
+          font-weight: 400 !important;
+}
+.u-font-alef-700 {
+          font-family: 'Alef' !important;
+          font-weight: 700 !important;
+}

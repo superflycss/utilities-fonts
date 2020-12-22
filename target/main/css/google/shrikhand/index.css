@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Shrikhand;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Shrikhand Regular"),local(Shrikhand-Regular),url(//fonts.gstatic.com/s/shrikhand/v6/a8IbNovtLWfR7T7bMJwrDYKV.eot?#) format("eot"),url(//fonts.gstatic.com/s/shrikhand/v6/a8IbNovtLWfR7T7bMJwrA4KR.woff2) format("woff2"),url(//fonts.gstatic.com/s/shrikhand/v6/a8IbNovtLWfR7T7bMJwrDYKX.woff) format("woff");
+}
+.u-font-shrikhand-400 {
+          font-family: 'Shrikhand' !important;
+          font-weight: 400 !important;
+}

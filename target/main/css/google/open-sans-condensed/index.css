@@ -1,0 +1,31 @@
+@font-face {
+          font-family: "Open Sans Condensed";
+          font-style: italic;
+          font-weight: 300;
+          src: local("Open Sans Condensed Light Italic"),local(OpenSansCondensed-LightItalic),url(//fonts.gstatic.com/s/opensanscondensed/v15/z7NHdQDnbTkabZAIOl9il_O6KJj73e7Fd_-7suD8S72R.eot?#) format("eot"),url(//fonts.gstatic.com/s/opensanscondensed/v15/z7NHdQDnbTkabZAIOl9il_O6KJj73e7Fd_-7suD8Rb2V.woff2) format("woff2"),url(//fonts.gstatic.com/s/opensanscondensed/v15/z7NHdQDnbTkabZAIOl9il_O6KJj73e7Fd_-7suD8S72T.woff) format("woff");
+}
+@font-face {
+          font-family: "Open Sans Condensed";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Open Sans Condensed Light"),local(OpenSansCondensed-Light),url(//fonts.gstatic.com/s/opensanscondensed/v15/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDuvMQw.eot?#) format("eot"),url(//fonts.gstatic.com/s/opensanscondensed/v15/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDuXMRw.woff2) format("woff2"),url(//fonts.gstatic.com/s/opensanscondensed/v15/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDuvMQQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Open Sans Condensed";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Open Sans Condensed Bold"),local(OpenSansCondensed-Bold),url(//fonts.gstatic.com/s/opensanscondensed/v15/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuvMQw.eot?#) format("eot"),url(//fonts.gstatic.com/s/opensanscondensed/v15/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuXMRw.woff2) format("woff2"),url(//fonts.gstatic.com/s/opensanscondensed/v15/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuvMQQ.woff) format("woff");
+}
+.u-font-open-sans-condensed-300 {
+          font-family: 'Open Sans Condensed' !important;
+          font-weight: 300 !important;
+}
+.u-font-open-sans-condensed-300-italic {
+        font-family: 'Open Sans Condensed' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-open-sans-condensed-700 {
+          font-family: 'Open Sans Condensed' !important;
+          font-weight: 700 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Snippet;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Snippet),url(//fonts.gstatic.com/s/snippet/v10/bWt47f7XfQH9Gupu6vjKeA.eot?#) format("eot"),url(//fonts.gstatic.com/s/snippet/v10/bWt47f7XfQH9Gupu6vjKfA.woff2) format("woff2"),url(//fonts.gstatic.com/s/snippet/v10/bWt47f7XfQH9Gupu6vjKeg.woff) format("woff");
+}
+.u-font-snippet-400 {
+          font-family: 'Snippet' !important;
+          font-weight: 400 !important;
+}

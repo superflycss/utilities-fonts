@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Teko;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Teko Light"),local(Teko-Light),url(//fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdQhfsCpgrA.eot?#) format("eot"),url(//fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdQhfsCRgqA.woff2) format("woff2"),url(//fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdQhfsCpgrg.woff) format("woff");
+}
+@font-face {
+          font-family: Teko;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Teko Regular"),local(Teko-Regular),url(//fonts.gstatic.com/s/teko/v10/LYjNdG7kmE0gfa19oQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/teko/v10/LYjNdG7kmE0gfaN9pQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/teko/v10/LYjNdG7kmE0gfa19ow.woff) format("woff");
+}
+@font-face {
+          font-family: Teko;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Teko Medium"),local(Teko-Medium),url(//fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdVBesCpgrA.eot?#) format("eot"),url(//fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdVBesCRgqA.woff2) format("woff2"),url(//fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdVBesCpgrg.woff) format("woff");
+}
+@font-face {
+          font-family: Teko;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Teko SemiBold"),local(Teko-SemiBold),url(//fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdXxZsCpgrA.eot?#) format("eot"),url(//fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdXxZsCRgqA.woff2) format("woff2"),url(//fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdXxZsCpgrg.woff) format("woff");
+}
+@font-face {
+          font-family: Teko;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Teko Bold"),local(Teko-Bold),url(//fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdRhYsCpgrA.eot?#) format("eot"),url(//fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdRhYsCRgqA.woff2) format("woff2"),url(//fonts.gstatic.com/s/teko/v10/LYjCdG7kmE0gdRhYsCpgrg.woff) format("woff");
+}
+.u-font-teko-300 {
+          font-family: 'Teko' !important;
+          font-weight: 300 !important;
+}
+.u-font-teko-400 {
+          font-family: 'Teko' !important;
+          font-weight: 400 !important;
+}
+.u-font-teko-500 {
+          font-family: 'Teko' !important;
+          font-weight: 500 !important;
+}
+.u-font-teko-600 {
+          font-family: 'Teko' !important;
+          font-weight: 600 !important;
+}
+.u-font-teko-700 {
+          font-family: 'Teko' !important;
+          font-weight: 700 !important;
+}

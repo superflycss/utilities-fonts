@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Mrs Saint Delafield";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Mrs Saint Delafield"),local(MrsSaintDelafield-Regular),url(//fonts.gstatic.com/s/mrssaintdelafield/v8/v6-IGZDIOVXH9xtmTZfRagunqBw5WC62QKcnKw.eot?#) format("eot"),url(//fonts.gstatic.com/s/mrssaintdelafield/v8/v6-IGZDIOVXH9xtmTZfRagunqBw5WC62QKknLw.woff2) format("woff2"),url(//fonts.gstatic.com/s/mrssaintdelafield/v8/v6-IGZDIOVXH9xtmTZfRagunqBw5WC62QKcnKQ.woff) format("woff");
+}
+.u-font-mrs-saint-delafield-400 {
+          font-family: 'Mrs Saint Delafield' !important;
+          font-weight: 400 !important;
+}

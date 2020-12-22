@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Macondo;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Macondo),local(Macondo-Regular),url(//fonts.gstatic.com/s/macondo/v9/RrQQboN9-iB1IXmOe2LE1Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/macondo/v9/RrQQboN9-iB1IXmOe2LE0Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/macondo/v9/RrQQboN9-iB1IXmOe2LE1w.woff) format("woff");
+}
+.u-font-macondo-400 {
+          font-family: 'Macondo' !important;
+          font-weight: 400 !important;
+}

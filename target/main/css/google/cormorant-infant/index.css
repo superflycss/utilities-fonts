@@ -1,0 +1,105 @@
+@font-face {
+          font-family: "Cormorant Infant";
+          font-style: italic;
+          font-weight: 300;
+          src: local("Cormorant Infant Light Italic"),local(CormorantInfant-LightItalic),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyKU44g9vKiM1sORYSiWeAsLN997_ItcDERT48d.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyKU44g9vKiM1sORYSiWeAsLN997_ItcDERQY8Z.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyKU44g9vKiM1sORYSiWeAsLN997_ItcDERT48f.woff) format("woff");
+}
+@font-face {
+          font-family: "Cormorant Infant";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Cormorant Infant Italic"),local(CormorantInfant-Italic),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyJU44g9vKiM1sORYSiWeAsLN997_Il1RMA.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyJU44g9vKiM1sORYSiWeAsLN997_Il2xME.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyJU44g9vKiM1sORYSiWeAsLN997_Il1RMC.woff) format("woff");
+}
+@font-face {
+          font-family: "Cormorant Infant";
+          font-style: italic;
+          font-weight: 500;
+          src: local("Cormorant Infant Medium Italic"),local(CormorantInfant-MediumItalic),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyKU44g9vKiM1sORYSiWeAsLN997_ItKDART48d.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyKU44g9vKiM1sORYSiWeAsLN997_ItKDARQY8Z.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyKU44g9vKiM1sORYSiWeAsLN997_ItKDART48f.woff) format("woff");
+}
+@font-face {
+          font-family: "Cormorant Infant";
+          font-style: italic;
+          font-weight: 600;
+          src: local("Cormorant Infant SemiBold Italic"),local(CormorantInfant-SemiBoldItalic),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyKU44g9vKiM1sORYSiWeAsLN997_ItBDcRT48d.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyKU44g9vKiM1sORYSiWeAsLN997_ItBDcRQY8Z.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyKU44g9vKiM1sORYSiWeAsLN997_ItBDcRT48f.woff) format("woff");
+}
+@font-face {
+          font-family: "Cormorant Infant";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Cormorant Infant Bold Italic"),local(CormorantInfant-BoldItalic),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyKU44g9vKiM1sORYSiWeAsLN997_ItYDYRT48d.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyKU44g9vKiM1sORYSiWeAsLN997_ItYDYRQY8Z.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyKU44g9vKiM1sORYSiWeAsLN997_ItYDYRT48f.woff) format("woff");
+}
+@font-face {
+          font-family: "Cormorant Infant";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Cormorant Infant Light"),local(CormorantInfant-Light),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyIU44g9vKiM1sORYSiWeAsLN9951w3zDohRw.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyIU44g9vKiM1sORYSiWeAsLN9951w3zDQhQw.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyIU44g9vKiM1sORYSiWeAsLN9951w3zDohRQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Cormorant Infant";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Cormorant Infant Regular"),local(CormorantInfant-Regular),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyPU44g9vKiM1sORYSiWeAsLN997_kV3Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyPU44g9vKiM1sORYSiWeAsLN997_cV2Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyPU44g9vKiM1sORYSiWeAsLN997_kV3w.woff) format("woff");
+}
+@font-face {
+          font-family: "Cormorant Infant";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Cormorant Infant Medium"),local(CormorantInfant-Medium),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyIU44g9vKiM1sORYSiWeAsLN995wQ2zDohRw.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyIU44g9vKiM1sORYSiWeAsLN995wQ2zDQhQw.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyIU44g9vKiM1sORYSiWeAsLN995wQ2zDohRQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Cormorant Infant";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Cormorant Infant SemiBold"),local(CormorantInfant-SemiBold),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyIU44g9vKiM1sORYSiWeAsLN995ygxzDohRw.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyIU44g9vKiM1sORYSiWeAsLN995ygxzDQhQw.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyIU44g9vKiM1sORYSiWeAsLN995ygxzDohRQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Cormorant Infant";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Cormorant Infant Bold"),local(CormorantInfant-Bold),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyIU44g9vKiM1sORYSiWeAsLN9950wwzDohRw.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyIU44g9vKiM1sORYSiWeAsLN9950wwzDQhQw.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantinfant/v10/HhyIU44g9vKiM1sORYSiWeAsLN9950wwzDohRQ.woff) format("woff");
+}
+.u-font-cormorant-infant-300 {
+          font-family: 'Cormorant Infant' !important;
+          font-weight: 300 !important;
+}
+.u-font-cormorant-infant-300-italic {
+        font-family: 'Cormorant Infant' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-cormorant-infant-400 {
+          font-family: 'Cormorant Infant' !important;
+          font-weight: 400 !important;
+}
+.u-font-cormorant-infant-400-italic {
+        font-family: 'Cormorant Infant' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-cormorant-infant-500 {
+          font-family: 'Cormorant Infant' !important;
+          font-weight: 500 !important;
+}
+.u-font-cormorant-infant-500-italic {
+        font-family: 'Cormorant Infant' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-cormorant-infant-600 {
+          font-family: 'Cormorant Infant' !important;
+          font-weight: 600 !important;
+}
+.u-font-cormorant-infant-600-italic {
+        font-family: 'Cormorant Infant' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-cormorant-infant-700 {
+          font-family: 'Cormorant Infant' !important;
+          font-weight: 700 !important;
+}
+.u-font-cormorant-infant-700-italic {
+        font-family: 'Cormorant Infant' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

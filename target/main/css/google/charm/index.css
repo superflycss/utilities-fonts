@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Charm;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Charm Regular"),local(Charm-Regular),url(//fonts.gstatic.com/s/charm/v5/7cHmv4oii5K0MdYmK-o.eot?#) format("eot"),url(//fonts.gstatic.com/s/charm/v5/7cHmv4oii5K0MdYoK-4.woff2) format("woff2"),url(//fonts.gstatic.com/s/charm/v5/7cHmv4oii5K0MdYmK-g.woff) format("woff");
+}
+@font-face {
+          font-family: Charm;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Charm Bold"),local(Charm-Bold),url(//fonts.gstatic.com/s/charm/v5/7cHrv4oii5K0Md6TDvs1wHs.eot?#) format("eot"),url(//fonts.gstatic.com/s/charm/v5/7cHrv4oii5K0Md6TDvs7wH8.woff2) format("woff2"),url(//fonts.gstatic.com/s/charm/v5/7cHrv4oii5K0Md6TDvs1wHk.woff) format("woff");
+}
+.u-font-charm-400 {
+          font-family: 'Charm' !important;
+          font-weight: 400 !important;
+}
+.u-font-charm-700 {
+          font-family: 'Charm' !important;
+          font-weight: 700 !important;
+}

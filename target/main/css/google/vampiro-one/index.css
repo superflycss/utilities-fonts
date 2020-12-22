@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Vampiro One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Vampiro One"),local(VampiroOne-Regular),url(//fonts.gstatic.com/s/vampiroone/v11/gokqH6DoDl5yXvJytFsdLnquuP0.eot?#) format("eot"),url(//fonts.gstatic.com/s/vampiroone/v11/gokqH6DoDl5yXvJytFsdLnqguPk.woff2) format("woff2"),url(//fonts.gstatic.com/s/vampiroone/v11/gokqH6DoDl5yXvJytFsdLnquuP8.woff) format("woff");
+}
+.u-font-vampiro-one-400 {
+          font-family: 'Vampiro One' !important;
+          font-weight: 400 !important;
+}

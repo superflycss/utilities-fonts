@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Nanum Brush Script";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Nanum Brush Script"),local(NanumBrush),url(//fonts.gstatic.com/s/nanumbrushscript/v17/wXK2E2wfpokopxzthSqPbcR5_gVaxazCiapu.eot?#) format("eot"),url(//fonts.gstatic.com/s/nanumbrushscript/v17/wXK2E2wfpokopxzthSqPbcR5_gVaxazyi8h91FzOgw1p2ltl6Y9TO0Bmgx_e.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/nanumbrushscript/v17/wXK2E2wfpokopxzthSqPbcR5_gVaxazCiaps.woff) format("woff");
+}
+.u-font-nanum-brush-script-400 {
+          font-family: 'Nanum Brush Script' !important;
+          font-weight: 400 !important;
+}

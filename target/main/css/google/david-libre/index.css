@@ -1,0 +1,30 @@
+@font-face {
+          font-family: "David Libre";
+          font-style: normal;
+          font-weight: 400;
+          src: local("David Libre"),local(DavidLibre-Regular),url(//fonts.gstatic.com/s/davidlibre/v5/snfus0W_99N64iuYSvp4W8l14Js.eot?#) format("eot"),url(//fonts.gstatic.com/s/davidlibre/v5/snfus0W_99N64iuYSvp4W8l74J8.woff2) format("woff2"),url(//fonts.gstatic.com/s/davidlibre/v5/snfus0W_99N64iuYSvp4W8l14Jk.woff) format("woff");
+}
+@font-face {
+          font-family: "David Libre";
+          font-style: normal;
+          font-weight: 500;
+          src: local("David Libre Medium"),local(DavidLibre-Medium),url(//fonts.gstatic.com/s/davidlibre/v5/snfzs0W_99N64iuYSvp4W8GIw4qSQDY.eot?#) format("eot"),url(//fonts.gstatic.com/s/davidlibre/v5/snfzs0W_99N64iuYSvp4W8GIw4qcQDI.woff2) format("woff2"),url(//fonts.gstatic.com/s/davidlibre/v5/snfzs0W_99N64iuYSvp4W8GIw4qSQDQ.woff) format("woff");
+}
+@font-face {
+          font-family: "David Libre";
+          font-style: normal;
+          font-weight: 700;
+          src: local("David Libre Bold"),local(DavidLibre-Bold),url(//fonts.gstatic.com/s/davidlibre/v5/snfzs0W_99N64iuYSvp4W8HAxYqSQDY.eot?#) format("eot"),url(//fonts.gstatic.com/s/davidlibre/v5/snfzs0W_99N64iuYSvp4W8HAxYqcQDI.woff2) format("woff2"),url(//fonts.gstatic.com/s/davidlibre/v5/snfzs0W_99N64iuYSvp4W8HAxYqSQDQ.woff) format("woff");
+}
+.u-font-david-libre-400 {
+          font-family: 'David Libre' !important;
+          font-weight: 400 !important;
+}
+.u-font-david-libre-500 {
+          font-family: 'David Libre' !important;
+          font-weight: 500 !important;
+}
+.u-font-david-libre-700 {
+          font-family: 'David Libre' !important;
+          font-weight: 700 !important;
+}

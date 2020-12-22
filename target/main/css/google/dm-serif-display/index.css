@@ -1,0 +1,21 @@
+@font-face {
+          font-family: "DM Serif Display";
+          font-style: italic;
+          font-weight: 400;
+          src: local("DM Serif Display Italic"),local(DMSerifDisplay-Italic),url(//fonts.gstatic.com/s/dmserifdisplay/v4/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vDy.eot?#) format("eot"),url(//fonts.gstatic.com/s/dmserifdisplay/v4/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PD2.woff2) format("woff2"),url(//fonts.gstatic.com/s/dmserifdisplay/v4/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vDw.woff) format("woff");
+}
+@font-face {
+          font-family: "DM Serif Display";
+          font-style: normal;
+          font-weight: 400;
+          src: local("DM Serif Display Regular"),local(DMSerifDisplay-Regular),url(//fonts.gstatic.com/s/dmserifdisplay/v4/-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x1g.eot?#) format("eot"),url(//fonts.gstatic.com/s/dmserifdisplay/v4/-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx0g.woff2) format("woff2"),url(//fonts.gstatic.com/s/dmserifdisplay/v4/-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x1A.woff) format("woff");
+}
+.u-font-dm-serif-display-400 {
+          font-family: 'DM Serif Display' !important;
+          font-weight: 400 !important;
+}
+.u-font-dm-serif-display-400-italic {
+        font-family: 'DM Serif Display' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}

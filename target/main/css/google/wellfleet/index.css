@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Wellfleet;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Wellfleet),local(Wellfleet-Regular),url(//fonts.gstatic.com/s/wellfleet/v8/nuF7D_LfQJb3VYgX6eyj6myO.eot?#) format("eot"),url(//fonts.gstatic.com/s/wellfleet/v8/nuF7D_LfQJb3VYgX6eyj5GyK.woff2) format("woff2"),url(//fonts.gstatic.com/s/wellfleet/v8/nuF7D_LfQJb3VYgX6eyj6myM.woff) format("woff");
+}
+.u-font-wellfleet-400 {
+          font-family: 'Wellfleet' !important;
+          font-weight: 400 !important;
+}

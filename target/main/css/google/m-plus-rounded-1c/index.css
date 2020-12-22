@@ -1,0 +1,70 @@
+@font-face {
+          font-family: "M PLUS Rounded 1c";
+          font-style: normal;
+          font-weight: 100;
+          src: local("M PLUS Rounded 1c Thin"),local(MPLUSRounded1c-Thin),url(//fonts.gstatic.com/s/mplusrounded1c/v10/VdGCAYIAV6gnpUpoWwNkYvrugw9RuM3i9LIq7g.eot?#) format("eot"),url(//fonts.gstatic.com/s/mplusrounded1c/v10/VdGCAYIAV6gnpUpoWwNkYvrugw9RuM3ixL5I--S-pX07Kz3K0FMbTUatrDYV2AI0.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/mplusrounded1c/v10/VdGCAYIAV6gnpUpoWwNkYvrugw9RuM3i9LIq7A.woff) format("woff");
+}
+@font-face {
+          font-family: "M PLUS Rounded 1c";
+          font-style: normal;
+          font-weight: 300;
+          src: local("M PLUS Rounded 1c Light"),local(MPLUSRounded1c-Light),url(//fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0q5qsDz-8.eot?#) format("eot"),url(//fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0q5psPrfqk33YqOjLBxkUhdkeuqyIMwGYkDA.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0q5qsDz-0.woff) format("woff");
+}
+@font-face {
+          font-family: "M PLUS Rounded 1c";
+          font-style: normal;
+          font-weight: 400;
+          src: local("M PLUS Rounded 1c"),local(MPLUSRounded1c-Regular),url(//fonts.gstatic.com/s/mplusrounded1c/v10/VdGEAYIAV6gnpUpoWwNkYvrugw9RuMWPxLo.eot?#) format("eot"),url(//fonts.gstatic.com/s/mplusrounded1c/v10/VdGEAYIAV6gnpUpoWwNkYvrugw9RuPWDpq8A_4TPv30lLyDK_FIhT0K-oTdprA.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/mplusrounded1c/v10/VdGEAYIAV6gnpUpoWwNkYvrugw9RuMWPxLg.woff) format("woff");
+}
+@font-face {
+          font-family: "M PLUS Rounded 1c";
+          font-style: normal;
+          font-weight: 500;
+          src: local("M PLUS Rounded 1c Medium"),local(MPLUSRounded1c-Medium),url(//fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM1y56sDz-8.eot?#) format("eot"),url(//fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM1y55sPrfqk33YqOjLBxkUhdkeuqyIMwGYkDA.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM1y56sDz-0.woff) format("woff");
+}
+@font-face {
+          font-family: "M PLUS Rounded 1c";
+          font-style: normal;
+          font-weight: 700;
+          src: local("M PLUS Rounded 1c Bold"),local(MPLUSRounded1c-Bold),url(//fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM064asDz-8.eot?#) format("eot"),url(//fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM064ZsPrfqk33YqOjLBxkUhdkeuqyIMwGYkDA.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM064asDz-0.woff) format("woff");
+}
+@font-face {
+          font-family: "M PLUS Rounded 1c";
+          font-style: normal;
+          font-weight: 800;
+          src: local("M PLUS Rounded 1c ExtraBold"),local(MPLUSRounded1c-ExtraBold),url(//fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0m4qsDz-8.eot?#) format("eot"),url(//fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0m4psPrfqk33YqOjLBxkUhdkeuqyIMwGYkDA.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0m4qsDz-0.woff) format("woff");
+}
+@font-face {
+          font-family: "M PLUS Rounded 1c";
+          font-style: normal;
+          font-weight: 900;
+          src: local("M PLUS Rounded 1c Black"),local(MPLUSRounded1c-Black),url(//fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0C46sDz-8.eot?#) format("eot"),url(//fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0C45sPrfqk33YqOjLBxkUhdkeuqyIMwGYkDA.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0C46sDz-0.woff) format("woff");
+}
+.u-font-m-plus-rounded-1c-100 {
+          font-family: 'M PLUS Rounded 1c' !important;
+          font-weight: 100 !important;
+}
+.u-font-m-plus-rounded-1c-300 {
+          font-family: 'M PLUS Rounded 1c' !important;
+          font-weight: 300 !important;
+}
+.u-font-m-plus-rounded-1c-400 {
+          font-family: 'M PLUS Rounded 1c' !important;
+          font-weight: 400 !important;
+}
+.u-font-m-plus-rounded-1c-500 {
+          font-family: 'M PLUS Rounded 1c' !important;
+          font-weight: 500 !important;
+}
+.u-font-m-plus-rounded-1c-700 {
+          font-family: 'M PLUS Rounded 1c' !important;
+          font-weight: 700 !important;
+}
+.u-font-m-plus-rounded-1c-800 {
+          font-family: 'M PLUS Rounded 1c' !important;
+          font-weight: 800 !important;
+}
+.u-font-m-plus-rounded-1c-900 {
+          font-family: 'M PLUS Rounded 1c' !important;
+          font-weight: 900 !important;
+}

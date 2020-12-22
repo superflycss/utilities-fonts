@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Gafata;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Gafata),local(Gafata-Regular),url(//fonts.gstatic.com/s/gafata/v9/XRXV3I6Cn0VJKonIO-aF.eot?#) format("eot"),url(//fonts.gstatic.com/s/gafata/v9/XRXV3I6Cn0VJKonINeaB.woff2) format("woff2"),url(//fonts.gstatic.com/s/gafata/v9/XRXV3I6Cn0VJKonIO-aH.woff) format("woff");
+}
+.u-font-gafata-400 {
+          font-family: 'Gafata' !important;
+          font-weight: 400 !important;
+}

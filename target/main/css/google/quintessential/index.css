@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Quintessential;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Quintessential),local(Quintessential-Regular),url(//fonts.gstatic.com/s/quintessential/v8/fdNn9sOGq31Yjnh3qWU14Ddtjb55Qbw.eot?#) format("eot"),url(//fonts.gstatic.com/s/quintessential/v8/fdNn9sOGq31Yjnh3qWU14Ddtjb53Qbg.woff2) format("woff2"),url(//fonts.gstatic.com/s/quintessential/v8/fdNn9sOGq31Yjnh3qWU14Ddtjb55Qb4.woff) format("woff");
+}
+.u-font-quintessential-400 {
+          font-family: 'Quintessential' !important;
+          font-weight: 400 !important;
+}

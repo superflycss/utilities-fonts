@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Bungee;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Bungee),local(Bungee-Regular),url(//fonts.gstatic.com/s/bungee/v6/N0bU2SZBIuF2PU_0A3Rx.eot?#) format("eot"),url(//fonts.gstatic.com/s/bungee/v6/N0bU2SZBIuF2PU_0DXR1.woff2) format("woff2"),url(//fonts.gstatic.com/s/bungee/v6/N0bU2SZBIuF2PU_0A3Rz.woff) format("woff");
+}
+.u-font-bungee-400 {
+          font-family: 'Bungee' !important;
+          font-weight: 400 !important;
+}

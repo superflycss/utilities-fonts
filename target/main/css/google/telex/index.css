@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Telex;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Telex Regular"),local(Telex-Regular),url(//fonts.gstatic.com/s/telex/v9/ieVw2Y1fKWmIO-faDV8.eot?#) format("eot"),url(//fonts.gstatic.com/s/telex/v9/ieVw2Y1fKWmIO-fUDVs.woff2) format("woff2"),url(//fonts.gstatic.com/s/telex/v9/ieVw2Y1fKWmIO-faDV0.woff) format("woff");
+}
+.u-font-telex-400 {
+          font-family: 'Telex' !important;
+          font-weight: 400 !important;
+}

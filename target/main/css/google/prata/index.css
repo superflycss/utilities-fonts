@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Prata;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Prata Regular"),local(Prata-Regular),url(//fonts.gstatic.com/s/prata/v13/6xKhdSpbNNCT-sWPCmo.eot?#) format("eot"),url(//fonts.gstatic.com/s/prata/v13/6xKhdSpbNNCT-sWPCm4.woff2) format("woff2"),url(//fonts.gstatic.com/s/prata/v13/6xKhdSpbNNCT-sWPCmg.woff) format("woff");
+}
+.u-font-prata-400 {
+          font-family: 'Prata' !important;
+          font-weight: 400 !important;
+}

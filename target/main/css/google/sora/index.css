@@ -1,0 +1,80 @@
+@font-face {
+          font-family: Sora;
+          font-style: normal;
+          font-weight: 100;
+          src: url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmSdSn0-DKQY.eot?#) format("eot"),url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmSdSn0-NKQI.woff2) format("woff2"),url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmSdSn0-DKQQ.woff) format("woff");
+}
+@font-face {
+          font-family: Sora;
+          font-style: normal;
+          font-weight: 200;
+          src: url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmSfSnk-DKQY.eot?#) format("eot"),url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmSfSnk-NKQI.woff2) format("woff2"),url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmSfSnk-DKQQ.woff) format("woff");
+}
+@font-face {
+          font-family: Sora;
+          font-style: normal;
+          font-weight: 300;
+          src: url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmScMnk-DKQY.eot?#) format("eot"),url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmScMnk-NKQI.woff2) format("woff2"),url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmScMnk-DKQQ.woff) format("woff");
+}
+@font-face {
+          font-family: Sora;
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmSdSnk-DKQY.eot?#) format("eot"),url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmSdSnk-NKQI.woff2) format("woff2"),url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmSdSnk-DKQQ.woff) format("woff");
+}
+@font-face {
+          font-family: Sora;
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmSdgnk-DKQY.eot?#) format("eot"),url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmSdgnk-NKQI.woff2) format("woff2"),url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmSdgnk-DKQQ.woff) format("woff");
+}
+@font-face {
+          font-family: Sora;
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmSeMmU-DKQY.eot?#) format("eot"),url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmSeMmU-NKQI.woff2) format("woff2"),url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmSeMmU-DKQQ.woff) format("woff");
+}
+@font-face {
+          font-family: Sora;
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmSe1mU-DKQY.eot?#) format("eot"),url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmSe1mU-NKQI.woff2) format("woff2"),url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmSe1mU-DKQQ.woff) format("woff");
+}
+@font-face {
+          font-family: Sora;
+          font-style: normal;
+          font-weight: 800;
+          src: url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmSfSmU-DKQY.eot?#) format("eot"),url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmSfSmU-NKQI.woff2) format("woff2"),url(//fonts.gstatic.com/s/sora/v1/xMQOuFFYT72X5wkB_18qmnndmSfSmU-DKQQ.woff) format("woff");
+}
+.u-font-sora-100 {
+          font-family: 'Sora' !important;
+          font-weight: 100 !important;
+}
+.u-font-sora-200 {
+          font-family: 'Sora' !important;
+          font-weight: 200 !important;
+}
+.u-font-sora-300 {
+          font-family: 'Sora' !important;
+          font-weight: 300 !important;
+}
+.u-font-sora-400 {
+          font-family: 'Sora' !important;
+          font-weight: 400 !important;
+}
+.u-font-sora-500 {
+          font-family: 'Sora' !important;
+          font-weight: 500 !important;
+}
+.u-font-sora-600 {
+          font-family: 'Sora' !important;
+          font-weight: 600 !important;
+}
+.u-font-sora-700 {
+          font-family: 'Sora' !important;
+          font-weight: 700 !important;
+}
+.u-font-sora-800 {
+          font-family: 'Sora' !important;
+          font-weight: 800 !important;
+}

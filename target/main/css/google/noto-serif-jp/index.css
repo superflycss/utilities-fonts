@@ -1,0 +1,70 @@
+@font-face {
+          font-family: "Noto Serif JP";
+          font-style: normal;
+          font-weight: 200;
+          src: local("Noto Serif JP ExtraLight"),local(NotoSerifJP-ExtraLight),url(//fonts.gstatic.com/s/notoserifjp/v7/xn77YHs72GKoTvER4Gn3b5eMZBaPdkkVVg.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserifjp/v7/xn77YHs72GKoTvER4Gn3b5eMZBaPRkt3Q8XVs92JGKiledLupW3zxgEInRsa.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserifjp/v7/xn77YHs72GKoTvER4Gn3b5eMZBaPdkkVVA.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Serif JP";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Noto Serif JP Light"),local(NotoSerifJP-Light),url(//fonts.gstatic.com/s/notoserifjp/v7/xn77YHs72GKoTvER4Gn3b5eMZHKMdkkVVg.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserifjp/v7/xn77YHs72GKoTvER4Gn3b5eMZHKMRkt3Q8XVs92JGKiledLupW3zxgEInRsa.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserifjp/v7/xn77YHs72GKoTvER4Gn3b5eMZHKMdkkVVA.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Serif JP";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Noto Serif JP"),local(NotoSerifJP-Regular),url(//fonts.gstatic.com/s/notoserifjp/v7/xn7mYHs72GKoTvER4Gn3b5eMbNmuZw.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserifjp/v7/xn7mYHs72GKoTvER4Gn3b5eMXNvMckQlPa61uNKcCqOfbtLXoH3502Rk.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserifjp/v7/xn7mYHs72GKoTvER4Gn3b5eMbNmuZQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Serif JP";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Noto Serif JP Medium"),local(NotoSerifJP-Medium),url(//fonts.gstatic.com/s/notoserifjp/v7/xn77YHs72GKoTvER4Gn3b5eMZCqNdkkVVg.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserifjp/v7/xn77YHs72GKoTvER4Gn3b5eMZCqNRkt3Q8XVs92JGKiledLupW3zxgEInRsa.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserifjp/v7/xn77YHs72GKoTvER4Gn3b5eMZCqNdkkVVA.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Serif JP";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Noto Serif JP SemiBold"),local(NotoSerifJP-SemiBold),url(//fonts.gstatic.com/s/notoserifjp/v7/xn77YHs72GKoTvER4Gn3b5eMZAaKdkkVVg.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserifjp/v7/xn77YHs72GKoTvER4Gn3b5eMZAaKRkt3Q8XVs92JGKiledLupW3zxgEInRsa.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserifjp/v7/xn77YHs72GKoTvER4Gn3b5eMZAaKdkkVVA.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Serif JP";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Noto Serif JP Bold"),local(NotoSerifJP-Bold),url(//fonts.gstatic.com/s/notoserifjp/v7/xn77YHs72GKoTvER4Gn3b5eMZGKLdkkVVg.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserifjp/v7/xn77YHs72GKoTvER4Gn3b5eMZGKLRkt3Q8XVs92JGKiledLupW3zxgEInRsa.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserifjp/v7/xn77YHs72GKoTvER4Gn3b5eMZGKLdkkVVA.woff) format("woff");
+}
+@font-face {
+          font-family: "Noto Serif JP";
+          font-style: normal;
+          font-weight: 900;
+          src: local("Noto Serif JP Black"),local(NotoSerifJP-Black),url(//fonts.gstatic.com/s/notoserifjp/v7/xn77YHs72GKoTvER4Gn3b5eMZFqJdkkVVg.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserifjp/v7/xn77YHs72GKoTvER4Gn3b5eMZFqJRkt3Q8XVs92JGKiledLupW3zxgEInRsa.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserifjp/v7/xn77YHs72GKoTvER4Gn3b5eMZFqJdkkVVA.woff) format("woff");
+}
+.u-font-noto-serif-jp-200 {
+          font-family: 'Noto Serif JP' !important;
+          font-weight: 200 !important;
+}
+.u-font-noto-serif-jp-300 {
+          font-family: 'Noto Serif JP' !important;
+          font-weight: 300 !important;
+}
+.u-font-noto-serif-jp-400 {
+          font-family: 'Noto Serif JP' !important;
+          font-weight: 400 !important;
+}
+.u-font-noto-serif-jp-500 {
+          font-family: 'Noto Serif JP' !important;
+          font-weight: 500 !important;
+}
+.u-font-noto-serif-jp-600 {
+          font-family: 'Noto Serif JP' !important;
+          font-weight: 600 !important;
+}
+.u-font-noto-serif-jp-700 {
+          font-family: 'Noto Serif JP' !important;
+          font-weight: 700 !important;
+}
+.u-font-noto-serif-jp-900 {
+          font-family: 'Noto Serif JP' !important;
+          font-weight: 900 !important;
+}

@@ -1,0 +1,105 @@
+@font-face {
+          font-family: "Proza Libre";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Proza Libre Italic"),local(ProzaLibre-Italic),url(//fonts.gstatic.com/s/prozalibre/v5/LYjEdGHgj0k1DIQRyUEyyEotRNb_WQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/prozalibre/v5/LYjEdGHgj0k1DIQRyUEyyEotRNj_XQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/prozalibre/v5/LYjEdGHgj0k1DIQRyUEyyEotRNb_Ww.woff) format("woff");
+}
+@font-face {
+          font-family: "Proza Libre";
+          font-style: italic;
+          font-weight: 500;
+          src: local("Proza Libre Medium Italic"),local(ProzaLibre-MediumItalic),url(//fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTCvcSJ2S9g.eot?#) format("eot"),url(//fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTCvcSJOS8g.woff2) format("woff2"),url(//fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTCvcSJ2S9A.woff) format("woff");
+}
+@font-face {
+          font-family: "Proza Libre";
+          font-style: italic;
+          font-weight: 600;
+          src: local("Proza Libre SemiBold Italic"),local(ProzaLibre-SemiBoldItalic),url(//fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTAfbSJ2S9g.eot?#) format("eot"),url(//fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTAfbSJOS8g.woff2) format("woff2"),url(//fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTAfbSJ2S9A.woff) format("woff");
+}
+@font-face {
+          font-family: "Proza Libre";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Proza Libre Bold Italic"),local(ProzaLibre-BoldItalic),url(//fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTGPaSJ2S9g.eot?#) format("eot"),url(//fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTGPaSJOS8g.woff2) format("woff2"),url(//fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTGPaSJ2S9A.woff) format("woff");
+}
+@font-face {
+          font-family: "Proza Libre";
+          font-style: italic;
+          font-weight: 800;
+          src: local("Proza Libre ExtraBold Italic"),local(ProzaLibre-ExtraBoldItalic),url(//fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTH_ZSJ2S9g.eot?#) format("eot"),url(//fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTH_ZSJOS8g.woff2) format("woff2"),url(//fonts.gstatic.com/s/prozalibre/v5/LYjZdGHgj0k1DIQRyUEyyEotTH_ZSJ2S9A.woff) format("woff");
+}
+@font-face {
+          font-family: "Proza Libre";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Proza Libre"),local(ProzaLibre-Regular),url(//fonts.gstatic.com/s/prozalibre/v5/LYjGdGHgj0k1DIQRyUEyyEomdN4.eot?#) format("eot"),url(//fonts.gstatic.com/s/prozalibre/v5/LYjGdGHgj0k1DIQRyUEyyEoodNo.woff2) format("woff2"),url(//fonts.gstatic.com/s/prozalibre/v5/LYjGdGHgj0k1DIQRyUEyyEomdNw.woff) format("woff");
+}
+@font-face {
+          font-family: "Proza Libre";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Proza Libre Medium"),local(ProzaLibre-Medium),url(//fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyELbV8_WeJU.eot?#) format("eot"),url(//fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyELbV8_YeJE.woff2) format("woff2"),url(//fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyELbV8_WeJc.woff) format("woff");
+}
+@font-face {
+          font-family: "Proza Libre";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Proza Libre SemiBold"),local(ProzaLibre-SemiBold),url(//fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEL3UM_WeJU.eot?#) format("eot"),url(//fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEL3UM_YeJE.woff2) format("woff2"),url(//fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEL3UM_WeJc.woff) format("woff");
+}
+@font-face {
+          font-family: "Proza Libre";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Proza Libre Bold"),local(ProzaLibre-Bold),url(//fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEKTUc_WeJU.eot?#) format("eot"),url(//fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEKTUc_YeJE.woff2) format("woff2"),url(//fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEKTUc_WeJc.woff) format("woff");
+}
+@font-face {
+          font-family: "Proza Libre";
+          font-style: normal;
+          font-weight: 800;
+          src: local("Proza Libre ExtraBold"),local(ProzaLibre-ExtraBold),url(//fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEKPUs_WeJU.eot?#) format("eot"),url(//fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEKPUs_YeJE.woff2) format("woff2"),url(//fonts.gstatic.com/s/prozalibre/v5/LYjbdGHgj0k1DIQRyUEyyEKPUs_WeJc.woff) format("woff");
+}
+.u-font-proza-libre-400 {
+          font-family: 'Proza Libre' !important;
+          font-weight: 400 !important;
+}
+.u-font-proza-libre-400-italic {
+        font-family: 'Proza Libre' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-proza-libre-500 {
+          font-family: 'Proza Libre' !important;
+          font-weight: 500 !important;
+}
+.u-font-proza-libre-500-italic {
+        font-family: 'Proza Libre' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-proza-libre-600 {
+          font-family: 'Proza Libre' !important;
+          font-weight: 600 !important;
+}
+.u-font-proza-libre-600-italic {
+        font-family: 'Proza Libre' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-proza-libre-700 {
+          font-family: 'Proza Libre' !important;
+          font-weight: 700 !important;
+}
+.u-font-proza-libre-700-italic {
+        font-family: 'Proza Libre' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}
+.u-font-proza-libre-800 {
+          font-family: 'Proza Libre' !important;
+          font-weight: 800 !important;
+}
+.u-font-proza-libre-800-italic {
+        font-family: 'Proza Libre' !important;
+        font-weight: 800 !important;
+        font-style: italic !important;
+}

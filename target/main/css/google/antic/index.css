@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Antic;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Antic Regular"),local(Antic-Regular),url(//fonts.gstatic.com/s/antic/v12/TuGfUVB8XY5DRZZMq90.eot?#) format("eot"),url(//fonts.gstatic.com/s/antic/v12/TuGfUVB8XY5DRZZMq9k.woff2) format("woff2"),url(//fonts.gstatic.com/s/antic/v12/TuGfUVB8XY5DRZZMq98.woff) format("woff");
+}
+.u-font-antic-400 {
+          font-family: 'Antic' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Just Another Hand";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Just Another Hand Regular"),local(JustAnotherHand-Regular),url(//fonts.gstatic.com/s/justanotherhand/v12/845CNN4-AJyIGvIou-6yJKyptyOpOfr4DGw.eot?#) format("eot"),url(//fonts.gstatic.com/s/justanotherhand/v12/845CNN4-AJyIGvIou-6yJKyptyOpOfr4DGg.woff2) format("woff2"),url(//fonts.gstatic.com/s/justanotherhand/v12/845CNN4-AJyIGvIou-6yJKyptyOpOfr4DG4.woff) format("woff");
+}
+.u-font-just-another-hand-400 {
+          font-family: 'Just Another Hand' !important;
+          font-weight: 400 !important;
+}

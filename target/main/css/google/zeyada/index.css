@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Zeyada;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Zeyada),url(//fonts.gstatic.com/s/zeyada/v10/11hAGpPTxVPUbgZzM2yo.eot?#) format("eot"),url(//fonts.gstatic.com/s/zeyada/v10/11hAGpPTxVPUbgZzM2ys.woff2) format("woff2"),url(//fonts.gstatic.com/s/zeyada/v10/11hAGpPTxVPUbgZzM2yq.woff) format("woff");
+}
+.u-font-zeyada-400 {
+          font-family: 'Zeyada' !important;
+          font-weight: 400 !important;
+}

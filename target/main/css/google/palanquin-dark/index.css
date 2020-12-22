@@ -1,0 +1,40 @@
+@font-face {
+          font-family: "Palanquin Dark";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Palanquin Dark Regular"),local(PalanquinDark-Regular),url(//fonts.gstatic.com/s/palanquindark/v7/xn75YHgl1nqmANMB-26xC7yuF86HRk8.eot?#) format("eot"),url(//fonts.gstatic.com/s/palanquindark/v7/xn75YHgl1nqmANMB-26xC7yuF86JRks.woff2) format("woff2"),url(//fonts.gstatic.com/s/palanquindark/v7/xn75YHgl1nqmANMB-26xC7yuF86HRk0.woff) format("woff");
+}
+@font-face {
+          font-family: "Palanquin Dark";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Palanquin Dark Medium"),local(PalanquinDark-Medium),url(//fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8Z6ZV48d84.eot?#) format("eot"),url(//fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8Z6ZV4yd8o.woff2) format("woff2"),url(//fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8Z6ZV48d8w.woff) format("woff");
+}
+@font-face {
+          font-family: "Palanquin Dark";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Palanquin Dark SemiBold"),local(PalanquinDark-SemiBold),url(//fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8ZWYl48d84.eot?#) format("eot"),url(//fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8ZWYl4yd8o.woff2) format("woff2"),url(//fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8ZWYl48d8w.woff) format("woff");
+}
+@font-face {
+          font-family: "Palanquin Dark";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Palanquin Dark Bold"),local(PalanquinDark-Bold),url(//fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8YyY148d84.eot?#) format("eot"),url(//fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8YyY14yd8o.woff2) format("woff2"),url(//fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8YyY148d8w.woff) format("woff");
+}
+.u-font-palanquin-dark-400 {
+          font-family: 'Palanquin Dark' !important;
+          font-weight: 400 !important;
+}
+.u-font-palanquin-dark-500 {
+          font-family: 'Palanquin Dark' !important;
+          font-weight: 500 !important;
+}
+.u-font-palanquin-dark-600 {
+          font-family: 'Palanquin Dark' !important;
+          font-weight: 600 !important;
+}
+.u-font-palanquin-dark-700 {
+          font-family: 'Palanquin Dark' !important;
+          font-weight: 700 !important;
+}

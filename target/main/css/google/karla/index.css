@@ -1,0 +1,87 @@
+@font-face {
+          font-family: Karla;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Karla Italic"),local(Karla-Italic),url(//fonts.gstatic.com/s/karla/v13/qkBVXvYC6trAT7RQHtCe5Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/karla/v13/qkBVXvYC6trAT7RQHt6e4Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/karla/v13/qkBVXvYC6trAT7RQHtCe5w.woff) format("woff");
+}
+@font-face {
+          font-family: Karla;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Karla Bold Italic"),local(Karla-BoldItalic),url(//fonts.gstatic.com/s/karla/v13/qkBQXvYC6trAT7RQFmW79LdvmQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/karla/v13/qkBQXvYC6trAT7RQFmW79LlvnQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/karla/v13/qkBQXvYC6trAT7RQFmW79Ldvmw.woff) format("woff");
+}
+@font-face {
+          font-family: Karla;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Karla),local(Karla-Regular),url(//fonts.gstatic.com/s/karla/v13/qkBbXvYC6trAT7RbLtg.eot?#) format("eot"),url(//fonts.gstatic.com/s/karla/v13/qkBbXvYC6trAT7RVLtw.woff2) format("woff2"),url(//fonts.gstatic.com/s/karla/v13/qkBbXvYC6trAT7RbLto.woff) format("woff");
+}
+@font-face {
+          font-family: Karla;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Karla Bold"),local(Karla-Bold),url(//fonts.gstatic.com/s/karla/v13/qkBWXvYC6trAT7zuC8m3xL8.eot?#) format("eot"),url(//fonts.gstatic.com/s/karla/v13/qkBWXvYC6trAT7zuC8m5xLs.woff2) format("woff2"),url(//fonts.gstatic.com/s/karla/v13/qkBWXvYC6trAT7zuC8m3xL0.woff) format("woff");
+}
+.u-font-karla-200 {
+          font-family: 'Karla' !important;
+          font-weight: 200 !important;
+}
+.u-font-karla-300 {
+          font-family: 'Karla' !important;
+          font-weight: 300 !important;
+}
+.u-font-karla-400 {
+          font-family: 'Karla' !important;
+          font-weight: 400 !important;
+}
+.u-font-karla-500 {
+          font-family: 'Karla' !important;
+          font-weight: 500 !important;
+}
+.u-font-karla-600 {
+          font-family: 'Karla' !important;
+          font-weight: 600 !important;
+}
+.u-font-karla-700 {
+          font-family: 'Karla' !important;
+          font-weight: 700 !important;
+}
+.u-font-karla-800 {
+          font-family: 'Karla' !important;
+          font-weight: 800 !important;
+}
+.u-font-karla-200-italic {
+        font-family: 'Karla' !important;
+        font-weight: 200 !important;
+        font-style: italic !important;
+}
+.u-font-karla-300-italic {
+        font-family: 'Karla' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-karla-400-italic {
+        font-family: 'Karla' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-karla-500-italic {
+        font-family: 'Karla' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-karla-600-italic {
+        font-family: 'Karla' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-karla-700-italic {
+        font-family: 'Karla' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}
+.u-font-karla-800-italic {
+        font-family: 'Karla' !important;
+        font-weight: 800 !important;
+        font-style: italic !important;
+}

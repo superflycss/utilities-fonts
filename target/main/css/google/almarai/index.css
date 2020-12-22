@@ -1,0 +1,40 @@
+@font-face {
+          font-family: Almarai;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Almarai Light"),local(Almarai-Light),url(//fonts.gstatic.com/s/almarai/v4/tssoApxBaigK_hnnS_anhnk.eot?#) format("eot"),url(//fonts.gstatic.com/s/almarai/v4/tssoApxBaigK_hnnS_antnqWo572.woff2) format("woff2"),url(//fonts.gstatic.com/s/almarai/v4/tssoApxBaigK_hnnS_anhns.woff) format("woff");
+}
+@font-face {
+          font-family: Almarai;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Almarai),local(Almarai-Regular),url(//fonts.gstatic.com/s/almarai/v4/tsstApxBaigK_hnnc1s.eot?#) format("eot"),url(//fonts.gstatic.com/s/almarai/v4/tsstApxBaigK_hnnQ1iFo0C3.woff2) format("woff2"),url(//fonts.gstatic.com/s/almarai/v4/tsstApxBaigK_hnnc1k.woff) format("woff");
+}
+@font-face {
+          font-family: Almarai;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Almarai Bold"),local(Almarai-Bold),url(//fonts.gstatic.com/s/almarai/v4/tssoApxBaigK_hnnS-aghnk.eot?#) format("eot"),url(//fonts.gstatic.com/s/almarai/v4/tssoApxBaigK_hnnS-agtnqWo572.woff2) format("woff2"),url(//fonts.gstatic.com/s/almarai/v4/tssoApxBaigK_hnnS-aghns.woff) format("woff");
+}
+@font-face {
+          font-family: Almarai;
+          font-style: normal;
+          font-weight: 800;
+          src: local("Almarai ExtraBold"),local(Almarai-ExtraBold),url(//fonts.gstatic.com/s/almarai/v4/tssoApxBaigK_hnnS_qjhnk.eot?#) format("eot"),url(//fonts.gstatic.com/s/almarai/v4/tssoApxBaigK_hnnS_qjtnqWo572.woff2) format("woff2"),url(//fonts.gstatic.com/s/almarai/v4/tssoApxBaigK_hnnS_qjhns.woff) format("woff");
+}
+.u-font-almarai-300 {
+          font-family: 'Almarai' !important;
+          font-weight: 300 !important;
+}
+.u-font-almarai-400 {
+          font-family: 'Almarai' !important;
+          font-weight: 400 !important;
+}
+.u-font-almarai-700 {
+          font-family: 'Almarai' !important;
+          font-weight: 700 !important;
+}
+.u-font-almarai-800 {
+          font-family: 'Almarai' !important;
+          font-weight: 800 !important;
+}

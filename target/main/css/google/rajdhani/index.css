@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Rajdhani;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Rajdhani Light"),local(Rajdhani-Light),url(//fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pasEfOleeM.eot?#) format("eot"),url(//fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pasEfOreec.woff2) format("woff2"),url(//fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pasEfOleeE.woff) format("woff");
+}
+@font-face {
+          font-family: Rajdhani;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Rajdhani Regular"),local(Rajdhani-Regular),url(//fonts.gstatic.com/s/rajdhani/v10/LDIxapCSOBg7S-QT7p4JM-I.eot?#) format("eot"),url(//fonts.gstatic.com/s/rajdhani/v10/LDIxapCSOBg7S-QT7p4HM-Y.woff2) format("woff2"),url(//fonts.gstatic.com/s/rajdhani/v10/LDIxapCSOBg7S-QT7p4JM-A.woff) format("woff");
+}
+@font-face {
+          font-family: Rajdhani;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Rajdhani Medium"),local(Rajdhani-Medium),url(//fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pb0EPOleeM.eot?#) format("eot"),url(//fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pb0EPOreec.woff2) format("woff2"),url(//fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pb0EPOleeE.woff) format("woff");
+}
+@font-face {
+          font-family: Rajdhani;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Rajdhani SemiBold"),local(Rajdhani-SemiBold),url(//fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pbYF_OleeM.eot?#) format("eot"),url(//fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pbYF_Oreec.woff2) format("woff2"),url(//fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pbYF_OleeE.woff) format("woff");
+}
+@font-face {
+          font-family: Rajdhani;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Rajdhani Bold"),local(Rajdhani-Bold),url(//fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pa8FvOleeM.eot?#) format("eot"),url(//fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pa8FvOreec.woff2) format("woff2"),url(//fonts.gstatic.com/s/rajdhani/v10/LDI2apCSOBg7S-QT7pa8FvOleeE.woff) format("woff");
+}
+.u-font-rajdhani-300 {
+          font-family: 'Rajdhani' !important;
+          font-weight: 300 !important;
+}
+.u-font-rajdhani-400 {
+          font-family: 'Rajdhani' !important;
+          font-weight: 400 !important;
+}
+.u-font-rajdhani-500 {
+          font-family: 'Rajdhani' !important;
+          font-weight: 500 !important;
+}
+.u-font-rajdhani-600 {
+          font-family: 'Rajdhani' !important;
+          font-weight: 600 !important;
+}
+.u-font-rajdhani-700 {
+          font-family: 'Rajdhani' !important;
+          font-weight: 700 !important;
+}

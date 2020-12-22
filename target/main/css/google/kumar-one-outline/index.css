@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Kumar One Outline";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Kumar One Outline"),local(KumarOneOutline-Regular),url(//fonts.gstatic.com/s/kumaroneoutline/v6/Noao6VH62pyLP0fsrZ-v18wlUEcX9wD5Tw4.eot?#) format("eot"),url(//fonts.gstatic.com/s/kumaroneoutline/v6/Noao6VH62pyLP0fsrZ-v18wlUEcX9wD3Two.woff2) format("woff2"),url(//fonts.gstatic.com/s/kumaroneoutline/v6/Noao6VH62pyLP0fsrZ-v18wlUEcX9wD5Tww.woff) format("woff");
+}
+.u-font-kumar-one-outline-400 {
+          font-family: 'Kumar One Outline' !important;
+          font-weight: 400 !important;
+}

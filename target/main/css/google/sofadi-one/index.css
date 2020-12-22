@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Sofadi One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Sofadi One Regular"),local(SofadiOne-Regular),url(//fonts.gstatic.com/s/sofadione/v9/JIA2UVBxdnVBuElZaMFGQDSCFA.eot?#) format("eot"),url(//fonts.gstatic.com/s/sofadione/v9/JIA2UVBxdnVBuElZaMFGQDSCEA.woff2) format("woff2"),url(//fonts.gstatic.com/s/sofadione/v9/JIA2UVBxdnVBuElZaMFGQDSCFg.woff) format("woff");
+}
+.u-font-sofadi-one-400 {
+          font-family: 'Sofadi One' !important;
+          font-weight: 400 !important;
+}

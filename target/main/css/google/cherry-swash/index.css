@@ -1,0 +1,20 @@
+@font-face {
+          font-family: "Cherry Swash";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Cherry Swash"),local(CherrySwash-Regular),url(//fonts.gstatic.com/s/cherryswash/v9/i7dNIFByZjaNAMxtZcnfAy5MSXK7.eot?#) format("eot"),url(//fonts.gstatic.com/s/cherryswash/v9/i7dNIFByZjaNAMxtZcnfAy5MR3K_.woff2) format("woff2"),url(//fonts.gstatic.com/s/cherryswash/v9/i7dNIFByZjaNAMxtZcnfAy5MSXK5.woff) format("woff");
+}
+@font-face {
+          font-family: "Cherry Swash";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Cherry Swash Bold"),local(CherrySwash-Bold),url(//fonts.gstatic.com/s/cherryswash/v9/i7dSIFByZjaNAMxtZcnfAy5E_FeqEiSV.eot?#) format("eot"),url(//fonts.gstatic.com/s/cherryswash/v9/i7dSIFByZjaNAMxtZcnfAy5E_FeqHCSR.woff2) format("woff2"),url(//fonts.gstatic.com/s/cherryswash/v9/i7dSIFByZjaNAMxtZcnfAy5E_FeqEiSX.woff) format("woff");
+}
+.u-font-cherry-swash-400 {
+          font-family: 'Cherry Swash' !important;
+          font-weight: 400 !important;
+}
+.u-font-cherry-swash-700 {
+          font-family: 'Cherry Swash' !important;
+          font-weight: 700 !important;
+}

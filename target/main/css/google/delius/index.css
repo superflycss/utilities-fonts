@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Delius;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Delius-Regular),url(//fonts.gstatic.com/s/delius/v10/PN_xRfK0pW_9e1rdZsg7.eot?#) format("eot"),url(//fonts.gstatic.com/s/delius/v10/PN_xRfK0pW_9e1rdZsg_.woff2) format("woff2"),url(//fonts.gstatic.com/s/delius/v10/PN_xRfK0pW_9e1rdZsg5.woff) format("woff");
+}
+.u-font-delius-400 {
+          font-family: 'Delius' !important;
+          font-weight: 400 !important;
+}

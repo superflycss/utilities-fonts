@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Gilda Display";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Gilda Display"),local(GildaDisplay-Regular),url(//fonts.gstatic.com/s/gildadisplay/v8/t5tmIRoYMoaYG0WEOh7HwMeR3TDPqw.eot?#) format("eot"),url(//fonts.gstatic.com/s/gildadisplay/v8/t5tmIRoYMoaYG0WEOh7HwMeR3T7Prw.woff2) format("woff2"),url(//fonts.gstatic.com/s/gildadisplay/v8/t5tmIRoYMoaYG0WEOh7HwMeR3TDPqQ.woff) format("woff");
+}
+.u-font-gilda-display-400 {
+          font-family: 'Gilda Display' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,38 @@
+@font-face {
+          font-family: "Red Rose";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Red Rose Light"),local(RedRose-Light),url(//fonts.gstatic.com/s/redrose/v2/QdVSSTYiLBjouPgEUYpIuxFps20.eot?#) format("eot"),url(//fonts.gstatic.com/s/redrose/v2/QdVSSTYiLBjouPgEUYpIuxFns2k.woff2) format("woff2"),url(//fonts.gstatic.com/s/redrose/v2/QdVSSTYiLBjouPgEUYpIuxFps28.woff) format("woff");
+}
+@font-face {
+          font-family: "Red Rose";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Red Rose Regular"),local(RedRose-Regular),url(//fonts.gstatic.com/s/redrose/v2/QdVVSTYiLBjouPgEUYLtmQA.eot?#) format("eot"),url(//fonts.gstatic.com/s/redrose/v2/QdVVSTYiLBjouPgEUYLjmQQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/redrose/v2/QdVVSTYiLBjouPgEUYLtmQI.woff) format("woff");
+}
+@font-face {
+          font-family: "Red Rose";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Red Rose Bold"),local(RedRose-Bold),url(//fonts.gstatic.com/s/redrose/v2/QdVSSTYiLBjouPgEUYpYvBFps20.eot?#) format("eot"),url(//fonts.gstatic.com/s/redrose/v2/QdVSSTYiLBjouPgEUYpYvBFns2k.woff2) format("woff2"),url(//fonts.gstatic.com/s/redrose/v2/QdVSSTYiLBjouPgEUYpYvBFps28.woff) format("woff");
+}
+.u-font-red-rose-300 {
+          font-family: 'Red Rose' !important;
+          font-weight: 300 !important;
+}
+.u-font-red-rose-400 {
+          font-family: 'Red Rose' !important;
+          font-weight: 400 !important;
+}
+.u-font-red-rose-500 {
+          font-family: 'Red Rose' !important;
+          font-weight: 500 !important;
+}
+.u-font-red-rose-600 {
+          font-family: 'Red Rose' !important;
+          font-weight: 600 !important;
+}
+.u-font-red-rose-700 {
+          font-family: 'Red Rose' !important;
+          font-weight: 700 !important;
+}

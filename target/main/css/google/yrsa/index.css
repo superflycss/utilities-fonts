@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Yrsa;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Yrsa Light"),local(Yrsa-Light),url(//fonts.gstatic.com/s/yrsa/v6/wlpxgwnQFlxs3af97I0x2A.eot?#) format("eot"),url(//fonts.gstatic.com/s/yrsa/v6/wlpxgwnQFlxs3af97IMx3A.woff2) format("woff2"),url(//fonts.gstatic.com/s/yrsa/v6/wlpxgwnQFlxs3af97I0x2g.woff) format("woff");
+}
+@font-face {
+          font-family: Yrsa;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Yrsa Regular"),local(Yrsa-Regular),url(//fonts.gstatic.com/s/yrsa/v6/wlp-gwnQFlxs1QLf_Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/yrsa/v6/wlp-gwnQFlxs1Qzf-Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/yrsa/v6/wlp-gwnQFlxs1QLf_w.woff) format("woff");
+}
+@font-face {
+          font-family: Yrsa;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Yrsa Medium"),local(Yrsa-Medium),url(//fonts.gstatic.com/s/yrsa/v6/wlpxgwnQFlxs3f_87I0x2A.eot?#) format("eot"),url(//fonts.gstatic.com/s/yrsa/v6/wlpxgwnQFlxs3f_87IMx3A.woff2) format("woff2"),url(//fonts.gstatic.com/s/yrsa/v6/wlpxgwnQFlxs3f_87I0x2g.woff) format("woff");
+}
+@font-face {
+          font-family: Yrsa;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Yrsa SemiBold"),local(Yrsa-SemiBold),url(//fonts.gstatic.com/s/yrsa/v6/wlpxgwnQFlxs3dP77I0x2A.eot?#) format("eot"),url(//fonts.gstatic.com/s/yrsa/v6/wlpxgwnQFlxs3dP77IMx3A.woff2) format("woff2"),url(//fonts.gstatic.com/s/yrsa/v6/wlpxgwnQFlxs3dP77I0x2g.woff) format("woff");
+}
+@font-face {
+          font-family: Yrsa;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Yrsa Bold"),local(Yrsa-Bold),url(//fonts.gstatic.com/s/yrsa/v6/wlpxgwnQFlxs3bf67I0x2A.eot?#) format("eot"),url(//fonts.gstatic.com/s/yrsa/v6/wlpxgwnQFlxs3bf67IMx3A.woff2) format("woff2"),url(//fonts.gstatic.com/s/yrsa/v6/wlpxgwnQFlxs3bf67I0x2g.woff) format("woff");
+}
+.u-font-yrsa-300 {
+          font-family: 'Yrsa' !important;
+          font-weight: 300 !important;
+}
+.u-font-yrsa-400 {
+          font-family: 'Yrsa' !important;
+          font-weight: 400 !important;
+}
+.u-font-yrsa-500 {
+          font-family: 'Yrsa' !important;
+          font-weight: 500 !important;
+}
+.u-font-yrsa-600 {
+          font-family: 'Yrsa' !important;
+          font-weight: 600 !important;
+}
+.u-font-yrsa-700 {
+          font-family: 'Yrsa' !important;
+          font-weight: 700 !important;
+}

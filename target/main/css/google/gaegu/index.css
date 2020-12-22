@@ -1,0 +1,30 @@
+@font-face {
+          font-family: Gaegu;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Gaegu Light"),local(Gaegu-Light),url(//fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU57nicw86MI.eot?#) format("eot"),url(//fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU57nifw-itFvCT5fRqCzuBY1OnoEfFpo9AQ.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU57nicw86MA.woff) format("woff");
+}
+@font-face {
+          font-family: Gaegu;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Gaegu Regular"),local(Gaegu-Regular),url(//fonts.gstatic.com/s/gaegu/v8/TuGfUVB6Up9NU5ZMq90.eot?#) format("eot"),url(//fonts.gstatic.com/s/gaegu/v8/TuGfUVB6Up9NU6ZOyc4xxqgKdTBRWpq2sy8wKnARGTY.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/gaegu/v8/TuGfUVB6Up9NU5ZMq98.woff) format("woff");
+}
+@font-face {
+          font-family: Gaegu;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Gaegu Bold"),local(Gaegu-Bold),url(//fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU573jsw86MI.eot?#) format("eot"),url(//fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU573jvw-itFvCT5fRqCzuBY1OnoEfFpo9AQ.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU573jsw86MA.woff) format("woff");
+}
+.u-font-gaegu-300 {
+          font-family: 'Gaegu' !important;
+          font-weight: 300 !important;
+}
+.u-font-gaegu-400 {
+          font-family: 'Gaegu' !important;
+          font-weight: 400 !important;
+}
+.u-font-gaegu-700 {
+          font-family: 'Gaegu' !important;
+          font-weight: 700 !important;
+}

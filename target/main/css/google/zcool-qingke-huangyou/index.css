@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "ZCOOL QingKe HuangYou";
+          font-style: normal;
+          font-weight: 400;
+          src: local("ZCOOL QingKe HuangYou Regular"),local(ZCOOLQingKeHuangYou-Regular),url(//fonts.gstatic.com/s/zcoolqingkehuangyou/v5/2Eb5L_R5IXJEWhD3AOhSvFC554MOOahI4mR4jPe5.eot?#) format("eot"),url(//fonts.gstatic.com/s/zcoolqingkehuangyou/v5/2Eb5L_R5IXJEWhD3AOhSvFC554MOOahI4mRIjpWmcd2sME07NgirVXtlnqDJjtoEkzukmSp9MDttOpdc.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/zcoolqingkehuangyou/v5/2Eb5L_R5IXJEWhD3AOhSvFC554MOOahI4mR4jPe7.woff) format("woff");
+}
+.u-font-zcool-qingke-huangyou-400 {
+          font-family: 'ZCOOL QingKe HuangYou' !important;
+          font-weight: 400 !important;
+}

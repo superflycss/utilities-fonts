@@ -1,0 +1,189 @@
+@font-face {
+          font-family: Trirong;
+          font-style: italic;
+          font-weight: 100;
+          src: local("Trirong Thin Italic"),local(Trirong-ThinItalic),url(//fonts.gstatic.com/s/trirong/v6/7r3CqXNgp8wxdOdOn44Qub5owug.eot?#) format("eot"),url(//fonts.gstatic.com/s/trirong/v6/7r3CqXNgp8wxdOdOn44Qub5mwuw.woff2) format("woff2"),url(//fonts.gstatic.com/s/trirong/v6/7r3CqXNgp8wxdOdOn44Qub5owuo.woff) format("woff");
+}
+@font-face {
+          font-family: Trirong;
+          font-style: italic;
+          font-weight: 200;
+          src: local("Trirong ExtraLight Italic"),local(Trirong-ExtraLightItalic),url(//fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44QFa9x68n-.eot?#) format("eot"),url(//fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44QFa9x5cn6.woff2) format("woff2"),url(//fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44QFa9x68n8.woff) format("woff");
+}
+@font-face {
+          font-family: Trirong;
+          font-style: italic;
+          font-weight: 300;
+          src: local("Trirong Light Italic"),local(Trirong-LightItalic),url(//fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44Qcaxx68n-.eot?#) format("eot"),url(//fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44Qcaxx5cn6.woff2) format("woff2"),url(//fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44Qcaxx68n8.woff) format("woff");
+}
+@font-face {
+          font-family: Trirong;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Trirong Italic"),local(Trirong-Italic),url(//fonts.gstatic.com/s/trirong/v6/7r3EqXNgp8wxdOdOn44Y1I5g.eot?#) format("eot"),url(//fonts.gstatic.com/s/trirong/v6/7r3EqXNgp8wxdOdOn44Y2o5k.woff2) format("woff2"),url(//fonts.gstatic.com/s/trirong/v6/7r3EqXNgp8wxdOdOn44Y1I5i.woff) format("woff");
+}
+@font-face {
+          font-family: Trirong;
+          font-style: italic;
+          font-weight: 500;
+          src: local("Trirong Medium Italic"),local(Trirong-MediumItalic),url(//fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44QKa1x68n-.eot?#) format("eot"),url(//fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44QKa1x5cn6.woff2) format("woff2"),url(//fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44QKa1x68n8.woff) format("woff");
+}
+@font-face {
+          font-family: Trirong;
+          font-style: italic;
+          font-weight: 600;
+          src: local("Trirong SemiBold Italic"),local(Trirong-SemiBoldItalic),url(//fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44QBapx68n-.eot?#) format("eot"),url(//fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44QBapx5cn6.woff2) format("woff2"),url(//fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44QBapx68n8.woff) format("woff");
+}
+@font-face {
+          font-family: Trirong;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Trirong Bold Italic"),local(Trirong-BoldItalic),url(//fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44QYatx68n-.eot?#) format("eot"),url(//fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44QYatx5cn6.woff2) format("woff2"),url(//fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44QYatx68n8.woff) format("woff");
+}
+@font-face {
+          font-family: Trirong;
+          font-style: italic;
+          font-weight: 800;
+          src: local("Trirong ExtraBold Italic"),local(Trirong-ExtraBoldItalic),url(//fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44Qfahx68n-.eot?#) format("eot"),url(//fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44Qfahx5cn6.woff2) format("woff2"),url(//fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44Qfahx68n8.woff) format("woff");
+}
+@font-face {
+          font-family: Trirong;
+          font-style: italic;
+          font-weight: 900;
+          src: local("Trirong Black Italic"),local(Trirong-BlackItalic),url(//fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44QWalx68n-.eot?#) format("eot"),url(//fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44QWalx5cn6.woff2) format("woff2"),url(//fonts.gstatic.com/s/trirong/v6/7r3BqXNgp8wxdOdOn44QWalx68n8.woff) format("woff");
+}
+@font-face {
+          font-family: Trirong;
+          font-style: normal;
+          font-weight: 100;
+          src: local("Trirong Thin"),local(Trirong-Thin),url(//fonts.gstatic.com/s/trirong/v6/7r3EqXNgp8wxdOdOl-gY1I5g.eot?#) format("eot"),url(//fonts.gstatic.com/s/trirong/v6/7r3EqXNgp8wxdOdOl-gY2o5k.woff2) format("woff2"),url(//fonts.gstatic.com/s/trirong/v6/7r3EqXNgp8wxdOdOl-gY1I5i.woff) format("woff");
+}
+@font-face {
+          font-family: Trirong;
+          font-style: normal;
+          font-weight: 200;
+          src: local("Trirong ExtraLight"),local(Trirong-ExtraLight),url(//fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOl0QJzadB4w.eot?#) format("eot"),url(//fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOl0QJzalB5w.woff2) format("woff2"),url(//fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOl0QJzadB4Q.woff) format("woff");
+}
+@font-face {
+          font-family: Trirong;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Trirong Light"),local(Trirong-Light),url(//fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOlyAKzadB4w.eot?#) format("eot"),url(//fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOlyAKzalB5w.woff2) format("woff2"),url(//fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOlyAKzadB4Q.woff) format("woff");
+}
+@font-face {
+          font-family: Trirong;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Trirong Regular"),local(Trirong-Regular),url(//fonts.gstatic.com/s/trirong/v6/7r3GqXNgp8wxdOdOn4Uo3A.eot?#) format("eot"),url(//fonts.gstatic.com/s/trirong/v6/7r3GqXNgp8wxdOdOn4so2A.woff2) format("woff2"),url(//fonts.gstatic.com/s/trirong/v6/7r3GqXNgp8wxdOdOn4Uo3g.woff) format("woff");
+}
+@font-face {
+          font-family: Trirong;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Trirong Medium"),local(Trirong-Medium),url(//fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOl3gLzadB4w.eot?#) format("eot"),url(//fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOl3gLzalB5w.woff2) format("woff2"),url(//fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOl3gLzadB4Q.woff) format("woff");
+}
+@font-face {
+          font-family: Trirong;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Trirong SemiBold"),local(Trirong-SemiBold),url(//fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOl1QMzadB4w.eot?#) format("eot"),url(//fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOl1QMzalB5w.woff2) format("woff2"),url(//fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOl1QMzadB4Q.woff) format("woff");
+}
+@font-face {
+          font-family: Trirong;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Trirong Bold"),local(Trirong-Bold),url(//fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOlzANzadB4w.eot?#) format("eot"),url(//fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOlzANzalB5w.woff2) format("woff2"),url(//fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOlzANzadB4Q.woff) format("woff");
+}
+@font-face {
+          font-family: Trirong;
+          font-style: normal;
+          font-weight: 800;
+          src: local("Trirong ExtraBold"),local(Trirong-ExtraBold),url(//fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOlywOzadB4w.eot?#) format("eot"),url(//fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOlywOzalB5w.woff2) format("woff2"),url(//fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOlywOzadB4Q.woff) format("woff");
+}
+@font-face {
+          font-family: Trirong;
+          font-style: normal;
+          font-weight: 900;
+          src: local("Trirong Black"),local(Trirong-Black),url(//fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOlwgPzadB4w.eot?#) format("eot"),url(//fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOlwgPzalB5w.woff2) format("woff2"),url(//fonts.gstatic.com/s/trirong/v6/7r3DqXNgp8wxdOdOlwgPzadB4Q.woff) format("woff");
+}
+.u-font-trirong-100 {
+          font-family: 'Trirong' !important;
+          font-weight: 100 !important;
+}
+.u-font-trirong-100-italic {
+        font-family: 'Trirong' !important;
+        font-weight: 100 !important;
+        font-style: italic !important;
+}
+.u-font-trirong-200 {
+          font-family: 'Trirong' !important;
+          font-weight: 200 !important;
+}
+.u-font-trirong-200-italic {
+        font-family: 'Trirong' !important;
+        font-weight: 200 !important;
+        font-style: italic !important;
+}
+.u-font-trirong-300 {
+          font-family: 'Trirong' !important;
+          font-weight: 300 !important;
+}
+.u-font-trirong-300-italic {
+        font-family: 'Trirong' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-trirong-400 {
+          font-family: 'Trirong' !important;
+          font-weight: 400 !important;
+}
+.u-font-trirong-400-italic {
+        font-family: 'Trirong' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-trirong-500 {
+          font-family: 'Trirong' !important;
+          font-weight: 500 !important;
+}
+.u-font-trirong-500-italic {
+        font-family: 'Trirong' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-trirong-600 {
+          font-family: 'Trirong' !important;
+          font-weight: 600 !important;
+}
+.u-font-trirong-600-italic {
+        font-family: 'Trirong' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-trirong-700 {
+          font-family: 'Trirong' !important;
+          font-weight: 700 !important;
+}
+.u-font-trirong-700-italic {
+        font-family: 'Trirong' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}
+.u-font-trirong-800 {
+          font-family: 'Trirong' !important;
+          font-weight: 800 !important;
+}
+.u-font-trirong-800-italic {
+        font-family: 'Trirong' !important;
+        font-weight: 800 !important;
+        font-style: italic !important;
+}
+.u-font-trirong-900 {
+          font-family: 'Trirong' !important;
+          font-weight: 900 !important;
+}
+.u-font-trirong-900-italic {
+        font-family: 'Trirong' !important;
+        font-weight: 900 !important;
+        font-style: italic !important;
+}

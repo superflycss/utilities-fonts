@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Karma;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Karma Light"),local(Karma-Light),url(//fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLjDY_Z2sKk.eot?#) format("eot"),url(//fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLjDY_Z4sK0.woff2) format("woff2"),url(//fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLjDY_Z2sKs.woff) format("woff");
+}
+@font-face {
+          font-family: Karma;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Karma Regular"),local(Karma-Regular),url(//fonts.gstatic.com/s/karma/v11/va9I4kzAzMZRGLBmQec.eot?#) format("eot"),url(//fonts.gstatic.com/s/karma/v11/va9I4kzAzMZRGLBoQeM.woff2) format("woff2"),url(//fonts.gstatic.com/s/karma/v11/va9I4kzAzMZRGLBmQeU.woff) format("woff");
+}
+@font-face {
+          font-family: Karma;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Karma Medium"),local(Karma-Medium),url(//fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLibYvZ2sKk.eot?#) format("eot"),url(//fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLibYvZ4sK0.woff2) format("woff2"),url(//fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLibYvZ2sKs.woff) format("woff");
+}
+@font-face {
+          font-family: Karma;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Karma SemiBold"),local(Karma-SemiBold),url(//fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLi3ZfZ2sKk.eot?#) format("eot"),url(//fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLi3ZfZ4sK0.woff2) format("woff2"),url(//fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLi3ZfZ2sKs.woff) format("woff");
+}
+@font-face {
+          font-family: Karma;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Karma Bold"),local(Karma-Bold),url(//fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLjTZPZ2sKk.eot?#) format("eot"),url(//fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLjTZPZ4sK0.woff2) format("woff2"),url(//fonts.gstatic.com/s/karma/v11/va9F4kzAzMZRGLjTZPZ2sKs.woff) format("woff");
+}
+.u-font-karma-300 {
+          font-family: 'Karma' !important;
+          font-weight: 300 !important;
+}
+.u-font-karma-400 {
+          font-family: 'Karma' !important;
+          font-weight: 400 !important;
+}
+.u-font-karma-500 {
+          font-family: 'Karma' !important;
+          font-weight: 500 !important;
+}
+.u-font-karma-600 {
+          font-family: 'Karma' !important;
+          font-weight: 600 !important;
+}
+.u-font-karma-700 {
+          font-family: 'Karma' !important;
+          font-weight: 700 !important;
+}

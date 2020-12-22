@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Khand;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Khand Light"),local(Khand-Light),url(//fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bL5cGE-bQM.eot?#) format("eot"),url(//fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bL5cGEwbQc.woff2) format("woff2"),url(//fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bL5cGE-bQE.woff) format("woff");
+}
+@font-face {
+          font-family: Khand;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Khand Regular"),local(Khand-Regular),url(//fonts.gstatic.com/s/khand/v9/TwMA-IINQlQQ0bpcUnA.eot?#) format("eot"),url(//fonts.gstatic.com/s/khand/v9/TwMA-IINQlQQ0bpSUnQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/khand/v9/TwMA-IINQlQQ0bpcUnI.woff) format("woff");
+}
+@font-face {
+          font-family: Khand;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Khand Medium"),local(Khand-Medium),url(//fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bKhcWE-bQM.eot?#) format("eot"),url(//fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bKhcWEwbQc.woff2) format("woff2"),url(//fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bKhcWE-bQE.woff) format("woff");
+}
+@font-face {
+          font-family: Khand;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Khand SemiBold"),local(Khand-SemiBold),url(//fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bKNdmE-bQM.eot?#) format("eot"),url(//fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bKNdmEwbQc.woff2) format("woff2"),url(//fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bKNdmE-bQE.woff) format("woff");
+}
+@font-face {
+          font-family: Khand;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Khand Bold"),local(Khand-Bold),url(//fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bLpd2E-bQM.eot?#) format("eot"),url(//fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bLpd2EwbQc.woff2) format("woff2"),url(//fonts.gstatic.com/s/khand/v9/TwMN-IINQlQQ0bLpd2E-bQE.woff) format("woff");
+}
+.u-font-khand-300 {
+          font-family: 'Khand' !important;
+          font-weight: 300 !important;
+}
+.u-font-khand-400 {
+          font-family: 'Khand' !important;
+          font-weight: 400 !important;
+}
+.u-font-khand-500 {
+          font-family: 'Khand' !important;
+          font-weight: 500 !important;
+}
+.u-font-khand-600 {
+          font-family: 'Khand' !important;
+          font-weight: 600 !important;
+}
+.u-font-khand-700 {
+          font-family: 'Khand' !important;
+          font-weight: 700 !important;
+}

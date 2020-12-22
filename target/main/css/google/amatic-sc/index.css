@@ -1,0 +1,20 @@
+@font-face {
+          font-family: "Amatic SC";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Amatic SC Regular"),local(AmaticSC-Regular),url(//fonts.gstatic.com/s/amaticsc/v15/TUZyzwprpvBS1izr_vOEBOSb.eot?#) format("eot"),url(//fonts.gstatic.com/s/amaticsc/v15/TUZyzwprpvBS1izr_vOECuSf.woff2) format("woff2"),url(//fonts.gstatic.com/s/amaticsc/v15/TUZyzwprpvBS1izr_vOEBOSZ.woff) format("woff");
+}
+@font-face {
+          font-family: "Amatic SC";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Amatic SC Bold"),local(AmaticSC-Bold),url(//fonts.gstatic.com/s/amaticsc/v15/TUZ3zwprpvBS1izr_vOMscGKcLUG.eot?#) format("eot"),url(//fonts.gstatic.com/s/amaticsc/v15/TUZ3zwprpvBS1izr_vOMscGKfrUC.woff2) format("woff2"),url(//fonts.gstatic.com/s/amaticsc/v15/TUZ3zwprpvBS1izr_vOMscGKcLUE.woff) format("woff");
+}
+.u-font-amatic-sc-400 {
+          font-family: 'Amatic SC' !important;
+          font-weight: 400 !important;
+}
+.u-font-amatic-sc-700 {
+          font-family: 'Amatic SC' !important;
+          font-weight: 700 !important;
+}

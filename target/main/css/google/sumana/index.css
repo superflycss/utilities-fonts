@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Sumana;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Sumana),local(Sumana-Regular),url(//fonts.gstatic.com/s/sumana/v5/4UaDrE5TqRBjGj-2-RLn.eot?#) format("eot"),url(//fonts.gstatic.com/s/sumana/v5/4UaDrE5TqRBjGj-29xLj.woff2) format("woff2"),url(//fonts.gstatic.com/s/sumana/v5/4UaDrE5TqRBjGj-2-RLl.woff) format("woff");
+}
+@font-face {
+          font-family: Sumana;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Sumana Bold"),local(Sumana-Bold),url(//fonts.gstatic.com/s/sumana/v5/4UaArE5TqRBjGj--TDf27o3I.eot?#) format("eot"),url(//fonts.gstatic.com/s/sumana/v5/4UaArE5TqRBjGj--TDf24I3M.woff2) format("woff2"),url(//fonts.gstatic.com/s/sumana/v5/4UaArE5TqRBjGj--TDf27o3K.woff) format("woff");
+}
+.u-font-sumana-400 {
+          font-family: 'Sumana' !important;
+          font-weight: 400 !important;
+}
+.u-font-sumana-700 {
+          font-family: 'Sumana' !important;
+          font-weight: 700 !important;
+}

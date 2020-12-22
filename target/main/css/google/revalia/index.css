@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Revalia;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Revalia-Regular),url(//fonts.gstatic.com/s/revalia/v7/WwkexPimBE2-4ZPESVPkMQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/revalia/v7/WwkexPimBE2-4ZPESV3kNQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/revalia/v7/WwkexPimBE2-4ZPESVPkMw.woff) format("woff");
+}
+.u-font-revalia-400 {
+          font-family: 'Revalia' !important;
+          font-weight: 400 !important;
+}

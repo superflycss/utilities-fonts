@@ -1,0 +1,70 @@
+@font-face {
+          font-family: Mada;
+          font-style: normal;
+          font-weight: 200;
+          src: local("Mada ExtraLight"),local(Mada-ExtraLight),url(//fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdf3nOCX2yw.eot?#) format("eot"),url(//fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdf3nOCX2zw.woff2) format("woff2"),url(//fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdf3nOCX2yQ.woff) format("woff");
+}
+@font-face {
+          font-family: Mada;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Mada Light"),local(Mada-Light),url(//fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdZnkOCX2yw.eot?#) format("eot"),url(//fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdZnkOCX2zw.woff2) format("woff2"),url(//fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdZnkOCX2yQ.woff) format("woff");
+}
+@font-face {
+          font-family: Mada;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Mada Regular"),local(Mada-Regular),url(//fonts.gstatic.com/s/mada/v9/7Auwp_0qnzeSfTLGKQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/mada/v9/7Auwp_0qnzeSfTLGLQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/mada/v9/7Auwp_0qnzeSfTLGKw.woff) format("woff");
+}
+@font-face {
+          font-family: Mada;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Mada Medium"),local(Mada-Medium),url(//fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdcHlOCX2yw.eot?#) format("eot"),url(//fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdcHlOCX2zw.woff2) format("woff2"),url(//fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdcHlOCX2yQ.woff) format("woff");
+}
+@font-face {
+          font-family: Mada;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Mada SemiBold"),local(Mada-SemiBold),url(//fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSde3iOCX2yw.eot?#) format("eot"),url(//fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSde3iOCX2zw.woff2) format("woff2"),url(//fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSde3iOCX2yQ.woff) format("woff");
+}
+@font-face {
+          font-family: Mada;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Mada Bold"),local(Mada-Bold),url(//fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdYnjOCX2yw.eot?#) format("eot"),url(//fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdYnjOCX2zw.woff2) format("woff2"),url(//fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdYnjOCX2yQ.woff) format("woff");
+}
+@font-face {
+          font-family: Mada;
+          font-style: normal;
+          font-weight: 900;
+          src: local("Mada Black"),local(Mada-Black),url(//fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdbHhOCX2yw.eot?#) format("eot"),url(//fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdbHhOCX2zw.woff2) format("woff2"),url(//fonts.gstatic.com/s/mada/v9/7Au_p_0qnzeSdbHhOCX2yQ.woff) format("woff");
+}
+.u-font-mada-200 {
+          font-family: 'Mada' !important;
+          font-weight: 200 !important;
+}
+.u-font-mada-300 {
+          font-family: 'Mada' !important;
+          font-weight: 300 !important;
+}
+.u-font-mada-400 {
+          font-family: 'Mada' !important;
+          font-weight: 400 !important;
+}
+.u-font-mada-500 {
+          font-family: 'Mada' !important;
+          font-weight: 500 !important;
+}
+.u-font-mada-600 {
+          font-family: 'Mada' !important;
+          font-weight: 600 !important;
+}
+.u-font-mada-700 {
+          font-family: 'Mada' !important;
+          font-weight: 700 !important;
+}
+.u-font-mada-900 {
+          font-family: 'Mada' !important;
+          font-weight: 900 !important;
+}

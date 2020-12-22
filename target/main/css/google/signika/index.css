@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Signika;
+          font-style: normal;
+          font-weight: 300;
+          src: url(//fonts.gstatic.com/s/signika/v11/vEFO2_JTCgwQ5ejvMV0O96D01E8J0tIJHKbPjMo.eot?#) format("eot"),url(//fonts.gstatic.com/s/signika/v11/vEFO2_JTCgwQ5ejvMV0O96D01E8J0tIJHKbBjM4.woff2) format("woff2"),url(//fonts.gstatic.com/s/signika/v11/vEFO2_JTCgwQ5ejvMV0O96D01E8J0tIJHKbPjMg.woff) format("woff");
+}
+@font-face {
+          font-family: Signika;
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/signika/v11/vEFO2_JTCgwQ5ejvMV0O96D01E8J0tJXHKbPjMo.eot?#) format("eot"),url(//fonts.gstatic.com/s/signika/v11/vEFO2_JTCgwQ5ejvMV0O96D01E8J0tJXHKbBjM4.woff2) format("woff2"),url(//fonts.gstatic.com/s/signika/v11/vEFO2_JTCgwQ5ejvMV0O96D01E8J0tJXHKbPjMg.woff) format("woff");
+}
+@font-face {
+          font-family: Signika;
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/signika/v11/vEFO2_JTCgwQ5ejvMV0O96D01E8J0tJlHKbPjMo.eot?#) format("eot"),url(//fonts.gstatic.com/s/signika/v11/vEFO2_JTCgwQ5ejvMV0O96D01E8J0tJlHKbBjM4.woff2) format("woff2"),url(//fonts.gstatic.com/s/signika/v11/vEFO2_JTCgwQ5ejvMV0O96D01E8J0tJlHKbPjMg.woff) format("woff");
+}
+@font-face {
+          font-family: Signika;
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/signika/v11/vEFO2_JTCgwQ5ejvMV0O96D01E8J0tKJG6bPjMo.eot?#) format("eot"),url(//fonts.gstatic.com/s/signika/v11/vEFO2_JTCgwQ5ejvMV0O96D01E8J0tKJG6bBjM4.woff2) format("woff2"),url(//fonts.gstatic.com/s/signika/v11/vEFO2_JTCgwQ5ejvMV0O96D01E8J0tKJG6bPjMg.woff) format("woff");
+}
+@font-face {
+          font-family: Signika;
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/signika/v11/vEFO2_JTCgwQ5ejvMV0O96D01E8J0tKwG6bPjMo.eot?#) format("eot"),url(//fonts.gstatic.com/s/signika/v11/vEFO2_JTCgwQ5ejvMV0O96D01E8J0tKwG6bBjM4.woff2) format("woff2"),url(//fonts.gstatic.com/s/signika/v11/vEFO2_JTCgwQ5ejvMV0O96D01E8J0tKwG6bPjMg.woff) format("woff");
+}
+.u-font-signika-300 {
+          font-family: 'Signika' !important;
+          font-weight: 300 !important;
+}
+.u-font-signika-400 {
+          font-family: 'Signika' !important;
+          font-weight: 400 !important;
+}
+.u-font-signika-500 {
+          font-family: 'Signika' !important;
+          font-weight: 500 !important;
+}
+.u-font-signika-600 {
+          font-family: 'Signika' !important;
+          font-weight: 600 !important;
+}
+.u-font-signika-700 {
+          font-family: 'Signika' !important;
+          font-weight: 700 !important;
+}

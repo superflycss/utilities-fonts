@@ -1,0 +1,42 @@
+@font-face {
+          font-family: Amaranth;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Amaranth Italic"),local(Amaranth-Italic),url(//fonts.gstatic.com/s/amaranth/v11/KtkoALODe433f0j1zMnALdKCwg.eot?#) format("eot"),url(//fonts.gstatic.com/s/amaranth/v11/KtkoALODe433f0j1zMnALdKCxg.woff2) format("woff2"),url(//fonts.gstatic.com/s/amaranth/v11/KtkoALODe433f0j1zMnALdKCwA.woff) format("woff");
+}
+@font-face {
+          font-family: Amaranth;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Amaranth Bold Italic"),local(Amaranth-BoldItalic),url(//fonts.gstatic.com/s/amaranth/v11/KtkrALODe433f0j1zMnAJWmn02P3Fg.eot?#) format("eot"),url(//fonts.gstatic.com/s/amaranth/v11/KtkrALODe433f0j1zMnAJWmn02P3Eg.woff2) format("woff2"),url(//fonts.gstatic.com/s/amaranth/v11/KtkrALODe433f0j1zMnAJWmn02P3FA.woff) format("woff");
+}
+@font-face {
+          font-family: Amaranth;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Amaranth Regular"),local(Amaranth-Regular),url(//fonts.gstatic.com/s/amaranth/v11/KtkuALODe433f0j1zMnFHdQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/amaranth/v11/KtkuALODe433f0j1zMnFHdA.woff2) format("woff2"),url(//fonts.gstatic.com/s/amaranth/v11/KtkuALODe433f0j1zMnFHdY.woff) format("woff");
+}
+@font-face {
+          font-family: Amaranth;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Amaranth Bold"),local(Amaranth-Bold),url(//fonts.gstatic.com/s/amaranth/v11/KtkpALODe433f0j1zMF-OMWl42U.eot?#) format("eot"),url(//fonts.gstatic.com/s/amaranth/v11/KtkpALODe433f0j1zMF-OMWl42E.woff2) format("woff2"),url(//fonts.gstatic.com/s/amaranth/v11/KtkpALODe433f0j1zMF-OMWl42c.woff) format("woff");
+}
+.u-font-amaranth-400 {
+          font-family: 'Amaranth' !important;
+          font-weight: 400 !important;
+}
+.u-font-amaranth-400-italic {
+        font-family: 'Amaranth' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-amaranth-700 {
+          font-family: 'Amaranth' !important;
+          font-weight: 700 !important;
+}
+.u-font-amaranth-700-italic {
+        font-family: 'Amaranth' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

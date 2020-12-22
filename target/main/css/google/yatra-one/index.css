@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Yatra One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Yatra One Regular"),local(YatraOne-Regular),url(//fonts.gstatic.com/s/yatraone/v7/C8ch4copsHzj8p7NaF0BylmE.eot?#) format("eot"),url(//fonts.gstatic.com/s/yatraone/v7/C8ch4copsHzj8p7NaF0BxFmA.woff2) format("woff2"),url(//fonts.gstatic.com/s/yatraone/v7/C8ch4copsHzj8p7NaF0BylmG.woff) format("woff");
+}
+.u-font-yatra-one-400 {
+          font-family: 'Yatra One' !important;
+          font-weight: 400 !important;
+}

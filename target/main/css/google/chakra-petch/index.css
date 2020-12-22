@@ -1,0 +1,105 @@
+@font-face {
+          font-family: "Chakra Petch";
+          font-style: italic;
+          font-weight: 300;
+          src: local("Chakra Petch Light Italic"),local(ChakraPetch-LightItalic),url(//fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpLJQq_J9AY.eot?#) format("eot"),url(//fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpLJQq_H9AI.woff2) format("woff2"),url(//fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpLJQq_J9AQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Chakra Petch";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Chakra Petch Italic"),local(ChakraPetch-Italic),url(//fonts.gstatic.com/s/chakrapetch/v4/cIfkMapbsEk7TDLdtEz1BwkWmppsYL4.eot?#) format("eot"),url(//fonts.gstatic.com/s/chakrapetch/v4/cIfkMapbsEk7TDLdtEz1BwkWmppiYLo.woff2) format("woff2"),url(//fonts.gstatic.com/s/chakrapetch/v4/cIfkMapbsEk7TDLdtEz1BwkWmppsYLw.woff) format("woff");
+}
+@font-face {
+          font-family: "Chakra Petch";
+          font-style: italic;
+          font-weight: 500;
+          src: local("Chakra Petch Medium Italic"),local(ChakraPetch-MediumItalic),url(//fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpKRQ6_J9AY.eot?#) format("eot"),url(//fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpKRQ6_H9AI.woff2) format("woff2"),url(//fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpKRQ6_J9AQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Chakra Petch";
+          font-style: italic;
+          font-weight: 600;
+          src: local("Chakra Petch SemiBold Italic"),local(ChakraPetch-SemiBoldItalic),url(//fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpK9RK_J9AY.eot?#) format("eot"),url(//fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpK9RK_H9AI.woff2) format("woff2"),url(//fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpK9RK_J9AQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Chakra Petch";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Chakra Petch Bold Italic"),local(ChakraPetch-BoldItalic),url(//fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpLZRa_J9AY.eot?#) format("eot"),url(//fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpLZRa_H9AI.woff2) format("woff2"),url(//fonts.gstatic.com/s/chakrapetch/v4/cIfnMapbsEk7TDLdtEz1BwkWmpLZRa_J9AQ.woff) format("woff");
+}
+@font-face {
+          font-family: "Chakra Petch";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Chakra Petch Light"),local(ChakraPetch-Light),url(//fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeNIh1SZ_B.eot?#) format("eot"),url(//fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeNIh1R5_F.woff2) format("woff2"),url(//fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeNIh1SZ_D.woff) format("woff");
+}
+@font-face {
+          font-family: "Chakra Petch";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Chakra Petch Regular"),local(ChakraPetch-Regular),url(//fonts.gstatic.com/s/chakrapetch/v4/cIf6MapbsEk7TDLdtEz1BwkWkapk.eot?#) format("eot"),url(//fonts.gstatic.com/s/chakrapetch/v4/cIf6MapbsEk7TDLdtEz1BwkWn6pg.woff2) format("woff2"),url(//fonts.gstatic.com/s/chakrapetch/v4/cIf6MapbsEk7TDLdtEz1BwkWkapm.woff) format("woff");
+}
+@font-face {
+          font-family: "Chakra Petch";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Chakra Petch Medium"),local(ChakraPetch-Medium),url(//fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkebIl1SZ_B.eot?#) format("eot"),url(//fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkebIl1R5_F.woff2) format("woff2"),url(//fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkebIl1SZ_D.woff) format("woff");
+}
+@font-face {
+          font-family: "Chakra Petch";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Chakra Petch SemiBold"),local(ChakraPetch-SemiBold),url(//fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeQI51SZ_B.eot?#) format("eot"),url(//fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeQI51R5_F.woff2) format("woff2"),url(//fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeQI51SZ_D.woff) format("woff");
+}
+@font-face {
+          font-family: "Chakra Petch";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Chakra Petch Bold"),local(ChakraPetch-Bold),url(//fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeJI91SZ_B.eot?#) format("eot"),url(//fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeJI91R5_F.woff2) format("woff2"),url(//fonts.gstatic.com/s/chakrapetch/v4/cIflMapbsEk7TDLdtEz1BwkeJI91SZ_D.woff) format("woff");
+}
+.u-font-chakra-petch-300 {
+          font-family: 'Chakra Petch' !important;
+          font-weight: 300 !important;
+}
+.u-font-chakra-petch-300-italic {
+        font-family: 'Chakra Petch' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-chakra-petch-400 {
+          font-family: 'Chakra Petch' !important;
+          font-weight: 400 !important;
+}
+.u-font-chakra-petch-400-italic {
+        font-family: 'Chakra Petch' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-chakra-petch-500 {
+          font-family: 'Chakra Petch' !important;
+          font-weight: 500 !important;
+}
+.u-font-chakra-petch-500-italic {
+        font-family: 'Chakra Petch' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-chakra-petch-600 {
+          font-family: 'Chakra Petch' !important;
+          font-weight: 600 !important;
+}
+.u-font-chakra-petch-600-italic {
+        font-family: 'Chakra Petch' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-chakra-petch-700 {
+          font-family: 'Chakra Petch' !important;
+          font-weight: 700 !important;
+}
+.u-font-chakra-petch-700-italic {
+        font-family: 'Chakra Petch' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

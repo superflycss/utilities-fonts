@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Ovo;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Ovo),url(//fonts.gstatic.com/s/ovo/v12/yYLl0h7WyfzTzI48.eot?#) format("eot"),url(//fonts.gstatic.com/s/ovo/v12/yYLl0h7WyfzTzI44.woff2) format("woff2"),url(//fonts.gstatic.com/s/ovo/v12/yYLl0h7WyfzTzI4-.woff) format("woff");
+}
+.u-font-ovo-400 {
+          font-family: 'Ovo' !important;
+          font-weight: 400 !important;
+}

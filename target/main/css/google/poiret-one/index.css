@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Poiret One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Poiret One"),local(PoiretOne-Regular),url(//fonts.gstatic.com/s/poiretone/v9/UqyVK80NJXN4zfRgbdfbo5BcUw.eot?#) format("eot"),url(//fonts.gstatic.com/s/poiretone/v9/UqyVK80NJXN4zfRgbdfbo55cVw.woff2) format("woff2"),url(//fonts.gstatic.com/s/poiretone/v9/UqyVK80NJXN4zfRgbdfbo5BcUQ.woff) format("woff");
+}
+.u-font-poiret-one-400 {
+          font-family: 'Poiret One' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Rum Raisin";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Rum Raisin"),local(RumRaisin-Regular),url(//fonts.gstatic.com/s/rumraisin/v8/nwpRtKu3Ih8D5avB4h2uF3aCzg.eot?#) format("eot"),url(//fonts.gstatic.com/s/rumraisin/v8/nwpRtKu3Ih8D5avB4h2uF3iCyg.woff2) format("woff2"),url(//fonts.gstatic.com/s/rumraisin/v8/nwpRtKu3Ih8D5avB4h2uF3aCzA.woff) format("woff");
+}
+.u-font-rum-raisin-400 {
+          font-family: 'Rum Raisin' !important;
+          font-weight: 400 !important;
+}

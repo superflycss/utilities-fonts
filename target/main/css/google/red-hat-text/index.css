@@ -1,0 +1,63 @@
+@font-face {
+          font-family: "Red Hat Text";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Red Hat Text It"),local(RedHatText-Italic),url(//fonts.gstatic.com/s/redhattext/v3/RrQJbohi_ic6B3yVSzGBrMxQbZchO8w.eot?#) format("eot"),url(//fonts.gstatic.com/s/redhattext/v3/RrQJbohi_ic6B3yVSzGBrMxQbZcvO8g.woff2) format("woff2"),url(//fonts.gstatic.com/s/redhattext/v3/RrQJbohi_ic6B3yVSzGBrMxQbZchO84.woff) format("woff");
+}
+@font-face {
+          font-family: "Red Hat Text";
+          font-style: italic;
+          font-weight: 500;
+          src: local("Red Hat Text Medium It"),local(RedHatText-MediumItalic),url(//fonts.gstatic.com/s/redhattext/v3/RrQKbohi_ic6B3yVSzGBrMxQbZ_cGN2IHVk.eot?#) format("eot"),url(//fonts.gstatic.com/s/redhattext/v3/RrQKbohi_ic6B3yVSzGBrMxQbZ_cGN2GHV0.woff2) format("woff2"),url(//fonts.gstatic.com/s/redhattext/v3/RrQKbohi_ic6B3yVSzGBrMxQbZ_cGN2IHVs.woff) format("woff");
+}
+@font-face {
+          font-family: "Red Hat Text";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Red Hat Text Bold It"),local(RedHatText-BoldItalic),url(//fonts.gstatic.com/s/redhattext/v3/RrQKbohi_ic6B3yVSzGBrMxQbZ-UHt2IHVk.eot?#) format("eot"),url(//fonts.gstatic.com/s/redhattext/v3/RrQKbohi_ic6B3yVSzGBrMxQbZ-UHt2GHV0.woff2) format("woff2"),url(//fonts.gstatic.com/s/redhattext/v3/RrQKbohi_ic6B3yVSzGBrMxQbZ-UHt2IHVs.woff) format("woff");
+}
+@font-face {
+          font-family: "Red Hat Text";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Red Hat Text"),local(RedHatText-Regular),url(//fonts.gstatic.com/s/redhattext/v3/RrQXbohi_ic6B3yVSzGBrMxQZqcp.eot?#) format("eot"),url(//fonts.gstatic.com/s/redhattext/v3/RrQXbohi_ic6B3yVSzGBrMxQaKct.woff2) format("woff2"),url(//fonts.gstatic.com/s/redhattext/v3/RrQXbohi_ic6B3yVSzGBrMxQZqcr.woff) format("woff");
+}
+@font-face {
+          font-family: "Red Hat Text";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Red Hat Text Medium"),local(RedHatText-Medium),url(//fonts.gstatic.com/s/redhattext/v3/RrQIbohi_ic6B3yVSzGBrMxYm4Q4Eu2A.eot?#) format("eot"),url(//fonts.gstatic.com/s/redhattext/v3/RrQIbohi_ic6B3yVSzGBrMxYm4Q4HO2E.woff2) format("woff2"),url(//fonts.gstatic.com/s/redhattext/v3/RrQIbohi_ic6B3yVSzGBrMxYm4Q4Eu2C.woff) format("woff");
+}
+@font-face {
+          font-family: "Red Hat Text";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Red Hat Text Bold"),local(RedHatText-Bold),url(//fonts.gstatic.com/s/redhattext/v3/RrQIbohi_ic6B3yVSzGBrMxY04I4Eu2A.eot?#) format("eot"),url(//fonts.gstatic.com/s/redhattext/v3/RrQIbohi_ic6B3yVSzGBrMxY04I4HO2E.woff2) format("woff2"),url(//fonts.gstatic.com/s/redhattext/v3/RrQIbohi_ic6B3yVSzGBrMxY04I4Eu2C.woff) format("woff");
+}
+.u-font-red-hat-text-400 {
+          font-family: 'Red Hat Text' !important;
+          font-weight: 400 !important;
+}
+.u-font-red-hat-text-400-italic {
+        font-family: 'Red Hat Text' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-red-hat-text-500 {
+          font-family: 'Red Hat Text' !important;
+          font-weight: 500 !important;
+}
+.u-font-red-hat-text-500-italic {
+        font-family: 'Red Hat Text' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-red-hat-text-700 {
+          font-family: 'Red Hat Text' !important;
+          font-weight: 700 !important;
+}
+.u-font-red-hat-text-700-italic {
+        font-family: 'Red Hat Text' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

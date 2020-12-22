@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Andika;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Andika Regular"),local(Andika-Regular),url(//fonts.gstatic.com/s/andika/v12/mem_Ya6iyW-LwqgwZLYU.eot?#) format("eot"),url(//fonts.gstatic.com/s/andika/v12/mem_Ya6iyW-LwqgwarYQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/andika/v12/mem_Ya6iyW-LwqgwZLYW.woff) format("woff");
+}
+.u-font-andika-400 {
+          font-family: 'Andika' !important;
+          font-weight: 400 !important;
+}

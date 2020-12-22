@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Allan;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Allan Regular"),local(Allan-Regular),url(//fonts.gstatic.com/s/allan/v13/ea8XadU7WuTxEub_NdE.eot?#) format("eot"),url(//fonts.gstatic.com/s/allan/v13/ea8XadU7WuTxEubxNdU.woff2) format("woff2"),url(//fonts.gstatic.com/s/allan/v13/ea8XadU7WuTxEub_NdM.woff) format("woff");
+}
+@font-face {
+          font-family: Allan;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Allan Bold"),local(Allan-Bold),url(//fonts.gstatic.com/s/allan/v13/ea8aadU7WuTxEu5KEMCE028.eot?#) format("eot"),url(//fonts.gstatic.com/s/allan/v13/ea8aadU7WuTxEu5KEMCK02s.woff2) format("woff2"),url(//fonts.gstatic.com/s/allan/v13/ea8aadU7WuTxEu5KEMCE020.woff) format("woff");
+}
+.u-font-allan-400 {
+          font-family: 'Allan' !important;
+          font-weight: 400 !important;
+}
+.u-font-allan-700 {
+          font-family: 'Allan' !important;
+          font-weight: 700 !important;
+}

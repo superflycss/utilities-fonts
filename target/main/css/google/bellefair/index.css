@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Bellefair;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Bellefair Regular"),local(Bellefair-Regular),url(//fonts.gstatic.com/s/bellefair/v6/kJExBuYY6AAuhiXUxG1N9voz.eot?#) format("eot"),url(//fonts.gstatic.com/s/bellefair/v6/kJExBuYY6AAuhiXUxG1N-Po3.woff2) format("woff2"),url(//fonts.gstatic.com/s/bellefair/v6/kJExBuYY6AAuhiXUxG1N9vox.woff) format("woff");
+}
+.u-font-bellefair-400 {
+          font-family: 'Bellefair' !important;
+          font-weight: 400 !important;
+}

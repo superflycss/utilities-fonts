@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Jua;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Jua Regular"),local(Jua-Regular),url(//fonts.gstatic.com/s/jua/v8/co3KmW9ljjATdOrc.eot?#) format("eot"),url(//fonts.gstatic.com/s/jua/v8/co3KmW9ljjAjdojPCM3T3NGswha8jSmuzy4jzT-N.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/jua/v8/co3KmW9ljjATdOre.woff) format("woff");
+}
+.u-font-jua-400 {
+          font-family: 'Jua' !important;
+          font-weight: 400 !important;
+}

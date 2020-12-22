@@ -1,0 +1,42 @@
+@font-face {
+          font-family: "GFS Neohellenic";
+          font-style: italic;
+          font-weight: 400;
+          src: local("GFS Neohellenic Italic"),local(GFSNeohellenic-Italic),url(//fonts.gstatic.com/s/gfsneohellenic/v13/8QITdiDOrfiq0b7R8O1Iw9WLcY5jL6JK.eot?#) format("eot"),url(//fonts.gstatic.com/s/gfsneohellenic/v13/8QITdiDOrfiq0b7R8O1Iw9WLcY5jL5JPy6EjUw.woff2) format("woff2"),url(//fonts.gstatic.com/s/gfsneohellenic/v13/8QITdiDOrfiq0b7R8O1Iw9WLcY5jL6JI.woff) format("woff");
+}
+@font-face {
+          font-family: "GFS Neohellenic";
+          font-style: italic;
+          font-weight: 700;
+          src: local("GFS Neohellenic Bold Italic"),local(GFSNeohellenic-BoldItalic),url(//fonts.gstatic.com/s/gfsneohellenic/v13/8QIWdiDOrfiq0b7R8O1Iw9WLcY5jL5r37oQa.eot?#) format("eot"),url(//fonts.gstatic.com/s/gfsneohellenic/v13/8QIWdiDOrfiq0b7R8O1Iw9WLcY5jL5r37rQfcsBu9w.woff2) format("woff2"),url(//fonts.gstatic.com/s/gfsneohellenic/v13/8QIWdiDOrfiq0b7R8O1Iw9WLcY5jL5r37oQY.woff) format("woff");
+}
+@font-face {
+          font-family: "GFS Neohellenic";
+          font-style: normal;
+          font-weight: 400;
+          src: local("GFS Neohellenic Regular"),local(GFSNeohellenic-Regular),url(//fonts.gstatic.com/s/gfsneohellenic/v13/8QIRdiDOrfiq0b7R8O1Iw9WLcY5TLA.eot?#) format("eot"),url(//fonts.gstatic.com/s/gfsneohellenic/v13/8QIRdiDOrfiq0b7R8O1Iw9WLcY5jKaJO06U.woff2) format("woff2"),url(//fonts.gstatic.com/s/gfsneohellenic/v13/8QIRdiDOrfiq0b7R8O1Iw9WLcY5TLg.woff) format("woff");
+}
+@font-face {
+          font-family: "GFS Neohellenic";
+          font-style: normal;
+          font-weight: 700;
+          src: local("GFS Neohellenic Bold"),local(GFSNeohellenic-Bold),url(//fonts.gstatic.com/s/gfsneohellenic/v13/8QIUdiDOrfiq0b7R8O1Iw9WLcY5rkYdr6g.eot?#) format("eot"),url(//fonts.gstatic.com/s/gfsneohellenic/v13/8QIUdiDOrfiq0b7R8O1Iw9WLcY5rkYdb74QeasQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/gfsneohellenic/v13/8QIUdiDOrfiq0b7R8O1Iw9WLcY5rkYdr6A.woff) format("woff");
+}
+.u-font-gfs-neohellenic-400 {
+          font-family: 'GFS Neohellenic' !important;
+          font-weight: 400 !important;
+}
+.u-font-gfs-neohellenic-400-italic {
+        font-family: 'GFS Neohellenic' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-gfs-neohellenic-700 {
+          font-family: 'GFS Neohellenic' !important;
+          font-weight: 700 !important;
+}
+.u-font-gfs-neohellenic-700-italic {
+        font-family: 'GFS Neohellenic' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

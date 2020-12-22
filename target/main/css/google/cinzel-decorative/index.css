@@ -1,0 +1,30 @@
+@font-face {
+          font-family: "Cinzel Decorative";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Cinzel Decorative Regular"),local(CinzelDecorative-Regular),url(//fonts.gstatic.com/s/cinzeldecorative/v9/daaCSScvJGqLYhG8nNt8KPPswUAPni7TTMg.eot?#) format("eot"),url(//fonts.gstatic.com/s/cinzeldecorative/v9/daaCSScvJGqLYhG8nNt8KPPswUAPni7TTMw.woff2) format("woff2"),url(//fonts.gstatic.com/s/cinzeldecorative/v9/daaCSScvJGqLYhG8nNt8KPPswUAPni7TTMo.woff) format("woff");
+}
+@font-face {
+          font-family: "Cinzel Decorative";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Cinzel Decorative Bold"),local(CinzelDecorative-Bold),url(//fonts.gstatic.com/s/cinzeldecorative/v9/daaHSScvJGqLYhG8nNt8KPPswUAPniZoadlESTU.eot?#) format("eot"),url(//fonts.gstatic.com/s/cinzeldecorative/v9/daaHSScvJGqLYhG8nNt8KPPswUAPniZoadlESTE.woff2) format("woff2"),url(//fonts.gstatic.com/s/cinzeldecorative/v9/daaHSScvJGqLYhG8nNt8KPPswUAPniZoadlESTc.woff) format("woff");
+}
+@font-face {
+          font-family: "Cinzel Decorative";
+          font-style: normal;
+          font-weight: 900;
+          src: local("Cinzel Decorative Black"),local(CinzelDecorative-Black),url(//fonts.gstatic.com/s/cinzeldecorative/v9/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa9lESTU.eot?#) format("eot"),url(//fonts.gstatic.com/s/cinzeldecorative/v9/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa9lESTE.woff2) format("woff2"),url(//fonts.gstatic.com/s/cinzeldecorative/v9/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa9lESTc.woff) format("woff");
+}
+.u-font-cinzel-decorative-400 {
+          font-family: 'Cinzel Decorative' !important;
+          font-weight: 400 !important;
+}
+.u-font-cinzel-decorative-700 {
+          font-family: 'Cinzel Decorative' !important;
+          font-weight: 700 !important;
+}
+.u-font-cinzel-decorative-900 {
+          font-family: 'Cinzel Decorative' !important;
+          font-weight: 900 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Henny Penny";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Henny Penny"),local(HennyPenny-Regular),url(//fonts.gstatic.com/s/hennypenny/v8/wXKvE3UZookzsxz_kjGSfPQtvXY.eot?#) format("eot"),url(//fonts.gstatic.com/s/hennypenny/v8/wXKvE3UZookzsxz_kjGSfPQtvXI.woff2) format("woff2"),url(//fonts.gstatic.com/s/hennypenny/v8/wXKvE3UZookzsxz_kjGSfPQtvXQ.woff) format("woff");
+}
+.u-font-henny-penny-400 {
+          font-family: 'Henny Penny' !important;
+          font-weight: 400 !important;
+}

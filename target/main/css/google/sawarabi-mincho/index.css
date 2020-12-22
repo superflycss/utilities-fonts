@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Sawarabi Mincho";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Sawarabi Mincho"),local(SawarabiMincho-Regular),url(//fonts.gstatic.com/s/sawarabimincho/v10/8QIRdiDaitzr7brc8ahpxt6GcIJjJKJK.eot?#) format("eot"),url(//fonts.gstatic.com/s/sawarabimincho/v10/8QIRdiDaitzr7brc8ahpxt6GcIJTKMBf4bRxM7U3mLMni-CmriA4Ykh0mIs.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/sawarabimincho/v10/8QIRdiDaitzr7brc8ahpxt6GcIJjJKJI.woff) format("woff");
+}
+.u-font-sawarabi-mincho-400 {
+          font-family: 'Sawarabi Mincho' !important;
+          font-weight: 400 !important;
+}

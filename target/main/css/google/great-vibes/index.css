@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Great Vibes";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Great Vibes"),local(GreatVibes-Regular),url(//fonts.gstatic.com/s/greatvibes/v8/RWmMoKWR9v4ksMfaWd_JN9XLiaA.eot?#) format("eot"),url(//fonts.gstatic.com/s/greatvibes/v8/RWmMoKWR9v4ksMfaWd_JN9XFiaQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/greatvibes/v8/RWmMoKWR9v4ksMfaWd_JN9XLiaI.woff) format("woff");
+}
+.u-font-great-vibes-400 {
+          font-family: 'Great Vibes' !important;
+          font-weight: 400 !important;
+}

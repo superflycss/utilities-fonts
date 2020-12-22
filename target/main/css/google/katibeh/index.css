@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Katibeh;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Katibeh-Regular),url(//fonts.gstatic.com/s/katibeh/v9/ZGjXol5MQJog4bxDWCRbUQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/katibeh/v9/ZGjXol5MQJog4bxDWCpbVQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/katibeh/v9/ZGjXol5MQJog4bxDWCRbUw.woff) format("woff");
+}
+.u-font-katibeh-400 {
+          font-family: 'Katibeh' !important;
+          font-weight: 400 !important;
+}

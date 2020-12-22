@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Atma;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Atma Light"),local(Atma-Light),url(//fonts.gstatic.com/s/atma/v6/uK_z4rqWc-Eoo8JzGj43Ow.eot?#) format("eot"),url(//fonts.gstatic.com/s/atma/v6/uK_z4rqWc-Eoo8JzGjA3Pw.woff2) format("woff2"),url(//fonts.gstatic.com/s/atma/v6/uK_z4rqWc-Eoo8JzGj43OQ.woff) format("woff");
+}
+@font-face {
+          font-family: Atma;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Atma Regular"),local(Atma-Regular),url(//fonts.gstatic.com/s/atma/v6/uK_84rqWc-Eoq2dRCw.eot?#) format("eot"),url(//fonts.gstatic.com/s/atma/v6/uK_84rqWc-Eoq2lRDw.woff2) format("woff2"),url(//fonts.gstatic.com/s/atma/v6/uK_84rqWc-Eoq2dRCQ.woff) format("woff");
+}
+@font-face {
+          font-family: Atma;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Atma Medium"),local(Atma-Medium),url(//fonts.gstatic.com/s/atma/v6/uK_z4rqWc-Eoo5pyGj43Ow.eot?#) format("eot"),url(//fonts.gstatic.com/s/atma/v6/uK_z4rqWc-Eoo5pyGjA3Pw.woff2) format("woff2"),url(//fonts.gstatic.com/s/atma/v6/uK_z4rqWc-Eoo5pyGj43OQ.woff) format("woff");
+}
+@font-face {
+          font-family: Atma;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Atma SemiBold"),local(Atma-SemiBold),url(//fonts.gstatic.com/s/atma/v6/uK_z4rqWc-Eoo7Z1Gj43Ow.eot?#) format("eot"),url(//fonts.gstatic.com/s/atma/v6/uK_z4rqWc-Eoo7Z1GjA3Pw.woff2) format("woff2"),url(//fonts.gstatic.com/s/atma/v6/uK_z4rqWc-Eoo7Z1Gj43OQ.woff) format("woff");
+}
+@font-face {
+          font-family: Atma;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Atma Bold"),local(Atma-Bold),url(//fonts.gstatic.com/s/atma/v6/uK_z4rqWc-Eoo9J0Gj43Ow.eot?#) format("eot"),url(//fonts.gstatic.com/s/atma/v6/uK_z4rqWc-Eoo9J0GjA3Pw.woff2) format("woff2"),url(//fonts.gstatic.com/s/atma/v6/uK_z4rqWc-Eoo9J0Gj43OQ.woff) format("woff");
+}
+.u-font-atma-300 {
+          font-family: 'Atma' !important;
+          font-weight: 300 !important;
+}
+.u-font-atma-400 {
+          font-family: 'Atma' !important;
+          font-weight: 400 !important;
+}
+.u-font-atma-500 {
+          font-family: 'Atma' !important;
+          font-weight: 500 !important;
+}
+.u-font-atma-600 {
+          font-family: 'Atma' !important;
+          font-weight: 600 !important;
+}
+.u-font-atma-700 {
+          font-family: 'Atma' !important;
+          font-weight: 700 !important;
+}

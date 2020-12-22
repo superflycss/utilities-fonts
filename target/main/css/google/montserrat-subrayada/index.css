@@ -1,0 +1,20 @@
+@font-face {
+          font-family: "Montserrat Subrayada";
+          font-style: normal;
+          font-weight: 400;
+          src: local(MontserratSubrayada-Regular),url(//fonts.gstatic.com/s/montserratsubrayada/v10/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8MaOI.eot?#) format("eot"),url(//fonts.gstatic.com/s/montserratsubrayada/v10/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8MaOY.woff2) format("woff2"),url(//fonts.gstatic.com/s/montserratsubrayada/v10/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8MaOA.woff) format("woff");
+}
+@font-face {
+          font-family: "Montserrat Subrayada";
+          font-style: normal;
+          font-weight: 700;
+          src: local(MontserratSubrayada-Bold),url(//fonts.gstatic.com/s/montserratsubrayada/v10/U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiX0.eot?#) format("eot"),url(//fonts.gstatic.com/s/montserratsubrayada/v10/U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiXk.woff2) format("woff2"),url(//fonts.gstatic.com/s/montserratsubrayada/v10/U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiX8.woff) format("woff");
+}
+.u-font-montserrat-subrayada-400 {
+          font-family: 'Montserrat Subrayada' !important;
+          font-weight: 400 !important;
+}
+.u-font-montserrat-subrayada-700 {
+          font-family: 'Montserrat Subrayada' !important;
+          font-weight: 700 !important;
+}

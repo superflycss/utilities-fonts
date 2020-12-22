@@ -1,0 +1,42 @@
+@font-face {
+          font-family: "Istok Web";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Istok Web Italic"),local(IstokWeb-Italic),url(//fonts.gstatic.com/s/istokweb/v15/3qTpojGmgSyUukBzKslpA1tz3kI.eot?#) format("eot"),url(//fonts.gstatic.com/s/istokweb/v15/3qTpojGmgSyUukBzKslpA1t93kY.woff2) format("woff2"),url(//fonts.gstatic.com/s/istokweb/v15/3qTpojGmgSyUukBzKslpA1tz3kA.woff) format("woff");
+}
+@font-face {
+          font-family: "Istok Web";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Istok Web Bold Italic"),local(IstokWeb-BoldItalic),url(//fonts.gstatic.com/s/istokweb/v15/3qT0ojGmgSyUukBzKslpA1PG-1MZSBc.eot?#) format("eot"),url(//fonts.gstatic.com/s/istokweb/v15/3qT0ojGmgSyUukBzKslpA1PG-1MXSBM.woff2) format("woff2"),url(//fonts.gstatic.com/s/istokweb/v15/3qT0ojGmgSyUukBzKslpA1PG-1MZSBU.woff) format("woff");
+}
+@font-face {
+          font-family: "Istok Web";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Istok Web Regular"),local(IstokWeb-Regular),url(//fonts.gstatic.com/s/istokweb/v15/3qTvojGmgSyUukBzKslpCGt7.eot?#) format("eot"),url(//fonts.gstatic.com/s/istokweb/v15/3qTvojGmgSyUukBzKslpBmt_.woff2) format("woff2"),url(//fonts.gstatic.com/s/istokweb/v15/3qTvojGmgSyUukBzKslpCGt5.woff) format("woff");
+}
+@font-face {
+          font-family: "Istok Web";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Istok Web Bold"),local(IstokWeb-Bold),url(//fonts.gstatic.com/s/istokweb/v15/3qTqojGmgSyUukBzKslhvU5q92MR.eot?#) format("eot"),url(//fonts.gstatic.com/s/istokweb/v15/3qTqojGmgSyUukBzKslhvU5q-WMV.woff2) format("woff2"),url(//fonts.gstatic.com/s/istokweb/v15/3qTqojGmgSyUukBzKslhvU5q92MT.woff) format("woff");
+}
+.u-font-istok-web-400 {
+          font-family: 'Istok Web' !important;
+          font-weight: 400 !important;
+}
+.u-font-istok-web-400-italic {
+        font-family: 'Istok Web' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-istok-web-700 {
+          font-family: 'Istok Web' !important;
+          font-weight: 700 !important;
+}
+.u-font-istok-web-700-italic {
+        font-family: 'Istok Web' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

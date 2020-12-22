@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Artifika;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Artifika Regular"),local(Artifika-Regular),url(//fonts.gstatic.com/s/artifika/v11/VEMyRoxzronptCuxu5Wq7DU.eot?#) format("eot"),url(//fonts.gstatic.com/s/artifika/v11/VEMyRoxzronptCuxu5Wq7DE.woff2) format("woff2"),url(//fonts.gstatic.com/s/artifika/v11/VEMyRoxzronptCuxu5Wq7Dc.woff) format("woff");
+}
+.u-font-artifika-400 {
+          font-family: 'Artifika' !important;
+          font-weight: 400 !important;
+}

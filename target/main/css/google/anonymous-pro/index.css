@@ -1,0 +1,42 @@
+@font-face {
+          font-family: "Anonymous Pro";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Anonymous Pro Italic"),local(AnonymousPro-Italic),url(//fonts.gstatic.com/s/anonymouspro/v14/rP2fp2a15UIB7Un-bOeISG3pHl4G-Qn9.eot?#) format("eot"),url(//fonts.gstatic.com/s/anonymouspro/v14/rP2fp2a15UIB7Un-bOeISG3pHl4G9wn5.woff2) format("woff2"),url(//fonts.gstatic.com/s/anonymouspro/v14/rP2fp2a15UIB7Un-bOeISG3pHl4G-Qn_.woff) format("woff");
+}
+@font-face {
+          font-family: "Anonymous Pro";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Anonymous Pro Bold Italic"),local(AnonymousPro-BoldItalic),url(//fonts.gstatic.com/s/anonymouspro/v14/rP2ap2a15UIB7Un-bOeISG3pHl4OTCzs4Yuy.eot?#) format("eot"),url(//fonts.gstatic.com/s/anonymouspro/v14/rP2ap2a15UIB7Un-bOeISG3pHl4OTCzs74u2.woff2) format("woff2"),url(//fonts.gstatic.com/s/anonymouspro/v14/rP2ap2a15UIB7Un-bOeISG3pHl4OTCzs4Yuw.woff) format("woff");
+}
+@font-face {
+          font-family: "Anonymous Pro";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Anonymous Pro Regular"),local(AnonymousPro-Regular),url(//fonts.gstatic.com/s/anonymouspro/v14/rP2Bp2a15UIB7Un-bOeISG3pHlU28Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/anonymouspro/v14/rP2Bp2a15UIB7Un-bOeISG3pHls29Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/anonymouspro/v14/rP2Bp2a15UIB7Un-bOeISG3pHlU28w.woff) format("woff");
+}
+@font-face {
+          font-family: "Anonymous Pro";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Anonymous Pro Bold"),local(AnonymousPro-Bold),url(//fonts.gstatic.com/s/anonymouspro/v14/rP2cp2a15UIB7Un-bOeISG3pFuAT4CDc6Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/anonymouspro/v14/rP2cp2a15UIB7Un-bOeISG3pFuAT4C7c7Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/anonymouspro/v14/rP2cp2a15UIB7Un-bOeISG3pFuAT4CDc6w.woff) format("woff");
+}
+.u-font-anonymous-pro-400 {
+          font-family: 'Anonymous Pro' !important;
+          font-weight: 400 !important;
+}
+.u-font-anonymous-pro-400-italic {
+        font-family: 'Anonymous Pro' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-anonymous-pro-700 {
+          font-family: 'Anonymous Pro' !important;
+          font-weight: 700 !important;
+}
+.u-font-anonymous-pro-700-italic {
+        font-family: 'Anonymous Pro' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

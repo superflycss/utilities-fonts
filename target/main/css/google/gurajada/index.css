@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Gurajada;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Gurajada),url(//fonts.gstatic.com/s/gurajada/v9/FwZY7-Qx308m-l-0Ke6H6M0.eot?#) format("eot"),url(//fonts.gstatic.com/s/gurajada/v9/FwZY7-Qx308m-l-0Ke6H6Mk.woff2) format("woff2"),url(//fonts.gstatic.com/s/gurajada/v9/FwZY7-Qx308m-l-0Ke6H6M8.woff) format("woff");
+}
+.u-font-gurajada-400 {
+          font-family: 'Gurajada' !important;
+          font-weight: 400 !important;
+}

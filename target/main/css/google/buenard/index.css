@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Buenard;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Buenard Regular"),local(Buenard-Regular),url(//fonts.gstatic.com/s/buenard/v12/OD5DuM6Cyma8FnnsDz73rQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/buenard/v12/OD5DuM6Cyma8FnnsDzD3qQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/buenard/v12/OD5DuM6Cyma8FnnsDz73rw.woff) format("woff");
+}
+@font-face {
+          font-family: Buenard;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Buenard Bold"),local(Buenard-Bold),url(//fonts.gstatic.com/s/buenard/v12/OD5GuM6Cyma8FnnsB4vSvGmcBQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/buenard/v12/OD5GuM6Cyma8FnnsB4vSvGecAQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/buenard/v12/OD5GuM6Cyma8FnnsB4vSvGmcBw.woff) format("woff");
+}
+.u-font-buenard-400 {
+          font-family: 'Buenard' !important;
+          font-weight: 400 !important;
+}
+.u-font-buenard-700 {
+          font-family: 'Buenard' !important;
+          font-weight: 700 !important;
+}

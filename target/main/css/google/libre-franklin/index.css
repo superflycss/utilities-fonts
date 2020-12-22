@@ -1,0 +1,189 @@
+@font-face {
+          font-family: "Libre Franklin";
+          font-style: italic;
+          font-weight: 100;
+          src: local("Libre Franklin Thin Italic"),local(LibreFranklin-ThinItalic),url(//fonts.gstatic.com/s/librefranklin/v5/jizHREVItHgc8qDIbSTKq4XkRiUa41Yjgn7I.eot?#) format("eot"),url(//fonts.gstatic.com/s/librefranklin/v5/jizHREVItHgc8qDIbSTKq4XkRiUa41YjjH7M.woff2) format("woff2"),url(//fonts.gstatic.com/s/librefranklin/v5/jizHREVItHgc8qDIbSTKq4XkRiUa41Yjgn7K.woff) format("woff");
+}
+@font-face {
+          font-family: "Libre Franklin";
+          font-style: italic;
+          font-weight: 200;
+          src: local("Libre Franklin ExtraLight Italic"),local(LibreFranklin-ExtraLightItalic),url(//fonts.gstatic.com/s/librefranklin/v5/jizGREVItHgc8qDIbSTKq4XkRiUa4_oym1fpiQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/librefranklin/v5/jizGREVItHgc8qDIbSTKq4XkRiUa4_oym1npjQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/librefranklin/v5/jizGREVItHgc8qDIbSTKq4XkRiUa4_oym1fpiw.woff) format("woff");
+}
+@font-face {
+          font-family: "Libre Franklin";
+          font-style: italic;
+          font-weight: 300;
+          src: local("Libre Franklin Light Italic"),local(LibreFranklin-LightItalic),url(//fonts.gstatic.com/s/librefranklin/v5/jizGREVItHgc8qDIbSTKq4XkRiUa454xm1fpiQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/librefranklin/v5/jizGREVItHgc8qDIbSTKq4XkRiUa454xm1npjQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/librefranklin/v5/jizGREVItHgc8qDIbSTKq4XkRiUa454xm1fpiw.woff) format("woff");
+}
+@font-face {
+          font-family: "Libre Franklin";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Libre Franklin Italic"),local(LibreFranklin-Italic),url(//fonts.gstatic.com/s/librefranklin/v5/jizBREVItHgc8qDIbSTKq4XkRiUa6zsTig.eot?#) format("eot"),url(//fonts.gstatic.com/s/librefranklin/v5/jizBREVItHgc8qDIbSTKq4XkRiUa6zUTjg.woff2) format("woff2"),url(//fonts.gstatic.com/s/librefranklin/v5/jizBREVItHgc8qDIbSTKq4XkRiUa6zsTiA.woff) format("woff");
+}
+@font-face {
+          font-family: "Libre Franklin";
+          font-style: italic;
+          font-weight: 500;
+          src: local("Libre Franklin Medium Italic"),local(LibreFranklin-MediumItalic),url(//fonts.gstatic.com/s/librefranklin/v5/jizGREVItHgc8qDIbSTKq4XkRiUa48Ywm1fpiQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/librefranklin/v5/jizGREVItHgc8qDIbSTKq4XkRiUa48Ywm1npjQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/librefranklin/v5/jizGREVItHgc8qDIbSTKq4XkRiUa48Ywm1fpiw.woff) format("woff");
+}
+@font-face {
+          font-family: "Libre Franklin";
+          font-style: italic;
+          font-weight: 600;
+          src: local("Libre Franklin SemiBold Italic"),local(LibreFranklin-SemiBoldItalic),url(//fonts.gstatic.com/s/librefranklin/v5/jizGREVItHgc8qDIbSTKq4XkRiUa4-o3m1fpiQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/librefranklin/v5/jizGREVItHgc8qDIbSTKq4XkRiUa4-o3m1npjQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/librefranklin/v5/jizGREVItHgc8qDIbSTKq4XkRiUa4-o3m1fpiw.woff) format("woff");
+}
+@font-face {
+          font-family: "Libre Franklin";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Libre Franklin Bold Italic"),local(LibreFranklin-BoldItalic),url(//fonts.gstatic.com/s/librefranklin/v5/jizGREVItHgc8qDIbSTKq4XkRiUa4442m1fpiQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/librefranklin/v5/jizGREVItHgc8qDIbSTKq4XkRiUa4442m1npjQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/librefranklin/v5/jizGREVItHgc8qDIbSTKq4XkRiUa4442m1fpiw.woff) format("woff");
+}
+@font-face {
+          font-family: "Libre Franklin";
+          font-style: italic;
+          font-weight: 800;
+          src: local("Libre Franklin ExtraBold Italic"),local(LibreFranklin-ExtraBoldItalic),url(//fonts.gstatic.com/s/librefranklin/v5/jizGREVItHgc8qDIbSTKq4XkRiUa45I1m1fpiQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/librefranklin/v5/jizGREVItHgc8qDIbSTKq4XkRiUa45I1m1npjQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/librefranklin/v5/jizGREVItHgc8qDIbSTKq4XkRiUa45I1m1fpiw.woff) format("woff");
+}
+@font-face {
+          font-family: "Libre Franklin";
+          font-style: italic;
+          font-weight: 900;
+          src: local("Libre Franklin Black Italic"),local(LibreFranklin-BlackItalic),url(//fonts.gstatic.com/s/librefranklin/v5/jizGREVItHgc8qDIbSTKq4XkRiUa47Y0m1fpiQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/librefranklin/v5/jizGREVItHgc8qDIbSTKq4XkRiUa47Y0m1npjQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/librefranklin/v5/jizGREVItHgc8qDIbSTKq4XkRiUa47Y0m1fpiw.woff) format("woff");
+}
+@font-face {
+          font-family: "Libre Franklin";
+          font-style: normal;
+          font-weight: 100;
+          src: local("Libre Franklin Thin"),local(LibreFranklin-Thin),url(//fonts.gstatic.com/s/librefranklin/v5/jizBREVItHgc8qDIbSTKq4XkRi186zsTig.eot?#) format("eot"),url(//fonts.gstatic.com/s/librefranklin/v5/jizBREVItHgc8qDIbSTKq4XkRi186zUTjg.woff2) format("woff2"),url(//fonts.gstatic.com/s/librefranklin/v5/jizBREVItHgc8qDIbSTKq4XkRi186zsTiA.woff) format("woff");
+}
+@font-face {
+          font-family: "Libre Franklin";
+          font-style: normal;
+          font-weight: 200;
+          src: local("Libre Franklin ExtraLight"),local(LibreFranklin-ExtraLight),url(//fonts.gstatic.com/s/librefranklin/v5/jizAREVItHgc8qDIbSTKq4XkRi3Q-iI6q18.eot?#) format("eot"),url(//fonts.gstatic.com/s/librefranklin/v5/jizAREVItHgc8qDIbSTKq4XkRi3Q-iI0q1s.woff2) format("woff2"),url(//fonts.gstatic.com/s/librefranklin/v5/jizAREVItHgc8qDIbSTKq4XkRi3Q-iI6q10.woff) format("woff");
+}
+@font-face {
+          font-family: "Libre Franklin";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Libre Franklin Light"),local(LibreFranklin-Light),url(//fonts.gstatic.com/s/librefranklin/v5/jizAREVItHgc8qDIbSTKq4XkRi20-SI6q18.eot?#) format("eot"),url(//fonts.gstatic.com/s/librefranklin/v5/jizAREVItHgc8qDIbSTKq4XkRi20-SI0q1s.woff2) format("woff2"),url(//fonts.gstatic.com/s/librefranklin/v5/jizAREVItHgc8qDIbSTKq4XkRi20-SI6q10.woff) format("woff");
+}
+@font-face {
+          font-family: "Libre Franklin";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Libre Franklin"),local(LibreFranklin-Regular),url(//fonts.gstatic.com/s/librefranklin/v5/jizDREVItHgc8qDIbSTKq4XkRiUR2zM.eot?#) format("eot"),url(//fonts.gstatic.com/s/librefranklin/v5/jizDREVItHgc8qDIbSTKq4XkRiUf2zc.woff2) format("woff2"),url(//fonts.gstatic.com/s/librefranklin/v5/jizDREVItHgc8qDIbSTKq4XkRiUR2zE.woff) format("woff");
+}
+@font-face {
+          font-family: "Libre Franklin";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Libre Franklin Medium"),local(LibreFranklin-Medium),url(//fonts.gstatic.com/s/librefranklin/v5/jizAREVItHgc8qDIbSTKq4XkRi3s-CI6q18.eot?#) format("eot"),url(//fonts.gstatic.com/s/librefranklin/v5/jizAREVItHgc8qDIbSTKq4XkRi3s-CI0q1s.woff2) format("woff2"),url(//fonts.gstatic.com/s/librefranklin/v5/jizAREVItHgc8qDIbSTKq4XkRi3s-CI6q10.woff) format("woff");
+}
+@font-face {
+          font-family: "Libre Franklin";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Libre Franklin SemiBold"),local(LibreFranklin-SemiBold),url(//fonts.gstatic.com/s/librefranklin/v5/jizAREVItHgc8qDIbSTKq4XkRi3A_yI6q18.eot?#) format("eot"),url(//fonts.gstatic.com/s/librefranklin/v5/jizAREVItHgc8qDIbSTKq4XkRi3A_yI0q1s.woff2) format("woff2"),url(//fonts.gstatic.com/s/librefranklin/v5/jizAREVItHgc8qDIbSTKq4XkRi3A_yI6q10.woff) format("woff");
+}
+@font-face {
+          font-family: "Libre Franklin";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Libre Franklin Bold"),local(LibreFranklin-Bold),url(//fonts.gstatic.com/s/librefranklin/v5/jizAREVItHgc8qDIbSTKq4XkRi2k_iI6q18.eot?#) format("eot"),url(//fonts.gstatic.com/s/librefranklin/v5/jizAREVItHgc8qDIbSTKq4XkRi2k_iI0q1s.woff2) format("woff2"),url(//fonts.gstatic.com/s/librefranklin/v5/jizAREVItHgc8qDIbSTKq4XkRi2k_iI6q10.woff) format("woff");
+}
+@font-face {
+          font-family: "Libre Franklin";
+          font-style: normal;
+          font-weight: 800;
+          src: local("Libre Franklin ExtraBold"),local(LibreFranklin-ExtraBold),url(//fonts.gstatic.com/s/librefranklin/v5/jizAREVItHgc8qDIbSTKq4XkRi24_SI6q18.eot?#) format("eot"),url(//fonts.gstatic.com/s/librefranklin/v5/jizAREVItHgc8qDIbSTKq4XkRi24_SI0q1s.woff2) format("woff2"),url(//fonts.gstatic.com/s/librefranklin/v5/jizAREVItHgc8qDIbSTKq4XkRi24_SI6q10.woff) format("woff");
+}
+@font-face {
+          font-family: "Libre Franklin";
+          font-style: normal;
+          font-weight: 900;
+          src: local("Libre Franklin Black"),local(LibreFranklin-Black),url(//fonts.gstatic.com/s/librefranklin/v5/jizAREVItHgc8qDIbSTKq4XkRi2c_CI6q18.eot?#) format("eot"),url(//fonts.gstatic.com/s/librefranklin/v5/jizAREVItHgc8qDIbSTKq4XkRi2c_CI0q1s.woff2) format("woff2"),url(//fonts.gstatic.com/s/librefranklin/v5/jizAREVItHgc8qDIbSTKq4XkRi2c_CI6q10.woff) format("woff");
+}
+.u-font-libre-franklin-100 {
+          font-family: 'Libre Franklin' !important;
+          font-weight: 100 !important;
+}
+.u-font-libre-franklin-200 {
+          font-family: 'Libre Franklin' !important;
+          font-weight: 200 !important;
+}
+.u-font-libre-franklin-300 {
+          font-family: 'Libre Franklin' !important;
+          font-weight: 300 !important;
+}
+.u-font-libre-franklin-400 {
+          font-family: 'Libre Franklin' !important;
+          font-weight: 400 !important;
+}
+.u-font-libre-franklin-500 {
+          font-family: 'Libre Franklin' !important;
+          font-weight: 500 !important;
+}
+.u-font-libre-franklin-600 {
+          font-family: 'Libre Franklin' !important;
+          font-weight: 600 !important;
+}
+.u-font-libre-franklin-700 {
+          font-family: 'Libre Franklin' !important;
+          font-weight: 700 !important;
+}
+.u-font-libre-franklin-800 {
+          font-family: 'Libre Franklin' !important;
+          font-weight: 800 !important;
+}
+.u-font-libre-franklin-900 {
+          font-family: 'Libre Franklin' !important;
+          font-weight: 900 !important;
+}
+.u-font-libre-franklin-100-italic {
+        font-family: 'Libre Franklin' !important;
+        font-weight: 100 !important;
+        font-style: italic !important;
+}
+.u-font-libre-franklin-200-italic {
+        font-family: 'Libre Franklin' !important;
+        font-weight: 200 !important;
+        font-style: italic !important;
+}
+.u-font-libre-franklin-300-italic {
+        font-family: 'Libre Franklin' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-libre-franklin-400-italic {
+        font-family: 'Libre Franklin' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-libre-franklin-500-italic {
+        font-family: 'Libre Franklin' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-libre-franklin-600-italic {
+        font-family: 'Libre Franklin' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-libre-franklin-700-italic {
+        font-family: 'Libre Franklin' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}
+.u-font-libre-franklin-800-italic {
+        font-family: 'Libre Franklin' !important;
+        font-weight: 800 !important;
+        font-style: italic !important;
+}
+.u-font-libre-franklin-900-italic {
+        font-family: 'Libre Franklin' !important;
+        font-weight: 900 !important;
+        font-style: italic !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Mr Dafoe";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Mr Dafoe Regular"),local(MrDafoe-Regular),url(//fonts.gstatic.com/s/mrdafoe/v9/lJwE-pIzkS5NXuMMrFijibY.eot?#) format("eot"),url(//fonts.gstatic.com/s/mrdafoe/v9/lJwE-pIzkS5NXuMMrFitibI.woff2) format("woff2"),url(//fonts.gstatic.com/s/mrdafoe/v9/lJwE-pIzkS5NXuMMrFijibQ.woff) format("woff");
+}
+.u-font-mr-dafoe-400 {
+          font-family: 'Mr Dafoe' !important;
+          font-weight: 400 !important;
+}

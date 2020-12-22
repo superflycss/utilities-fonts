@@ -1,0 +1,21 @@
+@font-face {
+          font-family: "IM Fell Great Primer";
+          font-style: italic;
+          font-weight: 400;
+          src: local("IM FELL Great Primer Italic"),local(IM_FELL_Great_Primer_Italic),url(//fonts.gstatic.com/s/imfellgreatprimer/v10/bx6UNwSJtayYxOkbYFsT6hMsLzX7u85rJrrVhjkfSQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/imfellgreatprimer/v10/bx6UNwSJtayYxOkbYFsT6hMsLzX7u85rJrrVhjkfTQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/imfellgreatprimer/v10/bx6UNwSJtayYxOkbYFsT6hMsLzX7u85rJrrVhjkfSw.woff) format("woff");
+}
+@font-face {
+          font-family: "IM Fell Great Primer";
+          font-style: normal;
+          font-weight: 400;
+          src: local("IM FELL Great Primer Roman"),local(IM_FELL_Great_Primer_Roman),url(//fonts.gstatic.com/s/imfellgreatprimer/v10/bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtj8.eot?#) format("eot"),url(//fonts.gstatic.com/s/imfellgreatprimer/v10/bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtjs.woff2) format("woff2"),url(//fonts.gstatic.com/s/imfellgreatprimer/v10/bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtj0.woff) format("woff");
+}
+.u-font-im-fell-great-primer-400 {
+          font-family: 'IM Fell Great Primer' !important;
+          font-weight: 400 !important;
+}
+.u-font-im-fell-great-primer-400-italic {
+        font-family: 'IM Fell Great Primer' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}

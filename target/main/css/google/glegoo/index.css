@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Glegoo;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Glegoo),local(Glegoo-Regular),url(//fonts.gstatic.com/s/glegoo/v10/_Xmt-HQyrTKWaw25gqOc.eot?#) format("eot"),url(//fonts.gstatic.com/s/glegoo/v10/_Xmt-HQyrTKWaw25jKOY.woff2) format("woff2"),url(//fonts.gstatic.com/s/glegoo/v10/_Xmt-HQyrTKWaw25gqOe.woff) format("woff");
+}
+@font-face {
+          font-family: Glegoo;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Glegoo Bold"),local(Glegoo-Bold),url(//fonts.gstatic.com/s/glegoo/v10/_Xmu-HQyrTKWaw2xN4aNAa5s.eot?#) format("eot"),url(//fonts.gstatic.com/s/glegoo/v10/_Xmu-HQyrTKWaw2xN4aND65o.woff2) format("woff2"),url(//fonts.gstatic.com/s/glegoo/v10/_Xmu-HQyrTKWaw2xN4aNAa5u.woff) format("woff");
+}
+.u-font-glegoo-400 {
+          font-family: 'Glegoo' !important;
+          font-weight: 400 !important;
+}
+.u-font-glegoo-700 {
+          font-family: 'Glegoo' !important;
+          font-weight: 700 !important;
+}

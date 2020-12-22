@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Dr Sugiyama";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Dr Sugiyama Regular"),local(DrSugiyama-Regular),url(//fonts.gstatic.com/s/drsugiyama/v10/HTxoL2k4N3O9n5I1boGI7ZbYOYo.eot?#) format("eot"),url(//fonts.gstatic.com/s/drsugiyama/v10/HTxoL2k4N3O9n5I1boGI7ZbWOY4.woff2) format("woff2"),url(//fonts.gstatic.com/s/drsugiyama/v10/HTxoL2k4N3O9n5I1boGI7ZbYOYg.woff) format("woff");
+}
+.u-font-dr-sugiyama-400 {
+          font-family: 'Dr Sugiyama' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Carme;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Carme Regular"),local(Carme),url(//fonts.gstatic.com/s/carme/v11/ptRHTiWdbvZIDNjBzrY.eot?#) format("eot"),url(//fonts.gstatic.com/s/carme/v11/ptRHTiWdbvZIDNjBzrI.woff2) format("woff2"),url(//fonts.gstatic.com/s/carme/v11/ptRHTiWdbvZIDNjBzrQ.woff) format("woff");
+}
+.u-font-carme-400 {
+          font-family: 'Carme' !important;
+          font-weight: 400 !important;
+}

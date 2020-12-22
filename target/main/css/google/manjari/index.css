@@ -1,0 +1,30 @@
+@font-face {
+          font-family: Manjari;
+          font-style: normal;
+          font-weight: 100;
+          src: local("Manjari Thin"),local(Manjari-Thin),url(//fonts.gstatic.com/s/manjari/v3/k3kSo8UPMOBO2w1UdbrYLGHA.eot?#) format("eot"),url(//fonts.gstatic.com/s/manjari/v3/k3kSo8UPMOBO2w1UdbrYLGHE.woff2) format("woff2"),url(//fonts.gstatic.com/s/manjari/v3/k3kSo8UPMOBO2w1UdbrYLGHC.woff) format("woff");
+}
+@font-face {
+          font-family: Manjari;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Manjari Regular"),local(Manjari-Regular),url(//fonts.gstatic.com/s/manjari/v3/k3kQo8UPMOBO2w1UfdnoKg.eot?#) format("eot"),url(//fonts.gstatic.com/s/manjari/v3/k3kQo8UPMOBO2w1UfdnoLg.woff2) format("woff2"),url(//fonts.gstatic.com/s/manjari/v3/k3kQo8UPMOBO2w1UfdnoKA.woff) format("woff");
+}
+@font-face {
+          font-family: Manjari;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Manjari Bold"),local(Manjari-Bold),url(//fonts.gstatic.com/s/manjari/v3/k3kVo8UPMOBO2w1UdWLNO0bhKA.eot?#) format("eot"),url(//fonts.gstatic.com/s/manjari/v3/k3kVo8UPMOBO2w1UdWLNO0bhLA.woff2) format("woff2"),url(//fonts.gstatic.com/s/manjari/v3/k3kVo8UPMOBO2w1UdWLNO0bhKg.woff) format("woff");
+}
+.u-font-manjari-100 {
+          font-family: 'Manjari' !important;
+          font-weight: 100 !important;
+}
+.u-font-manjari-400 {
+          font-family: 'Manjari' !important;
+          font-weight: 400 !important;
+}
+.u-font-manjari-700 {
+          font-family: 'Manjari' !important;
+          font-weight: 700 !important;
+}

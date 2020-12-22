@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Fauna One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Fauna One"),local(FaunaOne-Regular),url(//fonts.gstatic.com/s/faunaone/v8/wlpzgwTPBVpjpCuwkuEB0EZO.eot?#) format("eot"),url(//fonts.gstatic.com/s/faunaone/v8/wlpzgwTPBVpjpCuwkuEB3kZK.woff2) format("woff2"),url(//fonts.gstatic.com/s/faunaone/v8/wlpzgwTPBVpjpCuwkuEB0EZM.woff) format("woff");
+}
+.u-font-fauna-one-400 {
+          font-family: 'Fauna One' !important;
+          font-weight: 400 !important;
+}

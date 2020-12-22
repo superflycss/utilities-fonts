@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Nosifer;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Nosifer),local(Nosifer-Regular),url(//fonts.gstatic.com/s/nosifer/v9/ZGjXol5JTp0g5bxZWCRbUQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/nosifer/v9/ZGjXol5JTp0g5bxZWCpbVQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/nosifer/v9/ZGjXol5JTp0g5bxZWCRbUw.woff) format("woff");
+}
+.u-font-nosifer-400 {
+          font-family: 'Nosifer' !important;
+          font-weight: 400 !important;
+}

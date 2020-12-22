@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Snowburst One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Snowburst One"),local(SnowburstOne-Regular),url(//fonts.gstatic.com/s/snowburstone/v8/MQpS-WezKdujBsXY3B7I-UT7SZaeOg.eot?#) format("eot"),url(//fonts.gstatic.com/s/snowburstone/v8/MQpS-WezKdujBsXY3B7I-UT7SZiePg.woff2) format("woff2"),url(//fonts.gstatic.com/s/snowburstone/v8/MQpS-WezKdujBsXY3B7I-UT7SZaeOA.woff) format("woff");
+}
+.u-font-snowburst-one-400 {
+          font-family: 'Snowburst One' !important;
+          font-weight: 400 !important;
+}

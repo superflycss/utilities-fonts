@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Caveat Brush";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Caveat Brush"),local(CaveatBrush-Regular),url(//fonts.gstatic.com/s/caveatbrush/v6/EYq0maZfwr9S9-ETZc3fKXt8UrOW.eot?#) format("eot"),url(//fonts.gstatic.com/s/caveatbrush/v6/EYq0maZfwr9S9-ETZc3fKXt8XLOS.woff2) format("woff2"),url(//fonts.gstatic.com/s/caveatbrush/v6/EYq0maZfwr9S9-ETZc3fKXt8UrOU.woff) format("woff");
+}
+.u-font-caveat-brush-400 {
+          font-family: 'Caveat Brush' !important;
+          font-weight: 400 !important;
+}

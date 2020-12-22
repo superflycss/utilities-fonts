@@ -1,0 +1,105 @@
+@font-face {
+          font-family: Alegreya;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Alegreya Italic"),local(Alegreya-Italic),url(//fonts.gstatic.com/s/alegreya/v15/4UaHrEBBsBhlBjvfkSLk96Tp4w.eot?#) format("eot"),url(//fonts.gstatic.com/s/alegreya/v15/4UaHrEBBsBhlBjvfkSLk96rp5w.woff2) format("woff2"),url(//fonts.gstatic.com/s/alegreya/v15/4UaHrEBBsBhlBjvfkSLk96Tp4Q.woff) format("woff");
+}
+@font-face {
+          font-family: Alegreya;
+          font-style: italic;
+          font-weight: 500;
+          src: local("Alegreya Medium Italic"),local(Alegreya-MediumItalic),url(//fonts.gstatic.com/s/alegreya/v15/4UaErEBBsBhlBjvfkSLk_1nK8pJUKg.eot?#) format("eot"),url(//fonts.gstatic.com/s/alegreya/v15/4UaErEBBsBhlBjvfkSLk_1nK8pxULg.woff2) format("woff2"),url(//fonts.gstatic.com/s/alegreya/v15/4UaErEBBsBhlBjvfkSLk_1nK8pJUKA.woff) format("woff");
+}
+@font-face {
+          font-family: Alegreya;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Alegreya Bold Italic"),local(Alegreya-BoldItalic),url(//fonts.gstatic.com/s/alegreya/v15/4UaErEBBsBhlBjvfkSLk_xHM8pJUKg.eot?#) format("eot"),url(//fonts.gstatic.com/s/alegreya/v15/4UaErEBBsBhlBjvfkSLk_xHM8pxULg.woff2) format("woff2"),url(//fonts.gstatic.com/s/alegreya/v15/4UaErEBBsBhlBjvfkSLk_xHM8pJUKA.woff) format("woff");
+}
+@font-face {
+          font-family: Alegreya;
+          font-style: italic;
+          font-weight: 800;
+          src: local("Alegreya ExtraBold Italic"),local(Alegreya-ExtraBoldItalic),url(//fonts.gstatic.com/s/alegreya/v15/4UaErEBBsBhlBjvfkSLk_w3P8pJUKg.eot?#) format("eot"),url(//fonts.gstatic.com/s/alegreya/v15/4UaErEBBsBhlBjvfkSLk_w3P8pxULg.woff2) format("woff2"),url(//fonts.gstatic.com/s/alegreya/v15/4UaErEBBsBhlBjvfkSLk_w3P8pJUKA.woff) format("woff");
+}
+@font-face {
+          font-family: Alegreya;
+          font-style: italic;
+          font-weight: 900;
+          src: local("Alegreya Black Italic"),local(Alegreya-BlackItalic),url(//fonts.gstatic.com/s/alegreya/v15/4UaErEBBsBhlBjvfkSLk_ynO8pJUKg.eot?#) format("eot"),url(//fonts.gstatic.com/s/alegreya/v15/4UaErEBBsBhlBjvfkSLk_ynO8pxULg.woff2) format("woff2"),url(//fonts.gstatic.com/s/alegreya/v15/4UaErEBBsBhlBjvfkSLk_ynO8pJUKA.woff) format("woff");
+}
+@font-face {
+          font-family: Alegreya;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Alegreya Regular"),local(Alegreya-Regular),url(//fonts.gstatic.com/s/alegreya/v15/4UaBrEBBsBhlBjvfkSLvx6w.eot?#) format("eot"),url(//fonts.gstatic.com/s/alegreya/v15/4UaBrEBBsBhlBjvfkSLhx6g.woff2) format("woff2"),url(//fonts.gstatic.com/s/alegreya/v15/4UaBrEBBsBhlBjvfkSLvx64.woff) format("woff");
+}
+@font-face {
+          font-family: Alegreya;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Alegreya Medium"),local(Alegreya-Medium),url(//fonts.gstatic.com/s/alegreya/v15/4UaGrEBBsBhlBjvfkSoS5L3Awpo.eot?#) format("eot"),url(//fonts.gstatic.com/s/alegreya/v15/4UaGrEBBsBhlBjvfkSoS5L3Owp4.woff2) format("woff2"),url(//fonts.gstatic.com/s/alegreya/v15/4UaGrEBBsBhlBjvfkSoS5L3Awpg.woff) format("woff");
+}
+@font-face {
+          font-family: Alegreya;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Alegreya Bold"),local(Alegreya-Bold),url(//fonts.gstatic.com/s/alegreya/v15/4UaGrEBBsBhlBjvfkSpa4r3Awpo.eot?#) format("eot"),url(//fonts.gstatic.com/s/alegreya/v15/4UaGrEBBsBhlBjvfkSpa4r3Owp4.woff2) format("woff2"),url(//fonts.gstatic.com/s/alegreya/v15/4UaGrEBBsBhlBjvfkSpa4r3Awpg.woff) format("woff");
+}
+@font-face {
+          font-family: Alegreya;
+          font-style: normal;
+          font-weight: 800;
+          src: local("Alegreya ExtraBold"),local(Alegreya-ExtraBold),url(//fonts.gstatic.com/s/alegreya/v15/4UaGrEBBsBhlBjvfkSpG4b3Awpo.eot?#) format("eot"),url(//fonts.gstatic.com/s/alegreya/v15/4UaGrEBBsBhlBjvfkSpG4b3Owp4.woff2) format("woff2"),url(//fonts.gstatic.com/s/alegreya/v15/4UaGrEBBsBhlBjvfkSpG4b3Awpg.woff) format("woff");
+}
+@font-face {
+          font-family: Alegreya;
+          font-style: normal;
+          font-weight: 900;
+          src: local("Alegreya Black"),local(Alegreya-Black),url(//fonts.gstatic.com/s/alegreya/v15/4UaGrEBBsBhlBjvfkSpi4L3Awpo.eot?#) format("eot"),url(//fonts.gstatic.com/s/alegreya/v15/4UaGrEBBsBhlBjvfkSpi4L3Owp4.woff2) format("woff2"),url(//fonts.gstatic.com/s/alegreya/v15/4UaGrEBBsBhlBjvfkSpi4L3Awpg.woff) format("woff");
+}
+.u-font-alegreya-400 {
+          font-family: 'Alegreya' !important;
+          font-weight: 400 !important;
+}
+.u-font-alegreya-400-italic {
+        font-family: 'Alegreya' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-alegreya-500 {
+          font-family: 'Alegreya' !important;
+          font-weight: 500 !important;
+}
+.u-font-alegreya-500-italic {
+        font-family: 'Alegreya' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-alegreya-700 {
+          font-family: 'Alegreya' !important;
+          font-weight: 700 !important;
+}
+.u-font-alegreya-700-italic {
+        font-family: 'Alegreya' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}
+.u-font-alegreya-800 {
+          font-family: 'Alegreya' !important;
+          font-weight: 800 !important;
+}
+.u-font-alegreya-800-italic {
+        font-family: 'Alegreya' !important;
+        font-weight: 800 !important;
+        font-style: italic !important;
+}
+.u-font-alegreya-900 {
+          font-family: 'Alegreya' !important;
+          font-weight: 900 !important;
+}
+.u-font-alegreya-900-italic {
+        font-family: 'Alegreya' !important;
+        font-weight: 900 !important;
+        font-style: italic !important;
+}

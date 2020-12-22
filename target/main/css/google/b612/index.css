@@ -1,0 +1,42 @@
+@font-face {
+          font-family: B612;
+          font-style: italic;
+          font-weight: 400;
+          src: local("B612 Italic"),local(B612-Italic),url(//fonts.gstatic.com/s/b612/v5/3Jn8SDDxiSz36juCGxCg.eot?#) format("eot"),url(//fonts.gstatic.com/s/b612/v5/3Jn8SDDxiSz36juCGxCk.woff2) format("woff2"),url(//fonts.gstatic.com/s/b612/v5/3Jn8SDDxiSz36juCGxCi.woff) format("woff");
+}
+@font-face {
+          font-family: B612;
+          font-style: italic;
+          font-weight: 700;
+          src: local("B612 Bold Italic"),local(B612-BoldItalic),url(//fonts.gstatic.com/s/b612/v5/3Jn_SDDxiSz36juKoDWxTl0E.eot?#) format("eot"),url(//fonts.gstatic.com/s/b612/v5/3Jn_SDDxiSz36juKoDWxTl0A.woff2) format("woff2"),url(//fonts.gstatic.com/s/b612/v5/3Jn_SDDxiSz36juKoDWxTl0G.woff) format("woff");
+}
+@font-face {
+          font-family: B612;
+          font-style: normal;
+          font-weight: 400;
+          src: local("B612 Regular"),local(B612-Regular),url(//fonts.gstatic.com/s/b612/v5/3JnySDDxiSz36j6yHQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/b612/v5/3JnySDDxiSz36j6yGQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/b612/v5/3JnySDDxiSz36j6yHw.woff) format("woff");
+}
+@font-face {
+          font-family: B612;
+          font-style: normal;
+          font-weight: 700;
+          src: local("B612 Bold"),local(B612-Bold),url(//fonts.gstatic.com/s/b612/v5/3Jn9SDDxiSz34oWXDDeBSA.eot?#) format("eot"),url(//fonts.gstatic.com/s/b612/v5/3Jn9SDDxiSz34oWXDDeBTA.woff2) format("woff2"),url(//fonts.gstatic.com/s/b612/v5/3Jn9SDDxiSz34oWXDDeBSg.woff) format("woff");
+}
+.u-font-b612-400 {
+          font-family: 'B612' !important;
+          font-weight: 400 !important;
+}
+.u-font-b612-400-italic {
+        font-family: 'B612' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-b612-700 {
+          font-family: 'B612' !important;
+          font-weight: 700 !important;
+}
+.u-font-b612-700-italic {
+        font-family: 'B612' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

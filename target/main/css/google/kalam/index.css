@@ -1,0 +1,30 @@
+@font-face {
+          font-family: Kalam;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Kalam Light"),local(Kalam-Light),url(//fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtD6GjLCkiA.eot?#) format("eot"),url(//fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtD6GjLMkiQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtD6GjLCkiI.woff) format("woff");
+}
+@font-face {
+          font-family: Kalam;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Kalam),local(Kalam-Regular),url(//fonts.gstatic.com/s/kalam/v11/YA9dr0Wd4kDdMthfOCM.eot?#) format("eot"),url(//fonts.gstatic.com/s/kalam/v11/YA9dr0Wd4kDdMthROCc.woff2) format("woff2"),url(//fonts.gstatic.com/s/kalam/v11/YA9dr0Wd4kDdMthfOCE.woff) format("woff");
+}
+@font-face {
+          font-family: Kalam;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Kalam Bold"),local(Kalam-Bold),url(//fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtDqHTLCkiA.eot?#) format("eot"),url(//fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtDqHTLMkiQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtDqHTLCkiI.woff) format("woff");
+}
+.u-font-kalam-300 {
+          font-family: 'Kalam' !important;
+          font-weight: 300 !important;
+}
+.u-font-kalam-400 {
+          font-family: 'Kalam' !important;
+          font-weight: 400 !important;
+}
+.u-font-kalam-700 {
+          font-family: 'Kalam' !important;
+          font-weight: 700 !important;
+}

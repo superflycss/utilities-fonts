@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Nova Mono";
+          font-style: normal;
+          font-weight: 400;
+          src: local(NovaMono),url(//fonts.gstatic.com/s/novamono/v11/Cn-0JtiGWQ5Ajb--MRKvZ2Zd.eot?#) format("eot"),url(//fonts.gstatic.com/s/novamono/v11/Cn-0JtiGWQ5Ajb--MRKvZ2ZZ.woff2) format("woff2"),url(//fonts.gstatic.com/s/novamono/v11/Cn-0JtiGWQ5Ajb--MRKvZ2Zf.woff) format("woff");
+}
+.u-font-nova-mono-400 {
+          font-family: 'Nova Mono' !important;
+          font-weight: 400 !important;
+}

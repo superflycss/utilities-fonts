@@ -1,0 +1,10 @@
+@font-face {
+          font-family: VT323;
+          font-style: normal;
+          font-weight: 400;
+          src: local("VT323 Regular"),local(VT323-Regular),url(//fonts.gstatic.com/s/vt323/v12/pxiKyp0ihIEF2isRFJE.eot?#) format("eot"),url(//fonts.gstatic.com/s/vt323/v12/pxiKyp0ihIEF2isfFJU.woff2) format("woff2"),url(//fonts.gstatic.com/s/vt323/v12/pxiKyp0ihIEF2isRFJM.woff) format("woff");
+}
+.u-font-vt323-400 {
+          font-family: 'VT323' !important;
+          font-weight: 400 !important;
+}

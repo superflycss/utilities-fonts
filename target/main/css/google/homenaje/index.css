@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Homenaje;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Homenaje Regular"),local(Homenaje-Regular),url(//fonts.gstatic.com/s/homenaje/v10/FwZY7-Q-xVAi_l-6Le6H6M0.eot?#) format("eot"),url(//fonts.gstatic.com/s/homenaje/v10/FwZY7-Q-xVAi_l-6Le6H6Mk.woff2) format("woff2"),url(//fonts.gstatic.com/s/homenaje/v10/FwZY7-Q-xVAi_l-6Le6H6M8.woff) format("woff");
+}
+.u-font-homenaje-400 {
+          font-family: 'Homenaje' !important;
+          font-weight: 400 !important;
+}

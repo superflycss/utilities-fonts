@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Strait;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Strait),local(Strait-Regular),url(//fonts.gstatic.com/s/strait/v8/DtViJxy6WaEr1LZDfzJo.eot?#) format("eot"),url(//fonts.gstatic.com/s/strait/v8/DtViJxy6WaEr1LZDfzJs.woff2) format("woff2"),url(//fonts.gstatic.com/s/strait/v8/DtViJxy6WaEr1LZDfzJq.woff) format("woff");
+}
+.u-font-strait-400 {
+          font-family: 'Strait' !important;
+          font-weight: 400 !important;
+}

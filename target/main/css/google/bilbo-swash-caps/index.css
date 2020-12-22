@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Bilbo Swash Caps";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Bilbo Swash Caps Regular"),local(BilboSwashCaps-Regular),url(//fonts.gstatic.com/s/bilboswashcaps/v13/zrf-0GXbz-H3Wb4XBsGrTgq2PVmdmAriow.eot?#) format("eot"),url(//fonts.gstatic.com/s/bilboswashcaps/v13/zrf-0GXbz-H3Wb4XBsGrTgq2PVmdmATipw.woff2) format("woff2"),url(//fonts.gstatic.com/s/bilboswashcaps/v13/zrf-0GXbz-H3Wb4XBsGrTgq2PVmdmArioQ.woff) format("woff");
+}
+.u-font-bilbo-swash-caps-400 {
+          font-family: 'Bilbo Swash Caps' !important;
+          font-weight: 400 !important;
+}

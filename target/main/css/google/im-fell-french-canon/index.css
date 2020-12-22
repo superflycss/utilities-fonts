@@ -1,0 +1,21 @@
+@font-face {
+          font-family: "IM Fell French Canon";
+          font-style: italic;
+          font-weight: 400;
+          src: local("IM FELL French Canon Italic"),local(IM_FELL_French_Canon_Italic),url(//fonts.gstatic.com/s/imfellfrenchcanon/v10/-F6gfiNtDWYfYc-tDiyiw08rrghJszkK6foXBN5Azg.eot?#) format("eot"),url(//fonts.gstatic.com/s/imfellfrenchcanon/v10/-F6gfiNtDWYfYc-tDiyiw08rrghJszkK6foXBN5Ayg.woff2) format("woff2"),url(//fonts.gstatic.com/s/imfellfrenchcanon/v10/-F6gfiNtDWYfYc-tDiyiw08rrghJszkK6foXBN5AzA.woff) format("woff");
+}
+@font-face {
+          font-family: "IM Fell French Canon";
+          font-style: normal;
+          font-weight: 400;
+          src: local("IM FELL French Canon Roman"),local(IM_FELL_French_Canon_Roman),url(//fonts.gstatic.com/s/imfellfrenchcanon/v10/-F6ufiNtDWYfYc-tDiyiw08rrghJszkK6foSNNg.eot?#) format("eot"),url(//fonts.gstatic.com/s/imfellfrenchcanon/v10/-F6ufiNtDWYfYc-tDiyiw08rrghJszkK6foSNNw.woff2) format("woff2"),url(//fonts.gstatic.com/s/imfellfrenchcanon/v10/-F6ufiNtDWYfYc-tDiyiw08rrghJszkK6foSNNo.woff) format("woff");
+}
+.u-font-im-fell-french-canon-400 {
+          font-family: 'IM Fell French Canon' !important;
+          font-weight: 400 !important;
+}
+.u-font-im-fell-french-canon-400-italic {
+        font-family: 'IM Fell French Canon' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}

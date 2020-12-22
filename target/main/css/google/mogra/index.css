@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Mogra;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Mogra Regular"),local(Mogra-Regular),url(//fonts.gstatic.com/s/mogra/v7/f0X40eSs8c95TCoxBPc.eot?#) format("eot"),url(//fonts.gstatic.com/s/mogra/v7/f0X40eSs8c95TCo_BPM.woff2) format("woff2"),url(//fonts.gstatic.com/s/mogra/v7/f0X40eSs8c95TCoxBPU.woff) format("woff");
+}
+.u-font-mogra-400 {
+          font-family: 'Mogra' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Goblin One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Goblin One"),local(GoblinOne),url(//fonts.gstatic.com/s/goblinone/v10/CSR64z1ZnOqZRjRCBVY_fOAKSQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/goblinone/v10/CSR64z1ZnOqZRjRCBVY_fOAKTQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/goblinone/v10/CSR64z1ZnOqZRjRCBVY_fOAKSw.woff) format("woff");
+}
+.u-font-goblin-one-400 {
+          font-family: 'Goblin One' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Gruppo;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Gruppo),url(//fonts.gstatic.com/s/gruppo/v11/WwkfxPmzE06v_ZW1UHrF.eot?#) format("eot"),url(//fonts.gstatic.com/s/gruppo/v11/WwkfxPmzE06v_ZW1XnrB.woff2) format("woff2"),url(//fonts.gstatic.com/s/gruppo/v11/WwkfxPmzE06v_ZW1UHrH.woff) format("woff");
+}
+.u-font-gruppo-400 {
+          font-family: 'Gruppo' !important;
+          font-weight: 400 !important;
+}

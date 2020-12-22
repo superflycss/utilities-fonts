@@ -1,0 +1,63 @@
+@font-face {
+          font-family: Aleo;
+          font-style: italic;
+          font-weight: 300;
+          src: local("Aleo Light Italic"),local(Aleo-LightItalic),url(//fonts.gstatic.com/s/aleo/v4/c4mi1nF8G8_swAjxeDd5k6d8.eot?#) format("eot"),url(//fonts.gstatic.com/s/aleo/v4/c4mi1nF8G8_swAjxeDd5nad4.woff2) format("woff2"),url(//fonts.gstatic.com/s/aleo/v4/c4mi1nF8G8_swAjxeDd5k6d-.woff) format("woff");
+}
+@font-face {
+          font-family: Aleo;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Aleo Italic"),local(Aleo-Italic),url(//fonts.gstatic.com/s/aleo/v4/c4mh1nF8G8_swAj53RVo.eot?#) format("eot"),url(//fonts.gstatic.com/s/aleo/v4/c4mh1nF8G8_swAj50xVs.woff2) format("woff2"),url(//fonts.gstatic.com/s/aleo/v4/c4mh1nF8G8_swAj53RVq.woff) format("woff");
+}
+@font-face {
+          font-family: Aleo;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Aleo Bold Italic"),local(Aleo-BoldItalic),url(//fonts.gstatic.com/s/aleo/v4/c4mi1nF8G8_swAjxaDB5k6d8.eot?#) format("eot"),url(//fonts.gstatic.com/s/aleo/v4/c4mi1nF8G8_swAjxaDB5nad4.woff2) format("woff2"),url(//fonts.gstatic.com/s/aleo/v4/c4mi1nF8G8_swAjxaDB5k6d-.woff) format("woff");
+}
+@font-face {
+          font-family: Aleo;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Aleo Light"),local(Aleo-Light),url(//fonts.gstatic.com/s/aleo/v4/c4mg1nF8G8_syKbrxDxJmw.eot?#) format("eot"),url(//fonts.gstatic.com/s/aleo/v4/c4mg1nF8G8_syKbrxDJJnw.woff2) format("woff2"),url(//fonts.gstatic.com/s/aleo/v4/c4mg1nF8G8_syKbrxDxJmQ.woff) format("woff");
+}
+@font-face {
+          font-family: Aleo;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Aleo Regular"),local(Aleo-Regular),url(//fonts.gstatic.com/s/aleo/v4/c4mv1nF8G8_swAPJ1Q.eot?#) format("eot"),url(//fonts.gstatic.com/s/aleo/v4/c4mv1nF8G8_swA3J0Q.woff2) format("woff2"),url(//fonts.gstatic.com/s/aleo/v4/c4mv1nF8G8_swAPJ1w.woff) format("woff");
+}
+@font-face {
+          font-family: Aleo;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Aleo Bold"),local(Aleo-Bold),url(//fonts.gstatic.com/s/aleo/v4/c4mg1nF8G8_syLbsxDxJmw.eot?#) format("eot"),url(//fonts.gstatic.com/s/aleo/v4/c4mg1nF8G8_syLbsxDJJnw.woff2) format("woff2"),url(//fonts.gstatic.com/s/aleo/v4/c4mg1nF8G8_syLbsxDxJmQ.woff) format("woff");
+}
+.u-font-aleo-300 {
+          font-family: 'Aleo' !important;
+          font-weight: 300 !important;
+}
+.u-font-aleo-300-italic {
+        font-family: 'Aleo' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-aleo-400 {
+          font-family: 'Aleo' !important;
+          font-weight: 400 !important;
+}
+.u-font-aleo-400-italic {
+        font-family: 'Aleo' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-aleo-700 {
+          font-family: 'Aleo' !important;
+          font-weight: 700 !important;
+}
+.u-font-aleo-700-italic {
+        font-family: 'Aleo' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

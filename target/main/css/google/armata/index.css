@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Armata;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Armata Regular"),local(Armata-Regular),url(//fonts.gstatic.com/s/armata/v12/gokvH63_HV5jQ-ENnTRy.eot?#) format("eot"),url(//fonts.gstatic.com/s/armata/v12/gokvH63_HV5jQ-ENkzR2.woff2) format("woff2"),url(//fonts.gstatic.com/s/armata/v12/gokvH63_HV5jQ-ENnTRw.woff) format("woff");
+}
+.u-font-armata-400 {
+          font-family: 'Armata' !important;
+          font-weight: 400 !important;
+}

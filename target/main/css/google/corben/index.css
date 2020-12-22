@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Corben;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Corben Regular"),local(Corben-Regular),url(//fonts.gstatic.com/s/corben/v14/LYjDdGzzklQtCMpNqQNB.eot?#) format("eot"),url(//fonts.gstatic.com/s/corben/v14/LYjDdGzzklQtCMpNpwNF.woff2) format("woff2"),url(//fonts.gstatic.com/s/corben/v14/LYjDdGzzklQtCMpNqQND.woff) format("woff");
+}
+@font-face {
+          font-family: Corben;
+          font-style: normal;
+          font-weight: 700;
+          src: local(Corben),url(//fonts.gstatic.com/s/corben/v14/LYjAdGzzklQtCMpFHCZQpHou.eot?#) format("eot"),url(//fonts.gstatic.com/s/corben/v14/LYjAdGzzklQtCMpFHCZQqnoq.woff2) format("woff2"),url(//fonts.gstatic.com/s/corben/v14/LYjAdGzzklQtCMpFHCZQpHos.woff) format("woff");
+}
+.u-font-corben-400 {
+          font-family: 'Corben' !important;
+          font-weight: 400 !important;
+}
+.u-font-corben-700 {
+          font-family: 'Corben' !important;
+          font-weight: 700 !important;
+}

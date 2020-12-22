@@ -1,0 +1,50 @@
+@font-face {
+          font-family: "Cormorant SC";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Cormorant SC Light"),local(CormorantSC-Light),url(//fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmABIk9Bf3.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmABIk-hfz.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmABIk9Bf1.woff) format("woff");
+}
+@font-face {
+          font-family: "Cormorant SC";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Cormorant SC Regular"),local(CormorantSC-Regular),url(//fonts.gstatic.com/s/cormorantsc/v10/0yb5GD4kxqXBmOVLG30OGwsupTA1.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantsc/v10/0yb5GD4kxqXBmOVLG30OGwsuqzAx.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantsc/v10/0yb5GD4kxqXBmOVLG30OGwsupTA3.woff) format("woff");
+}
+@font-face {
+          font-family: "Cormorant SC";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Cormorant SC Medium"),local(CormorantSC-Medium),url(//fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmWBMk9Bf3.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmWBMk-hfz.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmWBMk9Bf1.woff) format("woff");
+}
+@font-face {
+          font-family: "Cormorant SC";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Cormorant SC SemiBold"),local(CormorantSC-SemiBold),url(//fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmdBQk9Bf3.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmdBQk-hfz.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmdBQk9Bf1.woff) format("woff");
+}
+@font-face {
+          font-family: "Cormorant SC";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Cormorant SC Bold"),local(CormorantSC-Bold),url(//fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmEBUk9Bf3.eot?#) format("eot"),url(//fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmEBUk-hfz.woff2) format("woff2"),url(//fonts.gstatic.com/s/cormorantsc/v10/0ybmGD4kxqXBmOVLG30OGwsmEBUk9Bf1.woff) format("woff");
+}
+.u-font-cormorant-sc-300 {
+          font-family: 'Cormorant SC' !important;
+          font-weight: 300 !important;
+}
+.u-font-cormorant-sc-400 {
+          font-family: 'Cormorant SC' !important;
+          font-weight: 400 !important;
+}
+.u-font-cormorant-sc-500 {
+          font-family: 'Cormorant SC' !important;
+          font-weight: 500 !important;
+}
+.u-font-cormorant-sc-600 {
+          font-family: 'Cormorant SC' !important;
+          font-weight: 600 !important;
+}
+.u-font-cormorant-sc-700 {
+          font-family: 'Cormorant SC' !important;
+          font-weight: 700 !important;
+}

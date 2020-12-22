@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Capriola;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Capriola Regular"),local(Capriola-Regular),url(//fonts.gstatic.com/s/capriola/v8/wXKoE3YSppcvo1PDlk_1JeU.eot?#) format("eot"),url(//fonts.gstatic.com/s/capriola/v8/wXKoE3YSppcvo1PDlk_7JeE.woff2) format("woff2"),url(//fonts.gstatic.com/s/capriola/v8/wXKoE3YSppcvo1PDlk_1Jec.woff) format("woff");
+}
+.u-font-capriola-400 {
+          font-family: 'Capriola' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Sarala;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Sarala),local(Sarala-Regular),url(//fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9hAxcW.eot?#) format("eot"),url(//fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9hDRcS.woff2) format("woff2"),url(//fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9hAxcU.woff) format("woff");
+}
+@font-face {
+          font-family: Sarala;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Sarala Bold"),local(Sarala-Bold),url(//fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjIHM9-d.eot?#) format("eot"),url(//fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjIHPd-Z.woff2) format("woff2"),url(//fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjIHM9-f.woff) format("woff");
+}
+.u-font-sarala-400 {
+          font-family: 'Sarala' !important;
+          font-weight: 400 !important;
+}
+.u-font-sarala-700 {
+          font-family: 'Sarala' !important;
+          font-weight: 700 !important;
+}

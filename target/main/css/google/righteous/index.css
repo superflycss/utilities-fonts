@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Righteous;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Righteous),local(Righteous-Regular),url(//fonts.gstatic.com/s/righteous/v9/1cXxaUPXBpj2rGoU7C9WhnGB.eot?#) format("eot"),url(//fonts.gstatic.com/s/righteous/v9/1cXxaUPXBpj2rGoU7C9WiHGF.woff2) format("woff2"),url(//fonts.gstatic.com/s/righteous/v9/1cXxaUPXBpj2rGoU7C9WhnGD.woff) format("woff");
+}
+.u-font-righteous-400 {
+          font-family: 'Righteous' !important;
+          font-weight: 400 !important;
+}

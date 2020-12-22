@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Bilbo;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Bilbo Regular"),local(Bilbo-Regular),url(//fonts.gstatic.com/s/bilbo/v10/o-0EIpgpwWwZ220oroE.eot?#) format("eot"),url(//fonts.gstatic.com/s/bilbo/v10/o-0EIpgpwWwZ220mroU.woff2) format("woff2"),url(//fonts.gstatic.com/s/bilbo/v10/o-0EIpgpwWwZ220oroM.woff) format("woff");
+}
+.u-font-bilbo-400 {
+          font-family: 'Bilbo' !important;
+          font-weight: 400 !important;
+}

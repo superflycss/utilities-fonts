@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Ma Shan Zheng";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Ma Shan Zheng Regular"),local(MaShanZheng-Regular),url(//fonts.gstatic.com/s/mashanzheng/v5/NaPecZTRCLxvwo41b4gvzkXadMPmCQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/mashanzheng/v5/NaPecZTRCLxvwo41b4gvzkXaRMGEFoZJFdX0wQ5Xo5Hr21L9zCcRFhbSe5Nk0pIMuUkHEA.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/mashanzheng/v5/NaPecZTRCLxvwo41b4gvzkXadMPmCw.woff) format("woff");
+}
+.u-font-ma-shan-zheng-400 {
+          font-family: 'Ma Shan Zheng' !important;
+          font-weight: 400 !important;
+}

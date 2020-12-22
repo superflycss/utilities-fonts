@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Francois One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Francois One Regular"),local(FrancoisOne-Regular),url(//fonts.gstatic.com/s/francoisone/v15/_Xmr-H4zszafZw3A-KPSZut9zwiV.eot?#) format("eot"),url(//fonts.gstatic.com/s/francoisone/v15/_Xmr-H4zszafZw3A-KPSZut9wQiR.woff2) format("woff2"),url(//fonts.gstatic.com/s/francoisone/v15/_Xmr-H4zszafZw3A-KPSZut9zwiX.woff) format("woff");
+}
+.u-font-francois-one-400 {
+          font-family: 'Francois One' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: NTR;
+          font-style: normal;
+          font-weight: 400;
+          src: local(NTR),url(//fonts.gstatic.com/s/ntr/v9/RLpzK5Xy0ZjSH2Jp.eot?#) format("eot"),url(//fonts.gstatic.com/s/ntr/v9/RLpzK5Xy0ZjSH2Jt.woff2) format("woff2"),url(//fonts.gstatic.com/s/ntr/v9/RLpzK5Xy0ZjSH2Jr.woff) format("woff");
+}
+.u-font-ntr-400 {
+          font-family: 'NTR' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Ledger;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Ledger),local(Ledger-Regular),url(//fonts.gstatic.com/s/ledger/v9/j8_q6-HK1L3if_sBksr1.eot?#) format("eot"),url(//fonts.gstatic.com/s/ledger/v9/j8_q6-HK1L3if_sBnMrx.woff2) format("woff2"),url(//fonts.gstatic.com/s/ledger/v9/j8_q6-HK1L3if_sBksr3.woff) format("woff");
+}
+.u-font-ledger-400 {
+          font-family: 'Ledger' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Schoolbell;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Schoolbell Regular"),local(Schoolbell-Regular),url(//fonts.gstatic.com/s/schoolbell/v11/92zQtBZWOrcgoe-fgnJIZxUa7w.eot?#) format("eot"),url(//fonts.gstatic.com/s/schoolbell/v11/92zQtBZWOrcgoe-fgnJIZxUa6w.woff2) format("woff2"),url(//fonts.gstatic.com/s/schoolbell/v11/92zQtBZWOrcgoe-fgnJIZxUa7Q.woff) format("woff");
+}
+.u-font-schoolbell-400 {
+          font-family: 'Schoolbell' !important;
+          font-weight: 400 !important;
+}

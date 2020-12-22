@@ -1,0 +1,31 @@
+@font-face {
+          font-family: Lekton;
+          font-style: italic;
+          font-weight: 400;
+          src: local(Lekton-Italic),url(//fonts.gstatic.com/s/lekton/v11/SZc63FDmLaWmWpBuXS3ltUM.eot?#) format("eot"),url(//fonts.gstatic.com/s/lekton/v11/SZc63FDmLaWmWpBuXS3rtUc.woff2) format("woff2"),url(//fonts.gstatic.com/s/lekton/v11/SZc63FDmLaWmWpBuXS3ltUE.woff) format("woff");
+}
+@font-face {
+          font-family: Lekton;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Lekton),local(Lekton-Regular),url(//fonts.gstatic.com/s/lekton/v11/SZc43FDmLaWmWpBuVh3t.eot?#) format("eot"),url(//fonts.gstatic.com/s/lekton/v11/SZc43FDmLaWmWpBuWB3p.woff2) format("woff2"),url(//fonts.gstatic.com/s/lekton/v11/SZc43FDmLaWmWpBuVh3v.woff) format("woff");
+}
+@font-face {
+          font-family: Lekton;
+          font-style: normal;
+          font-weight: 700;
+          src: local(Lekton-Bold),url(//fonts.gstatic.com/s/lekton/v11/SZc73FDmLaWmWpBm4zj8nGLS.eot?#) format("eot"),url(//fonts.gstatic.com/s/lekton/v11/SZc73FDmLaWmWpBm4zj8kmLW.woff2) format("woff2"),url(//fonts.gstatic.com/s/lekton/v11/SZc73FDmLaWmWpBm4zj8nGLQ.woff) format("woff");
+}
+.u-font-lekton-400 {
+          font-family: 'Lekton' !important;
+          font-weight: 400 !important;
+}
+.u-font-lekton-400-italic {
+        font-family: 'Lekton' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-lekton-700 {
+          font-family: 'Lekton' !important;
+          font-weight: 700 !important;
+}

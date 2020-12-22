@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Delius Swash Caps";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Delius Swash Caps"),local(DeliusSwashCaps-Regular),url(//fonts.gstatic.com/s/deliusswashcaps/v12/oY1E8fPLr7v4JWCExZpWebxVKORpXUeaIGI.eot?#) format("eot"),url(//fonts.gstatic.com/s/deliusswashcaps/v12/oY1E8fPLr7v4JWCExZpWebxVKORpXUeaIGY.woff2) format("woff2"),url(//fonts.gstatic.com/s/deliusswashcaps/v12/oY1E8fPLr7v4JWCExZpWebxVKORpXUeaIGA.woff) format("woff");
+}
+.u-font-delius-swash-caps-400 {
+          font-family: 'Delius Swash Caps' !important;
+          font-weight: 400 !important;
+}

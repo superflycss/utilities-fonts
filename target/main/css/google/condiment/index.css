@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Condiment;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Condiment),local(Condiment-Regular),url(//fonts.gstatic.com/s/condiment/v8/pONk1hggFNmwvXALyH6iooP9.eot?#) format("eot"),url(//fonts.gstatic.com/s/condiment/v8/pONk1hggFNmwvXALyH6irIP5.woff2) format("woff2"),url(//fonts.gstatic.com/s/condiment/v8/pONk1hggFNmwvXALyH6iooP_.woff) format("woff");
+}
+.u-font-condiment-400 {
+          font-family: 'Condiment' !important;
+          font-weight: 400 !important;
+}

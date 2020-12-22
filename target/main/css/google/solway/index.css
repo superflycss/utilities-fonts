@@ -1,0 +1,50 @@
+@font-face {
+          font-family: Solway;
+          font-style: normal;
+          font-weight: 300;
+          src: local("Solway Light"),local(Solway-Light),url(//fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuLlgpnccV.eot?#) format("eot"),url(//fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuLlgpnccR.woff2) format("woff2"),url(//fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuLlgpnccX.woff) format("woff");
+}
+@font-face {
+          font-family: Solway;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Solway Regular"),local(Solway-Regular),url(//fonts.gstatic.com/s/solway/v3/AMOQz46Cs2uTAOCmhXo4.eot?#) format("eot"),url(//fonts.gstatic.com/s/solway/v3/AMOQz46Cs2uTAOCmhXo8.woff2) format("woff2"),url(//fonts.gstatic.com/s/solway/v3/AMOQz46Cs2uTAOCmhXo6.woff) format("woff");
+}
+@font-face {
+          font-family: Solway;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Solway Medium"),local(Solway-Medium),url(//fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCudlkpnccV.eot?#) format("eot"),url(//fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCudlkpnccR.woff2) format("woff2"),url(//fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCudlkpnccX.woff) format("woff");
+}
+@font-face {
+          font-family: Solway;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Solway Bold"),local(Solway-Bold),url(//fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuPl8pnccV.eot?#) format("eot"),url(//fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuPl8pnccR.woff2) format("woff2"),url(//fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuPl8pnccX.woff) format("woff");
+}
+@font-face {
+          font-family: Solway;
+          font-style: normal;
+          font-weight: 800;
+          src: local("Solway ExtraBold"),local(Solway-ExtraBold),url(//fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuIlwpnccV.eot?#) format("eot"),url(//fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuIlwpnccR.woff2) format("woff2"),url(//fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuIlwpnccX.woff) format("woff");
+}
+.u-font-solway-300 {
+          font-family: 'Solway' !important;
+          font-weight: 300 !important;
+}
+.u-font-solway-400 {
+          font-family: 'Solway' !important;
+          font-weight: 400 !important;
+}
+.u-font-solway-500 {
+          font-family: 'Solway' !important;
+          font-weight: 500 !important;
+}
+.u-font-solway-700 {
+          font-family: 'Solway' !important;
+          font-weight: 700 !important;
+}
+.u-font-solway-800 {
+          font-family: 'Solway' !important;
+          font-weight: 800 !important;
+}

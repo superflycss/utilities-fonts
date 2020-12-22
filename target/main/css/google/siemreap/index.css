@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Siemreap;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Siemreap),url(//fonts.gstatic.com/s/siemreap/v13/Gg82N5oFbgLvHAfNl2Ya.eot?#) format("eot"),url(//fonts.gstatic.com/s/siemreap/v13/Gg82N5oFbgLvHAfNl1YXlg4zLQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/siemreap/v13/Gg82N5oFbgLvHAfNl2YY.woff) format("woff");
+}
+.u-font-siemreap-400 {
+          font-family: 'Siemreap' !important;
+          font-weight: 400 !important;
+}

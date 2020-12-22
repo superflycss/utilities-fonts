@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Ribeye;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Ribeye),local(Ribeye-Regular),url(//fonts.gstatic.com/s/ribeye/v9/L0x8DFMxk1MP9R3htfqj.eot?#) format("eot"),url(//fonts.gstatic.com/s/ribeye/v9/L0x8DFMxk1MP9R3hu_qn.woff2) format("woff2"),url(//fonts.gstatic.com/s/ribeye/v9/L0x8DFMxk1MP9R3htfqh.woff) format("woff");
+}
+.u-font-ribeye-400 {
+          font-family: 'Ribeye' !important;
+          font-weight: 400 !important;
+}

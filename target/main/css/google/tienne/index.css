@@ -1,0 +1,30 @@
+@font-face {
+          font-family: Tienne;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Tienne Regular"),local(Tienne-Regular),url(//fonts.gstatic.com/s/tienne/v13/AYCKpX7pe9YCRP07l0nC.eot?#) format("eot"),url(//fonts.gstatic.com/s/tienne/v13/AYCKpX7pe9YCRP07l0nG.woff2) format("woff2"),url(//fonts.gstatic.com/s/tienne/v13/AYCKpX7pe9YCRP07l0nA.woff) format("woff");
+}
+@font-face {
+          font-family: Tienne;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Tienne Bold"),local(Tienne-Bold),url(//fonts.gstatic.com/s/tienne/v13/AYCJpX7pe9YCRP0zLGzTR3Jr.eot?#) format("eot"),url(//fonts.gstatic.com/s/tienne/v13/AYCJpX7pe9YCRP0zLGzTR3Jv.woff2) format("woff2"),url(//fonts.gstatic.com/s/tienne/v13/AYCJpX7pe9YCRP0zLGzTR3Jp.woff) format("woff");
+}
+@font-face {
+          font-family: Tienne;
+          font-style: normal;
+          font-weight: 900;
+          src: local("Tienne Black"),local(Tienne-Black),url(//fonts.gstatic.com/s/tienne/v13/AYCJpX7pe9YCRP0zFG7TR3Jr.eot?#) format("eot"),url(//fonts.gstatic.com/s/tienne/v13/AYCJpX7pe9YCRP0zFG7TR3Jv.woff2) format("woff2"),url(//fonts.gstatic.com/s/tienne/v13/AYCJpX7pe9YCRP0zFG7TR3Jp.woff) format("woff");
+}
+.u-font-tienne-400 {
+          font-family: 'Tienne' !important;
+          font-weight: 400 !important;
+}
+.u-font-tienne-700 {
+          font-family: 'Tienne' !important;
+          font-weight: 700 !important;
+}
+.u-font-tienne-900 {
+          font-family: 'Tienne' !important;
+          font-weight: 900 !important;
+}

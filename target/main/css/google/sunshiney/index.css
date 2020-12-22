@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Sunshiney;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Sunshiney Regular"),local(Sunshiney-Regular),url(//fonts.gstatic.com/s/sunshiney/v11/LDIwapGTLBwsS-wT4vcQFMOt.eot?#) format("eot"),url(//fonts.gstatic.com/s/sunshiney/v11/LDIwapGTLBwsS-wT4vcQFMOp.woff2) format("woff2"),url(//fonts.gstatic.com/s/sunshiney/v11/LDIwapGTLBwsS-wT4vcQFMOv.woff) format("woff");
+}
+.u-font-sunshiney-400 {
+          font-family: 'Sunshiney' !important;
+          font-weight: 400 !important;
+}

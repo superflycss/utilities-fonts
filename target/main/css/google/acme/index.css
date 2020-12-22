@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Acme;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Acme Regular"),local(Acme-Regular),url(//fonts.gstatic.com/s/acme/v10/RrQfboBx-C5_XxrBag.eot?#) format("eot"),url(//fonts.gstatic.com/s/acme/v10/RrQfboBx-C5_XxrBbg.woff2) format("woff2"),url(//fonts.gstatic.com/s/acme/v10/RrQfboBx-C5_XxrBaA.woff) format("woff");
+}
+.u-font-acme-400 {
+          font-family: 'Acme' !important;
+          font-weight: 400 !important;
+}

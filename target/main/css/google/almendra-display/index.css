@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Almendra Display";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Almendra Display Regular"),local(AlmendraDisplay-Regular),url(//fonts.gstatic.com/s/almendradisplay/v11/0FlPVOGWl1Sb4O3tETtADHRRlZhzbSbUSg.eot?#) format("eot"),url(//fonts.gstatic.com/s/almendradisplay/v11/0FlPVOGWl1Sb4O3tETtADHRRlZhzbSjUTg.woff2) format("woff2"),url(//fonts.gstatic.com/s/almendradisplay/v11/0FlPVOGWl1Sb4O3tETtADHRRlZhzbSbUSA.woff) format("woff");
+}
+.u-font-almendra-display-400 {
+          font-family: 'Almendra Display' !important;
+          font-weight: 400 !important;
+}

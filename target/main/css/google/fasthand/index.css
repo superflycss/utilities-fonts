@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Fasthand;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Fasthand),local(Fasthand-Regular),url(//fonts.gstatic.com/s/fasthand/v11/0yb9GDohyKTYn_ZEESkv.eot?#) format("eot"),url(//fonts.gstatic.com/s/fasthand/v11/0yb9GDohyKTYn_ZEERkiaE0GrQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/fasthand/v11/0yb9GDohyKTYn_ZEESkt.woff) format("woff");
+}
+.u-font-fasthand-400 {
+          font-family: 'Fasthand' !important;
+          font-weight: 400 !important;
+}

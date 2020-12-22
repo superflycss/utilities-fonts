@@ -1,0 +1,42 @@
+@font-face {
+          font-family: Almendra;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Almendra Italic"),local(Almendra-Italic),url(//fonts.gstatic.com/s/almendra/v13/H4ciBXKAlMnTn0CskxY4-LKYgw.eot?#) format("eot"),url(//fonts.gstatic.com/s/almendra/v13/H4ciBXKAlMnTn0CskxY4-LyYhw.woff2) format("woff2"),url(//fonts.gstatic.com/s/almendra/v13/H4ciBXKAlMnTn0CskxY4-LKYgQ.woff) format("woff");
+}
+@font-face {
+          font-family: Almendra;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Almendra Bold Italic"),local(Almendra-BoldItalic),url(//fonts.gstatic.com/s/almendra/v13/H4chBXKAlMnTn0CskxY48Ae9kq-Wag.eot?#) format("eot"),url(//fonts.gstatic.com/s/almendra/v13/H4chBXKAlMnTn0CskxY48Ae9kqGWbg.woff2) format("woff2"),url(//fonts.gstatic.com/s/almendra/v13/H4chBXKAlMnTn0CskxY48Ae9kq-WaA.woff) format("woff");
+}
+@font-face {
+          font-family: Almendra;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Almendra Regular"),local(Almendra-Regular),url(//fonts.gstatic.com/s/almendra/v13/H4ckBXKAlMnTn0CskxYzyLo.eot?#) format("eot"),url(//fonts.gstatic.com/s/almendra/v13/H4ckBXKAlMnTn0CskxY9yL4.woff2) format("woff2"),url(//fonts.gstatic.com/s/almendra/v13/H4ckBXKAlMnTn0CskxYzyLg.woff) format("woff");
+}
+@font-face {
+          font-family: Almendra;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Almendra Bold"),local(Almendra-Bold),url(//fonts.gstatic.com/s/almendra/v13/H4cjBXKAlMnTn0Cskx6G7auxoqc.eot?#) format("eot"),url(//fonts.gstatic.com/s/almendra/v13/H4cjBXKAlMnTn0Cskx6G7au_oqM.woff2) format("woff2"),url(//fonts.gstatic.com/s/almendra/v13/H4cjBXKAlMnTn0Cskx6G7auxoqU.woff) format("woff");
+}
+.u-font-almendra-400 {
+          font-family: 'Almendra' !important;
+          font-weight: 400 !important;
+}
+.u-font-almendra-400-italic {
+        font-family: 'Almendra' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-almendra-700 {
+          font-family: 'Almendra' !important;
+          font-weight: 700 !important;
+}
+.u-font-almendra-700-italic {
+        font-family: 'Almendra' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

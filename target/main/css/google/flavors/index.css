@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Flavors;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Flavors Regular"),local(Flavors-Regular),url(//fonts.gstatic.com/s/flavors/v10/FBV2dDrhxqmveJTpXkXvMw.eot?#) format("eot"),url(//fonts.gstatic.com/s/flavors/v10/FBV2dDrhxqmveJTpXkvvNw.woff2) format("woff2"),url(//fonts.gstatic.com/s/flavors/v10/FBV2dDrhxqmveJTpXkXvMQ.woff) format("woff");
+}
+.u-font-flavors-400 {
+          font-family: 'Flavors' !important;
+          font-weight: 400 !important;
+}

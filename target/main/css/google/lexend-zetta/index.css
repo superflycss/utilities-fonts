@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Lexend Zetta";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Lexend Zetta Regular"),local(LexendZetta-Regular),url(//fonts.gstatic.com/s/lexendzetta/v3/ll87K2KYXje7CdOFnEWcU8sYny4b.eot?#) format("eot"),url(//fonts.gstatic.com/s/lexendzetta/v3/ll87K2KYXje7CdOFnEWcU8sYkS4f.woff2) format("woff2"),url(//fonts.gstatic.com/s/lexendzetta/v3/ll87K2KYXje7CdOFnEWcU8sYny4Z.woff) format("woff");
+}
+.u-font-lexend-zetta-400 {
+          font-family: 'Lexend Zetta' !important;
+          font-weight: 400 !important;
+}

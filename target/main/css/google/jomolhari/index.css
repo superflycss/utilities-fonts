@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Jomolhari;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Jomolhari Regular"),local(Jomolhari-Regular),url(//fonts.gstatic.com/s/jomolhari/v2/EvONzA1M1Iw_CBd2hsQyEFgc.eot?#) format("eot"),url(//fonts.gstatic.com/s/jomolhari/v2/EvONzA1M1Iw_CBd2hsQyEFgY.woff2) format("woff2"),url(//fonts.gstatic.com/s/jomolhari/v2/EvONzA1M1Iw_CBd2hsQyEFge.woff) format("woff");
+}
+.u-font-jomolhari-400 {
+          font-family: 'Jomolhari' !important;
+          font-weight: 400 !important;
+}

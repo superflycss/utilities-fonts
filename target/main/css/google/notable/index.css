@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Notable;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Notable Regular"),local(Notable-Regular),url(//fonts.gstatic.com/s/notable/v6/gNMEW3N_SIqx-WX9yHQiEQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/notable/v6/gNMEW3N_SIqx-WX9yHQiFQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/notable/v6/gNMEW3N_SIqx-WX9yHQiEw.woff) format("woff");
+}
+.u-font-notable-400 {
+          font-family: 'Notable' !important;
+          font-weight: 400 !important;
+}

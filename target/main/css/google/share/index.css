@@ -1,0 +1,42 @@
+@font-face {
+          font-family: Share;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Share Italic"),local(Share-Italic),url(//fonts.gstatic.com/s/share/v11/i7dKIFliZjKNF6VPJreecQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/share/v11/i7dKIFliZjKNF6VPJrmedQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/share/v11/i7dKIFliZjKNF6VPJreecw.woff) format("woff");
+}
+@font-face {
+          font-family: Share;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Share Bold Italic"),local(Share-BoldItalic),url(//fonts.gstatic.com/s/share/v11/i7dPIFliZjKNF6VPLgK7YE98QQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/share/v11/i7dPIFliZjKNF6VPLgK7YEF8RQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/share/v11/i7dPIFliZjKNF6VPLgK7YE98Qw.woff) format("woff");
+}
+@font-face {
+          font-family: Share;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Share Regular"),local(Share-Regular),url(//fonts.gstatic.com/s/share/v11/i7dEIFliZjKNF6VEFr8.eot?#) format("eot"),url(//fonts.gstatic.com/s/share/v11/i7dEIFliZjKNF6VKFrs.woff2) format("woff2"),url(//fonts.gstatic.com/s/share/v11/i7dEIFliZjKNF6VEFr0.woff) format("woff");
+}
+@font-face {
+          font-family: Share;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Share Bold"),local(Share-Bold),url(//fonts.gstatic.com/s/share/v11/i7dJIFliZjKNF63xM663UEc.eot?#) format("eot"),url(//fonts.gstatic.com/s/share/v11/i7dJIFliZjKNF63xM665UEM.woff2) format("woff2"),url(//fonts.gstatic.com/s/share/v11/i7dJIFliZjKNF63xM663UEU.woff) format("woff");
+}
+.u-font-share-400 {
+          font-family: 'Share' !important;
+          font-weight: 400 !important;
+}
+.u-font-share-400-italic {
+        font-family: 'Share' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-share-700 {
+          font-family: 'Share' !important;
+          font-weight: 700 !important;
+}
+.u-font-share-700-italic {
+        font-family: 'Share' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

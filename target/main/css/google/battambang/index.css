@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Battambang;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Battambang Regular"),local(Battambang-Regular),url(//fonts.gstatic.com/s/battambang/v14/uk-mEGe7raEw-HjkzZabDnQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/battambang/v14/uk-mEGe7raEw-HjkzZabPnmp4hxx.woff2) format("woff2"),url(//fonts.gstatic.com/s/battambang/v14/uk-mEGe7raEw-HjkzZabDnY.woff) format("woff");
+}
+@font-face {
+          font-family: Battambang;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Battambang Bold"),local(Battambang-Bold),url(//fonts.gstatic.com/s/battambang/v14/uk-lEGe7raEw-HjkzZabNsmMxyU.eot?#) format("eot"),url(//fonts.gstatic.com/s/battambang/v14/uk-lEGe7raEw-HjkzZabNsmM9yhQ87ZK.woff2) format("woff2"),url(//fonts.gstatic.com/s/battambang/v14/uk-lEGe7raEw-HjkzZabNsmMxyc.woff) format("woff");
+}
+.u-font-battambang-400 {
+          font-family: 'Battambang' !important;
+          font-weight: 400 !important;
+}
+.u-font-battambang-700 {
+          font-family: 'Battambang' !important;
+          font-weight: 700 !important;
+}

@@ -1,0 +1,84 @@
+@font-face {
+          font-family: Asap;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Asap Italic"),local(Asap-Italic),url(//fonts.gstatic.com/s/asap/v13/KFOmCniXp96ayz4u7GxO.eot?#) format("eot"),url(//fonts.gstatic.com/s/asap/v13/KFOmCniXp96ayz4u4mxK.woff2) format("woff2"),url(//fonts.gstatic.com/s/asap/v13/KFOmCniXp96ayz4u7GxM.woff) format("woff");
+}
+@font-face {
+          font-family: Asap;
+          font-style: italic;
+          font-weight: 500;
+          src: local("Asap Medium Italic"),local(Asap-MediumItalic),url(//fonts.gstatic.com/s/asap/v13/KFOlCniXp96ayz4mEU9fChc8.eot?#) format("eot"),url(//fonts.gstatic.com/s/asap/v13/KFOlCniXp96ayz4mEU9fBBc4.woff2) format("woff2"),url(//fonts.gstatic.com/s/asap/v13/KFOlCniXp96ayz4mEU9fChc-.woff) format("woff");
+}
+@font-face {
+          font-family: Asap;
+          font-style: italic;
+          font-weight: 600;
+          src: local("Asap SemiBold Italic"),local(Asap-SemiBoldItalic),url(//fonts.gstatic.com/s/asap/v13/KFOlCniXp96ayz4mPUhfChc8.eot?#) format("eot"),url(//fonts.gstatic.com/s/asap/v13/KFOlCniXp96ayz4mPUhfBBc4.woff2) format("woff2"),url(//fonts.gstatic.com/s/asap/v13/KFOlCniXp96ayz4mPUhfChc-.woff) format("woff");
+}
+@font-face {
+          font-family: Asap;
+          font-style: italic;
+          font-weight: 700;
+          src: local("Asap Bold Italic"),local(Asap-BoldItalic),url(//fonts.gstatic.com/s/asap/v13/KFOlCniXp96ayz4mWUlfChc8.eot?#) format("eot"),url(//fonts.gstatic.com/s/asap/v13/KFOlCniXp96ayz4mWUlfBBc4.woff2) format("woff2"),url(//fonts.gstatic.com/s/asap/v13/KFOlCniXp96ayz4mWUlfChc-.woff) format("woff");
+}
+@font-face {
+          font-family: Asap;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Asap Regular"),local(Asap-Regular),url(//fonts.gstatic.com/s/asap/v13/KFOoCniXp96ayzUe5A.eot?#) format("eot"),url(//fonts.gstatic.com/s/asap/v13/KFOoCniXp96ayzse4A.woff2) format("woff2"),url(//fonts.gstatic.com/s/asap/v13/KFOoCniXp96ayzUe5g.woff) format("woff");
+}
+@font-face {
+          font-family: Asap;
+          font-style: normal;
+          font-weight: 500;
+          src: local("Asap Medium"),local(Asap-Medium),url(//fonts.gstatic.com/s/asap/v13/KFOnCniXp96aw8g99UVvAg.eot?#) format("eot"),url(//fonts.gstatic.com/s/asap/v13/KFOnCniXp96aw8g99UtvBg.woff2) format("woff2"),url(//fonts.gstatic.com/s/asap/v13/KFOnCniXp96aw8g99UVvAA.woff) format("woff");
+}
+@font-face {
+          font-family: Asap;
+          font-style: normal;
+          font-weight: 600;
+          src: local("Asap SemiBold"),local(Asap-SemiBold),url(//fonts.gstatic.com/s/asap/v13/KFOnCniXp96aw-Q69UVvAg.eot?#) format("eot"),url(//fonts.gstatic.com/s/asap/v13/KFOnCniXp96aw-Q69UtvBg.woff2) format("woff2"),url(//fonts.gstatic.com/s/asap/v13/KFOnCniXp96aw-Q69UVvAA.woff) format("woff");
+}
+@font-face {
+          font-family: Asap;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Asap Bold"),local(Asap-Bold),url(//fonts.gstatic.com/s/asap/v13/KFOnCniXp96aw4A79UVvAg.eot?#) format("eot"),url(//fonts.gstatic.com/s/asap/v13/KFOnCniXp96aw4A79UtvBg.woff2) format("woff2"),url(//fonts.gstatic.com/s/asap/v13/KFOnCniXp96aw4A79UVvAA.woff) format("woff");
+}
+.u-font-asap-400 {
+          font-family: 'Asap' !important;
+          font-weight: 400 !important;
+}
+.u-font-asap-400-italic {
+        font-family: 'Asap' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-asap-500 {
+          font-family: 'Asap' !important;
+          font-weight: 500 !important;
+}
+.u-font-asap-500-italic {
+        font-family: 'Asap' !important;
+        font-weight: 500 !important;
+        font-style: italic !important;
+}
+.u-font-asap-600 {
+          font-family: 'Asap' !important;
+          font-weight: 600 !important;
+}
+.u-font-asap-600-italic {
+        font-family: 'Asap' !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+}
+.u-font-asap-700 {
+          font-family: 'Asap' !important;
+          font-weight: 700 !important;
+}
+.u-font-asap-700-italic {
+        font-family: 'Asap' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Macondo Swash Caps";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Macondo Swash Caps"),local(MacondoSwashCaps-Regular),url(//fonts.gstatic.com/s/macondoswashcaps/v8/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAf.eot?#) format("eot"),url(//fonts.gstatic.com/s/macondoswashcaps/v8/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAb.woff2) format("woff2"),url(//fonts.gstatic.com/s/macondoswashcaps/v8/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAd.woff) format("woff");
+}
+.u-font-macondo-swash-caps-400 {
+          font-family: 'Macondo Swash Caps' !important;
+          font-weight: 400 !important;
+}

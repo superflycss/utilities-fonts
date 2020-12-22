@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Kdam Thmor";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Kdam Thmor"),local(KdamThmor),url(//fonts.gstatic.com/s/kdamthmor/v8/MwQzbhjs3veF6QwJVf0JkGI.eot?#) format("eot"),url(//fonts.gstatic.com/s/kdamthmor/v8/MwQzbhjs3veF6QwJVf0JoG8fiIlP.woff2) format("woff2"),url(//fonts.gstatic.com/s/kdamthmor/v8/MwQzbhjs3veF6QwJVf0JkGA.woff) format("woff");
+}
+.u-font-kdam-thmor-400 {
+          font-family: 'Kdam Thmor' !important;
+          font-weight: 400 !important;
+}

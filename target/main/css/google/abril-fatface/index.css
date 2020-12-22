@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Abril Fatface";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Abril Fatface"),local(AbrilFatface-Regular),url(//fonts.gstatic.com/s/abrilfatface/v12/zOL64pLDlL1D99S8g8PtiKchq-lmiQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/abrilfatface/v12/zOL64pLDlL1D99S8g8PtiKchq-dmjQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/abrilfatface/v12/zOL64pLDlL1D99S8g8PtiKchq-lmiw.woff) format("woff");
+}
+.u-font-abril-fatface-400 {
+          font-family: 'Abril Fatface' !important;
+          font-weight: 400 !important;
+}

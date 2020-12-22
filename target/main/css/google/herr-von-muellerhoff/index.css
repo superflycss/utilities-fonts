@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Herr Von Muellerhoff";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Herr Von Muellerhoff Regular"),local(HerrVonMuellerhoff-Regular),url(//fonts.gstatic.com/s/herrvonmuellerhoff/v10/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0cz9Kc.eot?#) format("eot"),url(//fonts.gstatic.com/s/herrvonmuellerhoff/v10/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0c99KM.woff2) format("woff2"),url(//fonts.gstatic.com/s/herrvonmuellerhoff/v10/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0cz9KU.woff) format("woff");
+}
+.u-font-herr-von-muellerhoff-400 {
+          font-family: 'Herr Von Muellerhoff' !important;
+          font-weight: 400 !important;
+}

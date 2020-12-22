@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Ranchers;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Ranchers),local(Ranchers-Regular),url(//fonts.gstatic.com/s/ranchers/v8/zrfm0H3Lx-P2Xvs2ArDRBis.eot?#) format("eot"),url(//fonts.gstatic.com/s/ranchers/v8/zrfm0H3Lx-P2Xvs2ArDfBi8.woff2) format("woff2"),url(//fonts.gstatic.com/s/ranchers/v8/zrfm0H3Lx-P2Xvs2ArDRBik.woff) format("woff");
+}
+.u-font-ranchers-400 {
+          font-family: 'Ranchers' !important;
+          font-weight: 400 !important;
+}

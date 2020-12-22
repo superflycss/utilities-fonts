@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Croissant One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Croissant One"),local(CroissantOne-Regular),url(//fonts.gstatic.com/s/croissantone/v8/3y9n6bU9bTPg4m8NDy3Kq24UA3Ngmg.eot?#) format("eot"),url(//fonts.gstatic.com/s/croissantone/v8/3y9n6bU9bTPg4m8NDy3Kq24UA31gng.woff2) format("woff2"),url(//fonts.gstatic.com/s/croissantone/v8/3y9n6bU9bTPg4m8NDy3Kq24UA3NgmA.woff) format("woff");
+}
+.u-font-croissant-one-400 {
+          font-family: 'Croissant One' !important;
+          font-weight: 400 !important;
+}

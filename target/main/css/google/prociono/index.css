@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Prociono;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Prociono),local(Prociono-Regular),url(//fonts.gstatic.com/s/prociono/v10/r05YGLlR-KxAf9GGO_uuwjM.eot?#) format("eot"),url(//fonts.gstatic.com/s/prociono/v10/r05YGLlR-KxAf9GGO_uuwjc.woff2) format("woff2"),url(//fonts.gstatic.com/s/prociono/v10/r05YGLlR-KxAf9GGO_uuwjE.woff) format("woff");
+}
+.u-font-prociono-400 {
+          font-family: 'Prociono' !important;
+          font-weight: 400 !important;
+}

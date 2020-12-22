@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Varela;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Varela),url(//fonts.gstatic.com/s/varela/v11/DPEtYwqExx0AWHX5DR4A.eot?#) format("eot"),url(//fonts.gstatic.com/s/varela/v11/DPEtYwqExx0AWHX5Ax4E.woff2) format("woff2"),url(//fonts.gstatic.com/s/varela/v11/DPEtYwqExx0AWHX5DR4C.woff) format("woff");
+}
+.u-font-varela-400 {
+          font-family: 'Varela' !important;
+          font-weight: 400 !important;
+}

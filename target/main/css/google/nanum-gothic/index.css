@@ -1,0 +1,30 @@
+@font-face {
+          font-family: "Nanum Gothic";
+          font-style: normal;
+          font-weight: 400;
+          src: local(NanumGothic),url(//fonts.gstatic.com/s/nanumgothic/v17/PN_3Rfi-oW3hYwmKDpxS7F_D-dja.eot?#) format("eot"),url(//fonts.gstatic.com/s/nanumgothic/v17/PN_3Rfi-oW3hYwmKDpxS7F_z-7rJxHVIsPV5MbNO2rV2_va-Nv6p.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/nanumgothic/v17/PN_3Rfi-oW3hYwmKDpxS7F_D-djY.woff) format("woff");
+}
+@font-face {
+          font-family: "Nanum Gothic";
+          font-style: normal;
+          font-weight: 700;
+          src: local("NanumGothic Bold"),local(NanumGothic-Bold),url(//fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LQv3LyVsi.eot?#) format("eot"),url(//fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LQv37yzkx1Yl3P690375P--a0I5vFgZwP.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LQv3LyVsg.woff) format("woff");
+}
+@font-face {
+          font-family: "Nanum Gothic";
+          font-style: normal;
+          font-weight: 800;
+          src: local("NanumGothic ExtraBold"),local(NanumGothic-ExtraBold),url(//fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LXv7LyVsi.eot?#) format("eot"),url(//fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LXv77yzkx1Yl3P690375P--a0I5vFgZwP.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LXv7LyVsg.woff) format("woff");
+}
+.u-font-nanum-gothic-400 {
+          font-family: 'Nanum Gothic' !important;
+          font-weight: 400 !important;
+}
+.u-font-nanum-gothic-700 {
+          font-family: 'Nanum Gothic' !important;
+          font-weight: 700 !important;
+}
+.u-font-nanum-gothic-800 {
+          font-family: 'Nanum Gothic' !important;
+          font-weight: 800 !important;
+}

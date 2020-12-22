@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Dawning of a New Day";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Dawning of a New Day"),local(DawningofaNewDay),url(//fonts.gstatic.com/s/dawningofanewday/v11/t5t_IQMbOp2SEwuncwLRjMfIg1yYit_nAw8cj2c.eot?#) format("eot"),url(//fonts.gstatic.com/s/dawningofanewday/v11/t5t_IQMbOp2SEwuncwLRjMfIg1yYit_nAw8cj2M.woff2) format("woff2"),url(//fonts.gstatic.com/s/dawningofanewday/v11/t5t_IQMbOp2SEwuncwLRjMfIg1yYit_nAw8cj2U.woff) format("woff");
+}
+.u-font-dawning-of-a-new-day-400 {
+          font-family: 'Dawning of a New Day' !important;
+          font-weight: 400 !important;
+}

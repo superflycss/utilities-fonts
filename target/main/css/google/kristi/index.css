@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Kristi;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Kristi Regular"),local(Kristi-Regular),url(//fonts.gstatic.com/s/kristi/v12/uK_y4ricdeU6zwdhDRcW.eot?#) format("eot"),url(//fonts.gstatic.com/s/kristi/v12/uK_y4ricdeU6zwdhDRcS.woff2) format("woff2"),url(//fonts.gstatic.com/s/kristi/v12/uK_y4ricdeU6zwdhDRcU.woff) format("woff");
+}
+.u-font-kristi-400 {
+          font-family: 'Kristi' !important;
+          font-weight: 400 !important;
+}

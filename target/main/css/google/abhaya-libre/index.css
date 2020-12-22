@@ -1,0 +1,50 @@
+@font-face {
+          font-family: "Abhaya Libre";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Abhaya Libre Regular"),local(AbhayaLibre-Regular),url(//fonts.gstatic.com/s/abhayalibre/v6/e3tmeuGtX-Co5MNzeAOqinEQcknT.eot?#) format("eot"),url(//fonts.gstatic.com/s/abhayalibre/v6/e3tmeuGtX-Co5MNzeAOqinEQfEnX.woff2) format("woff2"),url(//fonts.gstatic.com/s/abhayalibre/v6/e3tmeuGtX-Co5MNzeAOqinEQcknR.woff) format("woff");
+}
+@font-face {
+          font-family: "Abhaya Libre";
+          font-style: normal;
+          font-weight: 500;
+          src: local("Abhaya Libre Medium"),local(AbhayaLibre-Medium),url(//fonts.gstatic.com/s/abhayalibre/v6/e3t5euGtX-Co5MNzeAOqinEYj2rCo9ZN.eot?#) format("eot"),url(//fonts.gstatic.com/s/abhayalibre/v6/e3t5euGtX-Co5MNzeAOqinEYj2rCrdZJ.woff2) format("woff2"),url(//fonts.gstatic.com/s/abhayalibre/v6/e3t5euGtX-Co5MNzeAOqinEYj2rCo9ZP.woff) format("woff");
+}
+@font-face {
+          font-family: "Abhaya Libre";
+          font-style: normal;
+          font-weight: 600;
+          src: local("Abhaya Libre SemiBold"),local(AbhayaLibre-SemiBold),url(//fonts.gstatic.com/s/abhayalibre/v6/e3t5euGtX-Co5MNzeAOqinEYo23Co9ZN.eot?#) format("eot"),url(//fonts.gstatic.com/s/abhayalibre/v6/e3t5euGtX-Co5MNzeAOqinEYo23CrdZJ.woff2) format("woff2"),url(//fonts.gstatic.com/s/abhayalibre/v6/e3t5euGtX-Co5MNzeAOqinEYo23Co9ZP.woff) format("woff");
+}
+@font-face {
+          font-family: "Abhaya Libre";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Abhaya Libre Bold"),local(AbhayaLibre-Bold),url(//fonts.gstatic.com/s/abhayalibre/v6/e3t5euGtX-Co5MNzeAOqinEYx2zCo9ZN.eot?#) format("eot"),url(//fonts.gstatic.com/s/abhayalibre/v6/e3t5euGtX-Co5MNzeAOqinEYx2zCrdZJ.woff2) format("woff2"),url(//fonts.gstatic.com/s/abhayalibre/v6/e3t5euGtX-Co5MNzeAOqinEYx2zCo9ZP.woff) format("woff");
+}
+@font-face {
+          font-family: "Abhaya Libre";
+          font-style: normal;
+          font-weight: 800;
+          src: local("Abhaya Libre ExtraBold"),local(AbhayaLibre-ExtraBold),url(//fonts.gstatic.com/s/abhayalibre/v6/e3t5euGtX-Co5MNzeAOqinEY22_Co9ZN.eot?#) format("eot"),url(//fonts.gstatic.com/s/abhayalibre/v6/e3t5euGtX-Co5MNzeAOqinEY22_CrdZJ.woff2) format("woff2"),url(//fonts.gstatic.com/s/abhayalibre/v6/e3t5euGtX-Co5MNzeAOqinEY22_Co9ZP.woff) format("woff");
+}
+.u-font-abhaya-libre-400 {
+          font-family: 'Abhaya Libre' !important;
+          font-weight: 400 !important;
+}
+.u-font-abhaya-libre-500 {
+          font-family: 'Abhaya Libre' !important;
+          font-weight: 500 !important;
+}
+.u-font-abhaya-libre-600 {
+          font-family: 'Abhaya Libre' !important;
+          font-weight: 600 !important;
+}
+.u-font-abhaya-libre-700 {
+          font-family: 'Abhaya Libre' !important;
+          font-weight: 700 !important;
+}
+.u-font-abhaya-libre-800 {
+          font-family: 'Abhaya Libre' !important;
+          font-weight: 800 !important;
+}

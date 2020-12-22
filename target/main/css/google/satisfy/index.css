@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Satisfy;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Satisfy Regular"),local(Satisfy-Regular),url(//fonts.gstatic.com/s/satisfy/v11/rP2Hp2yn6lkG50LoCZOIGQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/satisfy/v11/rP2Hp2yn6lkG50LoCZOIHQ.woff2) format("woff2"),url(//fonts.gstatic.com/s/satisfy/v11/rP2Hp2yn6lkG50LoCZOIGw.woff) format("woff");
+}
+.u-font-satisfy-400 {
+          font-family: 'Satisfy' !important;
+          font-weight: 400 !important;
+}

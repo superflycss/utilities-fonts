@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Syncopate;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Syncopate Regular"),local(Syncopate-Regular),url(//fonts.gstatic.com/s/syncopate/v12/pe0sMIuPIYBCpEV5eFdCBfe7.eot?#) format("eot"),url(//fonts.gstatic.com/s/syncopate/v12/pe0sMIuPIYBCpEV5eFdCBfe_.woff2) format("woff2"),url(//fonts.gstatic.com/s/syncopate/v12/pe0sMIuPIYBCpEV5eFdCBfe5.woff) format("woff");
+}
+@font-face {
+          font-family: Syncopate;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Syncopate Bold"),local(Syncopate-Bold),url(//fonts.gstatic.com/s/syncopate/v12/pe0pMIuPIYBCpEV5eFdKvtKqBP5r.eot?#) format("eot"),url(//fonts.gstatic.com/s/syncopate/v12/pe0pMIuPIYBCpEV5eFdKvtKqBP5v.woff2) format("woff2"),url(//fonts.gstatic.com/s/syncopate/v12/pe0pMIuPIYBCpEV5eFdKvtKqBP5p.woff) format("woff");
+}
+.u-font-syncopate-400 {
+          font-family: 'Syncopate' !important;
+          font-weight: 400 !important;
+}
+.u-font-syncopate-700 {
+          font-family: 'Syncopate' !important;
+          font-weight: 700 !important;
+}

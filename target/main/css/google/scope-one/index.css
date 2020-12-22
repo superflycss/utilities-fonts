@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Scope One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Scope One"),local(ScopeOne-Regular),url(//fonts.gstatic.com/s/scopeone/v7/WBLnrEXKYFlGHrOKmGDFUkXJ.eot?#) format("eot"),url(//fonts.gstatic.com/s/scopeone/v7/WBLnrEXKYFlGHrOKmGDFXEXN.woff2) format("woff2"),url(//fonts.gstatic.com/s/scopeone/v7/WBLnrEXKYFlGHrOKmGDFUkXL.woff) format("woff");
+}
+.u-font-scope-one-400 {
+          font-family: 'Scope One' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Allerta;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Allerta Regular"),local(Allerta-Regular),url(//fonts.gstatic.com/s/allerta/v11/TwMO-IAHRlkbx940YnYXTA.eot?#) format("eot"),url(//fonts.gstatic.com/s/allerta/v11/TwMO-IAHRlkbx940YnYXSA.woff2) format("woff2"),url(//fonts.gstatic.com/s/allerta/v11/TwMO-IAHRlkbx940YnYXTg.woff) format("woff");
+}
+.u-font-allerta-400 {
+          font-family: 'Allerta' !important;
+          font-weight: 400 !important;
+}

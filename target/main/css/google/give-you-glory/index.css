@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Give You Glory";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Give You Glory"),local(GiveYouGlory),url(//fonts.gstatic.com/s/giveyouglory/v10/8QIQdiHOgt3vv4LR7ahjw9-XYf10DYM.eot?#) format("eot"),url(//fonts.gstatic.com/s/giveyouglory/v10/8QIQdiHOgt3vv4LR7ahjw9-XYf10DYc.woff2) format("woff2"),url(//fonts.gstatic.com/s/giveyouglory/v10/8QIQdiHOgt3vv4LR7ahjw9-XYf10DYE.woff) format("woff");
+}
+.u-font-give-you-glory-400 {
+          font-family: 'Give You Glory' !important;
+          font-weight: 400 !important;
+}

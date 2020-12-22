@@ -1,0 +1,63 @@
+@font-face {
+          font-family: "Bellota Text";
+          font-style: italic;
+          font-weight: 300;
+          src: local("Bellota Text Light Italic"),local(BellotaText-LightItalic),url(//fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfz_9ay4.eot?#) format("eot"),url(//fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfz_zayo.woff2) format("woff2"),url(//fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfz_9ayw.woff) format("woff");
+}
+@font-face {
+          font-family: "Bellota Text";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Bellota Text Italic"),local(BellotaText-Italic),url(//fonts.gstatic.com/s/bellotatext/v2/0FlNVP2VnlWS4f3-UE9hHXMx--kDXS4.eot?#) format("eot"),url(//fonts.gstatic.com/s/bellotatext/v2/0FlNVP2VnlWS4f3-UE9hHXMx--kNXSo.woff2) format("woff2"),url(//fonts.gstatic.com/s/bellotatext/v2/0FlNVP2VnlWS4f3-UE9hHXMx--kDXSw.woff) format("woff");
+}
+@font-face {
+          font-family: "Bellota Text";
+          font-style: italic;
+          font-weight: 700;
+          src: local("Bellota Text Bold Italic"),local(BellotaText-BoldItalic),url(//fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--G2eD_9ay4.eot?#) format("eot"),url(//fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--G2eD_zayo.woff2) format("woff2"),url(//fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--G2eD_9ayw.woff) format("woff");
+}
+@font-face {
+          font-family: "Bellota Text";
+          font-style: normal;
+          font-weight: 300;
+          src: local("Bellota Text Light"),local(BellotaText-Light),url(//fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5VfsadA_1.eot?#) format("eot"),url(//fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5Vfsaeg_x.woff2) format("woff2"),url(//fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5VfsadA_3.woff) format("woff");
+}
+@font-face {
+          font-family: "Bellota Text";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Bellota Text Regular"),local(BellotaText-Regular),url(//fonts.gstatic.com/s/bellotatext/v2/0FlTVP2VnlWS4f3-UE9hHXMx8NkL.eot?#) format("eot"),url(//fonts.gstatic.com/s/bellotatext/v2/0FlTVP2VnlWS4f3-UE9hHXMx_tkP.woff2) format("woff2"),url(//fonts.gstatic.com/s/bellotatext/v2/0FlTVP2VnlWS4f3-UE9hHXMx8NkJ.woff) format("woff");
+}
+@font-face {
+          font-family: "Bellota Text";
+          font-style: normal;
+          font-weight: 700;
+          src: local("Bellota Text Bold"),local(BellotaText-Bold),url(//fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5RfwadA_1.eot?#) format("eot"),url(//fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5Rfwaeg_x.woff2) format("woff2"),url(//fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5RfwadA_3.woff) format("woff");
+}
+.u-font-bellota-text-300 {
+          font-family: 'Bellota Text' !important;
+          font-weight: 300 !important;
+}
+.u-font-bellota-text-300-italic {
+        font-family: 'Bellota Text' !important;
+        font-weight: 300 !important;
+        font-style: italic !important;
+}
+.u-font-bellota-text-400 {
+          font-family: 'Bellota Text' !important;
+          font-weight: 400 !important;
+}
+.u-font-bellota-text-400-italic {
+        font-family: 'Bellota Text' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-bellota-text-700 {
+          font-family: 'Bellota Text' !important;
+          font-weight: 700 !important;
+}
+.u-font-bellota-text-700-italic {
+        font-family: 'Bellota Text' !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+}

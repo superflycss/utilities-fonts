@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Actor;
+          font-style: normal;
+          font-weight: 400;
+          src: local("Actor Regular"),local(Actor-Regular),url(//fonts.gstatic.com/s/actor/v10/wEOzEBbCkc5cO0ejVS0.eot?#) format("eot"),url(//fonts.gstatic.com/s/actor/v10/wEOzEBbCkc5cO0ejVSk.woff2) format("woff2"),url(//fonts.gstatic.com/s/actor/v10/wEOzEBbCkc5cO0ejVS8.woff) format("woff");
+}
+.u-font-actor-400 {
+          font-family: 'Actor' !important;
+          font-weight: 400 !important;
+}

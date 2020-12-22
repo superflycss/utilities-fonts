@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Marmelad;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Marmelad),local(Marmelad-Regular),url(//fonts.gstatic.com/s/marmelad/v10/Qw3eZQdSHj_jK2e-8uFCEeM.eot?#) format("eot"),url(//fonts.gstatic.com/s/marmelad/v10/Qw3eZQdSHj_jK2e-8uFMEec.woff2) format("woff2"),url(//fonts.gstatic.com/s/marmelad/v10/Qw3eZQdSHj_jK2e-8uFCEeE.woff) format("woff");
+}
+.u-font-marmelad-400 {
+          font-family: 'Marmelad' !important;
+          font-weight: 400 !important;
+}

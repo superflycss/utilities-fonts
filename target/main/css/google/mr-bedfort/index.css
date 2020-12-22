@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Mr Bedfort";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Mr Bedfort"),local(MrBedfort-Regular),url(//fonts.gstatic.com/s/mrbedfort/v9/MQpR-WCtNZSWAdTMwBicpiO-WA.eot?#) format("eot"),url(//fonts.gstatic.com/s/mrbedfort/v9/MQpR-WCtNZSWAdTMwBicpi2-XA.woff2) format("woff2"),url(//fonts.gstatic.com/s/mrbedfort/v9/MQpR-WCtNZSWAdTMwBicpiO-Wg.woff) format("woff");
+}
+.u-font-mr-bedfort-400 {
+          font-family: 'Mr Bedfort' !important;
+          font-weight: 400 !important;
+}

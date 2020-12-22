@@ -1,0 +1,31 @@
+@font-face {
+          font-family: Trochut;
+          font-style: italic;
+          font-weight: 400;
+          src: local("Trochut Italic"),local(Trochut-Italic),url(//fonts.gstatic.com/s/trochut/v8/CHyhV-fDDlP9bDIw1nayfnoP.eot?#) format("eot"),url(//fonts.gstatic.com/s/trochut/v8/CHyhV-fDDlP9bDIw1nayfnoL.woff2) format("woff2"),url(//fonts.gstatic.com/s/trochut/v8/CHyhV-fDDlP9bDIw1nayfnoN.woff) format("woff");
+}
+@font-face {
+          font-family: Trochut;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Trochut),url(//fonts.gstatic.com/s/trochut/v8/CHyjV-fDDlP9bDIw1nOCeA.eot?#) format("eot"),url(//fonts.gstatic.com/s/trochut/v8/CHyjV-fDDlP9bDIw1nOCfA.woff2) format("woff2"),url(//fonts.gstatic.com/s/trochut/v8/CHyjV-fDDlP9bDIw1nOCeg.woff) format("woff");
+}
+@font-face {
+          font-family: Trochut;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Trochut Bold"),local(Trochut-Bold),url(//fonts.gstatic.com/s/trochut/v8/CHymV-fDDlP9bDIw3sinaV0uNw.eot?#) format("eot"),url(//fonts.gstatic.com/s/trochut/v8/CHymV-fDDlP9bDIw3sinaV0uMw.woff2) format("woff2"),url(//fonts.gstatic.com/s/trochut/v8/CHymV-fDDlP9bDIw3sinaV0uNQ.woff) format("woff");
+}
+.u-font-trochut-400 {
+          font-family: 'Trochut' !important;
+          font-weight: 400 !important;
+}
+.u-font-trochut-400-italic {
+        font-family: 'Trochut' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}
+.u-font-trochut-700 {
+          font-family: 'Trochut' !important;
+          font-weight: 700 !important;
+}

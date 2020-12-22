@@ -1,0 +1,20 @@
+@font-face {
+          font-family: Jaldi;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Jaldi),local(Jaldi-Regular),url(//fonts.gstatic.com/s/jaldi/v7/or3sQ67z0_CI33NdbJU.eot?#) format("eot"),url(//fonts.gstatic.com/s/jaldi/v7/or3sQ67z0_CI33NTbJE.woff2) format("woff2"),url(//fonts.gstatic.com/s/jaldi/v7/or3sQ67z0_CI33NdbJc.woff) format("woff");
+}
+@font-face {
+          font-family: Jaldi;
+          font-style: normal;
+          font-weight: 700;
+          src: local("Jaldi Bold"),local(Jaldi-Bold),url(//fonts.gstatic.com/s/jaldi/v7/or3hQ67z0_CI33voSYT-JrE.eot?#) format("eot"),url(//fonts.gstatic.com/s/jaldi/v7/or3hQ67z0_CI33voSYTwJrU.woff2) format("woff2"),url(//fonts.gstatic.com/s/jaldi/v7/or3hQ67z0_CI33voSYT-JrM.woff) format("woff");
+}
+.u-font-jaldi-400 {
+          font-family: 'Jaldi' !important;
+          font-weight: 400 !important;
+}
+.u-font-jaldi-700 {
+          font-family: 'Jaldi' !important;
+          font-weight: 700 !important;
+}

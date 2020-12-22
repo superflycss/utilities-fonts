@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Sawarabi Gothic";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Sawarabi Gothic"),local(SawarabiGothic-Regular),url(//fonts.gstatic.com/s/sawarabigothic/v8/x3d4ckfVaqqa-BEj-I9mE65u3k39DCMy.eot?#) format("eot"),url(//fonts.gstatic.com/s/sawarabigothic/v8/x3d4ckfVaqqa-BEj-I9mE65u3k3NAEEnEXdX7R_PTqgHT45rMBfyeoYQJ5w.119.woff2) format("woff2"),url(//fonts.gstatic.com/s/sawarabigothic/v8/x3d4ckfVaqqa-BEj-I9mE65u3k39DCMw.woff) format("woff");
+}
+.u-font-sawarabi-gothic-400 {
+          font-family: 'Sawarabi Gothic' !important;
+          font-weight: 400 !important;
+}

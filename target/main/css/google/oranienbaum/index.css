@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Oranienbaum;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Oranienbaum),local(Oranienbaum-Regular),url(//fonts.gstatic.com/s/oranienbaum/v9/OZpHg_txtzZKMuXLIVrx-0zu5Ek.eot?#) format("eot"),url(//fonts.gstatic.com/s/oranienbaum/v9/OZpHg_txtzZKMuXLIVrx-0zg5E0.woff2) format("woff2"),url(//fonts.gstatic.com/s/oranienbaum/v9/OZpHg_txtzZKMuXLIVrx-0zu5Es.woff) format("woff");
+}
+.u-font-oranienbaum-400 {
+          font-family: 'Oranienbaum' !important;
+          font-weight: 400 !important;
+}

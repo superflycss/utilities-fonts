@@ -1,0 +1,10 @@
+@font-face {
+          font-family: "Sedgwick Ave Display";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Sedgwick Ave Display Regular"),local(SedgwickAveDisplay-Regular),url(//fonts.gstatic.com/s/sedgwickavedisplay/v6/xfuu0XPgU3jZPUoUo3ScvmPi-NapQ8OxM1c6feM.eot?#) format("eot"),url(//fonts.gstatic.com/s/sedgwickavedisplay/v6/xfuu0XPgU3jZPUoUo3ScvmPi-NapQ8OxM1c0fec.woff2) format("woff2"),url(//fonts.gstatic.com/s/sedgwickavedisplay/v6/xfuu0XPgU3jZPUoUo3ScvmPi-NapQ8OxM1c6feE.woff) format("woff");
+}
+.u-font-sedgwick-ave-display-400 {
+          font-family: 'Sedgwick Ave Display' !important;
+          font-weight: 400 !important;
+}

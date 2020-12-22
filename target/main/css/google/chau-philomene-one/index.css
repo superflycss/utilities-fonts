@@ -1,0 +1,21 @@
+@font-face {
+          font-family: "Chau Philomene One";
+          font-style: italic;
+          font-weight: 400;
+          src: local("Chau Philomene One Italic"),local(ChauPhilomeneOne-Italic),url(//fonts.gstatic.com/s/chauphilomeneone/v10/55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ2aMI.eot?#) format("eot"),url(//fonts.gstatic.com/s/chauphilomeneone/v10/55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ4aMY.woff2) format("woff2"),url(//fonts.gstatic.com/s/chauphilomeneone/v10/55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ2aMA.woff) format("woff");
+}
+@font-face {
+          font-family: "Chau Philomene One";
+          font-style: normal;
+          font-weight: 400;
+          src: local("Chau Philomene One Regular"),local(ChauPhilomeneOne-Regular),url(//fonts.gstatic.com/s/chauphilomeneone/v10/55xxezRsPtfie1vPY49qzdgSlJiHRQFclYZ-.eot?#) format("eot"),url(//fonts.gstatic.com/s/chauphilomeneone/v10/55xxezRsPtfie1vPY49qzdgSlJiHRQFcm4Z6.woff2) format("woff2"),url(//fonts.gstatic.com/s/chauphilomeneone/v10/55xxezRsPtfie1vPY49qzdgSlJiHRQFclYZ8.woff) format("woff");
+}
+.u-font-chau-philomene-one-400 {
+          font-family: 'Chau Philomene One' !important;
+          font-weight: 400 !important;
+}
+.u-font-chau-philomene-one-400-italic {
+        font-family: 'Chau Philomene One' !important;
+        font-weight: 400 !important;
+        font-style: italic !important;
+}

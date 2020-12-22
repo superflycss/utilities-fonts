@@ -1,0 +1,10 @@
+@font-face {
+          font-family: Koulen;
+          font-style: normal;
+          font-weight: 400;
+          src: local(Koulen),url(//fonts.gstatic.com/s/koulen/v14/AMOQz46as3KIBPeWgw.eot?#) format("eot"),url(//fonts.gstatic.com/s/koulen/v14/AMOQz46as3KIBPemjno8ouY.woff2) format("woff2"),url(//fonts.gstatic.com/s/koulen/v14/AMOQz46as3KIBPeWgQ.woff) format("woff");
+}
+.u-font-koulen-400 {
+          font-family: 'Koulen' !important;
+          font-weight: 400 !important;
+}

@@ -1,0 +1,40 @@
+@font-face {
+          font-family: "Dancing Script";
+          font-style: normal;
+          font-weight: 400;
+          src: url(//fonts.gstatic.com/s/dancingscript/v15/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3ROp4.eot?#) format("eot"),url(//fonts.gstatic.com/s/dancingscript/v15/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup8.woff2) format("woff2"),url(//fonts.gstatic.com/s/dancingscript/v15/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3ROp6.woff) format("woff");
+}
+@font-face {
+          font-family: "Dancing Script";
+          font-style: normal;
+          font-weight: 500;
+          src: url(//fonts.gstatic.com/s/dancingscript/v15/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BAyo3ROp4.eot?#) format("eot"),url(//fonts.gstatic.com/s/dancingscript/v15/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BAyo3Sup8.woff2) format("woff2"),url(//fonts.gstatic.com/s/dancingscript/v15/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BAyo3ROp6.woff) format("woff");
+}
+@font-face {
+          font-family: "Dancing Script";
+          font-style: normal;
+          font-weight: 600;
+          src: url(//fonts.gstatic.com/s/dancingscript/v15/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B7y03ROp4.eot?#) format("eot"),url(//fonts.gstatic.com/s/dancingscript/v15/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B7y03Sup8.woff2) format("woff2"),url(//fonts.gstatic.com/s/dancingscript/v15/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B7y03ROp6.woff) format("woff");
+}
+@font-face {
+          font-family: "Dancing Script";
+          font-style: normal;
+          font-weight: 700;
+          src: url(//fonts.gstatic.com/s/dancingscript/v15/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B1i03ROp4.eot?#) format("eot"),url(//fonts.gstatic.com/s/dancingscript/v15/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B1i03Sup8.woff2) format("woff2"),url(//fonts.gstatic.com/s/dancingscript/v15/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B1i03ROp6.woff) format("woff");
+}
+.u-font-dancing-script-400 {
+          font-family: 'Dancing Script' !important;
+          font-weight: 400 !important;
+}
+.u-font-dancing-script-500 {
+          font-family: 'Dancing Script' !important;
+          font-weight: 500 !important;
+}
+.u-font-dancing-script-600 {
+          font-family: 'Dancing Script' !important;
+          font-weight: 600 !important;
+}
+.u-font-dancing-script-700 {
+          font-family: 'Dancing Script' !important;
+          font-weight: 700 !important;
+}
