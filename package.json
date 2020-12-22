@@ -7,7 +7,7 @@
     "i": "npm i && npm i -g @superflycss/cli && npm install -g @jsdevtools/version-bump-prompt && npm install -g npm-check-updates && npm install -g npm-install-peers",
     "update": "ncu -u && npm i && npm-install-peers",
     "pub": "bump patch && npm run update && sfc dist && cd dist && npm publish",
-    "build": "rm -fr src/main/css/google/ && node src/main/js/index.js && sfc b"
+    "build": "sfc c && rm -fr src/main/css/google/ && node src/main/js/index.js && node src/main/js/imports.js && sfc b"
   },
   "repository": {
     "type": "git",

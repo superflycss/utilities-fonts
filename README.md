@@ -1,9 +1,5 @@
 # Font utilities
 
-[![Build Status](https://travis-ci.org/superflycss/utilities-fonts.svg?branch=master)](https://travis-ci.org/superflycss/utilities-fonts)
-
-
-
 ## Installation
 
 ```
@@ -69,3 +65,15 @@ npm run pub
 ## Related Articles
 
 - [Quickly Generate Google Fonts Preview](https://medium.com/@jmatix/quickly-generate-google-fonts-preview-954dc9974a62)
+
+## Gists
+
+This gist can be used for snippets.  It contains all the generated utlities.
+- [Gists Containing All Generated Utilities](https://gist.github.com/fireflysemantics/101780f51487d055355359f33fbf1e30#file-superflycss-google-fonts-css)
+
+## Snippets
+
+This snippet contains `@import` statements for all the font utility pakcage.  This enables developers to quickly add imports for the fonts of their choosing. 
+
+- [Imports for all Font Utility Packages](https://github.com/superflycss/utilities-fonts/tree/master/src/main/snippets/imports/index.css)
+
