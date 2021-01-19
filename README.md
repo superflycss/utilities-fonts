@@ -18,7 +18,7 @@ Load all fonts utilities like this:
 Or load them by idividual sub packages.  For example:
 
 ``` css
-@import '@superflycss/utilities-fonts/lato';
+@import '@superflycss/utilities-fonts/google/lato';
 ...
 
 ```
@@ -60,13 +60,13 @@ git clone git@github.com:superflycss/utilities-fonts.git
 ## Build
 
 ```
-npm run pub
+npm run b
 ```
 
 ## Publish
 
 ```
-npm run pub
+npm run p
 ```
 
 ## Related Articles
